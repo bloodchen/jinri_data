@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美国加州发生超速车辆撞警车事件 1名警察死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240828/47113049.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20240828/38df852e-8f2f-44bf-881d-0f4777de5674.jpg"
+        },
+        {
             "title": "特朗普称已接受9月10日美总统大选辩论规则",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240828/47112825.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20240828/bbb8bc52-0794-424b-8adc-3bf924843fdd.png"
@@ -9,14 +14,14 @@
             "title": "日本市民团体要求对政治“黑金”丑闻立案",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240828/47112816.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20240828/39781dea-fef5-405d-b401-9cf16eceff77.jpg"
-        },
-        {
-            "title": "墨西哥总统表示“暂停”与美国驻墨使馆关系",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240828/47112806.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20240828/fbc7108f-955c-4c01-8bee-5abb95b3f411.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "‍‍快看！“野牛”气垫艇编队踏浪奔袭",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240828/47112669.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20240827/d4246c74-e4cd-4c04-866a-531dde75b20d.jpg"
+        },
         {
             "title": "卡尔森对话小罗伯特·肯尼迪：拜登政府鼓励逮捕杜罗夫，是独裁统治标志",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240828/47112670.html?ayjr",
@@ -44,21 +49,22 @@
         },
         {
             "title": "墨西哥总统表示“暂停”与美国驻墨使馆关系",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240828/47112655.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20240828/c93129a6-f83c-4104-adf7-2dbf7c9cdcdb.jpg"
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240828/47112806.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20240828/fbc7108f-955c-4c01-8bee-5abb95b3f411.jpg"
         },
         {
             "title": "西南太平洋海平面上升速度超全球平均水平",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240828/47112797.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20240828/967d89c0-d1fd-48f9-9ebc-337f164a8995.jpg"
-        },
-        {
-            "title": "瑞丰银行净利同比增长 15.37%，柯桥基本盘营收占比增长贡献利润却降了",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240828/47112667.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/toutiao/20240828/18d0f74e-d5c3-48af-8fa1-8c2a63434341.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美媒称美核武库更新成本飙升、进展缓慢，“地方政府倒是松了口气”",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240827/47111046.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "乐文：孩子充钱玩游戏怎么办？作为从业者我有办法",
@@ -231,12 +237,6 @@
             {
                 "title": "佩斯科夫：俄乌开展停火谈判的想法已不再适用",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240827/47105731.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "苏丹东部一大坝垮塌 60人死亡数百人失踪",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240827/47105718.html?ayjr"
             }
         ]
     ]
