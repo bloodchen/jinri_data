@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "岑浩辉宣布参选澳门特首",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240828/47115674.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20240828/79374a29-b873-4a06-bf79-f4766b06584a.jpg"
+        },
+        {
             "title": "中国驻泰国使馆澄清：景洪水电站近期并未进行泄洪操作",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240828/47115264.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20240828/2cd61b8c-e773-43c2-b149-61859fbec242.jpg"
@@ -9,14 +14,14 @@
             "title": "作价5亿元，传四维图新接盘滴滴智驾及座舱资产",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240828/47115265.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20240828/03b4158f-ef46-430d-a14b-afe9f29317cf.jpg"
-        },
-        {
-            "title": "宋祖儿工作室回应偷逃税传闻：经税务机关核查，无偷逃税款的行为",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240828/47115266.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20240828/baaf4fe3-f49a-475f-bd8d-eb145da76322.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "六大行总市值反超创业板",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240828/47115259.html?ayjr",
+            "img": "https://news.huawangzhixun.com/picture/1817772905619016175824/448_289$1.55"
+        },
         {
             "title": "美军印太司令部司令宣称：美国军舰可为菲律宾运补船护航，这是一个“完全合理的选项”",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240828/47115260.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20240828/f9b54b4b-7de0-403b-ac03-4153bf1b7779.jpg"
         },
         {
-            "title": "独立调查丨博士生导师的权力究竟有多大？",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240828/47115239.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20240828/75ce23ab-839d-46f7-86f4-534474dc3a8d.jpg"
+            "title": "宋祖儿工作室回应偷逃税传闻：经税务机关核查，无偷逃税款的行为",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240828/47115266.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20240828/baaf4fe3-f49a-475f-bd8d-eb145da76322.jpg"
         },
         {
             "title": "赴菲工作涉开设赌场罪案开庭：部分被告人为职校生，称工作由学校推荐望从轻处理",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240828/47115267.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20240828/46bfaa65-9f5f-49b7-adc3-52d3711ef000.jpg"
-        },
-        {
-            "title": "为赚钱，他们竟拆卸高铁工地的钢制栈桥售卖",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240828/47115257.html?ayjr",
-            "img": "https://news.huawangzhixun.com/picture/1803429080375792727999/640_322$1.99"
         }
     ],
     "text": [
+        [
+            {
+                "title": "清水英男在日本举行记者会：能原谅我的人不在了",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240828/47113527.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "明确了！这些城市，也要有市内免税店了！",
@@ -231,12 +237,6 @@
             {
                 "title": "沙利文任内首次访华为何“特殊”“关键”？",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240828/47111955.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "深中通道“拉流”效应明显 日均车流量超10万车次",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240828/47111941.html?ayjr"
             }
         ]
     ]
