@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "人形机器人等未来产业将如何发展？聚焦这些方向",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240901/47137841.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20240901/331452d5-a2b0-42d8-8373-12531d7a969e.jpg"
+        },
+        {
             "title": "里程碑！C919承运旅客突破50万人次大关",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240901/47137819.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20240901/3f46bbdf-0c8c-4b05-838e-8748c9a1dfb0.jpg"
@@ -9,14 +14,14 @@
             "title": "美国俄勒冈州一小型飞机在居民区坠毁 已致3人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240901/47137808.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20240901/f3fdc6e1-cea7-40d6-bcb5-17c73ea5ccd1.jpg"
-        },
-        {
-            "title": "大量死鱼堵塞希腊港口 旅游胜地进入紧急状态",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240901/47137561.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20240901/7c255300-eb8a-4f59-8c6c-6f864d286f8d.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "澳门特区政府举行晚宴 欢迎内地奥运健儿",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240901/47137389.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20240901/e82f6de8-029e-45dc-af71-392b87a9c7c0.jpg"
+        },
         {
             "title": "山西兴县一工厂车间发生爆炸 造成3人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240901/47137011.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20240901/c7a1980e-61a9-4021-a0b1-ad87c1a8381e.jpg"
         },
         {
-            "title": "美国密西西比州发生一起巴士翻车事故 致7人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240901/47136961.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20240901/4a5d7973-51e1-4cfe-bab5-2ba56b8c96ff.jpg"
+            "title": "大量死鱼堵塞希腊港口 旅游胜地进入紧急状态",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240901/47137561.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20240901/7c255300-eb8a-4f59-8c6c-6f864d286f8d.jpg"
         },
         {
             "title": "美国旧金山发生枪击事件 一名橄榄球球员受伤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240901/47137499.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20240901/e3d2765f-9b38-4135-93ff-fa445d66162b.png"
-        },
-        {
-            "title": "美航天器撞击测试或将形成百年流星雨",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240901/47137475.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20240901/4d24c822-8dfd-47bd-a980-88951f0e68cd.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "只有在同一单位连续工作满12个月才能休年假吗？",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240830/47133164.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "乌官员：美国已介入调查援乌F-16战机坠毁事件",
@@ -231,12 +237,6 @@
             {
                 "title": "中方：坚决反对日方再次在南海问题上攻击抹黑",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240830/47130919.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "开学季水痘、流行性腮腺炎、猩红热高发 如何预防",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240830/47130875.html?ayjr"
             }
         ]
     ]
