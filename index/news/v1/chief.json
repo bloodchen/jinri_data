@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "首次！C919加注可持续航空燃料执行商业飞行",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240920/47246876.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20240920/d604aa92-b5d2-45c4-a8de-31323d2b3e51.jpg"
+        },
+        {
             "title": "新建汕头站一期站房今日正式启用 首趟高铁驶出",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240920/47246677.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20240920/48844977-a743-4a3c-96f2-68b89e794789.jpg"
@@ -9,14 +14,14 @@
             "title": "错漏百出！美媒炮制的“挺菲大戏”不攻自破",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240920/47246438.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20240920/fd1931e9-8b9c-483c-b78c-709f177d6d05.jpg"
-        },
-        {
-            "title": "美国肯塔基州一法院发生枪击事件 一名法官死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240920/47245792.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20240920/cf03bf59-c3a8-4fd6-b8fd-97c72851bf0c.png"
         }
     ],
     "midImg": [
+        {
+            "title": "入主宏达股份半个月后，四川国资再认购 28.53 亿定增",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240920/47245182.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20240919/a49518d8-eb0e-437a-8cc4-d09c4bd3d579.jpg"
+        },
         {
             "title": "香港海关查获市值约 1000 万港元走私铂金",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240920/47245183.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20240919/6020f31d-99c8-4f49-898f-96cb9ce01a5e.jpg"
         },
         {
-            "title": "对话陕西 76 岁“出逃爷爷”陈有银：种地一生，我关掉手机偷偷骑行数千里看梦中大桥",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240920/47245188.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20240919/4de8553a-4736-4d13-9bed-94a5eec32228.jpg"
+            "title": "美国肯塔基州一法院发生枪击事件 一名法官死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240920/47245792.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20240920/cf03bf59-c3a8-4fd6-b8fd-97c72851bf0c.png"
         },
         {
             "title": "北京：适时取消普通住宅和非普通住宅标准",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240920/47245460.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20240920/037e3a23-8a07-4f0e-a3b0-7cc324872c0e.png"
-        },
-        {
-            "title": "螺蛳粉味瓜子、折耳根拌面、臭豆腐脏脏面，食品饮料业追捧“奇葩口味”",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240920/47245180.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20240919/669a9deb-07b4-4d8a-a409-e00554f1ab7c.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "&quot;3、2、1，启动油井！&quot;两大国之重器今日正式投用",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240919/47241910.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "荷兰寻求退出欧盟移民和难民庇护规则",
@@ -231,12 +237,6 @@
             {
                 "title": "美国媒体：美国在现代化核武库时遇到一些问题",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240919/47238693.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "缅甸昔卜，再度爆发武装冲突",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240919/47238694.html?ayjr"
             }
         ]
     ]
