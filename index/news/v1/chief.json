@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "新建汕头站一期站房今日正式启用 首趟高铁驶出",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240920/47246677.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20240920/48844977-a743-4a3c-96f2-68b89e794789.jpg"
+        },
+        {
             "title": "错漏百出！美媒炮制的“挺菲大戏”不攻自破",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240920/47246438.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20240920/fd1931e9-8b9c-483c-b78c-709f177d6d05.jpg"
@@ -9,14 +14,14 @@
             "title": "美国肯塔基州一法院发生枪击事件 一名法官死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240920/47245792.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20240920/cf03bf59-c3a8-4fd6-b8fd-97c72851bf0c.png"
-        },
-        {
-            "title": "北京：适时取消普通住宅和非普通住宅标准",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240920/47245460.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20240920/037e3a23-8a07-4f0e-a3b0-7cc324872c0e.png"
         }
     ],
     "midImg": [
+        {
+            "title": "香港海关查获市值约 1000 万港元走私铂金",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240920/47245183.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20240919/6b8c82dc-c973-4d00-be35-2b9934f4bcec.jpg"
+        },
         {
             "title": "长沙警方：刘某杰遇害案发生后，刘某编造不实信息被行拘",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240920/47245184.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20240919/4de8553a-4736-4d13-9bed-94a5eec32228.jpg"
         },
         {
-            "title": "深圳被刺男童去世，外交部回应",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240920/47245189.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20240919/bbaede60-dde3-4089-ac51-cbc17521d933.jpg"
+            "title": "北京：适时取消普通住宅和非普通住宅标准",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240920/47245460.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20240920/037e3a23-8a07-4f0e-a3b0-7cc324872c0e.png"
         },
         {
             "title": "螺蛳粉味瓜子、折耳根拌面、臭豆腐脏脏面，食品饮料业追捧“奇葩口味”",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240920/47245180.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20240919/669a9deb-07b4-4d8a-a409-e00554f1ab7c.jpg"
-        },
-        {
-            "title": "四换券商，大洋泊车能否圆十年上市梦",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240920/47245181.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20240919/8b0337cc-ccb5-415e-87ae-564d00837d45.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "荷兰寻求退出欧盟移民和难民庇护规则",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240919/47241761.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "金钟：美联储四年来首次降息，中美经济将出现哪些波动？",
@@ -231,12 +237,6 @@
             {
                 "title": "缅甸昔卜，再度爆发武装冲突",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240919/47238694.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "胡塞武装宣布！击落第10架美MQ-9“死神”无人机",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240919/47238695.html?ayjr"
             }
         ]
     ]
