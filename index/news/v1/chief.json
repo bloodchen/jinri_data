@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "日本驱逐舰据称首次驶过台湾海峡，外交部回应",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240926/47283051.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20240926/f77bc78d-5ad0-474a-ba22-e4c94ed7c330.png"
+        },
+        {
             "title": "国防部回应我军发射洲际导弹：例行军事训练",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240926/47283004.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20240926/567dd09b-d057-46da-82a0-3dd49931b0b8.png"
@@ -9,14 +14,14 @@
             "title": "国防部：坚决反对美在南海搞胁迫霸凌和阵营对抗",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240926/47282891.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20240926/dbb90bcd-957b-4e38-a52c-7b6f779e0eab.jpg"
-        },
-        {
-            "title": "国防部：日本不要引狼入室迎合美方部署中导",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240926/47282778.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20240926/e7b9cb23-aab4-417c-bd76-ee1c751a58ef.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美航母补给舰在中东严重受损",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240926/47282119.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20240926/33056355-e9e3-4258-a3d6-402bf1931cba.jpg"
+        },
         {
             "title": "黎对以发动11轮打击 以军对黎展开大规模空袭",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240926/47282015.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20240926/a68c887e-2eb4-437f-8a71-33cab07fb02c.jpg"
         },
         {
-            "title": "贪污上亿元！青海省粮食局原局长一审被判无期徒刑",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240926/47279990.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/300x0/news/20240926/1ae47168-1df7-4622-a317-47daf0bbf42e.png"
+            "title": "国防部：日本不要引狼入室迎合美方部署中导",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240926/47282778.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20240926/e7b9cb23-aab4-417c-bd76-ee1c751a58ef.jpg"
         },
         {
             "title": "国防部：美方是不折不扣的挑衅者、搅局者、破坏者",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240926/47282741.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20240926/fcd3b5f8-ab39-48ea-8eff-e492d6d38d81.jpg"
-        },
-        {
-            "title": "重回3000点！A股三大股指齐涨超3.5%",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240926/47282586.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20240926/0c068e6a-45ee-44b3-9d35-778cac71448c.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "两部门：10月1日前，为困难群众发放一次性生活补助",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240926/47278186.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "空军副司令员：空军近年来发展的新型战机将在珠海航展公开露面",
@@ -231,12 +237,6 @@
             {
                 "title": "跨越“地球裂缝”！这座大桥“横竖”都是第一",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240925/47274472.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "黎真主党称向以色列发射一枚弹道导弹",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240925/47274429.html?ayjr"
             }
         ]
     ]
