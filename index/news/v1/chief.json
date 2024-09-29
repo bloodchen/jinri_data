@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "飓风“海伦妮 ”已造成美国至少58人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240929/47296850.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20240929/1333cb30-cfb6-40ad-8b0a-7632f33189a4.jpg"
+        },
+        {
             "title": "美总统拜登称完全支持以色列自卫",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240929/47296841.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20240929/0ba73ea0-8e95-4870-a9a6-b314239d8ef4.jpg"
@@ -9,14 +14,14 @@
             "title": "黎真主党领导人遇袭身亡后 以总理首发声",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240929/47296822.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20240929/753166ef-ebb9-44a3-8c86-0e458be42d0a.jpg"
-        },
-        {
-            "title": "祝贺！郑钦文拿下2024中网首胜 成功晋级女单32强",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240929/47296384.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20240929/e68e9c77-97b5-4828-bc03-b68b8340c7d4.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美国佐治亚州发生枪击事件 致1死2伤",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240929/47296180.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20240929/6f3bc561-601d-4096-99d8-5ce63e83677c.jpg"
+        },
         {
             "title": "江苏昆山“发霉蛋糕事件”涉事企业已被立案调查",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240929/47296090.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20240929/56a71b52-f776-450f-914b-508eb1b19242.jpg"
         },
         {
-            "title": "喜迎国庆 澳门特区政府多措并举欢迎旅客访澳",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240929/47295778.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20240929/ebac2997-3b24-4b5e-9a40-b27368eb409f.jpg"
+            "title": "祝贺！郑钦文拿下2024中网首胜 成功晋级女单32强",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240929/47296384.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20240929/e68e9c77-97b5-4828-bc03-b68b8340c7d4.jpg"
         },
         {
             "title": "尼泊尔持续降雨已致60人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240929/47296343.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20240929/3955fd83-85e9-40c0-8d77-2c5ed283c82a.jpg"
-        },
-        {
-            "title": "＂黑食品＂卷土重来：致癌物超标160倍 ＂进口＂指进嘴里",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240929/47296332.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/640x0/toutiao/20240927/4842d3ad-3f9c-4493-a35a-c2bb8da26c68.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "王毅出席金砖国家外长会晤",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240927/47291107.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "飓风“海伦妮”即将登陆美国 拜登发布紧急声明",
@@ -231,12 +237,6 @@
             {
                 "title": "【铸牢共同体中华一家亲 天山南北唱新歌】喀什古城，“绣花针”功夫打造沉浸式游览体验",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240927/47285563.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "非法收受财物1.48亿余元，重庆市原副市长熊雪受贿案一审开庭",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240927/47285564.html?ayjr"
             }
         ]
     ]
