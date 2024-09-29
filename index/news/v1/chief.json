@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "“深海一号”创下多项海洋油气工程行业纪录",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240930/47302637.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20240930/195d523b-f58b-4b10-9f89-ac39c1643c37.jpg"
+        },
+        {
             "title": "以军空袭也门荷台达多地 现场浓烟滚滚",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240930/47302541.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20240930/8d9db301-c329-4c77-ac60-eab7344b0845.jpg"
@@ -9,14 +14,14 @@
             "title": "广州购买住房不再审核购房资格 不再限制购房套数",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240930/47302531.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20240930/60b2d004-658a-4dea-af76-0f296c5ed947.jpg"
-        },
-        {
-            "title": "央行：首套二套房存量房贷利率下调 平均降幅0.5%",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240930/47302519.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20240930/951437a4-3ae8-4f95-80b3-2eadba2e79a7.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "巴基斯坦俾路支省发生枪击事件 致7人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240929/47299921.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20240929/c5298c6c-2cbf-4973-a8c7-097dbbe7ff15.png"
+        },
         {
             "title": "黎以冲突加剧 伊朗呼吁联合国安理会召开紧急会议",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240929/47299910.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20240928/f54775f2-a44d-49e6-ac72-b536ce982636.jpg"
         },
         {
-            "title": "东北雨姐与打假博主隔空对峙，30 万和解费真相未明，神秘中间人未现身",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240929/47299274.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20240929/27c5aa4f-56f5-458c-8a76-c56c04eea909.jpg"
+            "title": "央行：首套二套房存量房贷利率下调 平均降幅0.5%",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240930/47302519.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20240930/951437a4-3ae8-4f95-80b3-2eadba2e79a7.jpg"
         },
         {
             "title": "美国防部：将加强在中东地区的防御性空中支援能力",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240930/47302508.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/276x0/news/20240930/4ea80d51-e6c8-4501-b6d6-cbfbbd0f7f5d.png"
-        },
-        {
-            "title": "断崖式换季！全国大部陆续迎下半年来最冷一天",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240930/47302498.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20240930/4d761615-da5b-443c-97d6-48fa7fbd95ab.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "晋煤外运重载大通道瓦日铁路完成秋季集中修施工",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240929/47295754.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "泽连斯基称苏梅市医疗机构遭袭事件已造成8人死亡",
@@ -231,12 +237,6 @@
             {
                 "title": "中国提前20年布局，美国现在只能硬着头皮，打一场“逆风局”了",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240927/47291110.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "俄学者：最近20年内俄罗斯森林面积增加6500多万公顷",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240927/47291111.html?ayjr"
             }
         ]
     ]
