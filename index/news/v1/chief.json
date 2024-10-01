@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "以军警告伊朗行动将承担后果称将继续发起强力打击",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47311933.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/600x0/news/20241002/d1ba2b35-71ee-4042-b9b1-a3905cc07736.jpg"
+        },
+        {
             "title": "以色列特拉维夫发生枪击事件 多人受伤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47311814.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20241002/dffae2f8-c5cc-4592-8eb2-3818f17a291a.jpg"
@@ -9,14 +14,14 @@
             "title": "地下700米！这个装置能捕捉宇宙中最神秘的粒子",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241002/47311804.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241002/a6436417-e48f-41b1-b8c4-b5661ca57fd7.jpg"
-        },
-        {
-            "title": "古特雷斯：须不惜一切代价避免在黎爆发全面战争",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47311793.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241002/fb171ca5-8e3d-44eb-830f-eeecbe62a243.png"
         }
     ],
     "midImg": [
+        {
+            "title": "破6亿！2024国庆档新片票房大超去年",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241002/47311753.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20241002/0b70b403-41fb-48da-bf01-6d4dfe08f817.jpg"
+        },
         {
             "title": "国庆假期首日全国道路交通总体平稳",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241002/47311741.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20241002/b0287cde-cdeb-475d-8175-5198f246fa1d.jpg"
         },
         {
-            "title": "一艘非法移民船在西班牙耶罗岛海域倾覆",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241001/47310039.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241001/9209c6b6-73f4-4b19-a5c5-04de8eccda24.jpg"
+            "title": "古特雷斯：须不惜一切代价避免在黎爆发全面战争",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47311793.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241002/fb171ca5-8e3d-44eb-830f-eeecbe62a243.png"
         },
         {
             "title": "伊拉克民兵武装称使用巡航导弹袭击以境内三地",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47311784.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241002/adfc132a-1c2e-41c1-b7db-435c910b896f.jpg"
-        },
-        {
-            "title": "海上 “六边形战士”“黄海一号”向海追光",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241002/47311774.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20241002/98808297-a369-464c-8c5d-cf50c227d78e.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "六大行集体官宣：10 月 31 日前实施存量房贷利率批量调整",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240930/47306249.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "剐了私家车，却收到车主 2000 元转账！什么情况？",
@@ -231,12 +237,6 @@
             {
                 "title": "飓风“海伦妮”已致美国至少90人死亡",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240930/47303212.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "日本候任首相石破茂计划于10月27日举行大选",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240930/47303203.html?ayjr"
             }
         ]
     ]
