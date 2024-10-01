@@ -1,6 +1,23 @@
 {
     "focus": [
         {
+            "title": "以色列特拉维夫发生枪击事件 多人受伤",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47311814.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241002/dffae2f8-c5cc-4592-8eb2-3818f17a291a.jpg"
+        },
+        {
+            "title": "地下700米！这个装置能捕捉宇宙中最神秘的粒子",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241002/47311804.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241002/a6436417-e48f-41b1-b8c4-b5661ca57fd7.jpg"
+        },
+        {
+            "title": "古特雷斯：须不惜一切代价避免在黎爆发全面战争",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47311793.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241002/fb171ca5-8e3d-44eb-830f-eeecbe62a243.png"
+        }
+    ],
+    "midImg": [
+        {
             "title": "国庆假期首日全国道路交通总体平稳",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241002/47311741.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20241002/445a2337-3cd5-4df7-b694-d050053b240f.jpg"
@@ -14,38 +31,6 @@
             "title": "台风“山陀儿”将于2日夜间至3日早晨在台湾岛登陆",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241002/47311717.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241002/feadcaa0-4e41-4100-b1b3-aea0ad28318c.jpg"
-        }
-    ],
-    "midImg": [
-        {
-            "title": "NBA名宿穆托姆博因脑癌去世终年58岁 ",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241001/47310015.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/544x0/news/20241001/1f938496-6e6d-49a4-a76c-68d458719e23.jpg"
-        },
-        {
-            "title": "五大国有银行，深夜发公告促进房地产市场发展",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241001/47309824.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20241001/7e80b688-a470-4d3f-bf0a-2d839e2c6c28.jpg"
-        },
-        {
-            "title": "国庆热门目的地TOP5出炉！北京西安成都最热门",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241001/47309795.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241001/368c52c6-9999-4d9d-ace7-d6f9041f160c.jpg"
-        },
-        {
-            "title": "以军宣布在黎南部展开“有限地面行动”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241001/47309772.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241001/e887ae6a-b866-4c59-b969-6cbc73f11d83.jpg"
-        },
-        {
-            "title": "美联储主席：今年或再降息两次 总幅度50个基点",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241001/47309763.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241001/9643c524-0327-4af7-9228-6c8d0ccb075e.png"
-        },
-        {
-            "title": "美国称超40家外国航司或在使用有风险的波音737",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241001/47309754.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241001/ab4cace9-8df5-443b-a380-d0321e2de7ed.png"
         },
         {
             "title": "文化中国行丨山河锦绣！在革命老区追寻红色足迹",
@@ -56,9 +41,66 @@
             "title": "泰山之巅飘扬中国红 游客跟唱国歌祝福祖国",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241002/47311693.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20241002/b0287cde-cdeb-475d-8175-5198f246fa1d.jpg"
+        },
+        {
+            "title": "一艘非法移民船在西班牙耶罗岛海域倾覆",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241001/47310039.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241001/9209c6b6-73f4-4b19-a5c5-04de8eccda24.jpg"
+        },
+        {
+            "title": "伊拉克民兵武装称使用巡航导弹袭击以境内三地",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47311784.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241002/adfc132a-1c2e-41c1-b7db-435c910b896f.jpg"
+        },
+        {
+            "title": "海上 “六边形战士”“黄海一号”向海追光",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241002/47311774.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20241002/98808297-a369-464c-8c5d-cf50c227d78e.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "剐了私家车，却收到车主 2000 元转账！什么情况？",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240930/47306250.html?ayjr"
+            }
+        ],
+        [
+            {
+                "title": "瑞士：看法发生“重大变化”，支持中国和巴西提出的和平倡议",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240930/47306251.html?ayjr"
+            }
+        ],
+        [
+            {
+                "title": "飓风“海伦妮”已在美国造成93人死亡",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240930/47306252.html?ayjr"
+            }
+        ],
+        [
+            {
+                "title": "印度首次在海外设立军工厂 寻求进军非洲市场",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240930/47303792.html?ayjr"
+            }
+        ],
+        [
+            {
+                "title": "80岁奶奶勇闯韩国“环球小姐”决赛 顺利入选32强",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240930/47303780.html?ayjr"
+            }
+        ],
+        [
+            {
+                "title": "欧盟即将表决对华电动汽车加征关税案 紧密磋商中",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240930/47303753.html?ayjr"
+            }
+        ],
+        [
+            {
+                "title": "苏丹霍乱疫情继续扩散 已致535人死亡",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240930/47303677.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "央行将在官网增设新栏目，公布全国新发放房贷利率平均值",
@@ -195,48 +237,6 @@
             {
                 "title": "日本候任首相石破茂计划于10月27日举行大选",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240930/47303203.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "广东醉汉躺路边被超2米长蟒蛇缠住 消防及时赶到救人",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240930/47303161.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "渝昆高铁渝宜段开通运营",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240930/47303147.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "“深海一号”创下多项海洋油气工程行业纪录",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240930/47302637.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "以军空袭也门荷台达多地 现场浓烟滚滚",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240930/47302541.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "广州购买住房不再审核购房资格 不再限制购房套数",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240930/47302531.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "央行：首套二套房存量房贷利率下调 平均降幅0.5%",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20240930/47302519.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美国防部：将加强在中东地区的防御性空中支援能力",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20240930/47302508.html?ayjr"
             }
         ]
     ]
