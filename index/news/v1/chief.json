@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "中国记者实拍：黎巴嫩贝鲁特南郊满目疮痍唯",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241003/47314697.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241003/d288d939-c10b-4a36-824a-b3c6f66e0d01.jpg"
+        },
+        {
             "title": "火爆！这个方向加开“一站直达”智能复兴号！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241003/47314540.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241003/013f6782-321a-4908-91f3-7b96d7a1c42a.jpg"
@@ -9,14 +14,14 @@
             "title": "全线大涨！国际机构看好中国资产",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241003/47314455.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241003/fa5b19c2-dc47-4c1a-bb58-8ef8b5338a2b.jpg"
-        },
-        {
-            "title": "媒体称伊朗导弹袭击摧毁以色列两个中队F-35战机",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241003/47314372.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241003/0319f4cd-361e-44cd-80c8-714c26804bc2.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "以军警告伊朗行动将承担后果称将继续发起强力打击",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47311933.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/600x0/news/20241002/d1ba2b35-71ee-4042-b9b1-a3905cc07736.jpg"
+        },
         {
             "title": "以色列特拉维夫发生枪击事件 多人受伤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47311814.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20241002/98808297-a369-464c-8c5d-cf50c227d78e.jpg"
         },
         {
-            "title": "日本首相石破茂举行就任后首次记者会",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47311763.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241002/3264a01f-a76f-4f8f-96f1-ad2c398d4a55.jpg"
+            "title": "媒体称伊朗导弹袭击摧毁以色列两个中队F-35战机",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241003/47314372.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241003/0319f4cd-361e-44cd-80c8-714c26804bc2.jpg"
         },
         {
             "title": "飓风“海伦妮”已导致美国至少189人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241003/47314167.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/370x0/news/20241003/c19d0975-ad3e-4cca-86bb-1c5bec112ace.png"
-        },
-        {
-            "title": "辛鲍姆宣誓就任墨西哥总统 墨西哥史上首位女总统",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47312036.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241002/2f7321f1-c13f-417b-9eff-538f70261622.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "五角大楼：美军准备好增强对中东地区军力部署",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240930/47308278.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "英国前首相约翰逊自曝：为夺回疫苗，我曾考虑秘密入侵荷兰",
@@ -231,12 +237,6 @@
             {
                 "title": "日本新外务大臣、防卫大臣人选公布",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240930/47303248.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "赖清德要练兵 40 万，意图已经暴露无遗丨湾区望海峡",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240930/47303249.html?ayjr"
             }
         ]
     ]
