@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "媒体称伊朗导弹袭击摧毁以色列两个中队F-35战机",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241003/47314372.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241003/0319f4cd-361e-44cd-80c8-714c26804bc2.jpg"
+        },
+        {
             "title": "飓风“海伦妮”已导致美国至少189人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241003/47314167.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/370x0/news/20241003/c19d0975-ad3e-4cca-86bb-1c5bec112ace.png"
@@ -9,14 +14,14 @@
             "title": "辛鲍姆宣誓就任墨西哥总统 墨西哥史上首位女总统",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47312036.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241002/2f7321f1-c13f-417b-9eff-538f70261622.jpg"
-        },
-        {
-            "title": "伊朗称向以色列发射200枚导弹",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47311973.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/610x0/news/20241002/9af6e06b-06f0-4b85-baea-1a8b3af33fa8.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "古特雷斯：须不惜一切代价避免在黎爆发全面战争",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47311793.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241002/fb171ca5-8e3d-44eb-830f-eeecbe62a243.png"
+        },
         {
             "title": "伊拉克民兵武装称使用巡航导弹袭击以境内三地",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47311784.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20241002/445a2337-3cd5-4df7-b694-d050053b240f.jpg"
         },
         {
-            "title": "国庆假期首日，中国旅游消费市场迎来新高潮",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241002/47311729.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/600x0/news/20241002/4415cfd9-2714-403a-a4c8-9dba925cafb6.jpg"
+            "title": "伊朗称向以色列发射200枚导弹",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47311973.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/610x0/news/20241002/9af6e06b-06f0-4b85-baea-1a8b3af33fa8.jpg"
         },
         {
             "title": "以军警告伊朗行动将承担后果称将继续发起强力打击",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47311933.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/600x0/news/20241002/d1ba2b35-71ee-4042-b9b1-a3905cc07736.jpg"
-        },
-        {
-            "title": "以色列特拉维夫发生枪击事件 多人受伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47311814.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241002/dffae2f8-c5cc-4592-8eb2-3818f17a291a.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "左玮：要完成对烈士的这个承诺，“我的时间太不够用了”",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240930/47306245.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "海蜇入侵杭州湾多家热电厂，上海石化：入侵数量已变少",
@@ -231,12 +237,6 @@
             {
                 "title": "贵州茅台五个交易日涨近 30%，能否继续反弹引关注",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240930/47303251.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "黎巴嫩真主党领导人纳斯鲁拉遗体已被发现，没有直接伤口",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240930/47303252.html?ayjr"
             }
         ]
     ]
