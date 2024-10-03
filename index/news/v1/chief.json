@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "日本首相石破茂等4人因政治资金问题被检举",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241003/47315324.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241003/fe324161-5460-42e0-832b-c247c0a66d80.jpg"
+        },
+        {
             "title": "中国记者实拍：黎巴嫩贝鲁特南郊满目疮痍",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241003/47314697.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241003/d288d939-c10b-4a36-824a-b3c6f66e0d01.jpg"
@@ -9,14 +14,14 @@
             "title": "海合会：支持黎巴嫩 呼吁在加沙地带立即停火",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241003/47315243.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/468x0/news/20241003/3b78da44-9753-4e89-8330-5d8a3464aa45.jpg"
-        },
-        {
-            "title": "中东地区冲突激化 多方表示美国难脱干系",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241003/47315107.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241003/f525b332-344b-4b30-bc34-9180c19c5a0f.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "突破！科研人员在高温超导研究领域取得新进展",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241003/47314730.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241003/26474910-3dc5-4a86-9cd4-53a9b9ecb2d6.png"
+        },
         {
             "title": "火爆！这个方向加开“一站直达”智能复兴号！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241003/47314540.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241002/2f7321f1-c13f-417b-9eff-538f70261622.jpg"
         },
         {
-            "title": "伊朗称向以色列发射200枚导弹",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47311973.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/610x0/news/20241002/9af6e06b-06f0-4b85-baea-1a8b3af33fa8.jpg"
+            "title": "中东地区冲突激化 多方表示美国难脱干系",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241003/47315107.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241003/f525b332-344b-4b30-bc34-9180c19c5a0f.jpg"
         },
         {
             "title": "加拿大对中国电动汽车加征关税是为迎合美国",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241003/47314887.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20241003/61a9dfe1-af37-40a7-bb8f-3125b4eb7e52.png"
-        },
-        {
-            "title": "各地特色文旅活动多姿多彩点亮花样假期",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241003/47314767.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241003/00bb019c-8588-4347-be4e-dd52199d28be.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "尼泊尔持续降雨已造成至少200人死亡",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241001/47309281.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "红红火火迎国庆！北京再现绝美晚霞！一起来看→",
@@ -231,12 +237,6 @@
             {
                 "title": "泽连斯基和内塔尼亚胡，命运何其相似乃尔",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240930/47303241.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "沪穗深同日甩出楼市“王炸”，“房地产牛市”行情要来临？",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240930/47303242.html?ayjr"
             }
         ]
     ]
