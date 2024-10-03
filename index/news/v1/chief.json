@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "中东地区冲突激化 多方表示美国难脱干系",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241003/47315107.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241003/f525b332-344b-4b30-bc34-9180c19c5a0f.jpg"
+        },
+        {
             "title": "加拿大对中国电动汽车加征关税是为迎合美国",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241003/47314887.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20241003/61a9dfe1-af37-40a7-bb8f-3125b4eb7e52.png"
@@ -9,14 +14,14 @@
             "title": "各地特色文旅活动多姿多彩点亮花样假期",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241003/47314767.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241003/00bb019c-8588-4347-be4e-dd52199d28be.png"
-        },
-        {
-            "title": "多国人士送祝福 愿与中国携手发展",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241003/47314745.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241003/a8895a6f-f6e0-4372-802c-bce5ae2b1bb0.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "全线大涨！国际机构看好中国资产",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241003/47314455.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241003/fa5b19c2-dc47-4c1a-bb58-8ef8b5338a2b.jpg"
+        },
         {
             "title": "媒体称伊朗导弹袭击摧毁以色列两个中队F-35战机",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241003/47314372.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/600x0/news/20241002/d1ba2b35-71ee-4042-b9b1-a3905cc07736.jpg"
         },
         {
-            "title": "以色列特拉维夫发生枪击事件 多人受伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47311814.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241002/dffae2f8-c5cc-4592-8eb2-3818f17a291a.jpg"
+            "title": "多国人士送祝福 愿与中国携手发展",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241003/47314745.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241003/a8895a6f-f6e0-4372-802c-bce5ae2b1bb0.jpg"
         },
         {
             "title": "突破！科研人员在高温超导研究领域取得新进展",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241003/47314730.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241003/26474910-3dc5-4a86-9cd4-53a9b9ecb2d6.png"
-        },
-        {
-            "title": "中国记者实拍：黎巴嫩贝鲁特南郊满目疮痍唯",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241003/47314697.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241003/d288d939-c10b-4a36-824a-b3c6f66e0d01.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "刷新纪录！A 股成交额 35 分钟破万亿，多家券商系统再被股民热情烧“宕机”",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240930/47308273.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "蓝鲸邀请全国媒体人，走进 2024 上海国际消费电子展，探访 200 家亮点企业",
@@ -231,12 +237,6 @@
             {
                 "title": "东方财富副总大涨前“精准”减持 120 万股，六个交易日少赚 700 多万",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240930/47303243.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "A 股行情大涨，凸显改革成效和市场信心｜新京报社论",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240930/47303244.html?ayjr"
             }
         ]
     ]
