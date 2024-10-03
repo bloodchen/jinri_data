@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "各地特色文旅活动多姿多彩点亮花样假期",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241003/47314767.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241003/00bb019c-8588-4347-be4e-dd52199d28be.png"
+        },
+        {
             "title": "多国人士送祝福 愿与中国携手发展",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241003/47314745.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241003/a8895a6f-f6e0-4372-802c-bce5ae2b1bb0.jpg"
@@ -9,14 +14,14 @@
             "title": "突破！科研人员在高温超导研究领域取得新进展",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241003/47314730.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241003/26474910-3dc5-4a86-9cd4-53a9b9ecb2d6.png"
-        },
-        {
-            "title": "中国记者实拍：黎巴嫩贝鲁特南郊满目疮痍唯",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241003/47314697.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241003/d288d939-c10b-4a36-824a-b3c6f66e0d01.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "飓风“海伦妮”已导致美国至少189人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241003/47314167.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/370x0/news/20241003/c19d0975-ad3e-4cca-86bb-1c5bec112ace.png"
+        },
         {
             "title": "辛鲍姆宣誓就任墨西哥总统 墨西哥史上首位女总统",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47312036.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241002/a6436417-e48f-41b1-b8c4-b5661ca57fd7.jpg"
         },
         {
-            "title": "古特雷斯：须不惜一切代价避免在黎爆发全面战争",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47311793.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241002/fb171ca5-8e3d-44eb-830f-eeecbe62a243.png"
+            "title": "中国记者实拍：黎巴嫩贝鲁特南郊满目疮痍唯",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241003/47314697.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241003/d288d939-c10b-4a36-824a-b3c6f66e0d01.jpg"
         },
         {
             "title": "火爆！这个方向加开“一站直达”智能复兴号！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241003/47314540.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241003/013f6782-321a-4908-91f3-7b96d7a1c42a.jpg"
-        },
-        {
-            "title": "全线大涨！国际机构看好中国资产",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241003/47314455.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241003/fa5b19c2-dc47-4c1a-bb58-8ef8b5338a2b.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "绑定印尼铝业巨头，南山铝业国际赴港 IPO",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240930/47308275.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "超强台风“山陀儿”要来了，中央气象台刚刚发布橙色预警",
@@ -231,12 +237,6 @@
             {
                 "title": "“牛回速归”？经纪人“刷屏”抢客户，券商假期“不打烊”",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240930/47303245.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美国著名医学家：只因曾与中国同行合作，我遭网暴4年被列“死亡名单”，仿佛回到中世纪",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240930/47303246.html?ayjr"
             }
         ]
     ]
