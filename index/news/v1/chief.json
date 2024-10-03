@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "全线大涨！国际机构看好中国资产",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241003/47314455.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241003/fa5b19c2-dc47-4c1a-bb58-8ef8b5338a2b.jpg"
+        },
+        {
             "title": "媒体称伊朗导弹袭击摧毁以色列两个中队F-35战机",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241003/47314372.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241003/0319f4cd-361e-44cd-80c8-714c26804bc2.jpg"
@@ -9,14 +14,14 @@
             "title": "飓风“海伦妮”已导致美国至少189人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241003/47314167.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/370x0/news/20241003/c19d0975-ad3e-4cca-86bb-1c5bec112ace.png"
-        },
-        {
-            "title": "辛鲍姆宣誓就任墨西哥总统 墨西哥史上首位女总统",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47312036.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241002/2f7321f1-c13f-417b-9eff-538f70261622.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "地下700米！这个装置能捕捉宇宙中最神秘的粒子",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241002/47311804.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241002/a6436417-e48f-41b1-b8c4-b5661ca57fd7.jpg"
+        },
         {
             "title": "古特雷斯：须不惜一切代价避免在黎爆发全面战争",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47311793.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20241002/0b70b403-41fb-48da-bf01-6d4dfe08f817.jpg"
         },
         {
-            "title": "国庆假期首日全国道路交通总体平稳",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241002/47311741.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20241002/445a2337-3cd5-4df7-b694-d050053b240f.jpg"
+            "title": "辛鲍姆宣誓就任墨西哥总统 墨西哥史上首位女总统",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47312036.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241002/2f7321f1-c13f-417b-9eff-538f70261622.jpg"
         },
         {
             "title": "伊朗称向以色列发射200枚导弹",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47311973.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/610x0/news/20241002/9af6e06b-06f0-4b85-baea-1a8b3af33fa8.jpg"
-        },
-        {
-            "title": "以军警告伊朗行动将承担后果称将继续发起强力打击",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47311933.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/600x0/news/20241002/d1ba2b35-71ee-4042-b9b1-a3905cc07736.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "教育部信息科技课标专家组组长熊璋：信息科技比重将加大，成为与语数英一样重要的学科",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240930/47306244.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "左玮：要完成对烈士的这个承诺，“我的时间太不够用了”",
@@ -231,12 +237,6 @@
             {
                 "title": "华为 Mate XT 一天跌掉几千块！网传曾被炒到 60 万，如今黄牛价雪崩",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240930/47303250.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "贵州茅台五个交易日涨近 30%，能否继续反弹引关注",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240930/47303251.html?ayjr"
             }
         ]
     ]
