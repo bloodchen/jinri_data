@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "俄官员：乌方企图将波罗的海沿岸国家拖入冲突中",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241004/47317983.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241004/c622f2b2-db7f-4add-8b45-033e4fae682e.png"
+        },
+        {
             "title": "匈牙利外长：匈将投票反对欧盟对华电动车加征关税",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241004/47317974.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241004/d46bb6be-e1fb-4e33-86cd-10d86f3240d4.png"
@@ -9,14 +14,14 @@
             "title": "石破茂发表就职演说，将推进与中国的战略互惠关系",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241004/47317905.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20241004/eb187dd1-fb85-44f0-83a6-6924ac45cbd8.jpg"
-        },
-        {
-            "title": "伊朗外交部：伊朗声援黎巴嫩人民的立场坚定",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241004/47317893.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241004/8cc45475-42ac-4311-a26c-ce40d68f8707.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "拜登：正在讨论以色列袭击伊朗石油设施的可能性",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241004/47317206.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/537x0/news/20241004/29da38b4-50c8-4016-9e5a-02ce9e92f1d1.jpg"
+        },
         {
             "title": "分析人士：中东接近&quot;全面战争&quot; 美政策&quot;极其有害&quot;",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241004/47317126.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/516x0/news/20241004/b3e5a657-b815-4d92-9e38-bd9de06e4417.png"
         },
         {
-            "title": "中方呼吁索马里各方坚持通过对话化解分歧",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241004/47316897.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241004/fdd5158a-90e2-43af-b6de-6b1399ab8956.jpg"
+            "title": "伊朗外交部：伊朗声援黎巴嫩人民的立场坚定",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241004/47317893.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241004/8cc45475-42ac-4311-a26c-ce40d68f8707.jpg"
         },
         {
             "title": "以军要求黎南部30多个城镇居民立即撤离",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241004/47317792.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241004/350f2f52-ad4a-46bc-bf56-b46736902f85.jpg"
-        },
-        {
-            "title": "俄官员：俄与美发生武装冲突的可能性取决于美方",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241004/47317748.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241004/25fde68d-173f-4c4b-b762-6c65f229a2ab.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "海上 “六边形战士”“黄海一号”向海追光",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241002/47311774.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "日本首相石破茂举行就任后首次记者会",
@@ -231,12 +237,6 @@
             {
                 "title": "董宇辉称居里夫人获得诺贝尔文学奖、发现了铀、发明了 X 光机，网友：博学人设不好立",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240930/47308277.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "五角大楼：美军准备好增强对中东地区军力部署",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20240930/47308278.html?ayjr"
             }
         ]
     ]
