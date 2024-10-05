@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "消息称黎真主党高级领导人哈希姆·萨菲丁身亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241005/47320191.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241005/dfb8d2d9-e25d-4d3a-99f5-62136c6dc636.jpg"
+        },
+        {
             "title": "重要数据出炉！美联储将放慢降息步伐？最新预测",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241005/47319997.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20241005/f45b34ba-4466-4b8a-8a10-e4a942f262ff.png"
@@ -9,14 +14,14 @@
             "title": "长三角多地车站今天午后将迎首波返程客流",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241005/47319615.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241005/f9dfb398-e247-4af7-8a11-4d545493a2df.jpg"
-        },
-        {
-            "title": "海军招飞新变化！视力矫正后也能参加选拔",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241005/47319579.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241005/622e55a0-9daa-4b66-a7d2-8ee9690b6f4d.png"
         }
     ],
     "midImg": [
+        {
+            "title": "“紧急撤离”！以军再发警告",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241005/47319347.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20241005/e812ca1a-729f-436b-bace-7884cc12c41b.png"
+        },
         {
             "title": "黎巴嫩真主党武装与以军在黎以临时边界附近交战",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241005/47319295.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20241005/929b27a0-a29a-4391-988e-f1e00a048ad0.jpg"
         },
         {
-            "title": "美官员称以方未保证不对伊朗核设施实施报复性打击",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241005/47318812.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20241005/00912b51-6815-467f-a714-e5c98dc0af5f.jpg"
+            "title": "海军招飞新变化！视力矫正后也能参加选拔",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241005/47319579.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241005/622e55a0-9daa-4b66-a7d2-8ee9690b6f4d.png"
         },
         {
             "title": "也门多地举行游行集会，声援巴勒斯坦和黎巴嫩",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241005/47319522.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/573x0/news/20241005/f42e05fd-caaf-4b5d-ab76-7f61b06f69fd.png"
-        },
-        {
-            "title": "危急!以军极限施压黎伊 中东距离全面战争近在咫尺",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241005/47319463.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241005/6b6af9fc-2e95-4863-a78c-16bd166f9ec2.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "中东地区冲突激化 多方表示美国难脱干系",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241003/47315107.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "加拿大对中国电动汽车加征关税是为迎合美国",
@@ -231,12 +237,6 @@
             {
                 "title": "以军宣布在黎南部展开“有限地面行动”",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241001/47309772.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美联储主席：今年或再降息两次 总幅度50个基点",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241001/47309763.html?ayjr"
             }
         ]
     ]
