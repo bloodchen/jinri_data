@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "新西兰一军舰在萨摩亚海域起火搁浅沉没",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241006/47321866.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20241006/3530a6c8-8368-4bfa-8060-63a42968667b.png"
+        },
+        {
             "title": "国庆开通！这座超大城市再添一座高铁站！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241006/47321721.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241006/0d57b2de-de50-4e21-9d2f-3ee112034594.jpg"
@@ -9,14 +14,14 @@
             "title": "外媒：白宫曾无视以方行动恐引发人道灾难的警告",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241006/47321624.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241006/71486749-ec05-46cf-9fb3-b14bc7e9e3ac.jpg"
-        },
-        {
-            "title": "白宫附近举行支持巴勒斯坦示威活动 一男子自焚",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241006/47321604.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241006/2c9c16e2-8527-43a4-a0dc-d7e9bd4c5871.png"
         }
     ],
     "midImg": [
+        {
+            "title": "国庆假期进入尾声 各地迎来国庆返程客流高峰",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241006/47321307.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20241006/22871032-25bf-4224-acfc-bc0ed3d8d94a.png"
+        },
         {
             "title": "黎真主党称发射火箭弹精准打击以军聚集地",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241006/47321296.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/576x0/news/20241006/e3ceace3-c816-4da2-9adf-39a825fe9934.jpg"
         },
         {
-            "title": "10月4日，全社会跨区域人员流动量超2.8亿人次",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241005/47320598.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20241005/9dcaea1b-6852-4ef7-bca7-52d3f03f2c79.png"
+            "title": "白宫附近举行支持巴勒斯坦示威活动 一男子自焚",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241006/47321604.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241006/2c9c16e2-8527-43a4-a0dc-d7e9bd4c5871.png"
         },
         {
             "title": "破纪录！16万公里铁路网如何撑起活力中国？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241006/47321464.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241006/845ec3a6-cee3-43d9-9624-c3a4262f8e83.png"
-        },
-        {
-            "title": "创新高！港珠澳大桥单日进出境车辆达2.26万辆次",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241006/47321435.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241006/2a6c9657-a2e7-4a6f-b57a-85f1b4ed95c0.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "坐高铁穿越千年文脉！这里拥有博物馆超600座",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241004/47317084.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "多国从黎撤侨或要求本国公民尽快离开黎巴嫩",
@@ -231,12 +237,6 @@
             {
                 "title": "地下700米！这个装置能捕捉宇宙中最神秘的粒子",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241002/47311804.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "古特雷斯：须不惜一切代价避免在黎爆发全面战争",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241002/47311793.html?ayjr"
             }
         ]
     ]
