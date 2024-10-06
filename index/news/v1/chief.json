@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "创新高！港珠澳大桥单日进出境车辆达2.26万辆次",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241006/47321435.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241006/2a6c9657-a2e7-4a6f-b57a-85f1b4ed95c0.jpg"
+        },
+        {
             "title": "国庆假期，大家都去哪儿玩了？一组数据了解一下",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241006/47321340.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241006/52c1c6ba-7b89-4045-a001-fb3a93fa8ac8.jpg"
@@ -9,14 +14,14 @@
             "title": "国庆假期进入尾声 各地迎来国庆返程客流高峰",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241006/47321307.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20241006/22871032-25bf-4224-acfc-bc0ed3d8d94a.png"
-        },
-        {
-            "title": "黎真主党称发射火箭弹精准打击以军聚集地",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241006/47321296.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241006/10b5f499-5a8e-4b7c-95c5-c177b07e6a1c.png"
         }
     ],
     "midImg": [
+        {
+            "title": "新西兰海军一艘支援船搁浅 暂无人员伤亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241006/47321149.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/576x0/news/20241006/e3ceace3-c816-4da2-9adf-39a825fe9934.jpg"
+        },
         {
             "title": "10月4日，全社会跨区域人员流动量超2.8亿人次",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241005/47320598.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20241005/f45b34ba-4466-4b8a-8a10-e4a942f262ff.png"
         },
         {
-            "title": "长三角多地车站今天午后将迎首波返程客流",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241005/47319615.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241005/f9dfb398-e247-4af7-8a11-4d545493a2df.jpg"
+            "title": "黎真主党称发射火箭弹精准打击以军聚集地",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241006/47321296.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241006/10b5f499-5a8e-4b7c-95c5-c177b07e6a1c.png"
         },
         {
             "title": "以色列民众举行抗议 要求与哈马斯达成协议",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241006/47321182.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20241006/aa78c774-5d25-47d1-b279-0e411b0a7894.png"
-        },
-        {
-            "title": "以军承认两处空军基地被伊朗导弹击中",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241006/47321170.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20241006/cd7f68ff-fbac-4971-97e5-17a05f2b6941.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "海地一城市遭武装分子袭击 至少50名平民死亡",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241004/47316799.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "伊拉克接收新一批共计686名黎巴嫩公民入境避难",
@@ -231,12 +237,6 @@
             {
                 "title": "破6亿！2024国庆档新片票房大超去年",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241002/47311753.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "国庆假期首日全国道路交通总体平稳",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241002/47311741.html?ayjr"
             }
         ]
     ]
