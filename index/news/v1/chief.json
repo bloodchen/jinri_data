@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "日本政府将解散众议院 提前大选引争议",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241009/47338229.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241009/03126881-9895-432f-ac1d-ffd166a1d48a.jpg"
+        },
+        {
             "title": "伊拉克民兵武装对以色列北部重要目标发动4次袭击",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241009/47338026.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/387x0/news/20241009/6c1ca99e-c177-48dc-90b8-680bd5395089.png"
@@ -9,14 +14,14 @@
             "title": "国防部新闻发言人吴谦就美国对台军援答记者问",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241009/47337735.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/640x0/news/20241009/ee64af91-3d8c-497d-b2d3-d51b4b746138.jpg"
-        },
-        {
-            "title": "朝鲜：永久切断！ 已通知美方",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241009/47337652.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20241009/0af3e2dd-7dcb-484c-81f5-07e043e4bbd3.png"
         }
     ],
     "midImg": [
+        {
+            "title": "伊朗:伊武装力量已做好准备 标定所有必要打击目标",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241009/47336781.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241009/e4ab3c75-54c0-4b04-9cea-063ee0633419.jpg"
+        },
         {
             "title": "以军再发撤离令并对黎首都贝鲁特南郊展开多轮空袭",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241009/47336715.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241009/3085a5de-1ab3-4433-813d-5043703369f5.jpg"
         },
         {
-            "title": "法国政府在议会不信任投票中过关",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241009/47335980.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241009/ce067139-61d4-4225-81b4-60e8e5c4fb39.jpg"
+            "title": "朝鲜：永久切断！ 已通知美方",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241009/47337652.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20241009/0af3e2dd-7dcb-484c-81f5-07e043e4bbd3.png"
         },
         {
             "title": "朝鲜宣布完全切断与韩国连接的铁路与公路",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241009/47337290.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20241009/c0a80646-58c6-4baf-9914-3b2b9aecc0a4.png"
-        },
-        {
-            "title": "委内瑞拉议会要求政府与西班牙断交",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241009/47337228.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/640x0/news/20241009/332c4896-dbbd-4729-b414-1d9803729d35.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "今年前8月水利建设完成投资创新高 国家水网主骨架和大动脉不断完善",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241009/47335779.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "不满营销号散布小三谣言，于正陪张石头报警，女网友赞：老板好暖",
@@ -231,12 +237,6 @@
             {
                 "title": "国台办：赖清德祖国论系新瓶装旧酒的“台独”谬论",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241009/47335102.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "2026年底我国基本建成国家数据标准体系",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241009/47335090.html?ayjr"
             }
         ]
     ]
