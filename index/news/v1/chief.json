@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "我国自主研发，目前技术最先的煤直接液化项目开工",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241009/47336076.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241009/7c49c3ce-4a76-488c-af6e-29a4800b7e8d.jpg"
+        },
+        {
             "title": "“粤车南下”好消息！内地车有望开到香港国际机场",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241009/47336041.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241009/3085a5de-1ab3-4433-813d-5043703369f5.jpg"
@@ -9,14 +14,14 @@
             "title": "法国政府在议会不信任投票中过关",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241009/47335980.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241009/ce067139-61d4-4225-81b4-60e8e5c4fb39.jpg"
-        },
-        {
-            "title": "以色列总理称打死黎真主党领导人继任者",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241009/47335968.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/523x0/news/20241009/adea3328-7ea7-41ee-8798-bc3c8c8263aa.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "重庆警方通报“一醉酒女子殴打外卖员”：打人者已被刑拘",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241009/47335787.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20241008/0ac7dd81-2323-454a-a97c-b6d581ddf85d.jpg"
+        },
         {
             "title": "销售承诺 5 年期保险可退本金变成要交费 20 年？华泰保险：查无此人，会跟进",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241009/47335788.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20241008/6d5fcb8a-8a05-4540-9990-cda662ab220c.jpg"
         },
         {
-            "title": "日本前首相菅直人宣布正式退出政坛",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241009/47335793.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20241008/83ea89f8-ec54-4745-9f7a-9ac9a8a91d07.jpg"
+            "title": "以色列总理称打死黎真主党领导人继任者",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241009/47335968.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/523x0/news/20241009/adea3328-7ea7-41ee-8798-bc3c8c8263aa.jpg"
         },
         {
             "title": "美国联邦航管局就波音737方向舵问题发出安全警报",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241009/47335956.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241009/929018c5-bcc3-400f-8a53-a773cc43a022.png"
-        },
-        {
-            "title": "对人类而言，既得团威胁是次要的，AI领衔的基本困境才是首要的",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241009/47335785.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20241008/2bc2cf28-5363-4b90-b4e5-733bf0cac25b.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "以旧换新助力 车市“金九银十”销售火热",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241009/47335752.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "7月以来逾130家公司 发布股东增持计划",
@@ -231,12 +237,6 @@
             {
                 "title": "被腾讯收购？育碧：将在适当时候告知市场",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241008/47333613.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "医院系统显示“满床”实际仅有2人？北京一医院被解除工伤医保协议",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241008/47333614.html?ayjr"
             }
         ]
     ]
