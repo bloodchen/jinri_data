@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "俄罗斯一架安-3飞机紧急迫降 1人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241013/47367100.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241013/531aac95-080b-4547-bc47-af3c1e5967d0.jpg"
+        },
+        {
             "title": "岑浩辉以394票当选为澳门第六任行政长官候任人",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47366686.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241013/b2158bd6-9d14-4f1f-a8ee-30949367424b.jpg"
@@ -9,14 +14,14 @@
             "title": "多地“上新”房地产利好政策 楼市升温持续",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47366554.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241013/d08d78ee-236a-462f-85d1-b07078207ec0.jpg"
-        },
-        {
-            "title": "岛内舆论戳穿赖清德“双十”谎言",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47366407.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241013/9f36d619-de7d-4390-9fcd-3f5b5f05596d.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "中国海警舰艇编队今日在我钓鱼岛领海巡航",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47366060.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20241013/53d0420d-f8af-47f7-bcce-919b810b8826.png"
+        },
         {
             "title": "“六边形”高铁站，正式亮相！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47366048.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20241013/d1577bf3-9731-4d37-ae15-99999362310a.jpg"
         },
         {
-            "title": "伊拉克民兵武装称对以色列目标发动无人机袭击",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241013/47365649.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/362x0/news/20241013/64330549-cd12-46e0-befe-37731b9bdbb6.png"
+            "title": "岛内舆论戳穿赖清德“双十”谎言",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47366407.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241013/9f36d619-de7d-4390-9fcd-3f5b5f05596d.jpg"
         },
         {
             "title": "以色列酝酿报复伊朗 美将在以部署“萨德”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241013/47366293.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241013/e30e5ee7-556e-4d66-9295-b72f95246c7e.jpg"
-        },
-        {
-            "title": "澳门特区第六任行政长官选举投票开始",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47366274.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241013/135cc538-578e-4ea3-a5c6-67b1400d2e2b.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "伊拉克民兵武装称使用无人机袭击戈兰高地",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241012/47362701.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "黎以冲突加剧 如今生活在黎巴嫩意味着什么？",
@@ -231,12 +237,6 @@
             {
                 "title": "“这是战争罪！” 意大利向以色列提出抗议！",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241011/47356945.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "外交部：台当局买再多武器也阻挡不了中国统一大势",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241011/47356908.html?ayjr"
             }
         ]
     ]
