@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "澳门特区第六任行政长官选举投票开始",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47366274.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241013/135cc538-578e-4ea3-a5c6-67b1400d2e2b.jpg"
+        },
+        {
             "title": "2024年9月份居民消费价格同比上涨0.4%",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47366075.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/627x0/news/20241013/b16613fe-1336-4fa3-897a-d87c1b4a4ae3.jpg"
@@ -9,14 +14,14 @@
             "title": "中国海警舰艇编队今日在我钓鱼岛领海巡航",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47366060.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20241013/53d0420d-f8af-47f7-bcce-919b810b8826.png"
-        },
-        {
-            "title": "“六边形”高铁站，正式亮相！",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47366048.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241013/faafd4b2-2238-4a03-8bf7-9030cdbc73bd.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "以色列抗议人士阻拦公路 要求立即停火",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241013/47365728.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241013/d1577bf3-9731-4d37-ae15-99999362310a.jpg"
+        },
         {
             "title": "伊拉克民兵武装称对以色列目标发动无人机袭击",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241013/47365649.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241012/4b156280-5b4d-4402-aaf2-a01ecca09bf6.png"
         },
         {
-            "title": "2025年高考报名即将开始 多省份公布报名安排→",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241012/47364913.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20241012/86747aef-9542-48c9-8e13-a18a9748529f.jpg"
+            "title": "“六边形”高铁站，正式亮相！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47366048.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241013/faafd4b2-2238-4a03-8bf7-9030cdbc73bd.jpg"
         },
         {
             "title": "“红领巾号”，发车！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47365992.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241013/f77f8f06-b1f1-4e92-84af-8eec1ebe2a9f.jpg"
-        },
-        {
-            "title": "以军袭击加沙地带北部 至少19人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241013/47365960.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241013/23adf3c9-271d-4de8-8bb8-8acaf3924724.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "财政部：今年中央财政已下达就业补助667亿元",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241012/47361814.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "财政部：拟一次性增加较大规模债务限额",
@@ -231,12 +237,6 @@
             {
                 "title": "美国国家海洋和大气管理局发布严重地磁暴警报",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241011/47355627.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "以色列袭击联黎部队，中国赴黎维和部队目前安全",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241011/47355535.html?ayjr"
             }
         ]
     ]
