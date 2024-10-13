@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "岛内舆论戳穿赖清德“双十”谎言",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47366407.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241013/9f36d619-de7d-4390-9fcd-3f5b5f05596d.jpg"
+        },
+        {
             "title": "以色列酝酿报复伊朗 美将在以部署“萨德”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241013/47366293.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241013/e30e5ee7-556e-4d66-9295-b72f95246c7e.jpg"
@@ -9,14 +14,14 @@
             "title": "澳门特区第六任行政长官选举投票开始",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47366274.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241013/135cc538-578e-4ea3-a5c6-67b1400d2e2b.jpg"
-        },
-        {
-            "title": "2024年9月份居民消费价格同比上涨0.4%",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47366075.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/627x0/news/20241013/b16613fe-1336-4fa3-897a-d87c1b4a4ae3.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "以军袭击加沙地带北部 至少19人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241013/47365960.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241013/23adf3c9-271d-4de8-8bb8-8acaf3924724.png"
+        },
         {
             "title": "美防长：以色列需尽快从军事行动转向外交途径",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241013/47365897.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20241013/618187f0-bf75-4675-8a56-09b3c4708793.jpg"
         },
         {
-            "title": "美军称空袭叙利亚境内极端组织“伊斯兰国”营地",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241012/47365357.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/news/20241012/a5f9c07e-965f-4a89-9ef3-b65b0fac486f.png"
+            "title": "2024年9月份居民消费价格同比上涨0.4%",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47366075.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/627x0/news/20241013/b16613fe-1336-4fa3-897a-d87c1b4a4ae3.jpg"
         },
         {
             "title": "中国海警舰艇编队今日在我钓鱼岛领海巡航",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47366060.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20241013/53d0420d-f8af-47f7-bcce-919b810b8826.png"
-        },
-        {
-            "title": "“六边形”高铁站，正式亮相！",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47366048.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241013/faafd4b2-2238-4a03-8bf7-9030cdbc73bd.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "一揽子增量政策举措即将推出！速览财政部最新发布",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241012/47362089.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "财政部：中央财政还有较大的举债空间",
@@ -231,12 +237,6 @@
             {
                 "title": "伊拉克民兵武装称袭击以色列南部目标",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241011/47355884.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "探测中微子的眼睛！这里有四万五千个“灯泡”",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241011/47355760.html?ayjr"
             }
         ]
     ]
