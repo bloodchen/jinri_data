@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "以色列酝酿报复伊朗 美将在以部署“萨德”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241013/47366293.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241013/e30e5ee7-556e-4d66-9295-b72f95246c7e.jpg"
+        },
+        {
             "title": "澳门特区第六任行政长官选举投票开始",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47366274.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241013/135cc538-578e-4ea3-a5c6-67b1400d2e2b.jpg"
@@ -9,14 +14,14 @@
             "title": "2024年9月份居民消费价格同比上涨0.4%",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47366075.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/627x0/news/20241013/b16613fe-1336-4fa3-897a-d87c1b4a4ae3.jpg"
-        },
-        {
-            "title": "中国海警舰艇编队今日在我钓鱼岛领海巡航",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47366060.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/300x0/news/20241013/53d0420d-f8af-47f7-bcce-919b810b8826.png"
         }
     ],
     "midImg": [
+        {
+            "title": "美防长：以色列需尽快从军事行动转向外交途径",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241013/47365897.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241013/d7b04988-9213-408e-bde2-857401a2a952.jpg"
+        },
         {
             "title": "以色列抗议人士阻拦公路 要求立即停火",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241013/47365728.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/360x0/news/20241012/a5f9c07e-965f-4a89-9ef3-b65b0fac486f.png"
         },
         {
-            "title": "10月1日以来没有任何食品援助进入加沙北部",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241012/47365346.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241012/4b156280-5b4d-4402-aaf2-a01ecca09bf6.png"
+            "title": "中国海警舰艇编队今日在我钓鱼岛领海巡航",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47366060.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20241013/53d0420d-f8af-47f7-bcce-919b810b8826.png"
         },
         {
             "title": "“六边形”高铁站，正式亮相！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47366048.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241013/faafd4b2-2238-4a03-8bf7-9030cdbc73bd.jpg"
-        },
-        {
-            "title": "“红领巾号”，发车！",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241013/47365992.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241013/f77f8f06-b1f1-4e92-84af-8eec1ebe2a9f.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "财政部：中央财政还有较大的举债空间",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241012/47361860.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "财政部：今年中央财政已下达就业补助667亿元",
@@ -231,12 +237,6 @@
             {
                 "title": "探测中微子的眼睛！这里有四万五千个“灯泡”",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241011/47355760.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美国国家海洋和大气管理局发布严重地磁暴警报",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241011/47355627.html?ayjr"
             }
         ]
     ]
