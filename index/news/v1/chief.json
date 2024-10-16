@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "订单锐减 荷兰半导体设备制造商阿斯麦股价跌超15%",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241016/47387503.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241016/61b2c8ed-2147-4426-85da-f98d2ec88647.jpg"
+        },
+        {
             "title": "没钱也没粮 苏丹仅有5%的人能每天吃一顿饱饭",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241016/47387474.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241016/3ac41673-d904-49dd-ab5d-5734924cd3b9.jpg"
@@ -9,14 +14,14 @@
             "title": "伊朗外长前往约旦访问 随后将到访埃及、土耳其",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241016/47387413.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20241016/9e353462-5ebb-4d62-92c3-391e56d370f5.jpg"
-        },
-        {
-            "title": "外籍澳门居民短期赴内地可申请5年多次签证",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241016/47387386.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241016/82cc9a78-9ed8-4d71-ab8f-ce58b5673543.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "新能源汽车全球销量：中国领跑，欧洲复苏，美国未知",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241016/47386537.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20241015/313c4d74-602d-4f19-9670-9d37cbce67ed.jpg"
+        },
         {
             "title": "谷歌采购6-7座核反应堆，美国四代堆迎来新生？",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241016/47386538.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20241015/9355136f-93b4-45dc-8373-e840b68755de.jpg"
         },
         {
-            "title": "16件一级“国宝”亮相香港故宫，再现多元一体的“中华文明之源”",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241016/47386543.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20241015/edbe555b-e94b-4db6-a6db-cc656ea44150.jpg"
+            "title": "外籍澳门居民短期赴内地可申请5年多次签证",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241016/47387386.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241016/82cc9a78-9ed8-4d71-ab8f-ce58b5673543.jpg"
         },
         {
             "title": "9 个月后，被 11 名硕博生举报的华中农大教授黄飞若被取消资格、追回项目资金！",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241016/47386555.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20241015/cc655bb4-f999-4ba1-b017-a04752b18f89.jpg"
-        },
-        {
-            "title": "朝韩间连接通路被部分炸毁，外交部：当务之急是避免矛盾激化",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241016/47386556.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20241015/d2ba7558-9430-4e9a-bcac-f83a9e76b326.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "巴黎车展在中欧贸易争端之际开幕，中欧车企正面交锋",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241016/47386516.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "新加坡民调显示：比起美国，新加坡人更愿将中国视为战略合作伙伴",
@@ -231,12 +237,6 @@
             {
                 "title": "又一地产大佬告别中国足坛：绿城彻底退出浙江队，宋卫平不想再谈足球",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241015/47379766.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "全国秋收过六成，秋种陆续展开",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241015/47379767.html?ayjr"
             }
         ]
     ]
