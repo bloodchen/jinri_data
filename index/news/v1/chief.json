@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "60年前的今天，东方巨响，震惊世界！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241016/47383838.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241016/064e5ade-c5e0-4c7f-8486-a4ad8dc53121.jpg"
+        },
+        {
             "title": "欧盟与阿尔巴尼亚举行入盟谈判",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241016/47383481.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241016/61d2595f-b457-4af0-ae73-1b5d96aeb05e.jpg"
@@ -9,14 +14,14 @@
             "title": "朝鲜约140万名青年同盟干部和学生报名参军或复队",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241016/47383472.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20241016/d06e3bd5-84fe-447b-8172-17d995f609e7.jpg"
-        },
-        {
-            "title": "以色列官员：可能打击伊朗军事基地或政府大楼",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241016/47383436.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241016/ab543106-ac03-483c-b4e2-7ff0c94e5888.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "国产大型水陆两栖飞机AG600开始全机疲劳试验",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241016/47383187.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241016/abf61df9-3ad2-42b8-aac9-1d18542949ea.png"
+        },
         {
             "title": "以军称打死黎巴嫩真主党空中部队高级指挥官",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241016/47383176.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20241015/20ddfa99-2b65-48db-b25e-2f9f2124320a.jpg"
         },
         {
-            "title": "走近珂学：“名媛培训班”收割中年男明星",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241015/47379760.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20241015/a659189a-95bf-4714-973f-1cb65e89d56e.jpg"
+            "title": "以色列官员：可能打击伊朗军事基地或政府大楼",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241016/47383436.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241016/ab543106-ac03-483c-b4e2-7ff0c94e5888.jpg"
         },
         {
             "title": "黎真主党高层称有权袭击以色列全境",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241016/47383215.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241016/79660662-ef7a-4180-971f-6b8d37beb0e6.jpg"
-        },
-        {
-            "title": "联合国官员：过去三周逾40万黎儿童因冲突流离失所",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241016/47383206.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/600x0/news/20241016/8964ccea-f0e6-4a80-85fa-5247fdb1997d.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "行业洗牌加速，酒企抱团寻突破",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241015/47376935.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "金正恩主持召开国防和安全会议，阐明军事政治立场",
@@ -231,12 +237,6 @@
             {
                 "title": "vivo推出自研操作系统内核，会用在智能手机上吗？",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241014/47375222.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "诺贝尔经济学奖获得者斯蒂格利茨：美国太短视，制裁只会促使中国自力更生",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241014/47375223.html?ayjr"
             }
         ]
     ]
