@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "以军再次在黎巴嫩南部升起以色列国旗",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241016/47383890.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241016/ecfa60a1-910e-4365-b066-48ba7d86895c.jpg"
+        },
+        {
             "title": "60年前的今天，东方巨响，震惊世界！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241016/47383838.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20241016/064e5ade-c5e0-4c7f-8486-a4ad8dc53121.jpg"
@@ -9,14 +14,14 @@
             "title": "欧盟与阿尔巴尼亚举行入盟谈判",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241016/47383481.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241016/61d2595f-b457-4af0-ae73-1b5d96aeb05e.jpg"
-        },
-        {
-            "title": "朝鲜约140万名青年同盟干部和学生报名参军或复队",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241016/47383472.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20241016/d06e3bd5-84fe-447b-8172-17d995f609e7.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美国防部：“萨德”反导系统即将在以色列投入使用",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241016/47383197.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241016/5762a490-f700-412f-aac7-897bfcbf0e4d.jpg"
+        },
         {
             "title": "国产大型水陆两栖飞机AG600开始全机疲劳试验",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241016/47383187.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20241016/4a081c2c-5d5f-43f2-9ed6-f6e14ed2ea6f.jpg"
         },
         {
-            "title": "中国开展“联合利剑—2024B”演习，日本声称：高度关注",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241015/47379759.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20241015/20ddfa99-2b65-48db-b25e-2f9f2124320a.jpg"
+            "title": "朝鲜约140万名青年同盟干部和学生报名参军或复队",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241016/47383472.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20241016/d06e3bd5-84fe-447b-8172-17d995f609e7.jpg"
         },
         {
             "title": "以色列官员：可能打击伊朗军事基地或政府大楼",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241016/47383436.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20241016/ab543106-ac03-483c-b4e2-7ff0c94e5888.jpg"
-        },
-        {
-            "title": "黎真主党高层称有权袭击以色列全境",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241016/47383215.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241016/79660662-ef7a-4180-971f-6b8d37beb0e6.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "两家医院年营收超 20 亿，明基医院赴港上市谋扩张",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241015/47376934.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "行业洗牌加速，酒企抱团寻突破",
@@ -231,12 +237,6 @@
             {
                 "title": "痛心！山西汾西县 9 岁男童与一同龄同学走失，次日在工地水坑发现两人遗体，当地回应",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241014/47375221.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "vivo推出自研操作系统内核，会用在智能手机上吗？",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241014/47375222.html?ayjr"
             }
         ]
     ]
