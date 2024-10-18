@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "人手不足 成本上升 半年间超5000家日企破产",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241018/47399137.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241018/a7e6320d-aba2-4997-a775-c955025bb060.jpg"
+        },
+        {
             "title": "以总理称辛瓦尔之死是“加沙战争走向结束的开端”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241018/47399089.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241018/a9aee74a-e9b9-40eb-bdf9-e8ededc9072d.jpg"
@@ -9,14 +14,14 @@
             "title": "哈马斯领导人辛瓦尔死前向以军无人机投掷棍子",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241018/47399041.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241018/0883a8a0-7d66-45e5-9e01-5a83bc57c38a.jpg"
-        },
-        {
-            "title": "4名中国女性在德国遭性侵：疑似华裔男子冒充女性求租",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241018/47398910.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/toutiao/20241017/e45baaaf-92ea-4331-bd34-c63cde4a3f43.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "苏丹中部城市暴发登革热疫情 已致253人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241017/47395784.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241017/6035bfe4-3444-47f9-b5f4-0b5897dff3f3.jpg"
+        },
         {
             "title": "美军称使用B-2隐形轰炸机空袭也门",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241017/47395766.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20241017/ac35601a-0330-4f55-95ae-1e234277c4a3.jpg"
         },
         {
-            "title": "填补我国空白 中国翼型谱系及数据库发布",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241017/47393216.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241017/f52c5a57-581f-4c56-8df2-8059d76c118e.jpg"
+            "title": "4名中国女性在德国遭性侵：疑似华裔男子冒充女性求租",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241018/47398910.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/toutiao/20241017/e45baaaf-92ea-4331-bd34-c63cde4a3f43.jpg"
         },
         {
             "title": "长沙自建房倒塌事故案一审宣判：15人获刑",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241017/47397678.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/480x0/news/20241017/31605317-f284-4aa0-80fb-e0db4d15295f.jpg"
-        },
-        {
-            "title": "商务部回应中欧电动汽车关税谈判：磋商还存在分歧",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241017/47396444.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/563x0/news/20241017/cf0733d5-cbee-4440-a622-20923c73f070.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "日本广岛法院判决东电向福岛核事故灾民赔偿约 2400 万日元",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241017/47391227.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "A 股再次回归震荡，市场还能继续“牛”下去吗？专家和机构这么说",
@@ -231,12 +237,6 @@
             {
                 "title": "短视频“举牌”里暗藏的灰色产业链：男女主播齐上阵，温情变色情",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241016/47386553.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "吹牛老爹再被 4 男 2 女起诉性侵，面临 120 宗性侵诉讼",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241016/47386554.html?ayjr"
             }
         ]
     ]
