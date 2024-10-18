@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "多家银行今起下调人民币存款利率",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241018/47399930.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/574x0/news/20241018/3adc0901-8adf-453e-bf88-dedf64890043.png"
+        },
+        {
             "title": "皓月当空 一起回顾年度最大“超级月亮”！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241018/47399881.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20241018/7c154685-5abd-429b-b17d-e39da80420fb.jpg"
@@ -9,14 +14,14 @@
             "title": "千架无人机点亮阿联酋夜空 有这些熟悉的中国元素",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241018/47399261.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20241018/aaaba7b5-441a-4a90-8c86-9f0f72f29dff.jpg"
-        },
-        {
-            "title": "人手不足 成本上升 半年间超5000家日企破产",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241018/47399137.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241018/a7e6320d-aba2-4997-a775-c955025bb060.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "长沙自建房倒塌事故案一审宣判：15人获刑",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241017/47397678.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/480x0/news/20241017/31605317-f284-4aa0-80fb-e0db4d15295f.jpg"
+        },
         {
             "title": "商务部回应中欧电动汽车关税谈判：磋商还存在分歧",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241017/47396444.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241017/8ac88c04-c238-4940-8e61-869bf75afbb7.jpg"
         },
         {
-            "title": "央行：大部分存量房贷将在10月25日完成批量调整",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241017/47393794.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/300x0/news/20241017/93bb26fd-138e-412b-a6d9-1c5932eda67d.png"
+            "title": "人手不足 成本上升 半年间超5000家日企破产",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241018/47399137.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241018/a7e6320d-aba2-4997-a775-c955025bb060.jpg"
         },
         {
             "title": "以总理称辛瓦尔之死是“加沙战争走向结束的开端”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241018/47399089.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241018/a9aee74a-e9b9-40eb-bdf9-e8ededc9072d.jpg"
-        },
-        {
-            "title": "哈马斯领导人辛瓦尔死前向以军无人机投掷棍子",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241018/47399041.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241018/0883a8a0-7d66-45e5-9e01-5a83bc57c38a.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "菲律宾议员向美国索要退役巡洋舰",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241017/47391251.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "传化保险经纪及总经理李栋合计被罚 24 万，涉编制或者提供虚假报告",
@@ -231,12 +237,6 @@
             {
                 "title": "周文：诺贝尔奖名头拯救不了西方主流经济学",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241016/47386550.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "继续调整，两市超 4400 只股票下跌",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241016/47386551.html?ayjr"
             }
         ]
     ]
