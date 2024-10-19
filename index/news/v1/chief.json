@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "家门口就能找工作是什么体验？社区招聘会了解一下",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241019/47406994.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241019/de981fc1-5f18-43a9-bad3-797b08e0fd9b.jpg"
+        },
+        {
             "title": "航天员如何在太空中自给自足？这些细菌可能帮上忙",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241019/47406980.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241019/9b65ed73-f2aa-4950-a22f-64c16f987ce6.png"
@@ -9,14 +14,14 @@
             "title": "韩国防部：朝鲜的单方面主张无确认及反驳价值",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241019/47406966.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/542x0/news/20241019/17d684d9-4441-4ce7-be68-b974d5a20924.png"
-        },
-        {
-            "title": "哈马斯领导人遭袭身亡 加沙民众：抵抗不会结束",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241019/47406667.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241019/b66901b3-87f9-4cb9-b9aa-3896dcf6c8f2.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "哈马斯高级官员证实其领导人辛瓦尔死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241018/47405975.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241018/adcf591a-c634-4463-bdaf-4a35c6c318bd.jpg"
+        },
         {
             "title": "大降温已开启，320个寒潮预警信号生效",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241018/47405965.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241018/7f50625a-774a-41b1-b1ab-39a5aab526c7.jpg"
         },
         {
-            "title": "事关“企业职工基本养老保险病残津贴” 新规来了",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241018/47405589.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20241018/50cbdeb8-d655-48d0-b695-6da764ca6408.jpg"
+            "title": "哈马斯领导人遭袭身亡 加沙民众：抵抗不会结束",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241019/47406667.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241019/b66901b3-87f9-4cb9-b9aa-3896dcf6c8f2.jpg"
         },
         {
             "title": "前三季度外贸数据释放了什么信号？从这三方面观察",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241019/47406632.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241019/d825b6bb-d3ba-496e-aa09-247b9c60aa0e.jpg"
-        },
-        {
-            "title": "朝鲜公布证据 称无人机渗透事件由韩军方主导",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241019/47406599.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241019/cb829398-0fc1-4336-b599-ff06926d8400.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "网传一女子给制服人员下跪，警方通报",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241018/47402254.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "超3000亿！央行正式推出股票回购增持再贷款",
@@ -231,12 +237,6 @@
             {
                 "title": "中国海警依法驱离日非法进入我钓鱼岛领海船只",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241017/47391779.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "欧盟16国决定向以色列施压以防联黎部队遇袭",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241017/47391496.html?ayjr"
             }
         ]
     ]
