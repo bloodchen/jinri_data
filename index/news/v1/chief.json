@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "航行警告！北部湾水域将进行军事训练",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241019/47407831.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241019/33125479-0906-4fae-ae7d-7d8063ffdd14.jpg"
+        },
+        {
             "title": "3架从黎巴嫩发射的无人机进入以色列领空",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241019/47407781.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241019/2d93a578-0876-4e60-a279-3416b117cb76.jpg"
@@ -9,14 +14,14 @@
             "title": "乌克兰总统泽连斯基证实俄乌双方交换战俘",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241019/47407703.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241019/8852f121-ac26-40ba-885f-73e01d50d678.jpg"
-        },
-        {
-            "title": "守护国家秘密 一图详解“保密”那些事",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241019/47407545.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241019/0fa060bb-5b0c-4bed-803e-b67f9f9dd6ca.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "填补国内空白 汽车芯片认证审查技术体系1.0版发布",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241019/47407478.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20241019/0c5d5e0d-55d6-4ea3-bdca-fc69d3bbb90f.png"
+        },
         {
             "title": "普京：美国阻止中国发展犹如不让太阳升起",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241019/47407035.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241019/b66901b3-87f9-4cb9-b9aa-3896dcf6c8f2.jpg"
         },
         {
-            "title": "前三季度外贸数据释放了什么信号？从这三方面观察",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241019/47406632.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241019/d825b6bb-d3ba-496e-aa09-247b9c60aa0e.jpg"
+            "title": "守护国家秘密 一图详解“保密”那些事",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241019/47407545.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241019/0fa060bb-5b0c-4bed-803e-b67f9f9dd6ca.jpg"
         },
         {
             "title": "以色列法医：哈马斯领导人辛瓦尔死因系&quot;头部中弹&quot;",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241019/47407531.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241019/764d2bb9-e961-4e3f-8489-2e72064f9217.png"
-        },
-        {
-            "title": "北约防长会未支持乌克兰“胜利计划”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241019/47407519.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241019/b37a81aa-cc3a-4310-89e3-2d1fd3904bd8.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "刑拘！主播称遭日本神秘家族追杀，让粉丝买下“文物”先保管",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241018/47402265.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "王立华：瓦窑堡会议上，面对血海深仇，毛泽东竟说不再为敌？",
@@ -231,12 +237,6 @@
             {
                 "title": "美军一架战机坠毁 两名飞行员生死不明",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241017/47393691.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "泽连斯基公开&quot;胜利计划&quot; 5大关键点，3个秘密附件",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241017/47393291.html?ayjr"
             }
         ]
     ]
