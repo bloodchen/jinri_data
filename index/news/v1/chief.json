@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "以官员称以对伊朗导弹袭击的回应已“板上钉钉”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241021/47412831.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241021/c39a4598-6697-4c4e-8187-19b8bd1fac7a.jpg"
+        },
+        {
             "title": "印尼新任总统普拉博沃公布新一届政府内阁名单",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241021/47412613.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20241021/fc8de24d-1acd-4d80-bb34-b710179fab75.png"
@@ -9,14 +14,14 @@
             "title": "以军称黎真主党向以北部发射170余枚火箭弹",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241021/47412603.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241021/a0df172a-e5d6-420b-817e-8364850853ae.jpg"
-        },
-        {
-            "title": "劣质取暖器藏隐患偷工减料、伪造质检报告内幕曝光",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241021/47412593.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241021/570aedb1-8e05-466e-ac53-55034a218f36.png"
         }
     ],
     "midImg": [
+        {
+            "title": "新一股冷空气来袭，华南也能降温？台风也有消息？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241021/47412548.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/600x0/news/20241021/d7a8244c-4305-4ee3-bbcb-b8b4b6a27b3c.jpg"
+        },
         {
             "title": "沈阳农业大学“敞开大门”迎市民观银杏赏秋色",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241021/47412536.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20241020/8e9eca79-5722-4806-8824-8e2fe32bf72b.jpg"
         },
         {
-            "title": "视频丨以军首次公布辛瓦尔生前地下隧道活动画面",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241020/47411024.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20241020/6924e0a9-c044-4052-96b6-9784d3867588.png"
+            "title": "劣质取暖器藏隐患偷工减料、伪造质检报告内幕曝光",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241021/47412593.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241021/570aedb1-8e05-466e-ac53-55034a218f36.png"
         },
         {
             "title": "美众议院议长：将收到以色列报复伊朗计划外泄简报",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241021/47412579.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241021/d9d42d06-0341-4336-91f3-56994aeb02af.png"
-        },
-        {
-            "title": "2024游泳世界杯上海站收官 中国24枚奖牌位居第一",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241021/47412569.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241021/86041a96-9ccc-43ac-b721-432d46577581.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "填补国内空白 汽车芯片认证审查技术体系1.0版发布",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241019/47407478.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "普京：美国阻止中国发展犹如不让太阳升起",
@@ -231,12 +237,6 @@
             {
                 "title": "国家统计局：9月商品住宅销售价格同比降幅扩大，房地产市场预期改善",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241018/47402259.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "今年前三季度中国GDP同比增长4.8%",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241018/47402260.html?ayjr"
             }
         ]
     ]
