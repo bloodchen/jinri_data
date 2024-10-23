@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "中方重申反对单边强制措施 呼吁有关国家立即取消",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241023/47430477.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20241023/0dfbb524-4b47-4ff0-8213-bdd8dfb3c37e.jpg"
+        },
+        {
             "title": "以军称黎真主党高级领导人哈希姆·萨菲丁已死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241023/47430390.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241023/332283ca-0f94-49e6-b9c0-e148d780ae70.jpg"
@@ -9,14 +14,14 @@
             "title": "菲律宾求助台积电：我们想攀登价值链上游，把折旧设备给我们吧",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241023/47430208.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20241022/9c0b1cb6-fd21-4815-8fb3-2a472519f87c.jpg"
-        },
-        {
-            "title": "观网快评：相信杨笠也不愿成为舆论撕裂的符号",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241023/47430209.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/toutiao/20241022/5b1cda14-9830-4ed7-ae67-feeed70bff3e.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "鲁政委：如果你只是简单地发明了一项技术，并不会自动带来需求",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241023/47430213.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20241022/87f1ab5f-cb02-4870-a6b8-3efd6f5024bf.jpg"
+        },
         {
             "title": "澳大利亚原住民议员怒斥英王查尔斯：你不是我的国王",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241023/47430214.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20241022/4dfa19be-ff42-4260-b9a5-71dca2764152.jpg"
         },
         {
-            "title": "马凯硕：金砖是“日出俱乐部”，而G7是“日落俱乐部”",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241023/47430191.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20241022/eb815a17-bc7f-42df-89c6-2a87cd90cae3.jpg"
+            "title": "观网快评：相信杨笠也不愿成为舆论撕裂的符号",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241023/47430209.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/toutiao/20241022/5b1cda14-9830-4ed7-ae67-feeed70bff3e.jpg"
         },
         {
             "title": "香奈儿首次参与体育赞助，冠名的这项比赛游客也喜欢",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241023/47430210.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20241022/8a91a2c5-7189-4eee-bf49-8f6f39a078d9.jpg"
-        },
-        {
-            "title": "港媒：欧洲官员相信，美国想打造一个“没中国也能办成事的世界”",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241023/47430211.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20241022/3fa5a1d8-15b2-4cfe-90c6-8873202659d2.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "俄外交部表示将对波兰关闭俄领事馆进行回应",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241023/47429401.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "玻璃窗被打碎 以总理住宅遭袭受损照片获准发布",
@@ -231,12 +237,6 @@
             {
                 "title": "沙特阿美CEO：非常看好中国的石油需求",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241022/47422708.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "三星堆玉石器“生产车间”又有新发现 已辨认出19种原料材质",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241022/47422709.html?ayjr"
             }
         ]
     ]
