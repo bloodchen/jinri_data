@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "工信部： 积极应对反补贴调查、高额关税等贸易壁垒",
+            "url": "https://toutiao.china.com/s_aysh/aou/sh/13004012/20241024/47442483.html?aysh",
+            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20241024/bde50c08-d8f6-4a13-abf3-97aba258b56c.jpg"
+        },
+        {
             "title": "美国白人传奇说唱歌手埃米纳姆参加助选集会，站队哈里斯",
             "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20241024/47437898.html?aysh",
             "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20241023/b2c28e9d-9071-47d0-bc72-f1aaacf3e80c.jpg"
@@ -9,14 +14,14 @@
             "title": "高通回应Arm取消许可传闻：强行压迫合作伙伴",
             "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20241024/47437897.html?aysh",
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20241023/5c234deb-613e-4010-9ebb-d9f7d1480e82.jpg"
-        },
-        {
-            "title": "沃尔兹发出最猛烈抨击：马斯克在台上跳来跳去，像个傻瓜一样，“首富”要买下选举吗？",
-            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20241024/47437896.html?aysh",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20241023/36b9e423-3a94-4fd7-8213-099f2d5ae99d.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "中国光刻胶，离日本还有多大差距？",
+            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20241024/47437892.html?aysh",
+            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20241023/906cadd9-39c9-4734-b33c-1f8ba9baecf0.jpg"
+        },
         {
             "title": "金正恩视察朝鲜战略导弹基地，并勉励全体导弹兵",
             "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20241024/47437891.html?aysh",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20241024/157c66fd-89e1-4d70-802a-d3a71582b118.jpg"
         },
         {
-            "title": "星巴克遭遇业绩滑坡，CEO 称要让星巴克中国重归增长",
-            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20241024/47437886.html?aysh",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20241024/075e1172-bc87-479f-8660-9e164e89e815.jpg"
+            "title": "沃尔兹发出最猛烈抨击：马斯克在台上跳来跳去，像个傻瓜一样，“首富”要买下选举吗？",
+            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20241024/47437896.html?aysh",
+            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20241023/36b9e423-3a94-4fd7-8213-099f2d5ae99d.jpg"
         },
         {
             "title": "王自如罕见发博回应被强执，如今仍被限制高消费",
             "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20241024/47437895.html?aysh",
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20241023/ff185909-e54e-46a6-98b4-39f31c4ec8c8.jpg"
-        },
-        {
-            "title": "库克透露 Apple Intelligence 在中国的上线计划：有具体的监管流程，目前正在推进",
-            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20241024/47437894.html?aysh",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20241023/be6d0b1c-ac9d-4e28-8bc2-9b0fcc6ff2ce.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "库克回应苹果AI何时入华",
+                "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20241023/47433056.html?aysh"
+            }
+        ],
         [
             {
                 "title": "戴龙成任莆田市委副书记 林旭阳不再担任",
@@ -231,12 +237,6 @@
             {
                 "title": "酒泉卫星发射中心全力备战神舟十九号任务",
                 "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20241023/47430142.html?aysh"
-            }
-        ],
-        [
-            {
-                "title": "香港国际机场在广交会提供一站式上游值机服务",
-                "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20241023/47430141.html?aysh"
             }
         ]
     ]
