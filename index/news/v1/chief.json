@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "中央机关公开遴选和选调公务员，这些人可报名",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241027/47455594.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20241027/e8a524ee-523a-41ed-bcaa-bee91f378232.png"
+        },
+        {
             "title": "亲历者：以军在加沙医院内四处开火 羞辱医护人员",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241027/47455534.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241027/2e68f276-1f89-44ab-affc-52a59a68fb9a.jpg"
@@ -9,14 +14,14 @@
             "title": "2025年度央选和公开选调公务员报名即将开始",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241027/47455310.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20241027/20fe961a-fe00-4d2d-a738-3d1eb85b5f36.png"
-        },
-        {
-            "title": "美国批准向中国台湾地区出售武器，外交部驳斥",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241027/47455039.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241027/ce3206d6-3fb7-47e6-b682-e2730a733067.png"
         }
     ],
     "midImg": [
+        {
+            "title": "财务告急 波音公司考虑出售太空业务自救",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241027/47454811.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241027/beaff237-dc9f-4b55-8d2a-2b3c99946ae2.jpg"
+        },
         {
             "title": "美以国防部长通电话 讨论以色列对伊朗的打击",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241027/47454802.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241026/f360976b-0102-4a13-bcf2-fcf7d2b94a7c.jpg"
         },
         {
-            "title": "新疆库车市发生5.5级地震 四级应急服务响应启动",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241026/47454282.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/300x0/news/20241026/0e938c8d-5428-43e6-8ee8-e6d7f3a8f564.jpg"
+            "title": "美国批准向中国台湾地区出售武器，外交部驳斥",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241027/47455039.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241027/ce3206d6-3fb7-47e6-b682-e2730a733067.png"
         },
         {
             "title": "2024年冬春航季航班计划今起执行 部分票价下降7%",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241027/47455060.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/562x0/news/20241027/6cab646a-7ab8-4e8f-8089-79162baea6d9.png"
-        },
-        {
-            "title": "以色列总理办公室否认袭击前向伊朗发出警告",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241027/47455049.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241027/859e2513-06bd-4b59-b2f0-9b01db4208c2.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "中印已从争议边界地区撤军？外交部介绍情况",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241025/47450019.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "中日两国央行续签双边本币互换协议",
@@ -231,12 +237,6 @@
             {
                 "title": "美国务院批准向沙特出售“陶”式反坦克导弹",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241025/47445742.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "加沙难民：我们不是死于战火 就是死于饥饿",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241025/47445717.html?ayjr"
             }
         ]
     ]
