@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "“华龙一号”全球首堆核电站累计发电超3000亿度",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241031/47487865.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241031/558da490-2400-48d5-bc8a-c4a6a2f91821.png"
+        },
+        {
             "title": "停航、停运、停课！超强台风“康妮”即将登陆！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241031/47487621.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241031/01949fd7-069a-4434-a8de-003e1edbdc67.jpg"
@@ -9,14 +14,14 @@
             "title": "金正恩：朝鲜不会改变核武力强化路线",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241031/47486273.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20241031/e45c1c41-0fcd-4926-a864-4af2ab1ab807.png"
-        },
-        {
-            "title": "朝鲜宣布31日试射洲际弹道导弹",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241031/47486224.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20241031/feca984b-61bf-438f-90ed-1909e9dffa05.png"
         }
     ],
     "midImg": [
+        {
+            "title": "玉渊谭天丨美半导体总裁称美国限制并不必要",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241031/47485326.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20241031/b37653ed-e907-4a8b-a41a-78a1ffffa75a.png"
+        },
         {
             "title": "神十九乘组在轨实验、出舱活动有何意义？解读来了",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241031/47485161.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241031/a50cc838-19c4-481e-a210-86452450c269.jpg"
         },
         {
-            "title": "本轮黎以冲突已致黎巴嫩2822人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241031/47483670.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241031/260ea27d-65dc-4c32-97eb-77a08689c2c6.jpg"
+            "title": "朝鲜宣布31日试射洲际弹道导弹",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241031/47486224.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20241031/feca984b-61bf-438f-90ed-1909e9dffa05.png"
         },
         {
             "title": "日本央行决定维持政策利率在0.25%左右",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241031/47486175.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/361x0/news/20241031/aeaeb1e8-c3db-4be9-8065-c0647b596f9a.png"
-        },
-        {
-            "title": "购物车里的“情绪”，该如何安放？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241031/47486029.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/600x0/news/20241031/4f3cfd19-77fd-4c49-ba8b-c696a68b83c8.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美国对华“卡脖子” 却把自家芯片巨头砸倒了",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241030/47479924.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "神十九乘组训练实录大放送！",
@@ -231,12 +237,6 @@
             {
                 "title": "药品耗材有了追溯码，实现生产流通销售全流程监管",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241030/47474919.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "以色列禁止联合国救援机构开展活动，多方谴责",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241030/47474902.html?ayjr"
             }
         ]
     ]
