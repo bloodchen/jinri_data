@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "外交部：中方坚定支持古巴人民反对外来干涉和封锁",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241031/47488705.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241031/bce1425c-bd99-47a1-9e5f-5ec757e0a79c.png"
+        },
+        {
             "title": "辽宁舰、山东舰首次开展双航母编队演练",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241031/47488637.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241031/1e213705-ef5b-4235-9259-c0f503cff269.jpg"
@@ -9,14 +14,14 @@
             "title": "巴以停火谈判陷僵局：以哈分歧大 美国捞政绩",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241031/47487974.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241031/702f61fd-ec92-4b29-93ea-e97881b4f0b3.jpg"
-        },
-        {
-            "title": "北京开始换发第三代社保卡 换发时间和范围请注意",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241031/47487953.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241031/95f078f9-b61b-42da-a533-8228f34dc2a4.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "朝鲜宣布31日试射洲际弹道导弹",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241031/47486224.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20241031/feca984b-61bf-438f-90ed-1909e9dffa05.png"
+        },
         {
             "title": "日本央行决定维持政策利率在0.25%左右",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241031/47486175.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241031/4e6662b0-1afb-4052-85b5-5a3bb7c70c9f.jpg"
         },
         {
-            "title": "六大银行明起实施存量房贷利率调整新机制",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241031/47485062.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20241031/e62ce53b-e3da-4c8e-8241-3591bf433e86.png"
+            "title": "北京开始换发第三代社保卡 换发时间和范围请注意",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241031/47487953.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241031/95f078f9-b61b-42da-a533-8228f34dc2a4.jpg"
         },
         {
             "title": "“华龙一号”全球首堆核电站累计发电超3000亿度",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241031/47487865.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241031/558da490-2400-48d5-bc8a-c4a6a2f91821.png"
-        },
-        {
-            "title": "停航、停运、停课！超强台风“康妮”即将登陆！",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241031/47487621.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241031/01949fd7-069a-4434-a8de-003e1edbdc67.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "探访江苏知名农民副县长“三蟒”的豪宅：他被抓当晚有老百姓放鞭庆祝",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241030/47481267.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "徐志胜代言羽绒服广告太魔性，网友：我就信他！",
@@ -231,12 +237,6 @@
             {
                 "title": "以军回应加沙北部建筑遭袭致上百人死亡：仍在调查",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241030/47474956.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "俄罗斯战略核力量演习期间发射3枚洲际弹道导弹",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241030/47474947.html?ayjr"
             }
         ]
     ]
