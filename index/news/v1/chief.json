@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "这一承诺，中国提前6年兑现",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241103/47503525.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241103/c2540519-65a1-4a0a-a323-d2f97ad1958a.jpg"
+        },
+        {
             "title": "期待！中国空间站第三代“太空水稻”即将收获",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241103/47503381.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241103/1f891d3d-fd5b-4be2-ac6a-b0240503c2ba.jpg"
@@ -9,14 +14,14 @@
             "title": "30000名选手参赛 2024北京马拉松鸣枪开跑",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241103/47503041.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241103/e37a4e79-532f-4a4e-9910-4b69d1c49154.png"
-        },
-        {
-            "title": "中国驻西班牙大使馆：2人遇难，2人失联",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241103/47502945.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/640x0/news/20241103/be16e27d-5be6-46e8-b033-9e6fcc7444ab.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "游泳世界杯新加坡站女子200米混合泳余依婷夺金牌",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241102/47502430.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241102/40fbaab8-24a9-46c4-90c3-8eafd221137c.png"
+        },
         {
             "title": "降水量↑降水日↓ 气象专家：我国暴雨日数在增多",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241102/47502418.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20241102/95ad2835-7b73-47a2-a5e2-71f382224497.jpg"
         },
         {
-            "title": "北京9条道路将开展不用融雪剂试点",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241102/47502335.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20241102/2b9796e8-74ac-4643-a2b0-0a9ce315beaf.jpg"
+            "title": "中国驻西班牙大使馆：2人遇难，2人失联",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241103/47502945.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/640x0/news/20241103/be16e27d-5be6-46e8-b033-9e6fcc7444ab.jpg"
         },
         {
             "title": "爆火！“天花板中的天花板”，被谁抢到了？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241103/47502932.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241103/74484a46-a74f-4fe6-8dce-f0d51bdb2d95.png"
-        },
-        {
-            "title": "西班牙遭遇世纪洪灾 灾民：一夜之间家园都没了",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241103/47502889.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241103/bf491030-7291-449c-a8cf-863d4f1794c0.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "判决书写错刑期，男子出狱后又被羁押？法院：案件承办人被记大过",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241101/47497938.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "倒计时 100 天，361 ° 正式发布哈尔滨 2025 年第九届亚冬会官方运动服饰",
@@ -231,12 +237,6 @@
             {
                 "title": "人形机器人来了，它能做什么？",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241101/47493499.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "台风黄色预警：“康妮”今天或在浙江登陆",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241101/47492493.html?ayjr"
             }
         ]
     ]
