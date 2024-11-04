@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "北京楼市新政效果显著 10月二手房卖了1.7万多套",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241104/47509720.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/550x0/news/20241104/00e1fb1d-ca8c-4b18-b77d-ecae4c373838.jpg"
+        },
+        {
             "title": "美国密歇根州发生一起交通事故 致4死17伤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241104/47508040.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/323x0/news/20241104/f0c377c6-cd27-40fd-8bce-dde30f51a887.jpg"
@@ -9,14 +14,14 @@
             "title": "巴菲特大动作！再度抛售苹果股票",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241104/47508031.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/640x0/news/20241104/376f0f13-123b-4c10-bb4a-aad3334eb8fe.jpg"
-        },
-        {
-            "title": "存量房贷利率步入常态化调整阶段",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241104/47508014.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241104/8cc25688-3f4d-4fb3-aad8-69465a5d26d1.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美国大选冷知识：投给特朗普 1 亿美元 马斯克能获得多少回报？",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241104/47507566.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20241101/384c33e5-7ea5-4203-81f9-ca5cadf7efbd.jpg"
+        },
         {
             "title": "农行回应女员工遭恐吓不幸轻生：尚在调查",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241104/47507567.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20241102/1f7a8396-169a-4f10-a820-11566ab2d313.jpg"
         },
         {
-            "title": "被囚禁的 5 年，被转向的人生",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241104/47507545.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20241102/728d6c1a-4230-4f43-9761-43f26056ac44.jpg"
+            "title": "存量房贷利率步入常态化调整阶段",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241104/47508014.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241104/8cc25688-3f4d-4fb3-aad8-69465a5d26d1.jpg"
         },
         {
             "title": "广西南宁宾阳县房屋倒塌搜救工作结束 致5人遇难",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241104/47507985.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/640x0/news/20241104/3f5d894d-69dc-40da-87c3-7dda2ce16101.jpg"
-        },
-        {
-            "title": "美民调：哈里斯在关键“摇摆州”以微弱优势领先",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241104/47507951.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241104/f1d3e070-e1ce-4c8b-9c11-df01708b0ac5.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "各地秋收接近尾声 收储工作有序展开",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241104/47505827.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "14700000000，美国大选究竟有多“烧钱”？",
@@ -231,12 +237,6 @@
             {
                 "title": "北京9条道路将开展不用融雪剂试点",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241102/47502335.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "2024中国航空产业大会暨南昌飞行大会",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241102/47502323.html?ayjr"
             }
         ]
     ]
