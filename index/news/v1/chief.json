@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "外交部：中方对美国的政策一以贯之",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241106/47529414.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241106/e2f6a509-53ff-46eb-b061-f45e3b284b68.png"
+        },
+        {
             "title": "特朗普宣布在2024年美国总统选举中获胜",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241106/47529186.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20241106/3c95d4db-2dfe-409c-8239-bfd6564d4d32.png"
@@ -9,14 +14,14 @@
             "title": "美媒测算特朗普获超半数选举人票锁定胜局",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241106/47528917.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20241106/40dd8957-7fda-4f85-920e-6aa331492dfe.png"
-        },
-        {
-            "title": "美国大选投票结束：美媒预测特朗普暂获247张选票",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241106/47528244.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20241106/1604c4c9-9709-40a1-8db3-4a9b2208956a.png"
         }
     ],
     "midImg": [
+        {
+            "title": "世界首颗木壳人造卫星升空",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241106/47526560.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241106/5cdb15bb-28de-4a79-85b4-b83b704a4a2b.png"
+        },
         {
             "title": "多家跨国车企反对欧盟对华电动汽车制裁",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241106/47526489.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241106/0a50238b-04ad-4d23-95c7-834bce706804.png"
         },
         {
-            "title": "中国新一代隐形战机，何以命名“歼-35A”？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241106/47526020.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241106/1d0c1074-662b-47b2-a6ac-0078b43e1635.jpg"
+            "title": "美国大选投票结束：美媒预测特朗普暂获247张选票",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241106/47528244.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20241106/1604c4c9-9709-40a1-8db3-4a9b2208956a.png"
         },
         {
             "title": "江西：南昌海关截获外来物种巨人恐蚁",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241106/47528164.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241106/7c62dcb2-c50f-40a1-b22a-4886207f4cc2.jpg"
-        },
-        {
-            "title": "波兰前外长：美欲将支持乌克兰的费用转嫁欧洲",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241106/47528143.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241106/6897cef9-4c8a-4b77-85ff-fe4a5bfc184e.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "醉酒女子在路边被强暴后自杀？柳州警方通报",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241106/47524600.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "特朗普称将因芬太尼问题对中国征收关税，中方回应",
@@ -231,12 +237,6 @@
             {
                 "title": "没收盈利，三倍罚款",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241106/47524558.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美股收评：三大指数均涨超1% 英伟达重新成为全球市值最高公司",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241106/47524559.html?ayjr"
             }
         ]
     ]
