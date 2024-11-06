@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美国大选投票结束：美媒预测特朗普暂获247张选票",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241106/47528244.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20241106/1604c4c9-9709-40a1-8db3-4a9b2208956a.png"
+        },
+        {
             "title": "江西：南昌海关截获外来物种巨人恐蚁",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241106/47528164.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241106/7c62dcb2-c50f-40a1-b22a-4886207f4cc2.jpg"
@@ -9,14 +14,14 @@
             "title": "波兰前外长：美欲将支持乌克兰的费用转嫁欧洲",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241106/47528143.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241106/6897cef9-4c8a-4b77-85ff-fe4a5bfc184e.png"
-        },
-        {
-            "title": "向境外间谍情报机关提供大量国家秘密，判处死刑！",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241106/47526762.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20241106/66f520a9-f664-4cee-8627-22257f3bd7e8.png"
         }
     ],
     "midImg": [
+        {
+            "title": "以总理解雇防长 以总统：安全必须高于一切",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241106/47526444.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241106/5182fb00-a8ff-40f4-b398-89172a5bdf5e.jpg"
+        },
         {
             "title": "参与刺杀核科学家 伊朗法院判处3人死刑",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241106/47526428.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/488x0/news/20241106/4c0c501b-4328-4d1d-a964-e2444baed9b2.png"
         },
         {
-            "title": "成都城管执法时与鱼贩发生推搡、城管倒地，警方回应",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241106/47524610.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20241105/0f51c9f8-7f90-4746-9b54-356039333031.jpg"
+            "title": "向境外间谍情报机关提供大量国家秘密，判处死刑！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241106/47526762.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20241106/66f520a9-f664-4cee-8627-22257f3bd7e8.png"
         },
         {
             "title": "世界首颗木壳人造卫星升空",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241106/47526560.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241106/5cdb15bb-28de-4a79-85b4-b83b704a4a2b.png"
-        },
-        {
-            "title": "多家跨国车企反对欧盟对华电动汽车制裁",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241106/47526489.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241106/7b139a3e-5af2-4254-a7e2-9cc54eaaeab8.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "郑重道歉！歌手陈雪凝回应抄袭汪苏泷",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241106/47524603.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "心智障碍人士被骗背车贷，警惕金融诈骗围猎弱势群体｜新京报快评",
@@ -231,12 +237,6 @@
             {
                 "title": "上证早知道｜腾讯，大消息；低空经济，利好不断；国航接收第二架C919",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241106/47524561.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "七届进博会“全勤生”，丰田打开更多宝藏",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241106/47524562.html?ayjr"
             }
         ]
     ]
