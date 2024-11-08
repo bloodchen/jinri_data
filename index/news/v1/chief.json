@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "大选落幕 撕裂的美国社会将走向何方？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241108/47541107.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241108/8a716d6d-239f-4fb5-bd4f-74f97e20f970.jpg"
+        },
+        {
             "title": "美联储宣布降息25个基点 对市场产生哪些影响？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241108/47541059.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/600x0/news/20241108/4e3bdb3a-d463-47e1-ae76-582156f7eec1.jpg"
@@ -9,14 +14,14 @@
             "title": "特朗普获胜后，拜登首次公开讲话",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241108/47540992.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20241108/fd94521c-3f68-42c3-a3d9-435c847e7c31.png"
-        },
-        {
-            "title": "特朗普，在重复 132 年前的故事？",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241108/47540023.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20241107/ccb8e251-644e-4925-a6b9-112acbe5728a.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "判处死刑后，余华英已上诉",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241108/47540008.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20241107/5791083e-8065-4150-928f-ba4e0397f451.jpg"
+        },
         {
             "title": "特朗普的第二任期，逃不过这“三座大山”",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241108/47540009.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20241107/0a925dc4-3133-48ed-909c-f77596dd59ce.jpg"
         },
         {
-            "title": "网传上海一化工厂突发火灾，浓烟滚滚？官方发布公告",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241108/47540016.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20241107/2e208342-74ca-45d5-b092-efdfd0d68df7.jpg"
+            "title": "特朗普，在重复 132 年前的故事？",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241108/47540023.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20241107/ccb8e251-644e-4925-a6b9-112acbe5728a.jpg"
         },
         {
             "title": "湖南一学校欠薪，老师罢工给学生放假，教育局回应",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241108/47540024.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20241107/4aa7a7c5-7752-4d21-82eb-1cbd450fb20f.jpg"
-        },
-        {
-            "title": "喜茶首次亮相进博会，推动新茶饮健康化转型",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241108/47540025.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20241107/b4aa7b8d-e865-43f8-955b-94873ff10174.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "国务院任免国家工作人员",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241107/47532059.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "特朗普官宣赢得美国大选 一文读懂其政策主张",
@@ -231,12 +237,6 @@
             {
                 "title": "美国印第安纳与肯塔基两州率先结束总统大选投票",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241106/47524722.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "以色列前防长：与政府高层在加沙停火等方面存分歧",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241106/47524698.html?ayjr"
             }
         ]
     ]
