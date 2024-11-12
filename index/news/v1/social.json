@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "波兰军方要求为与俄罗斯开战做准备 强调冲突风险非常高",
+            "url": "https://toutiao.china.com/s_aysh/toutiao/suiji/13002842/20241113/47571481.html?aysh",
+            "img": "https://img2.utuku.imgcdc.com/650x0/toutiao/20241113/324308ba-6154-4745-a219-48da458e0d02.jpg"
+        },
+        {
             "title": "假期增2天！春节休8天，五一休5天，国庆中秋连休8天……2025年放假安排来了！",
             "url": "https://toutiao.china.com/s_aysh/aou/sh/13004012/20241112/47570268.html?aysh",
             "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20241112/ea1f816c-5a4a-49ff-bb9d-25afd97650f5.jpg"
@@ -9,14 +14,14 @@
             "title": "特朗普胜选，内塔尼亚胡在期待什么？",
             "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20241112/47567659.html?aysh",
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20241112/c854261e-a716-4e37-a25b-9ecb03f2630b.jpg"
-        },
-        {
-            "title": "北京 180 栋荒废别墅 7 折拍卖，背后潜藏 30 年往事",
-            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20241112/47567658.html?aysh",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20241112/18df045c-1a6d-419c-9352-812ceefb5167.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "日本有意推出 10 万亿日元半导体、人工智能支持政策",
+            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20241112/47567654.html?aysh",
+            "img": "https://img3.utuku.imgcdc.com/336x0/toutiao/20241112/cf2547ba-52d3-44ae-ab2b-823bd9a78e6f.jpg"
+        },
         {
             "title": "不只有三隐身战机同台首秀 航展上你还能看到这些“新面孔”",
             "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20241112/47567653.html?aysh",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20241112/1c73f61c-4815-4388-b43a-607a2df6549d.jpg"
         },
         {
-            "title": "AEF1200 发动机首次亮相 将为我国大型飞机提供动力",
-            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20241112/47567648.html?aysh",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20241112/d859697b-bad8-4286-a9da-c9916806bc63.jpg"
+            "title": "北京 180 栋荒废别墅 7 折拍卖，背后潜藏 30 年往事",
+            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20241112/47567658.html?aysh",
+            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20241112/18df045c-1a6d-419c-9352-812ceefb5167.jpg"
         },
         {
             "title": "网传“天津某大学有学生被杀害”，警方通报",
             "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20241112/47567657.html?aysh",
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20241112/d5bd3d69-37c3-4098-a49c-10d46592c336.jpg"
-        },
-        {
-            "title": "四川男教师被举报猥亵女学生后指认现场时坠亡 案件本周五开庭",
-            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20241112/47567656.html?aysh",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20241112/2b1a47f1-04a5-4bc1-968e-51cef2936819.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "BBA 净利“腰斩”背后",
+                "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20241112/47564538.html?aysh"
+            }
+        ],
         [
             {
                 "title": "多种机型参展，无锡低空企业将亮相中国航展",
@@ -231,12 +237,6 @@
             {
                 "title": "中国货运航天飞机“昊龙”亮相中国航展",
                 "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20241111/47559180.html?aysh"
-            }
-        ],
-        [
-            {
-                "title": "中国航展歼 20S、歼 35A 将首次同框",
-                "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20241111/47559179.html?aysh"
             }
         ]
     ]
