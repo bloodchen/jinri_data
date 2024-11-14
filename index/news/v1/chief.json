@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "公安部：全国持枪、爆炸犯罪案件同比下降25.8%",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241114/47581451.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241114/bc236805-33a5-4380-8b40-5c30a276d694.jpg"
+        },
+        {
             "title": "教育部：2025届高校毕业生预计规模1222万人",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241114/47581100.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20241114/430eebd0-6b8c-4672-8f39-5f61e85f4043.png"
@@ -9,14 +14,14 @@
             "title": "获刑三年、罚金20万元 李佩霞受贿案一审宣判",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241114/47581063.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20241114/70b11782-33f2-4a4e-8a01-8c7eb66351f2.png"
-        },
-        {
-            "title": "我国新能源汽车年度产量首次突破1000万辆",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241114/47580852.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20241114/dab808bc-6158-4b95-96b2-f266bef3816f.png"
         }
     ],
     "midImg": [
+        {
+            "title": "海洋盐度探测卫星成功发射",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241114/47579835.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241114/141ce8da-b364-469d-9df1-23f6c973897b.jpg"
+        },
         {
             "title": "牛肉面外卖中吃出疑似老鼠头？官方通报",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241114/47579649.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20241113/b672c03b-dfe6-4521-9ec9-ffd400567abe.jpg"
         },
         {
-            "title": "中信证券股价创新高后，越秀资本拟高位减持 1% 股份，预计套现近 40 亿",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241114/47579654.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/toutiao/20241113/0963ab2a-92a4-4c4d-b44a-5059253ac2fa.jpg"
+            "title": "我国新能源汽车年度产量首次突破1000万辆",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241114/47580852.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20241114/dab808bc-6158-4b95-96b2-f266bef3816f.png"
         },
         {
             "title": "也门胡塞武装将目标对准美国航母意义何在？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241114/47580711.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241114/1252457a-a46a-4bf9-bf37-c4865fe58fa4.jpg"
-        },
-        {
-            "title": "买房还没交契税能享受吗？专家解读房地产税收新政",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241114/47580642.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241114/afa1b457-c63c-4a30-9f8f-006f0814b88f.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "海缆+陆缆 我国首个百万千瓦级海上光伏项目并网",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241113/47571889.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "5分钟送达！全国首个小微型低空经济服务站启用",
@@ -231,12 +237,6 @@
             {
                 "title": "狂飙！比特币突破89000美元！狗狗币暴涨超20%",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241112/47566401.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "石破茂被指在首相指名选举时打瞌睡 日本政府回应",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241112/47566376.html?ayjr"
             }
         ]
     ]
