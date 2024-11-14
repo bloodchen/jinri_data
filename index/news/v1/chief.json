@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "中国驻韩国大使馆提醒中国公民切勿违规使用无人机",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241114/47581487.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241114/afadaa1e-a0a7-4e99-89e8-66228074f24f.png"
+        },
+        {
             "title": "公安部：全国持枪、爆炸犯罪案件同比下降25.8%",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241114/47581451.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241114/bc236805-33a5-4380-8b40-5c30a276d694.jpg"
@@ -9,14 +14,14 @@
             "title": "教育部：2025届高校毕业生预计规模1222万人",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241114/47581100.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20241114/430eebd0-6b8c-4672-8f39-5f61e85f4043.png"
-        },
-        {
-            "title": "获刑三年、罚金20万元 李佩霞受贿案一审宣判",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241114/47581063.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20241114/70b11782-33f2-4a4e-8a01-8c7eb66351f2.png"
         }
     ],
     "midImg": [
+        {
+            "title": "前所未有 特朗普过渡团队起草国防部解雇人员名单",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241114/47580588.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241114/9dd6bb83-63fd-464e-b112-f87daed1eba2.jpg"
+        },
         {
             "title": "海洋盐度探测卫星成功发射",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241114/47579835.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20241113/86fcd3f3-b532-486d-97b5-f0595837bdd2.jpg"
         },
         {
-            "title": "楼市大利好，降至史低！解读来了",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241114/47579653.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20241113/b672c03b-dfe6-4521-9ec9-ffd400567abe.jpg"
+            "title": "获刑三年、罚金20万元 李佩霞受贿案一审宣判",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241114/47581063.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20241114/70b11782-33f2-4a4e-8a01-8c7eb66351f2.png"
         },
         {
             "title": "我国新能源汽车年度产量首次突破1000万辆",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241114/47580852.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20241114/dab808bc-6158-4b95-96b2-f266bef3816f.png"
-        },
-        {
-            "title": "也门胡塞武装将目标对准美国航母意义何在？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241114/47580711.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241114/1252457a-a46a-4bf9-bf37-c4865fe58fa4.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "特朗普宣布马斯克新职务",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241113/47572929.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "海缆+陆缆 我国首个百万千瓦级海上光伏项目并网",
@@ -231,12 +237,6 @@
             {
                 "title": "400平方米巨幅墙体彩绘扮美冰城迎“亚冬”",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241113/47570985.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "狂飙！比特币突破89000美元！狗狗币暴涨超20%",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241112/47566401.html?ayjr"
             }
         ]
     ]
