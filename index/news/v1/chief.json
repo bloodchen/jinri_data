@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "韩国高考开考 下午听力时段全境暂停飞机起降",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241114/47584254.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241114/57725384-e65e-4cd4-b83a-2493f841bbff.jpg"
+        },
+        {
             "title": "特朗普继续“点兵点将” 内阁新班底雏形初现",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241114/47583758.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241114/bad8bbc6-0c8d-47d8-8bb4-697858b7d056.jpg"
@@ -9,14 +14,14 @@
             "title": "居家医疗、免陪护……“适老化”价格项目新增了啥",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241114/47583699.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241114/e9efef98-5174-4b13-9041-dc33ece29b6c.jpg"
-        },
-        {
-            "title": "主持人当国防部长？特朗普提名",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241114/47582063.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241114/c1556580-270b-49ec-883b-93f458ec544f.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "公安部：全国持枪、爆炸犯罪案件同比下降25.8%",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241114/47581451.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241114/bc236805-33a5-4380-8b40-5c30a276d694.jpg"
+        },
         {
             "title": "教育部：2025届高校毕业生预计规模1222万人",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241114/47581100.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241114/afa1b457-c63c-4a30-9f8f-006f0814b88f.jpg"
         },
         {
-            "title": "前所未有 特朗普过渡团队起草国防部解雇人员名单",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241114/47580588.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241114/9dd6bb83-63fd-464e-b112-f87daed1eba2.jpg"
+            "title": "主持人当国防部长？特朗普提名",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241114/47582063.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241114/c1556580-270b-49ec-883b-93f458ec544f.jpg"
         },
         {
             "title": "苏丹中部一城市遭围困 已致463名平民死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241114/47581686.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20241114/107a3888-fd67-4782-96fd-7f63645b73cf.jpg"
-        },
-        {
-            "title": "太空旅行，到底去哪？怎么去？费用如何？一文深解",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241114/47581661.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241114/aa33c619-cdbe-4a0a-9781-d78901c3b158.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "国台办：“台独”分裂和外来干涉阻挡不了历史大势",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241113/47575542.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "国务院台办：“倚外谋独”的下场只会是任人宰割",
@@ -231,12 +237,6 @@
             {
                 "title": "恶毒语言难以启齿！女子遭丈夫网暴，隐私信息被四处散布",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241113/47571364.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "乌总统签署法令 对俄白部分机构及个人实施制裁",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241113/47571037.html?ayjr"
             }
         ]
     ]
