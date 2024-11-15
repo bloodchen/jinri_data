@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "特朗普提名北达科他州州长伯格姆为内政部部长",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241115/47588871.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241115/75bc8a6d-3ece-4feb-9c6f-fe48562c85a7.png"
+        },
+        {
             "title": "保留现金存单等金融服务方式 尊重老年人使用习惯",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241115/47587665.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20241115/c3c5bbcf-c5b4-40b9-9fee-a15d7b6f2632.png"
@@ -9,14 +14,14 @@
             "title": "以军称将对16起加沙空袭行动展开调查",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241115/47587250.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241115/93fb7955-9517-41a4-a8b7-b37315eb18bd.jpg"
-        },
-        {
-            "title": "紫金矿业就金矿遭非法采矿发布说明：带来了一定的损失，安全仍可控",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241115/47586896.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/toutiao/20241114/ad9251a6-ab57-41e8-95d3-0a0966f1587c.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "券商卷起两融价格战，最低 3.5% 融资利率拼抢客户，“过度宣导”或潜藏合规风险",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241115/47586900.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20241114/f7b37783-995c-4606-8d89-2322e5b3d02c.jpg"
+        },
         {
             "title": "杨健、杨坤，同日被查",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241115/47586901.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20241114/550b0e43-dd52-422e-932b-125229442d39.png"
         },
         {
-            "title": "美方致函台积电对某些芯片出口限制 商务部回应",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241114/47584969.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20241114/ee7badff-af04-40ef-83cd-685d6b171744.png"
+            "title": "紫金矿业就金矿遭非法采矿发布说明：带来了一定的损失，安全仍可控",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241115/47586896.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/toutiao/20241114/ad9251a6-ab57-41e8-95d3-0a0966f1587c.jpg"
         },
         {
             "title": "夫妻闹离婚，公婆拿出 900 多万元的欠条要求还款，未在借条上签字的妻子该还吗？",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241115/47586897.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20241114/4fdce287-21ae-4bf3-877f-33d9b2352075.jpg"
-        },
-        {
-            "title": "特朗普身边漂亮的“人体打印机”引关注，78 岁准总统曾救了她一命",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241115/47586898.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20241114/38f62fe3-9315-4e29-8182-a9f042311034.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美股收评：三大指数涨跌不一 大型科技股多数上涨 英特尔涨超3%",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241114/47579639.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "城乡融合拓展粮食提质增效空间",
@@ -231,12 +237,6 @@
             {
                 "title": "发现供排水设施等遗迹 圆明园考古有多项新发现",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241113/47571846.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "一上来就翻筋斗！直击歼 -35A 航展表演首秀",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241113/47571793.html?ayjr"
             }
         ]
     ]
