@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "联合国：以军在加沙行为符合“种族灭绝”特征",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241115/47590222.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241115/49d58315-b0cd-4f33-bdc1-ece1a513bda1.png"
+        },
+        {
             "title": "有备份 更精确 天舟和它的“专车”有啥“超能力”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241115/47590168.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20241115/013b2466-2a0b-44e8-89ed-cac8d4141c79.jpg"
@@ -9,14 +14,14 @@
             "title": "坚持捐赠26年 “顺其自然”又出现了",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241115/47590070.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241115/f9ab8e67-2cf8-40df-a508-06b0d22d9f50.jpg"
-        },
-        {
-            "title": "美媒称以色列欲拿黎以停火给特朗普上任“献礼”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241115/47589303.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241115/b4181a3c-8c50-45ef-968a-0e20d9558c42.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "特朗普提名北达科他州州长伯格姆为内政部部长",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241115/47588871.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241115/75bc8a6d-3ece-4feb-9c6f-fe48562c85a7.png"
+        },
         {
             "title": "保留现金存单等金融服务方式 尊重老年人使用习惯",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241115/47587665.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20241114/38f62fe3-9315-4e29-8182-a9f042311034.jpg"
         },
         {
-            "title": "媒体：校园招聘“三严禁”新规落地需要破除三大难",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241115/47586899.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20241114/3544dfcf-7b79-4bb7-a920-df87b3632e9c.jpg"
+            "title": "美媒称以色列欲拿黎以停火给特朗普上任“献礼”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241115/47589303.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241115/b4181a3c-8c50-45ef-968a-0e20d9558c42.jpg"
         },
         {
             "title": "国家级法律AI基座模型发布 助力司法工作智能化",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241115/47589274.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241115/beb932a2-6524-4c98-b9e2-57c3665ca2cd.jpg"
-        },
-        {
-            "title": "龙、鲨、鹰、鹏、神……我国军机是如何命名的？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241115/47589143.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241115/6836d029-f788-49be-a5ef-a569051b5cd2.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "牛肉面外卖中吃出疑似老鼠头？官方通报",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241114/47579649.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "大范围大雾、暴雨、暴雪来袭，这些地方出行请注意……",
@@ -231,12 +237,6 @@
             {
                 "title": "国务院台办：大陆强大实力是台湾同胞的坚实保护",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241113/47573917.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "特朗普一天内提名多位重要官员都有谁？",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241113/47573511.html?ayjr"
             }
         ]
     ]
