@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "北京取消普通住房和非普通住房标准 加大税收优惠",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241119/47607618.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20241119/b61a5408-bf40-4278-b576-8e4100bf672b.jpg"
+        },
+        {
             "title": "4年多亏损超25亿美元 美廉航巨头精神航空申请破产",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241119/47607605.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241119/4ee22435-a1b5-4777-ac2d-8939a7ed330a.jpg"
@@ -9,14 +14,14 @@
             "title": "土耳其消息人士否认哈马斯成员迁往土耳其的说法",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241119/47607596.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/406x0/news/20241119/c10fd3e8-cb00-453f-b337-20b8a909b28a.png"
-        },
-        {
-            "title": "黎总理透露停火方案：恢复执行安理会第1701号决议",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241119/47607587.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/640x0/news/20241119/dfec0172-ad73-45db-9e29-876722bf65d7.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "我国首艘大洋钻探船“梦想”号入列",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241119/47607513.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20241119/47d098ee-529f-4b7b-9993-903100c5c163.jpg"
+        },
         {
             "title": "特朗普和马斯克现身 UFC，形影不离像兄弟，梅拉尼娅都没这么粘人",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241118/47604736.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20241118/6f1832f4-8212-44c8-9187-46195023a416.jpg"
         },
         {
-            "title": "10 月券商 APP 展现“超强粘性”，月活 TOP20 出炉",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241118/47604741.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20241118/dfbe9a4b-6dfa-4bc7-a465-780cda567cc5.jpg"
+            "title": "黎总理透露停火方案：恢复执行安理会第1701号决议",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241119/47607587.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/640x0/news/20241119/dfec0172-ad73-45db-9e29-876722bf65d7.jpg"
         },
         {
             "title": "西方承认：对俄制裁失败了",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241119/47607578.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241119/6e6bfbd2-bb02-494f-bb86-c6e42f7d84ef.jpg"
-        },
-        {
-            "title": "上天又入地，“太空种子”在南繁开始育种",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241119/47607568.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20241119/3603b52b-06c6-4ac7-85fc-4860baeaad5a.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "史上最年轻 特朗普宣布莱维特将担任其白宫新闻秘书",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241118/47600949.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "牛弹琴：朔尔茨抢先给普京打电话 泽连斯基痛骂背叛",
@@ -231,12 +237,6 @@
             {
                 "title": "高校女教师被丈夫举报出轨学生：视频不是我本人",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241118/47600706.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "中俄东线天然气管道工程全线完工",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241118/47600689.html?ayjr"
             }
         ]
     ]
