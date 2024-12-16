@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美国计划授权谷歌作为“守门人” 管制AI芯片出口",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241216/47752333.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20241216/c12bacd9-3f44-4e21-9322-3fa556506eae.png"
+        },
+        {
             "title": "小米“驾校”真的来了！ 报名费9999元只培训1天",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241216/47752210.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/260x0/news/20241216/aee0acdb-27e1-4aa2-af2f-0c8538c05bae.jpg"
@@ -9,14 +14,14 @@
             "title": "德国总理朔尔茨将接受信任投票 多种可能性并存",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241216/47752159.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241216/5b7f08ac-7b66-4d12-8ded-befc4e91ccb5.jpg"
-        },
-        {
-            "title": "叙利亚“沙姆解放组织”领导人：无意对抗以色列",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241216/47752143.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241216/219af234-f0f3-432f-b491-eaadf3b190d1.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "卡塔尔驻叙利亚大使馆将于本月17日重新开放",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241216/47751748.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20241216/a54c73e0-9339-41f9-8d6b-c182ce5fafd7.jpg"
+        },
         {
             "title": "俄军机自叙利亚撤出多国外交机构部分人员",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241216/47751718.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20241213/0ef694e6-29ec-4b68-90a0-d8bd12e07fbe.jpg"
         },
         {
-            "title": "新疆 9 家银行同日获批增资，伊犁农商行注册资本跨 10 亿新台阶",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241216/47751540.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/toutiao/20241213/993bfa04-9434-45a5-899d-98e3e3b694e7.jpg"
+            "title": "叙利亚“沙姆解放组织”领导人：无意对抗以色列",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241216/47752143.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241216/219af234-f0f3-432f-b491-eaadf3b190d1.jpg"
         },
         {
             "title": "中央经济工作会议定调2025年 17位专家“划重点”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241216/47752108.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/260x0/news/20241216/acc6fd6e-998b-470d-935d-19f4fe1b47d9.jpg"
-        },
-        {
-            "title": "丰富业态、提升服务…七部门出手打造现代零售体系",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241216/47751952.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20241216/de7f7222-dbc1-4e00-9f27-e5a9ab862e34.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "兴业证券孙寅补缺西部证券非银团队，履新研发中心业务副所长、非银首席",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241216/47751531.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "券业年内最大股权融资落地，华福证券引入 13 家新投资人、超预期募资逾 47 亿元",
@@ -231,12 +237,6 @@
             {
                 "title": "樊振东呼吁球迷理解尊重",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241216/47751486.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "乒超联赛：樊振东 0-3 不敌徐瑛彬，小胖遭遇男单首败",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241216/47751487.html?ayjr"
             }
         ]
     ]
