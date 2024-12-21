@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "巴西东南部三车相撞事故死亡人数升至38人",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241222/47775213.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241222/71e441a9-6447-46e0-9202-db0b28e2838c.png"
+        },
+        {
             "title": "德国节日市集车辆冲撞人群事件已致5人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241221/47775063.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/615x0/news/20241221/eaaaa698-9c3e-47ea-8921-4daff5a4a7b2.png"
@@ -9,14 +14,14 @@
             "title": "一波三折 加班加点 美国会通过短期支出法案",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241221/47775052.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20241221/c0fe3874-6b70-4b43-94de-ec8e31076dbf.jpg"
-        },
-        {
-            "title": "国防部：敦促美方纠正对华错误认知",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241221/47775037.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/300x0/news/20241221/aa5407ba-1a89-4290-9514-745ee9ac9db2.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "我国拟立法加强危化品全链条各环节安全管理",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241221/47774911.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20241221/f9463c1e-bfed-4508-9524-fe6c81ba012f.jpg"
+        },
         {
             "title": "俄喀山高层住宅楼被无人机击中 附近三座机场关闭",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241221/47774900.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241221/f5ec7488-16c1-45b8-af2e-85b71a9c13b1.jpg"
         },
         {
-            "title": "联合国特使称叙利亚有机会打破孤立局面",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241221/47774511.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20241221/756ce998-1b4f-4f12-a1d2-942edc76c442.jpg"
+            "title": "国防部：敦促美方纠正对华错误认知",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241221/47775037.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20241221/aa5407ba-1a89-4290-9514-745ee9ac9db2.jpg"
         },
         {
             "title": "颐和园“金光穿洞”拍摄季 民众打卡冬至限定浪漫",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241221/47774991.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20241221/875fd341-56b2-4726-a87d-e023387bdc46.jpg"
-        },
-        {
-            "title": "北京12月30日起尾号限行轮换",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241221/47774948.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20241221/b4e4fd2b-0a73-44fb-a47a-2cacca0bb00c.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "取消公摊会产生什么影响？&quot;零公摊&quot;会成为新趋势吗",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20241220/47771826.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "陕西发现新物种秦岭隐孔菌",
@@ -231,12 +237,6 @@
             {
                 "title": "四川省政协原副主席杨克宁非法获取枪支、弹药存放于住处！通报称他主动“躺平”",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241220/47769675.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "台湾台中一超市仓库发生火灾 已致 9 死 7 伤",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241220/47769676.html?ayjr"
             }
         ]
     ]
