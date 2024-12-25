@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "特朗普：将大力推进死刑执行",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241225/47788602.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20241225/2a9095da-4389-4945-991e-5221727df5a5.jpg"
+        },
+        {
             "title": "联合国机构：加沙地带每小时就有一名儿童死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241225/47788294.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20241225/bf081a68-2510-4a04-afa9-00f1b9d49bdf.jpg"
@@ -9,14 +14,14 @@
             "title": "特朗普威胁“收回”巴拿马运河 巴多位领导人回应",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241225/47788281.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20241225/1563633d-742d-4b86-b08f-6f4df99b6dc9.jpg"
-        },
-        {
-            "title": "美国纽约地铁纵火案嫌疑人高可判处终身监禁",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241225/47788267.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/413x0/news/20241225/f3f60728-961d-45ef-a27b-b2a979c7e90d.png"
         }
     ],
     "midImg": [
+        {
+            "title": "神马电力发生5笔大宗交易 合计成交1.01亿元",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241225/47787984.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20241225/c68648dc-925e-4071-a796-bbf8c2b48008.jpg"
+        },
         {
             "title": "九号公司发生17笔大宗交易 合计成交7936.30万元",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241225/47787985.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20241225/e85aa649-a219-4123-8937-d50ffc3d9687.jpg"
         },
         {
-            "title": "9国明年正式成为金砖伙伴国 专家：重大地缘政治事件",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241225/47787998.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20241225/705cdb47-73ed-42ff-bd7d-8e1dde3c1793.jpg"
+            "title": "美国纽约地铁纵火案嫌疑人高可判处终身监禁",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241225/47788267.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/413x0/news/20241225/f3f60728-961d-45ef-a27b-b2a979c7e90d.png"
         },
         {
             "title": "三友医疗现2笔大宗交易 合计成交120.00万股",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241225/47787981.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20241225/bae5ed05-f228-4d93-a958-c1cee5d687bb.jpg"
-        },
-        {
-            "title": "中国平安发生大宗交易 成交折价率11.14%",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241225/47787982.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20241225/a0e9d4fe-986e-44b0-a41f-a0b291f8d2d0.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "中国移动获南向资金连续11天净买入",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241225/47787949.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "微盟集团获南向资金连续4天净买入",
@@ -231,12 +237,6 @@
             {
                 "title": "任县长 80 天接书记，曾“教科书式”处置突发事件，陈伟升任新职",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241224/47785765.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "蚂蚁组织架构调整：新成立数字支付事业群、支付宝事业群，实行轮值总裁制",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241224/47783603.html?ayjr"
             }
         ]
     ]
