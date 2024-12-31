@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "民政部：2025年将实施养老服务师职业资格制度",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250101/47814821.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250101/12019dcf-d7c7-4577-8b51-0b89b1902b52.jpg"
+        },
+        {
             "title": "美国中央司令部称对胡塞武装发起新一轮打击",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250101/47814807.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250101/f770ca88-7912-45cf-a375-340559203365.png"
@@ -9,14 +14,14 @@
             "title": "2024贺岁档电影票房破30亿",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250101/47814797.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250101/0bc7605a-b59d-4eac-a20c-d34e3cfb2b58.jpg"
-        },
-        {
-            "title": "联合国人权高专办：加沙地带医疗系统濒临全面崩溃",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250101/47814782.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250101/2497063c-7f2a-4b8e-ad7d-1966c5c6d9fe.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "前总统卡特逝世 美国降半旗致哀",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250101/47814734.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20250101/269951e6-1581-419d-ad6f-99ae5cc7e5bc.jpg"
+        },
         {
             "title": "大搞权钱交易，中央宣传部原副部长张建春被决定逮捕！",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241231/47813189.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/toutiao/20241231/d7c15b59-2d89-40b2-b8f7-5386111e7391.jpg"
         },
         {
-            "title": "工银安盛人寿山东分公司被罚 40 万元，涉未如实记录保险业务事项",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241231/47813196.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/toutiao/20241231/c06bfa49-b14a-4607-a76e-9a10942b6f48.jpg"
+            "title": "联合国人权高专办：加沙地带医疗系统濒临全面崩溃",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250101/47814782.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250101/2497063c-7f2a-4b8e-ad7d-1966c5c6d9fe.jpg"
         },
         {
             "title": "美国2架飞机险些在机场相撞 空管大喊：停下！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250101/47814773.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/616x0/news/20250101/3874657c-9a98-429d-baac-ff79b6ff8150.jpg"
-        },
-        {
-            "title": "90亿人次左右！2025年春运交通出行预计创历史新高",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250101/47814762.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250101/436295bf-8c7d-4d91-81f3-f64381f87664.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美财长宣布向乌提供34亿美元额外预算援助",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20241231/47810343.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "工信部：打造超20个“5G+工业互联网”试点城市",
@@ -231,12 +237,6 @@
             {
                 "title": "并购重组、市值管理、化债 ...... 2024 年资本市场十大关键词来了",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241230/47806108.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "“转过来！”卧室半夜突遭陌生人喊话！女子脊背发凉……",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20241230/47806109.html?ayjr"
             }
         ]
     ]
