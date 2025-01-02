@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "拜登称正在调查新年两起恶性事件有无关联",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250102/47819800.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250102/ec5f2bf2-1278-41a8-a972-be8df5354b62.jpg"
+        },
+        {
             "title": "韩国警方对务安国际机场进行扣押搜查",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250102/47819781.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250102/0c72ef35-1cf1-4a31-a6ea-ce6c409e54e5.jpg"
@@ -9,14 +14,14 @@
             "title": "光荣属于奋斗者",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250102/47819721.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250102/91e79cd4-92d3-4ab9-ab9d-caa0b39ebd0f.jpg"
-        },
-        {
-            "title": "加沙停火谈判再陷僵局 近日难达成协议",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250102/47818647.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250102/1a6d3a95-91a3-4d65-8526-094eb2ac4f02.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "“以旧换新”如何让车企产业“一路狂飙”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250102/47818184.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250102/9a4b34a0-4eb3-4adb-96da-f04a54e8ba08.jpg"
+        },
         {
             "title": "以无人机为笔 他们在夜空中作画",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250102/47818123.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20241231/0ffea52d-f37f-4c5f-bb4c-2ba30519cf5d.jpg"
         },
         {
-            "title": "武汉欢乐谷一过山车故障游客被挂半空退票遭拒？客服称不知情：已暂停开放，系正常检修",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250102/47817810.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/292x0/toutiao/20241231/c3938882-088b-4d81-b683-b0507b6766a2.jpg"
+            "title": "加沙停火谈判再陷僵局 近日难达成协议",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250102/47818647.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250102/1a6d3a95-91a3-4d65-8526-094eb2ac4f02.jpg"
         },
         {
             "title": "放宽至80%！内地与香港基金互认机制今天落地实施",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250102/47818583.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250102/49eafdec-b07b-4167-bc4b-be9c8ff23dd7.jpg"
-        },
-        {
-            "title": "12张图，速览2025",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250102/47818253.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250102/fb1b9673-55b2-45e1-8a4b-e1c3e027e9f8.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "赵露思疑被老板拉厕所殴打辱骂2小时 被扯着头发拖拽",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250102/47817617.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美国汽车冲撞人群事件或有4人参与安装爆炸装置",
@@ -231,12 +237,6 @@
             {
                 "title": "新年首日 俄罗斯天然气过境乌克兰流量预计为零",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250101/47814957.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "泽连斯基称乌已找到应对俄导弹的解决方案",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250101/47814948.html?ayjr"
             }
         ]
     ]
