@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美国务卿:俄乌冲突爆发前 美国已向乌多次提供武器",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250105/47829132.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250105/603228c4-ff54-457c-8884-174a0fab4750.jpg"
+        },
+        {
             "title": "距特朗普就职仅剩半月非法移民星夜兼程涌向美边境",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250105/47829092.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250105/577b7285-73ab-44cb-b39d-9a67312bed0f.jpg"
@@ -9,14 +14,14 @@
             "title": "黎真主党领导人敦促以色列履约撤军",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250105/47829063.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250105/37853042-f7e4-4453-aa03-14c5ffd976d1.jpg"
-        },
-        {
-            "title": "央行宣布将择机降准降息 “择机”以何为标志？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250105/47829049.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/640x0/news/20250105/ae9b7d1f-a413-48f5-8154-b86cf9639483.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "伊朗伊斯兰革命卫队在该国西部举行军事演习",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250104/47828871.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250104/aecb0133-3e27-4e8d-83e9-668415032046.jpg"
+        },
         {
             "title": "美国已在乌投入1750亿美元 西方还打算进一步军援",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250104/47828860.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20250104/be36b609-3db5-4a40-8076-6c46b50d7484.jpg"
         },
         {
-            "title": "韩国公调处再次要求代总统下令执行逮捕令",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250104/47828665.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250104/f6d04297-3c57-4a54-a12d-fce4bf1fd112.jpg"
+            "title": "央行宣布将择机降准降息 “择机”以何为标志？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250105/47829049.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/640x0/news/20250105/ae9b7d1f-a413-48f5-8154-b86cf9639483.jpg"
         },
         {
             "title": "巴基斯坦俾路支省爆炸袭击事件已致5人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250105/47829019.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/478x0/news/20250105/8eb7cd3a-2c90-4d50-a805-406924fce8a0.jpg"
-        },
-        {
-            "title": "俄称拦截美制导弹并击落无人机 乌称击退俄军进攻",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250105/47829008.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/625x0/news/20250105/4ebef25e-2e28-47d9-b6ee-97ae5d2affde.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "机器人训练开源！我国首个通用具身智能数据集发布",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250103/47826716.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "背诗词免门票：让游客与景区实现双赢",
@@ -231,12 +237,6 @@
             {
                 "title": "泽连斯基：支持在乌部署欧洲部队 不放弃加入北约",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250103/47823516.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "特朗普支持者 美国汽车爆炸案嫌疑人更多信息公布",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250103/47823502.html?ayjr"
             }
         ]
     ]
