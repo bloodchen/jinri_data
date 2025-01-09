@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "2024年全年全国居民消费价格比上年上涨0.2%",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250109/47848010.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250109/f59045f6-90f9-4832-b3b6-aca3d66c5bab.png"
+        },
+        {
             "title": "商务部：欧盟相关做法构成贸易投资壁垒",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250109/47847507.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20250109/ecf4574f-bc59-46f3-8281-6d929b01fcbd.png"
@@ -9,14 +14,14 @@
             "title": "西藏定日6.8级地震已记录到余震活动超1000次",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250109/47847487.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250109/c4d6021e-5aa4-4c56-8e02-6598a394ffd1.jpg"
-        },
-        {
-            "title": "起猛了！看到军校歼-11B机群“大象漫步”了",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250109/47847421.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250109/47a03f87-8d69-465a-8ace-c20ec3e31579.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "划重点！二十届中央纪委四次全会公报要点速览",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250109/47847078.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/564x0/news/20250109/90cce5b9-a376-4bdb-9dfa-4346ae2fe513.png"
+        },
         {
             "title": "美联储公布会议纪要 预测显示2025年降息75个基点",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250109/47847050.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250108/b7245a05-56da-4cf9-ab15-19645df2463d.jpg"
         },
         {
-            "title": "两会会客厅 | 人大代表顾陈瑜：低空经济蓄势起飞，烟台新质生产力再添新翼",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250109/47846861.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250108/046258fb-b8f1-4bdf-830a-6b3a0a1eac3d.jpg"
+            "title": "起猛了！看到军校歼-11B机群“大象漫步”了",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250109/47847421.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250109/47a03f87-8d69-465a-8ace-c20ec3e31579.jpg"
         },
         {
             "title": "高铁车厢里全是老外！网友：以为出国了",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250109/47847144.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/611x0/news/20250109/96cf709a-8180-4681-acdd-c53e8d70cb06.png"
-        },
-        {
-            "title": "委内瑞拉总统马杜罗称美国高级官员在委被捕",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250109/47847110.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250109/69649ab3-5ebf-4c3e-87f3-6fb69731f633.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "商务部回应美将多家中企列入“中国军事企业清单”",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250108/47843810.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "一轻型飞机在澳大利亚坠海 致3人死亡",
@@ -231,12 +237,6 @@
             {
                 "title": "特朗普称阿联酋亿万富翁将投资200亿美元在美建立数据中心",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250108/47842342.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "特朗普要求北约国家将国防开支提高至GDP的5%",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250108/47842360.html?ayjr"
             }
         ]
     ]
