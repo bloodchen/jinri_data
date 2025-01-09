@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "欧洲急了！布林肯否认特朗普言论",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250109/47849684.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250109/979b322d-d43f-4db7-9557-68f2446a6c19.jpg"
+        },
+        {
             "title": "特朗普“垂涎”格陵兰 欧洲国家动起来了",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250109/47849453.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250109/f8f9e13f-5130-4af0-aea3-4f4a794a1846.jpg"
@@ -9,14 +14,14 @@
             "title": "拜登因加州野火取消访问意大利行程",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250109/47849415.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250109/fa318db9-35e2-438e-b7a6-860d437a8cf7.png"
-        },
-        {
-            "title": "美媒称美将再向乌克兰提供价值5亿美元武器",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250109/47849396.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/600x0/news/20250109/4a21999d-58f6-4c2a-8ce1-6fc8aaf06fbf.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "驻军接连被驱逐，马克龙“酸了”",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250109/47849135.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250109/836c24cc-b247-46d1-89b2-b01a6036658a.jpg"
+        },
         {
             "title": "美联储公布会议纪要：相关预测显示 2025 年全年降息 75 个基点",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250109/47849136.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250109/26969d71-c16e-4475-8d7b-314098b26f5e.jpg"
         },
         {
-            "title": "警察节来临之际 直击特警拳击格斗训练现场",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250109/47849130.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250109/35737a00-c315-49e7-8fc4-489ac06e35c1.jpg"
+            "title": "美媒称美将再向乌克兰提供价值5亿美元武器",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250109/47849396.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/600x0/news/20250109/4a21999d-58f6-4c2a-8ce1-6fc8aaf06fbf.jpg"
         },
         {
             "title": "泰总理：泰国需防范将其作为中转站的犯罪行为",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250109/47849350.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250109/7b773f4f-ea97-427e-a4c1-18f11da2b635.jpg"
-        },
-        {
-            "title": "我国发现一起猴痘病毒Ⅰb亚分支聚集性疫情",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250109/47849333.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250109/bd2f19a4-b156-481e-8919-8309e4020eba.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "小区向业主均摊 20 余万元物业用水水费 多方回应：正在处理中",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250109/47846867.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "早盘感觉要“阴包阳”，午后却走出 V 字逆转！今天 A 股发生了什么？",
@@ -231,12 +237,6 @@
             {
                 "title": "嫦娥七号计划明年发射 将去月球南极寻找水冰",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250108/47842813.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "西藏定日县记录到余震515次 最大余震4.4级",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250108/47842732.html?ayjr"
             }
         ]
     ]
