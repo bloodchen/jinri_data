@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "玉渊谭天丨八种翻译帮美方理解“好自为之”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250125/47910595.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250125/6c40473d-4b6f-454b-8cc9-d4a7ce20b884.png"
+        },
+        {
             "title": "涉与乌谈判、与美对话 普京最新表态",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250125/47910562.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250125/b05faf86-b67f-41ba-b2a3-ed7a7f1f0af7.png"
@@ -9,14 +14,14 @@
             "title": "增加红&quot;V&quot;标识！网信办推进实施&quot;持证亮牌&quot;工程",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250125/47910547.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/584x0/news/20250125/0a10605f-da9f-4b30-8bc4-47a61649f6e7.png"
-        },
-        {
-            "title": "这是一条来自咱家航母的祝福！福建舰硬核送“福”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250125/47910411.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250125/60a2a27b-2018-4231-a01a-0cbbf5ca7f47.png"
         }
     ],
     "midImg": [
+        {
+            "title": "旧火未灭新火又来 加州新火情致数万民众被迫撤离",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250125/47910184.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250125/663f2cdf-ade8-4599-8f1a-12bb0c6b48a8.jpg"
+        },
         {
             "title": "联合国安理会通过声明 谴责一切形式的恐怖主义",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250125/47910173.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250125/d962f202-e4c9-4cfa-b3b1-c12be5cc1127.jpg"
         },
         {
-            "title": "美国去年对外国政府军事装备销售额创新高",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250125/47910114.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250125/befe6a4d-a2c5-4421-b27d-e2aef3bef6ef.png"
+            "title": "这是一条来自咱家航母的祝福！福建舰硬核送“福”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250125/47910411.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250125/60a2a27b-2018-4231-a01a-0cbbf5ca7f47.png"
         },
         {
             "title": "俄副外长：乌加入北约意味着无法实现和平",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250125/47910383.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250125/9344ea0b-e263-4314-9e99-d43295695b5d.jpg"
-        },
-        {
-            "title": "风暴袭击爱尔兰及英国北部 至少1人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250125/47910268.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250125/4f2c583b-9a7a-4dc7-8408-9c34d8b7b184.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美国加州州议会批准25亿美元用于应对洛杉矶火灾",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250124/47907071.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美法官裁定特朗普终止“出生公民权”行政令违宪",
@@ -231,12 +237,6 @@
             {
                 "title": "美法官裁定特朗普终止“出生公民权”行政令违宪 案件或将上诉至最高法院",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250124/47906666.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "特朗普说他比美联储主席鲍威尔更懂利率",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250124/47906667.html?ayjr"
             }
         ]
     ]
