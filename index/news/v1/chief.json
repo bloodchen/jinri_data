@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "香港举行新春国际汇演",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250130/47919308.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250130/f96a7958-127c-4d60-8c2d-6c7b14cc7e30.png"
+        },
+        {
             "title": "新发现一颗“超级地球”！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250130/47919177.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250130/cc912a42-8a10-4bad-acc9-02561b158abe.jpg"
@@ -9,14 +14,14 @@
             "title": "春节假期第一天全国道路交通平稳有序",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250129/47917658.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250129/e746272a-ed1e-4712-b4f0-8d30cfa940bb.jpg"
-        },
-        {
-            "title": "普京说俄将在与乌克兰的可能谈判中捍卫自身利益",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250129/47917854.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250129/966c239c-3014-4fb6-963e-a82415348917.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "联合国称美国2026年1月27日正式退出《巴黎协定》",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250129/47917814.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/537x0/news/20250129/dce1bb57-cb12-4939-9372-8f1720498463.jpg"
+        },
         {
             "title": "破13亿！2025春节档电影新片预售票房再创新高",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250129/47917691.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/603x0/news/20250129/1bd3a9a3-e679-4aaf-af27-dd804095e3f4.gif"
         },
         {
-            "title": "“海外千屏”看春晚 全球共庆中国年",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250129/47917626.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250129/d322134e-f679-4c32-a4eb-4e2a7f9732e3.png"
+            "title": "普京说俄将在与乌克兰的可能谈判中捍卫自身利益",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250129/47917854.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250129/966c239c-3014-4fb6-963e-a82415348917.jpg"
         },
         {
             "title": "美国新任白宫新闻秘书解释多项特朗普新政",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250129/47917844.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/364x0/news/20250129/bc22a609-804d-47d5-8f13-41597c99bd04.png"
-        },
-        {
-            "title": "黎巴嫩谴责以色列：公然违反停火协议",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250129/47917835.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/532x0/news/20250129/968dfc14-7ed8-4c10-a3bd-203ede90e7e6.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "经济随笔丨各地今年GDP增长目标有看头！",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250127/47914190.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "中长期资金入市提速进行时",
@@ -231,12 +237,6 @@
             {
                 "title": "核电站、高铁有了新股东！民营企业挺进新领域",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250126/47911947.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "以色列哈马斯互相指责违反协议",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250126/47911924.html?ayjr"
             }
         ]
     ]
