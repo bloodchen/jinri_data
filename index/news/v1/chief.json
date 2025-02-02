@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "以色列和哈马斯完成第四批被扣押人员交换",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250202/47923840.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250202/5f00aa86-5393-474e-96fe-c3e659e49cae.jpg"
+        },
+        {
             "title": "美国宣布对加拿大和墨西哥征收25%的关税",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250202/47923789.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/600x0/news/20250202/c710dcc4-222f-4061-9650-fb47fa0f6e84.jpg"
@@ -9,14 +14,14 @@
             "title": "特朗普称委内瑞拉已同意接收在美非法移民",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250202/47923779.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/600x0/news/20250202/f00a25e4-6bb5-4921-bf1d-c812d1956741.jpg"
-        },
-        {
-            "title": "英国科尔切斯特一车辆撞入建筑 致4人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250202/47923770.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/424x0/news/20250202/4435b8bb-073b-4aae-b7aa-bdebeb8aa2a8.png"
         }
     ],
     "midImg": [
+        {
+            "title": "50.47亿元！2025中国电影票房暂列全球第一",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250201/47923570.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20250201/5ed5053f-be5b-4603-88c1-787aa78706f9.jpg"
+        },
         {
             "title": "冷空气南下直抵华南 多地气温将骤降10℃",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250201/47923557.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250201/d607d0cf-4e46-4c12-abc3-32b7f2240d70.jpg"
         },
         {
-            "title": "亚冬会开幕在即 多支运动队陆续抵达哈尔滨",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250201/47923256.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250201/fbb0e9e6-1951-4520-9dcc-b3b6c9446ebc.jpg"
+            "title": "英国科尔切斯特一车辆撞入建筑 致4人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250202/47923770.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/424x0/news/20250202/4435b8bb-073b-4aae-b7aa-bdebeb8aa2a8.png"
         },
         {
             "title": "哈马斯：美国以重建为借口 多次宣布驱逐加沙人民",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250202/47923758.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/360x0/news/20250202/23ce61bf-327c-494e-b541-57988716b243.png"
-        },
-        {
-            "title": "马斯克在2024年美国大选中花费超过2.9亿美元",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250202/47923749.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/358x0/news/20250202/41dbc17f-6259-457a-a141-ebd98dcfabc3.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "今天全国高速公路通行平稳 4省份17路段有降雪影响",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250131/47921869.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美撞机事件涉事机场常有直升机飞行 视频资料曝光",
@@ -231,12 +237,6 @@
             {
                 "title": "台湾嘉义县发生5.2级地震 福州厦门泉州等地有震感",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250130/47919838.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "涉食品安全 离婚房产分割等 2月起这些新规将实施",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250130/47919826.html?ayjr"
             }
         ]
     ]
