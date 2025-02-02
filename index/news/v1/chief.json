@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美国空中任务通知系统出故障 备用系统已启用",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250202/47924867.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250202/2dc26085-c278-4775-af7a-0fa0fd52cf16.jpg"
+        },
+        {
             "title": "2月2日全国铁路预计发送旅客1450万人次",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250202/47924829.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250202/21d0baeb-b874-46f1-a35f-27c68db1da7f.jpg"
@@ -9,14 +14,14 @@
             "title": "墨西哥加拿大采取反制！美国关税战遭南北夹击",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250202/47924809.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250202/2a2471ed-938c-4916-80b6-5f344191dfbf.jpg"
-        },
-        {
-            "title": "美方宣布对中国输美产品加征10%关税 商务部回应",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250202/47924288.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250202/bd7724e9-9ba9-44c5-bdb6-91b7a7cc44b5.png"
         }
     ],
     "midImg": [
+        {
+            "title": "最新回应 墨西哥总统宣布将对美国加征关税",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250202/47924113.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/621x0/news/20250202/f7bb1b36-078c-4907-9293-e8dc7024d2ec.jpg"
+        },
         {
             "title": "加拿大不列颠哥伦比亚省：已开始对美关税进行报复",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250202/47924079.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250202/9884cdab-edb2-4e0e-95a4-ea706345699b.png"
         },
         {
-            "title": "美宣布加征25%关税 墨西哥总统回应：有能力应对",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250202/47923891.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/621x0/news/20250202/cc78de69-027f-4c66-80d8-59ac90a138ed.jpg"
+            "title": "美方宣布对中国输美产品加征10%关税 商务部回应",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250202/47924288.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250202/bd7724e9-9ba9-44c5-bdb6-91b7a7cc44b5.png"
         },
         {
             "title": "美国务卿首外访 拟与巴政府讨论&quot;收回&quot;运河控制权",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250202/47924261.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250202/f3dce656-4d5f-4319-a893-0eb456c7f3e1.jpg"
-        },
-        {
-            "title": "加拿大将对价值1550亿加元美国产品征收25%关税",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250202/47924210.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250202/da0ca803-eedb-4249-826d-5d9865bf99e8.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "约30名处理“国会山骚乱”案的检察官被解雇",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250201/47922149.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美国两机相撞事故“黑鹰”直升机的黑匣子已找到",
@@ -231,12 +237,6 @@
             {
                 "title": "特朗普:2月1日起对加拿大和墨西哥商品征收25%关税",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250131/47920519.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "67人无一生还 美客机与军机相撞背后原因成谜",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250131/47920507.html?ayjr"
             }
         ]
     ]
