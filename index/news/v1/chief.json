@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "最新回应 墨西哥总统宣布将对美国加征关税",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250202/47924113.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/621x0/news/20250202/f7bb1b36-078c-4907-9293-e8dc7024d2ec.jpg"
+        },
+        {
             "title": "加拿大不列颠哥伦比亚省：已开始对美关税进行报复",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250202/47924079.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250202/027a35c8-b59a-49ba-8c86-e867d9052a36.jpg"
@@ -9,14 +14,14 @@
             "title": "冷空气来袭！今明两天北方持续寒冷、南方降温显著",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250202/47924060.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/600x0/news/20250202/16985cc2-e2db-4fc5-8f73-7b85bb20eaef.jpg"
-        },
-        {
-            "title": "美撞机事故最新调查进展：更多遇难者身份确认",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250202/47924034.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250202/60d8cefa-d142-4d00-b298-b1f9f7e59a92.png"
         }
     ],
     "midImg": [
+        {
+            "title": "以色列和哈马斯完成第四批被扣押人员交换",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250202/47923840.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250202/5f00aa86-5393-474e-96fe-c3e659e49cae.jpg"
+        },
         {
             "title": "美国宣布对加拿大和墨西哥征收25%的关税",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250202/47923789.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/358x0/news/20250202/41dbc17f-6259-457a-a141-ebd98dcfabc3.png"
         },
         {
-            "title": "南部战区位黄岩岛领海领空及周边区域组织战备警巡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250201/47923583.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250201/ca5abeda-a319-479e-be55-fd604842a8ba.jpg"
+            "title": "美撞机事故最新调查进展：更多遇难者身份确认",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250202/47924034.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250202/60d8cefa-d142-4d00-b298-b1f9f7e59a92.png"
         },
         {
             "title": "售罄、约满、限流！多地景区紧急提醒",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250202/47924001.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250202/2dd5aeaf-0f75-463d-beb7-52fa1de30dcc.jpg"
-        },
-        {
-            "title": "美国宣布对中国商品加征10%关税",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250202/47923961.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250202/9884cdab-edb2-4e0e-95a4-ea706345699b.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "以色列预计于2月1日释放183名被扣押人员",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250201/47922049.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "巴拿马总统：运河问题不容谈判",
@@ -231,12 +237,6 @@
             {
                 "title": "美军发言人：与客机相撞的“黑鹰”正进行飞行训练",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250130/47919941.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "印度踩踏事故近40人遇难 莫迪：令人“极其悲痛”",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250130/47919930.html?ayjr"
             }
         ]
     ]
