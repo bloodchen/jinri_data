@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "新疆阿克苏地区库车市发生5.0级地震 当地震感明显",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250205/47930163.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250205/57ac0f7d-e381-4efc-b598-76a5c7fe67b9.jpg"
+        },
+        {
             "title": "金价疯狂刷屏，逼近 850 元！“蛇金”“小克重”热销",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250205/47929760.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250202/9a7b532f-2612-4bcc-9046-d7ba35df499d.jpg"
@@ -9,14 +14,14 @@
             "title": "美国要敲大竹杠了",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250205/47929761.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250202/2c5af62c-381b-4276-991f-338e0e07062a.jpg"
-        },
-        {
-            "title": "春晚带火机器人，这个春节多地景区机器人“很忙”",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250205/47929762.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250202/980e8e51-2985-43f3-b38a-f1c1af293664.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美国加州消防部门称两大山火已 100% 得到控制",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250205/47929766.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250202/c3cb1b31-d036-4d6b-b606-469f984965b6.jpg"
+        },
         {
             "title": "埃亚勒 · 扎米尔将出任以色列国防军总参谋长",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250205/47929767.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250203/60a3194f-fdf7-410e-bcc1-223d8e3ccdca.jpg"
         },
         {
-            "title": "玉渊谭天丨将导致美 GDP 下降 美智库揭关税战自伤真相",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250205/47929741.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250203/ae1d55c3-8d3f-463b-8559-e3ddb0919900.jpg"
+            "title": "春晚带火机器人，这个春节多地景区机器人“很忙”",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250205/47929762.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250202/980e8e51-2985-43f3-b38a-f1c1af293664.jpg"
         },
         {
             "title": "美撞机事故最新调查进展：两个黑匣子数据已下载 更多遇难者身份确认",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250205/47929763.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250202/9c017c5e-e055-4fe3-8c03-a14a43409cec.jpg"
-        },
-        {
-            "title": "美宣布加征 25% 关税 墨西哥总统强硬回应：有能力应对",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250205/47929764.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250202/21fc209c-edda-4577-987e-eddea7684990.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "好友还原大S病逝细节：具俊晔痛哭吻别妻子 大S像睡着",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250205/47929502.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "内塔尼亚胡：坚持实现摧毁哈马斯军事及治理能力",
@@ -231,12 +237,6 @@
             {
                 "title": "春节假期接近尾声 这份出行提示请查收→",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250204/47927004.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "哈尔滨亚冬会：火炬传递启火仪式",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250204/47926990.html?ayjr"
             }
         ]
     ]
