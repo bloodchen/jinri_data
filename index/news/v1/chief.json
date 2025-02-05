@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "特朗普：希望美国接管加沙地带",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250205/47930249.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250205/78c086ab-5bd2-422a-ad73-7620870b2965.jpg"
+        },
+        {
             "title": "瑞典厄勒布鲁校园枪击案造成11人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250205/47930195.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250205/9d5fb3a8-c741-4bc3-95d0-c97a17f6b3b6.png"
@@ -9,14 +14,14 @@
             "title": "新疆阿克苏地区库车市发生5.0级地震 当地震感明显",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250205/47930163.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250205/57ac0f7d-e381-4efc-b598-76a5c7fe67b9.jpg"
-        },
-        {
-            "title": "金价疯狂刷屏，逼近 850 元！“蛇金”“小克重”热销",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250205/47929760.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250202/9a7b532f-2612-4bcc-9046-d7ba35df499d.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美宣布加征 25% 关税 墨西哥总统强硬回应：有能力应对",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250205/47929764.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250202/21fc209c-edda-4577-987e-eddea7684990.jpg"
+        },
         {
             "title": "人民币与美元的购买力到底是多少，造成差距的原因是什么",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250205/47929765.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250202/99080e02-926c-4a3c-8d8b-b652cf958232.jpg"
         },
         {
-            "title": "见了高级幕僚后，拘留所里的尹锡悦何时见老婆？",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250205/47929770.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250202/c30e0b49-7be5-40fa-8649-97237357ecfa.jpg"
+            "title": "金价疯狂刷屏，逼近 850 元！“蛇金”“小克重”热销",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250205/47929760.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250202/9a7b532f-2612-4bcc-9046-d7ba35df499d.jpg"
         },
         {
             "title": "美国要敲大竹杠了",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250205/47929761.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250202/2c5af62c-381b-4276-991f-338e0e07062a.jpg"
-        },
-        {
-            "title": "春晚带火机器人，这个春节多地景区机器人“很忙”",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250205/47929762.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250202/980e8e51-2985-43f3-b38a-f1c1af293664.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "牛弹琴：一场史诗级贸易战，就此开打了",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250205/47929738.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "东契奇交易后首次发声：深情致谢达拉斯和球迷 只字不提独行侠队",
@@ -231,12 +237,6 @@
             {
                 "title": "马斯克：特朗普已同意关闭美国国际开发署",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250204/47927024.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "德国总理：若美国对欧盟加征关税 欧盟将采取反制",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250204/47927015.html?ayjr"
             }
         ]
     ]
