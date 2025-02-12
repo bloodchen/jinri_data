@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "大批以色列民众抗议 要求政府遵守停火协议",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250212/47960536.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250212/53c578db-345d-44e6-a2a6-f143596fa0dc.jpg"
+        },
+        {
             "title": "胡塞武装：如以方违反加沙停火协议 将恢复行动",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250212/47960373.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/360x0/news/20250212/35f8cadb-cb4d-4098-9991-417e5cb772c7.png"
@@ -9,14 +14,14 @@
             "title": "特朗普签署关于削减联邦政府工作人员的行政命令",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250212/47960359.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250212/587a7baa-72b0-4aa2-940f-7e5bb3475bd6.jpg"
-        },
-        {
-            "title": "埃及重申反对将巴勒斯坦人迁至别处",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250212/47960347.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250212/e26a6e17-b226-4396-854d-4ba321c29ea9.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "特朗普为何又对钢铝“开刀”？哪国受影响最大？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250212/47960260.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250212/3dc1319e-be07-49ce-9eff-4647ed7d1427.jpg"
+        },
         {
             "title": "德国汉堡列车与卡车相撞致1死16伤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250212/47960233.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20250212/e5b60350-fab8-4b12-96cd-b257d34e44bb.png"
         },
         {
-            "title": "雷军：小米 SU7 Ultra，开启全国挑战！",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250211/47957630.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250210/32cbbbfe-7821-4848-89d5-27aae63ee7ac.jpg"
+            "title": "埃及重申反对将巴勒斯坦人迁至别处",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250212/47960347.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250212/e26a6e17-b226-4396-854d-4ba321c29ea9.jpg"
         },
         {
             "title": "美法官叫停废除&quot;出生公民权&quot; 特朗普政府:正在上诉",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250212/47960334.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/600x0/news/20250212/a38f6505-1d73-443e-912a-b79fd51b05d2.jpg"
-        },
-        {
-            "title": "美国成立工作组 负责解密肯尼迪遇刺等文件",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250212/47960322.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/640x0/news/20250212/d814966a-ea1b-48d4-a133-f58b238d36fd.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "危地马拉客车坠河事故已致54人死亡 车内发现枪支",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250211/47956059.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "特朗普签署行政命令 暂停执行《反海外腐败法》",
@@ -231,12 +237,6 @@
             {
                 "title": "继拜登后，特朗普又撤销前国务卿布林肯等人安全许可",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250210/47951074.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "警惕！这种“神器”，可能会成为烧家“凶器”",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250210/47951075.html?ayjr"
             }
         ]
     ]
