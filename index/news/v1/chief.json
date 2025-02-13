@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "台湾台中一商场发生疑似爆炸事故 已致5死11伤",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250213/47967304.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250213/67bc5dd2-b281-4309-a7f4-f4de414f8ff7.jpg"
+        },
+        {
             "title": "公安部：严打借&quot;灵修&quot;&quot;心灵疗愈&quot;等名义的非法培训",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250213/47967251.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20250213/495add14-c4ff-455e-a8b1-81299160a3ba.png"
@@ -9,14 +14,14 @@
             "title": "袭击韩国最大在野党党首的嫌疑人终审被判15年",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250213/47967208.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250213/d9a1ce3d-66e9-430d-8b51-fef252e07d3b.jpg"
-        },
-        {
-            "title": "特鲁多：美国吞并加拿大“永远不会发生”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250213/47967194.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250213/114178b4-e0cd-4c80-91a3-e1af02709d57.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "特朗普称可能在沙特阿拉伯与普京会面",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250213/47966231.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250213/ac95795f-ff46-4e14-9fc3-79f914f0c3ec.jpg"
+        },
         {
             "title": "驻洛杉矶总领事馆通报领区一名中国留学生不幸遇害",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250213/47965927.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20250213/7351a29a-a1cc-4bb8-9cbc-86a37c819a16.png"
         },
         {
-            "title": "美法官暂许继续推进联邦雇员“买断计划”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250213/47965102.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250213/2c444bbb-0af3-4fe9-a2b6-5620672f3063.jpg"
+            "title": "特鲁多：美国吞并加拿大“永远不会发生”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250213/47967194.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250213/114178b4-e0cd-4c80-91a3-e1af02709d57.jpg"
         },
         {
             "title": "60多项行政令 特朗普上任三周新动作不断",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250213/47967182.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250213/d9ce4ddd-8649-4e92-99ae-1c6ad28b9a2b.jpg"
-        },
-        {
-            "title": "日本连日强降雪已致13人死亡 173人受伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250213/47967076.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250213/c313fdae-2943-44c8-a321-3547f5754fe1.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "班主任性侵女学生细节披露：玩SM满足兽欲 在学校选妃",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250212/47962340.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "万斯称美国是AI的领导者 英媒：参会各国政要脸色铁青",
@@ -231,12 +237,6 @@
             {
                 "title": "2030年登月！登月服和载人月球车全面进入初样研制",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250212/47961304.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "定了！我国载人月球车命名“探索”",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250212/47961247.html?ayjr"
             }
         ]
     ]
