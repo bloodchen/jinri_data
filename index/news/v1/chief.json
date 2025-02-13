@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "联合国安理会强烈谴责阿富汗恐怖袭击事件",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250213/47965432.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250213/09aaccc0-9ae8-479b-8cf3-988ede62eb01.jpg"
+        },
+        {
             "title": "美国人事管理办公室称“大规模裁员”已经开始",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250213/47965403.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250213/bfcf3cb8-fdbb-41b2-9901-e7d87fc95288.jpg"
@@ -9,14 +14,14 @@
             "title": "春运前30天 预计全社会跨区域流动累计超70亿人次",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250213/47965196.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20250213/7351a29a-a1cc-4bb8-9cbc-86a37c819a16.png"
-        },
-        {
-            "title": "美法官暂许继续推进联邦雇员“买断计划”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250213/47965102.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250213/2c444bbb-0af3-4fe9-a2b6-5620672f3063.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "特朗普：乌克兰加入北约“不切实际”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250213/47964977.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250213/04286950-d231-40ab-9eaf-d1f3366ba81f.jpg"
+        },
         {
             "title": "计划满 任务重！今年中国航天这些&quot;首飞&quot;值得期待",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250213/47964876.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250212/57c9b17e-3362-4915-9101-51743b72e1f8.jpg"
         },
         {
-            "title": "疯狂的咖啡：咖啡豆涨幅超过黄金，9 块 9 的瑞幸们还能坚持多久",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250213/47964826.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250212/74a54787-aec8-4def-90f7-8e2e54835128.jpg"
+            "title": "美法官暂许继续推进联邦雇员“买断计划”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250213/47965102.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250213/2c444bbb-0af3-4fe9-a2b6-5620672f3063.jpg"
         },
         {
             "title": "特朗普与俄乌总统通电话 还谈了一个重大问题",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250213/47965075.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250213/5b8ee0e6-e614-43eb-b2d7-dec817b1b022.jpg"
-        },
-        {
-            "title": "井深超8000米！塔克拉玛干沙漠新一批超深井开钻",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250213/47965048.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250213/9af93d84-9350-4027-b1c1-502a70bd327b.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美国白宫官员：加拿大输美钢铝或将被征收 50% 关税",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250212/47962330.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "媒体：向传统媒体开刀后 特朗普邀请网红＂到白宫上班＂",
@@ -231,12 +237,6 @@
             {
                 "title": "灯灯灯灯~各地“花灯氛围组”已就位",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250212/47960589.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "大批以色列民众抗议 要求政府遵守停火协议",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250212/47960536.html?ayjr"
             }
         ]
     ]
