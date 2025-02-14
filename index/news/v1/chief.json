@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "南非总统：不惧美霸凌 土地法案公平公正",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250214/47970109.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250214/8151e308-c5df-49e4-ae9d-f0eb04481bd2.jpg"
+        },
+        {
             "title": "胡塞武装：若美以驱逐巴勒斯坦人 将采取军事行动",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250214/47969893.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250214/8d1b4190-bfb5-4a0c-bfd4-604e1e19a3f8.jpg"
@@ -9,14 +14,14 @@
             "title": "欧盟称欧方和乌克兰必须在谈判桌上",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250214/47969871.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250214/e50f9ed1-0cc9-44ea-b924-2680f2e84730.jpg"
-        },
-        {
-            "title": "北约防长会召开 美国防开支目标使欧洲倍感压力",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250214/47969830.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250214/573f7037-11ca-4cd0-b252-37ecd775a3be.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "阿盟秘书长重申坚决反对任何驱逐巴勒斯坦人的企图",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250214/47969612.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/329x0/news/20250214/e90fc9d7-6480-4b37-b77d-f0891a755a63.png"
+        },
         {
             "title": "北约举行“坚定飞镖-2025”军事演习",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250214/47969602.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/385x0/news/20250214/5705f827-e0c8-4ede-aadd-ae25ea023dd3.png"
         },
         {
-            "title": "“无陪护病房”里谁照顾病人、咋收费、值不值？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250214/47969460.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/640x0/news/20250214/9bb3da13-7e13-42d4-a29a-b0a1123f04a0.jpg"
+            "title": "北约防长会召开 美国防开支目标使欧洲倍感压力",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250214/47969830.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250214/573f7037-11ca-4cd0-b252-37ecd775a3be.jpg"
         },
         {
             "title": "10G文件10秒速达 亚冬“黑科技”究竟啥来头？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250214/47969670.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/320x0/news/20250214/b28822c7-38b0-4721-b450-817d8451d4e7.jpg"
-        },
-        {
-            "title": "突破2亿千瓦！南方五省区新能源发电“风光”好",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250214/47969652.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250214/f00ec085-75bd-41b3-801e-0adad0952b65.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "澳军机蓄意侵闯中国领空 外交部：停止侵权挑衅！",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250213/47967640.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "缅甸向泰国移交261名电诈园区被解救人员",
@@ -231,12 +237,6 @@
             {
                 "title": "比武竞赛中拿佳绩，巢湖一现役军人荣获二等功",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250213/47964830.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "探秘神奇的药石 山师附小五（5）中队参加“石头也能治病”科普活动",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250213/47964831.html?ayjr"
             }
         ]
     ]
