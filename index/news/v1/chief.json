@@ -1,10 +1,22 @@
 {
     "focus": [
         {
-            "title": "美总统特朗普宣布对美贸易伙伴征收“对等关税”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250214/47969348.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/600x0/news/20250214/5f08a23b-3a47-40c7-addf-8961ac826504.jpg"
+            "title": "美国制裁国际刑事法院首席检察官卡里姆·汗",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250214/47969482.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/385x0/news/20250214/5705f827-e0c8-4ede-aadd-ae25ea023dd3.png"
         },
+        {
+            "title": "“无陪护病房”里谁照顾病人、咋收费、值不值？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250214/47969460.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/640x0/news/20250214/9bb3da13-7e13-42d4-a29a-b0a1123f04a0.jpg"
+        },
+        {
+            "title": "特朗普：可能会将国防开支减半",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250214/47969435.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250214/5093545b-448b-449a-9d7e-5a3f37aca395.jpg"
+        }
+    ],
+    "midImg": [
         {
             "title": "美国“哈里·杜鲁门”号航母在埃及附近与商船相撞",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250214/47969266.html?ayjr",
@@ -14,38 +26,6 @@
             "title": "春晚机器人“亲兄弟”开始打工：日租金超 1 万元，现货二手需加价购买",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250214/47969209.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250213/26b8ad14-d681-4f1d-891e-4e7b672ac5a0.jpg"
-        }
-    ],
-    "midImg": [
-        {
-            "title": "台湾百货大楼爆炸事故伤亡人数修正为 4 死 26 伤",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250214/47969214.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250213/6d2dd307-3850-46e1-b0e6-239b323379b2.jpg"
-        },
-        {
-            "title": "外交部：中方要求澳方停止侵权挑衅",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250214/47969215.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250213/01d69748-f542-47da-9d13-ddb756a844c1.jpg"
-        },
-        {
-            "title": "（新春走基层）新疆大漠护林人：为野生动植物撑起绿色希望",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250214/47969216.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250213/ca0e0188-0d85-46f2-a344-e5be8f02c0d2.jpg"
-        },
-        {
-            "title": "多地推动存量土地收储，房企人士：此次收储价折扣多在 6 至 9 折之间",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250214/47969217.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250213/7c8387b8-d9c7-4a91-baf3-708f5d6de446.jpg"
-        },
-        {
-            "title": "江西南昌直飞日本航线恢复通航",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250214/47969218.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250213/1a52192b-4814-4fd0-a4b2-1c0b6bb5063f.jpg"
-        },
-        {
-            "title": "沪九旬老人日夜激动大喊，唤不来三个优秀儿子？",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250214/47969199.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250214/4392e664-89fd-489f-a7fd-9ce5be8eb4b4.jpg"
         },
         {
             "title": "武汉一公司员工因心得体会字数不符被罚！“超字数 1398 字被罚 6990 元……”",
@@ -56,9 +36,65 @@
             "title": "作业帮全系产品接入 DeepSeek，与自研大模型实现深度整合",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250214/47969211.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250213/2c148fcf-56c3-4504-9daa-a005930b6047.jpg"
+        },
+        {
+            "title": "山东一非遗传承人为传承技艺买 9 块 9 奶粉致小孩早夭？文旅局：父母否认且不符合常理",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250214/47969212.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250213/003af587-ef18-4661-9956-d34b1736ff2a.jpg"
+        },
+        {
+            "title": "文心一言宣布全面免费，​已有人收到退费短信",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250214/47969213.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250213/37521429-e4d4-40df-9a7b-1e61c93c9050.jpg"
+        },
+        {
+            "title": "埃及约旦领导人重申：不能驱逐加沙民众",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250214/47969424.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250214/0b78ba43-505d-478d-b556-d1af9e2f0953.jpg"
+        },
+        {
+            "title": "特朗普：乌克兰将与俄罗斯一同参与所有和平谈判",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250214/47969412.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250214/79f5a88d-c8dd-4cb0-aca0-4cdfb1fc54f3.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "联合国安理会强烈谴责阿富汗恐怖袭击事件",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250213/47965432.html?ayjr"
+            }
+        ],
+        [
+            {
+                "title": "美国人事管理办公室称“大规模裁员”已经开始",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250213/47965403.html?ayjr"
+            }
+        ],
+        [
+            {
+                "title": "春运前30天 预计全社会跨区域流动累计超70亿人次",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250213/47965196.html?ayjr"
+            }
+        ],
+        [
+            {
+                "title": "美法官暂许继续推进联邦雇员“买断计划”",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250213/47965102.html?ayjr"
+            }
+        ],
+        [
+            {
+                "title": "特朗普与俄乌总统通电话 还谈了一个重大问题",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250213/47965075.html?ayjr"
+            }
+        ],
+        [
+            {
+                "title": "井深超8000米！塔克拉玛干沙漠新一批超深井开钻",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250213/47965048.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美国务院已开始指示驻各国美大使馆进行裁员",
@@ -201,42 +237,6 @@
             {
                 "title": "继续使用&quot;墨西哥湾&quot; 记者被白宫禁入 美联社：违宪",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250212/47963477.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "退钱啦,3月底截止！个税手续费退付操作流程请收好",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250212/47963427.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "中国队包揽亚冬会滑雪登山混合接力金银铜牌",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250212/47962695.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "班主任性侵女学生细节披露：玩SM满足兽欲 在学校选妃",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250212/47962340.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "万斯称美国是AI的领导者 英媒：参会各国政要脸色铁青",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250212/47962341.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "武汉大学生因室友电瓶燃爆致烧伤，父亲最新发声：他照镜子会哭，后续治疗还需数百万",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250212/47962322.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "董宇辉退出与辉同行股东行列，他到底想干啥？",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250212/47962323.html?ayjr"
             }
         ]
     ]
