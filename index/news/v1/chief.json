@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "俄罗斯阿尔泰山区发生6.4级地震",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250215/47974428.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250215/44acdc26-5e18-4513-af6e-73ece5c4e5f6.jpg"
+        },
+        {
             "title": "菲律宾帕赛市火灾已致4人死亡 2人受伤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250215/47974289.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/370x0/news/20250215/ab3139ee-b008-47e4-be5c-40ebb4073da7.jpg"
@@ -9,14 +14,14 @@
             "title": "2025年上半年征兵今天开始",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250215/47974084.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250215/e0e3983c-bcea-4922-be4e-9a9b783c8925.jpg"
-        },
-        {
-            "title": "世界首艘带碳捕集功能海上浮式生产储油船建造完毕",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250215/47974052.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250215/16ad6cc5-5b73-458e-ae41-db18f64761a1.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "“如果美方执意打压，中国必将奉陪到底”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250215/47973660.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20250215/b9ed333c-4708-4dd2-96f5-fa7e5b0fdfa9.png"
+        },
         {
             "title": "美国宣布对钢铝产品加征关税 巴西总统:将对等回应",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250215/47973595.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250215/fe0dd877-93e3-47e5-9e8e-676c43365eda.jpg"
         },
         {
-            "title": "美法官延长政府效率部访问财政部支付系统的禁令",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250215/47973478.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/600x0/news/20250215/16cdc40f-ec84-492b-8e8e-9edb09d93d38.png"
+            "title": "世界首艘带碳捕集功能海上浮式生产储油船建造完毕",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250215/47974052.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250215/16ad6cc5-5b73-458e-ae41-db18f64761a1.jpg"
         },
         {
             "title": "这座新建高铁站，今年春运超火爆！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250215/47973935.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250215/82e27a91-64a3-41a9-b5e7-f548c3b432d5.jpg"
-        },
-        {
-            "title": "特朗普的“对等关税”真的公平吗？专家解读",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250215/47973915.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250215/3841c326-402e-4be0-b337-05a8b9cb3480.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "特朗普：可能会将国防开支减半",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250214/47969435.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "埃及约旦领导人重申：不能驱逐加沙民众",
@@ -231,12 +237,6 @@
             {
                 "title": "缅甸向泰国移交261名电诈园区被解救人员",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250213/47967484.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "台湾台中一商场发生疑似爆炸事故 已致5死11伤",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250213/47967304.html?ayjr"
             }
         ]
     ]
