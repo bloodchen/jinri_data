@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美防长：欧洲应该对欧洲大陆的防御负主要责任",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250215/47973429.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250215/70d18bac-7775-4030-b1f4-a02c810a100f.jpg"
+        },
+        {
             "title": "美日确认安保条约覆盖钓鱼岛？国防部回应",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250214/47971787.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20250214/1015e32e-5580-4804-b740-45ed4ad58516.png"
@@ -9,14 +14,14 @@
             "title": "国防部：菲引入中导系统是“开门揖盗 为虎作伥”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250214/47971768.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250214/0bed4701-45da-4835-b8a5-3cc5640bc903.png"
-        },
-        {
-            "title": "俄地方官员：搁浅中国货船没有造成周边海域污染",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250214/47971755.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250214/d6cb05eb-f6b8-4545-94d9-2bfdb75676b2.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "新一轮找矿行动，有重大突破！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250214/47970778.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250214/2569a79e-cc99-4632-91c3-a3cc71c0e767.jpg"
+        },
         {
             "title": "墨西哥总统：或就“墨西哥湾”更名一事起诉谷歌",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250214/47970526.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250214/8d1b4190-bfb5-4a0c-bfd4-604e1e19a3f8.jpg"
         },
         {
-            "title": "欧盟称欧方和乌克兰必须在谈判桌上",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250214/47969871.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250214/e50f9ed1-0cc9-44ea-b924-2680f2e84730.jpg"
+            "title": "俄地方官员：搁浅中国货船没有造成周边海域污染",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250214/47971755.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250214/d6cb05eb-f6b8-4545-94d9-2bfdb75676b2.jpg"
         },
         {
             "title": "俄美元首通话后 两国被拘押人员互释回国",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250214/47971411.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/414x0/news/20250214/0ac6ba9d-186d-4a85-9d1a-c94099dd2d06.png"
-        },
-        {
-            "title": "苏丹西部一难民营多次遇袭 造成31人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250214/47971261.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250214/b6cea0ce-70f4-46c6-a895-0484c324b364.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "播音艺术家虹云逝世，曾是中央广播电视总台播音指导，声音影响了几代电视观众",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250214/47969200.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "浙商证券“老将”张晖履新国都证券总经理，“浙商 + 国都”业务整合成市场焦点",
@@ -231,12 +237,6 @@
             {
                 "title": "美国务院已开始指示驻各国美大使馆进行裁员",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250213/47965031.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "特朗普：乌克兰加入北约“不切实际”",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250213/47964977.html?ayjr"
             }
         ]
     ]
