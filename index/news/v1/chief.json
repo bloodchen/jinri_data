@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "争夺人机交互标准制定权多家厂商宣布大模型免费用",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250216/47975186.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250216/0cc7330e-0fba-4e0d-ad4f-19e417384ca7.jpg"
+        },
+        {
             "title": "乌总统：美方提出的矿产协议方案缺乏“安全保障”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975152.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250216/c438e28f-75e6-4d53-b293-3a74113a5c0d.png"
@@ -9,14 +14,14 @@
             "title": "印度首都一火车站踩踏事件死亡人数升至18人",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975143.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/564x0/news/20250216/d6001d9e-7fc4-434b-8a04-56f8598f4848.png"
-        },
-        {
-            "title": "玉渊谭天丨真假美国：关于特朗普的关税说辞",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975130.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250216/27fa668d-cc32-4bbd-8942-9375f340e6e0.png"
         }
     ],
     "midImg": [
+        {
+            "title": "无人机&quot;起舞&quot;带来视觉盛宴 揭秘这背后的科技力量",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250215/47974644.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250215/93270b00-29f5-4784-ac98-166a2924e352.png"
+        },
         {
             "title": "突发！台湾一架高教机坠海",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250215/47974522.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250215/e0e3983c-bcea-4922-be4e-9a9b783c8925.jpg"
         },
         {
-            "title": "世界首艘带碳捕集功能海上浮式生产储油船建造完毕",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250215/47974052.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250215/16ad6cc5-5b73-458e-ae41-db18f64761a1.jpg"
+            "title": "玉渊谭天丨真假美国：关于特朗普的关税说辞",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975130.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250216/27fa668d-cc32-4bbd-8942-9375f340e6e0.png"
         },
         {
             "title": "特朗普政府建议乌克兰授予美国50%的稀土矿所有权",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975110.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250216/2505ef87-5332-46b4-bd24-6940edc9f3ef.jpg"
-        },
-        {
-            "title": "奥地利发生持刀行凶事件致1死4伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975091.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/646x0/news/20250216/95909169-6d1a-4a1b-b413-d6ed54fa2410.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "10G文件10秒速达 亚冬“黑科技”究竟啥来头？",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250214/47969670.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "突破2亿千瓦！南方五省区新能源发电“风光”好",
@@ -231,12 +237,6 @@
             {
                 "title": "华虹半导体 Q4 业绩会：汇兑损失冲击盈利，AI 普及将间接受益",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250214/47969202.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "上市三年后业绩暴跌，植物末龙头佳禾食品扩大咖啡产能“自救”",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250214/47969203.html?ayjr"
             }
         ]
     ]
