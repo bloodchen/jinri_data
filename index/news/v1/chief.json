@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "事关租房成本！北京试点公积金“直付房租”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250216/47976020.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250216/86196cf7-90dd-43e7-b484-fc772fd53ca1.jpg"
+        },
+        {
             "title": "巴拿马运河：百年主权抗争成就全球贸易&quot;黄金水道&quot;",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975939.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250216/64429b28-c1b1-4a1c-a51f-a0a1eded66de.jpg"
@@ -9,14 +14,14 @@
             "title": "2025上半年参军最新要求解析 附年龄条件+优惠政策",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250216/47975915.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250216/e8f0adbb-5e77-417a-b3f5-4ca085f9cebc.jpg"
-        },
-        {
-            "title": "特朗普想要乌克兰一半稀土矿 泽连斯基紧急喊停",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975838.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250216/b5f5021e-c97f-490f-ae9b-d455666922dd.png"
         }
     ],
     "midImg": [
+        {
+            "title": "刚果(金)反政府武装夺取一机场 人道形势继续恶化",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975389.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250216/420ee34e-8597-4707-a2d2-30eb4b3378a6.jpg"
+        },
         {
             "title": "第38届非盟峰会聚焦纠正历史不公共商非洲发展大计",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975375.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250216/c438e28f-75e6-4d53-b293-3a74113a5c0d.png"
         },
         {
-            "title": "印度首都一火车站踩踏事件死亡人数升至18人",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975143.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/564x0/news/20250216/d6001d9e-7fc4-434b-8a04-56f8598f4848.png"
+            "title": "特朗普想要乌克兰一半稀土矿 泽连斯基紧急喊停",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975838.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250216/b5f5021e-c97f-490f-ae9b-d455666922dd.png"
         },
         {
             "title": "海上大雾蓝色预警 上海部分航道停航",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250216/47975691.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250216/eac30cfb-4358-4f35-b8b6-c35a3d210f9a.jpg"
-        },
-        {
-            "title": "四川检察机关依法对秦如培涉嫌受贿案提起公诉",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250216/47975513.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250216/6f81d089-e8c2-4bb6-b331-844e1df7e978.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "俄美元首通话后 两国被拘押人员互释回国",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250214/47971411.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "苏丹西部一难民营多次遇袭 造成31人死亡",
@@ -231,12 +237,6 @@
             {
                 "title": "作业帮全系产品接入 DeepSeek，与自研大模型实现深度整合",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250214/47969211.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "山东一非遗传承人为传承技艺买 9 块 9 奶粉致小孩早夭？文旅局：父母否认且不符合常理",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250214/47969212.html?ayjr"
             }
         ]
     ]
