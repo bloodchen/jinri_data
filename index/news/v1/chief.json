@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "特朗普想要乌克兰一半稀土矿 泽连斯基紧急喊停",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975838.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250216/b5f5021e-c97f-490f-ae9b-d455666922dd.png"
+        },
+        {
             "title": "海上大雾蓝色预警 上海部分航道停航",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250216/47975691.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250216/eac30cfb-4358-4f35-b8b6-c35a3d210f9a.jpg"
@@ -9,14 +14,14 @@
             "title": "四川检察机关依法对秦如培涉嫌受贿案提起公诉",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250216/47975513.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250216/6f81d089-e8c2-4bb6-b331-844e1df7e978.png"
-        },
-        {
-            "title": "英国伦敦举行大规模游行 抗议英美巴以政策",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975443.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250216/5f3d8e8b-99b8-4cd3-bf4e-95d156d9b876.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "特朗普政府“大规模裁员”近万人 涉美多个部门",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975301.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250216/8485f70c-9e2b-4050-973b-aa019211bb8c.jpg"
+        },
         {
             "title": "争夺人机交互标准制定权多家厂商宣布大模型免费用",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250216/47975186.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250216/2505ef87-5332-46b4-bd24-6940edc9f3ef.jpg"
         },
         {
-            "title": "奥地利发生持刀行凶事件致1死4伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975091.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/646x0/news/20250216/95909169-6d1a-4a1b-b413-d6ed54fa2410.jpg"
+            "title": "英国伦敦举行大规模游行 抗议英美巴以政策",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975443.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250216/5f3d8e8b-99b8-4cd3-bf4e-95d156d9b876.jpg"
         },
         {
             "title": "刚果(金)反政府武装夺取一机场 人道形势继续恶化",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975389.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250216/420ee34e-8597-4707-a2d2-30eb4b3378a6.jpg"
-        },
-        {
-            "title": "第38届非盟峰会聚焦纠正历史不公共商非洲发展大计",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975375.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250216/b5651efb-6981-448a-9c65-1cc931e29a58.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "新一轮找矿行动，有重大突破！",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250214/47970778.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "墨西哥总统：或就“墨西哥湾”更名一事起诉谷歌",
@@ -231,12 +237,6 @@
             {
                 "title": "台湾百货大楼爆炸事故伤亡人数修正为 4 死 26 伤",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250214/47969214.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "外交部：中方要求澳方停止侵权挑衅",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250214/47969215.html?ayjr"
             }
         ]
     ]
