@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "卫星图像显示停火后以军仍在加沙地带军事行动",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47976265.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250216/33be5c5e-1ff6-4bfc-ac59-5b68a140d9ad.jpg"
+        },
+        {
             "title": "萌翻全场！香港首对龙凤胎大熊猫宝宝正式亮相",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250216/47976131.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250216/900825db-2916-42c4-b2d1-fdc466128609.jpg"
@@ -9,14 +14,14 @@
             "title": "被美频频羞辱的加拿大，打“中国牌”向美国乞怜！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47976050.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250216/88e1d8b6-acdd-445d-a085-4ea068ea8f72.jpg"
-        },
-        {
-            "title": "事关租房成本！北京试点公积金“直付房租”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250216/47976020.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250216/86196cf7-90dd-43e7-b484-fc772fd53ca1.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "海上大雾蓝色预警 上海部分航道停航",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250216/47975691.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250216/eac30cfb-4358-4f35-b8b6-c35a3d210f9a.jpg"
+        },
         {
             "title": "四川检察机关依法对秦如培涉嫌受贿案提起公诉",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250216/47975513.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250216/195a42dc-eb29-46f6-8cd9-870f8d9928e4.jpg"
         },
         {
-            "title": "特朗普政府“大规模裁员”近万人 涉美多个部门",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975301.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250216/8485f70c-9e2b-4050-973b-aa019211bb8c.jpg"
+            "title": "事关租房成本！北京试点公积金“直付房租”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250216/47976020.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250216/86196cf7-90dd-43e7-b484-fc772fd53ca1.jpg"
         },
         {
             "title": "巴拿马运河：百年主权抗争成就全球贸易&quot;黄金水道&quot;",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975939.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250216/64429b28-c1b1-4a1c-a51f-a0a1eded66de.jpg"
-        },
-        {
-            "title": "2025上半年参军最新要求解析 附年龄条件+优惠政策",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250216/47975915.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250216/e8f0adbb-5e77-417a-b3f5-4ca085f9cebc.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美日确认安保条约覆盖钓鱼岛？国防部回应",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250214/47971787.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "国防部：菲引入中导系统是“开门揖盗 为虎作伥”",
@@ -231,12 +237,6 @@
             {
                 "title": "美国“哈里·杜鲁门”号航母在埃及附近与商船相撞",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250214/47969266.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "春晚机器人“亲兄弟”开始打工：日租金超 1 万元，现货二手需加价购买",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250214/47969209.html?ayjr"
             }
         ]
     ]
