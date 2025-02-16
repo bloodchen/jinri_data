@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "慕尼黑多场集会活动抗议西方军事化政策",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975333.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250216/195a42dc-eb29-46f6-8cd9-870f8d9928e4.jpg"
+        },
+        {
             "title": "特朗普政府“大规模裁员”近万人 涉美多个部门",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975301.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250216/8485f70c-9e2b-4050-973b-aa019211bb8c.jpg"
@@ -9,14 +14,14 @@
             "title": "争夺人机交互标准制定权多家厂商宣布大模型免费用",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250216/47975186.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250216/0cc7330e-0fba-4e0d-ad4f-19e417384ca7.jpg"
-        },
-        {
-            "title": "乌总统：美方提出的矿产协议方案缺乏“安全保障”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975152.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250216/c438e28f-75e6-4d53-b293-3a74113a5c0d.png"
         }
     ],
     "midImg": [
+        {
+            "title": "奥地利发生持刀行凶事件致1死4伤",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975091.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/646x0/news/20250216/95909169-6d1a-4a1b-b413-d6ed54fa2410.jpg"
+        },
         {
             "title": "以色列无人机袭击黎巴嫩南部致2人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975081.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250215/44acdc26-5e18-4513-af6e-73ece5c4e5f6.jpg"
         },
         {
-            "title": "菲律宾帕赛市火灾已致4人死亡 2人受伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250215/47974289.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/370x0/news/20250215/ab3139ee-b008-47e4-be5c-40ebb4073da7.jpg"
+            "title": "乌总统：美方提出的矿产协议方案缺乏“安全保障”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975152.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250216/c438e28f-75e6-4d53-b293-3a74113a5c0d.png"
         },
         {
             "title": "印度首都一火车站踩踏事件死亡人数升至18人",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975143.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/564x0/news/20250216/d6001d9e-7fc4-434b-8a04-56f8598f4848.png"
-        },
-        {
-            "title": "玉渊谭天丨真假美国：关于特朗普的关税说辞",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975130.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250216/27fa668d-cc32-4bbd-8942-9375f340e6e0.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "欧盟称欧方和乌克兰必须在谈判桌上",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250214/47969871.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "北约防长会召开 美国防开支目标使欧洲倍感压力",
@@ -231,12 +237,6 @@
             {
                 "title": "播音艺术家虹云逝世，曾是中央广播电视总台播音指导，声音影响了几代电视观众",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250214/47969200.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "浙商证券“老将”张晖履新国都证券总经理，“浙商 + 国都”业务整合成市场焦点",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250214/47969201.html?ayjr"
             }
         ]
     ]
