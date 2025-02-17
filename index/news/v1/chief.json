@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "开学了，别慌！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250217/47979971.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250217/b693b6da-1e66-4f65-96fd-f43662304e7c.jpg"
+        },
+        {
             "title": "美国“杜鲁门”号航母抵达希腊克里特岛检修",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250217/47979732.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250217/5f0d473f-ac6d-4ddb-ab55-8185240dd237.png"
@@ -9,14 +14,14 @@
             "title": "慕安会闭幕 多极化浪潮下国际秩序正在重构",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250217/47979699.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250217/2e545853-86fc-4a5d-ad8b-1b585dcf2c48.jpg"
-        },
-        {
-            "title": "多国政商界人士批美挥舞“关税大棒”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250217/47979680.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250217/e85acd06-3849-46b1-bb4d-f2d776684a86.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "机器人“赛道” 新年如何加速“跑”？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250217/47979516.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250217/0d31a4a9-b26b-41c7-896c-17597cccd3c5.jpg"
+        },
         {
             "title": "在校园里学国防知识 这是孩子们的“开学第一课”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250217/47979468.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250214/d7b6ac2e-23cc-4974-9f10-7eb6291c274b.jpg"
         },
         {
-            "title": "六旬阿姨遛狗时狗往车轮胎上撒尿，遭车主殴打辱骂，法院判了",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250217/47978232.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250214/e5ceceb8-8e20-4a1e-b52a-e7587dbff8c0.jpg"
+            "title": "多国政商界人士批美挥舞“关税大棒”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250217/47979680.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250217/e85acd06-3849-46b1-bb4d-f2d776684a86.jpg"
         },
         {
             "title": "内塔尼亚胡：特朗普“接管加沙”计划并不令人意外",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250217/47979630.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250217/c90a74bc-1966-4b69-b761-2d38ed4771c4.png"
-        },
-        {
-            "title": "“太空出差”日程过半 神十九乘组都在忙些啥？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250217/47979563.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250217/b0de5549-0a0b-4ede-965c-df1040545037.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "上海男篮夺得首届 CBA 俱乐部杯冠军",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250217/47978188.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "这就是强队的感觉？U20 亚洲杯中国队两连胜，提前一轮出线",
@@ -231,12 +237,6 @@
             {
                 "title": "刚果(金)反政府武装夺取一机场 人道形势继续恶化",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975389.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "第38届非盟峰会聚焦纠正历史不公共商非洲发展大计",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250216/47975375.html?ayjr"
             }
         ]
     ]
