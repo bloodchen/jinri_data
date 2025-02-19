@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美客机着陆翻覆事故更多音视频曝光",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250219/47988775.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250219/6ab3f2bd-2da1-49f2-b90a-fb75d793a61b.jpg"
+        },
+        {
             "title": "英首相重申向乌派兵 称必须有美国支持",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250219/47988647.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250219/a285a8ce-7709-47bb-93ec-bb74fc373972.jpg"
@@ -9,14 +14,14 @@
             "title": "美国国家航空航天局已裁员10%",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250219/47988585.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/600x0/news/20250219/2cab4697-1379-4dd9-8da4-18d4df734d1a.jpg"
-        },
-        {
-            "title": "占据战场优势又得美庇护 以军撤离黎南部一拖再拖",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250219/47988523.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250219/1ac0a1c9-90fa-4886-9a22-7dbd42c4ee4c.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "中国 AI，为什么选择开源？",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250219/47988180.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250218/c86f90d8-ee6d-4039-9c9c-ba9c4a1ff8d5.jpg"
+        },
         {
             "title": "第一观察丨这场民营企业座谈会释放重要信号",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250219/47988181.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250218/2962f3dc-d235-4559-99e6-559b5c6f97ed.jpg"
         },
         {
-            "title": "盛付通 2 亿元股权遭冻结",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250219/47988186.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250218/2df887e3-4660-49d2-a8ed-863169544844.jpg"
+            "title": "占据战场优势又得美庇护 以军撤离黎南部一拖再拖",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250219/47988523.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250219/1ac0a1c9-90fa-4886-9a22-7dbd42c4ee4c.jpg"
         },
         {
             "title": "定调超大特大城市将带来哪些新机遇？专家解读",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250219/47988504.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250219/76544578-31ce-4f3f-895f-b831bf06b265.jpg"
-        },
-        {
-            "title": "美客机在加拿大翻覆事故已致21人受伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250219/47988482.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250219/545666fb-9154-4f3b-a546-5350d42e431f.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "四大行股价齐创新高，沪指半日收涨0.29%",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250218/47985647.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "博杰股份：公司服务的服务器厂商包括戴尔、亚马逊、微软、英伟达、思科等国际知名厂商",
@@ -231,12 +237,6 @@
             {
                 "title": "中国农业大学一学生公寓电梯井发生一起高处坠落事故，造成一人坠亡，调查报告公布",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250218/47983201.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "少女？明星？总统？为让法国再次加入 AI 竞赛，马克龙拼了",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250218/47983202.html?ayjr"
             }
         ]
     ]
