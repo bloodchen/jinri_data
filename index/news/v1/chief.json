@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "巴基斯坦外长：坚决反对美国“接管”加沙",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250222/48001267.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250222/e0a4e4cc-9c99-438c-a57d-7f617991cc7b.jpg"
+        },
+        {
             "title": "美联社以侵犯言论自由为由起诉特朗普政府3名官员",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250222/48000973.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250222/0ae8d36b-8e9b-4cbd-a545-97f6e35229c1.png"
@@ -9,14 +14,14 @@
             "title": "跟战机一起邂逅绝美日出 开启全新一天",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250222/48000944.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250222/bb33d8c4-a96e-481e-840e-9d169bf58df1.jpg"
-        },
-        {
-            "title": "特朗普称美国即将与乌克兰达成矿产协议",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250222/48000930.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250222/0c022451-7b17-48d3-be16-4c0061019262.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "德国大选前最后一次民调显示联盟党支持率保持领先",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250222/48000800.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250222/1e74f0bb-f261-4fbb-95af-57b5264ae06c.png"
+        },
         {
             "title": "特朗普称有机会达成俄乌和平协议未计划5月9日访俄",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250222/48000789.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/430x0/news/20250222/8b4525c9-4a54-4c83-b6d3-bc300e87795a.png"
         },
         {
-            "title": "美反对使用&quot;俄罗斯侵略&quot;等措辞 北约声明已不再提",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250222/48000705.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250222/c9225d3f-7eb9-4705-9bb0-cb137bb96494.jpg"
+            "title": "特朗普称美国即将与乌克兰达成矿产协议",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250222/48000930.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250222/0c022451-7b17-48d3-be16-4c0061019262.jpg"
         },
         {
             "title": "黎真主党将为前领导人纳斯鲁拉举行葬礼",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250222/48000841.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250222/397cd3d2-fde0-409b-90c5-87661be0f3ab.png"
-        },
-        {
-            "title": "&quot;乌有大量稀土矿&quot;遭质疑 美5000亿美元目标难实现",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250222/48000827.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250222/54f5bc61-28e8-4760-aa3b-e4d802c75017.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "菲律宾军机近3天多次闯入我海空 南部战区喊话驱离",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250221/47998760.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "操纵证券市场获刑！证券交易犯罪典型案例公布",
@@ -231,12 +237,6 @@
             {
                 "title": "美联储官员：需警惕通胀预期上升，并考虑发生滞涨的风险",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250221/47996901.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "优化消费环境出猛招 治理能力提升是关键",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250221/47996902.html?ayjr"
             }
         ]
     ]
