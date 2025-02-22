@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "哈马斯称已准备好进入停火协议第二阶段",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250222/48002008.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/600x0/news/20250222/63b0bd38-194d-42c2-b552-c75185ad43e9.jpg"
+        },
+        {
             "title": "早发现，少花钱！几滴血就可测上百种病，真的来了",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250222/48001832.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250222/5a05e100-9238-428d-b960-7ec78ec9b944.jpg"
@@ -9,14 +14,14 @@
             "title": "细节曝光！菲方闯入中国领空前关闭飞机信号",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250222/48001725.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250222/6c535631-d9d1-4708-8ec0-a97387b4880d.png"
-        },
-        {
-            "title": "韩外交部召见日驻韩公使抗议日本举行&quot;竹岛日&quot;活动",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250222/48001709.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/640x0/news/20250222/032d5bc6-f824-46e1-9b4d-98be098cfb48.png"
         }
     ],
     "midImg": [
+        {
+            "title": "德国总理说不能因为矿产才支持乌克兰",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250222/48001559.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250222/92cdd17b-a59f-42fc-9304-1b0b53cb3450.png"
+        },
         {
             "title": "匈牙利总理——看透俄乌冲突的“清醒者”？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250222/48001373.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20250222/dbe68925-24f6-4327-9f34-edef6e5e1edb.png"
         },
         {
-            "title": "巴基斯坦外长：坚决反对美国“接管”加沙",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250222/48001267.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250222/e0a4e4cc-9c99-438c-a57d-7f617991cc7b.jpg"
+            "title": "韩外交部召见日驻韩公使抗议日本举行&quot;竹岛日&quot;活动",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250222/48001709.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/640x0/news/20250222/032d5bc6-f824-46e1-9b4d-98be098cfb48.png"
         },
         {
             "title": "中心静脉给药降价！惠及全国300多万患者",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250222/48001682.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250222/951d8820-e553-4946-99bb-0bb238c23ed1.jpg"
-        },
-        {
-            "title": "约旦河西岸成新火药桶？以军“密集”行动引发担忧",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250222/48001668.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250222/d6494efb-f569-424e-a197-01c0fbd8a895.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "“TITAN首个女团”AtHeart七名成员全部公开完毕！今年7月正式出道！",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250221/47999971.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美军惨遭铁杆盟友＂背刺＂ 中国一招让美国人措手不及",
@@ -231,12 +237,6 @@
             {
                 "title": "匈牙利外长：支持美俄谈判 对未来持积极看法",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250221/47997039.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "复旦大学科研团队发现帕金森病全新治疗靶点",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250221/47996919.html?ayjr"
             }
         ]
     ]
