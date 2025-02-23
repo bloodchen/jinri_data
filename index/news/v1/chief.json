@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "深圳将筹集45亿元资金助力企业使用算力",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250223/48003374.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250223/867caa46-9884-40a0-b75d-65bb968d972c.png"
+        },
+        {
             "title": "王曼昱晋级决赛 今晚将与孙颖莎争冠",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250223/48003348.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250223/ddab466a-d9d6-4507-b719-48dcb8b5436d.jpg"
@@ -9,14 +14,14 @@
             "title": "英国外交大臣：将对俄实施冲突以来最大规模制裁",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250223/48003323.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250223/1dc27193-9979-4773-90c6-04409d1ef411.jpg"
-        },
-        {
-            "title": "被俄军击落的乌军米格-29战斗机 或为北约援助",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250223/48003312.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250223/a9346827-9a80-41af-a45f-9f3bb9f1413d.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美俄会谈绕开欧洲 欧洲反思战略自主与对美依赖",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250223/48002901.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250223/f5851fff-d1fc-4f10-86e4-2f037df23f00.jpg"
+        },
         {
             "title": "美乌矿产协议再生变 泽连斯基“还没准备好” ",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250223/48002877.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250223/a4387693-02bf-47fb-a8d8-5717230a0f05.jpg"
         },
         {
-            "title": "因马斯克&quot;亲美&quot; 加拿大3.4万人请愿撤销其公民身份",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250223/48002447.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/562x0/news/20250223/4a4a0c4d-2a45-40b3-ad03-b1ac73c45c75.jpg"
+            "title": "被俄军击落的乌军米格-29战斗机 或为北约援助",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250223/48003312.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250223/a9346827-9a80-41af-a45f-9f3bb9f1413d.jpg"
         },
         {
             "title": "“好房子”成多地房地产发展关键词 何为“好”？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250223/48003237.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250223/b750d1cf-759d-4b28-8102-e4ad49800ba2.jpg"
-        },
-        {
-            "title": "热映中！《哪吒2》成为中国香港单日票房榜冠军",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250223/48003215.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250223/673ff181-244f-4a22-b81d-d988c2d9393e.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美国加州洛杉矶市消防局局长被免职",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250222/48000756.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "北约秘书长：国防开支不达标可能收到美&quot;催缴&quot;电话",
@@ -231,12 +237,6 @@
             {
                 "title": "40年前，我们为什么一定要在南极建立长城站？",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250221/47998915.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "我国自主研制AS700D载人飞艇完成首次科研试飞",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250221/47998858.html?ayjr"
             }
         ]
     ]
