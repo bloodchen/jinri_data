@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "特朗普：将“按时”对墨加两国加征关税",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250225/48010816.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250225/db2d5e95-4757-4e29-ad9b-912225cb944e.jpg"
+        },
+        {
             "title": "墨西哥首都一康复中心发生火灾 已造成5人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250225/48010769.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20250225/0dd0aff7-f975-4615-89a5-69029aff6114.jpg"
@@ -9,14 +14,14 @@
             "title": "中美俄均投下赞成票 联合国安理会通过涉乌决议",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250225/48010749.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20250225/00e034e1-5711-493e-9b35-c4e5c841c201.jpg"
-        },
-        {
-            "title": "飙涨600%！AI玩具销售火爆 600亿美元大市场要来了",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250225/48010674.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250225/c2287c91-d5fe-4dc1-aa99-02b9511d74df.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美国中东特使披露与普京 3.5 小时会谈细节",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250225/48010115.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250224/d4a3b559-85a4-4044-97bd-aaaab8c639b3.jpg"
+        },
         {
             "title": "“源神” DeepSeek！突破 H800 性能上限，FlashMLA 重磅开源，算力成本还能降",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250225/48010116.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250224/3a40ce98-12fc-46c2-8607-81469702d665.jpg"
         },
         {
-            "title": "中央文件首提两个“不允许”，什么信号",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250225/48010121.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250224/39dc920b-5dfa-41db-85eb-7b29d4787b72.jpg"
+            "title": "飙涨600%！AI玩具销售火爆 600亿美元大市场要来了",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250225/48010674.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250225/c2287c91-d5fe-4dc1-aa99-02b9511d74df.jpg"
         },
         {
             "title": "一向“舔美”的东欧四国，最近为什么立场变来变去？",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250225/48010123.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250224/3eccdd86-6cce-4599-9d97-2ea247b40b66.jpg"
-        },
-        {
-            "title": "张学友成为首位巡演场次突破 1000 场的华语歌手！",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250225/48010124.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250224/c962ccd6-9991-4a6f-8907-b2538b5a950b.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "被俄军击落的乌军米格-29战斗机 或为北约援助",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250223/48003312.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "“好房子”成多地房地产发展关键词 何为“好”？",
@@ -231,12 +237,6 @@
             {
                 "title": "总投资约648亿！上海浦东一批重大民生项目开工",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250222/48001303.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "巴基斯坦外长：坚决反对美国“接管”加沙",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250222/48001267.html?ayjr"
             }
         ]
     ]
