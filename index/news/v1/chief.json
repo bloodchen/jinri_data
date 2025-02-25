@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "超燃！舰艇编队热血开练 现场画面来了",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250225/48011777.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250225/2ae702d9-7214-45b5-959f-c94347ca7d38.jpg"
+        },
+        {
             "title": "韩国消防部门：高速公路垮塌已致2人死亡4人重伤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250225/48011740.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20250225/c164e0e0-990f-4db4-9d76-eba492775456.jpg"
@@ -9,14 +14,14 @@
             "title": "金价，涨了！国际金价创收盘历史新高",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250225/48011716.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20250225/45209336-8a5e-42ed-aa06-4f10ba8c3f60.jpg"
-        },
-        {
-            "title": "马斯克向美联邦政府雇员下最后通牒",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250225/48011683.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/300x0/news/20250225/8c78a71b-448b-4d5c-b275-5e81eb115df0.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美官员：乌克兰加入北约“不在考虑范围”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250225/48011465.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20250225/ab32937c-43e2-44cf-bbde-9cc31ccfe52f.jpg"
+        },
         {
             "title": "叙利亚全国对话大会今日开幕",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250225/48011434.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20250225/c62e65f2-9806-429e-976b-8dd4e831f28e.jpg"
         },
         {
-            "title": "“支持乌克兰”会议在乌举行 多国宣布新援助计划",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250225/48011308.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250225/fe0e2e11-8860-424e-95a9-1c703fe7feb0.jpg"
+            "title": "马斯克向美联邦政府雇员下最后通牒",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250225/48011683.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20250225/8c78a71b-448b-4d5c-b275-5e81eb115df0.jpg"
         },
         {
             "title": "挪威首相：挪威正与多国一同着手建立新乌克兰旅",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250225/48011664.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20250225/0308109b-2967-491d-8490-73da80526e22.jpg"
-        },
-        {
-            "title": "国家知识产权局：多方恶意抢注DeepSeek商标被驳回",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250225/48011593.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250225/0a3df8b7-5eb9-4c61-bf0e-18f988c752a8.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "结婚仅两月，女子未给丈夫游戏充值被打到双目失明！妈妈自责同意其闪婚",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250224/48005238.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "电动飞机先驱 Eviation 陷入困境：揭示电动航空产业的挑战与未来",
@@ -231,12 +237,6 @@
             {
                 "title": "美俄会谈绕开欧洲 欧洲反思战略自主与对美依赖",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250223/48002901.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美乌矿产协议再生变 泽连斯基“还没准备好” ",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250223/48002877.html?ayjr"
             }
         ]
     ]
