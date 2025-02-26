@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美国“政府效率部”21名工作人员辞职",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250226/48014954.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250226/6ce1e82f-eb63-4a87-aeed-d31722e8de2a.jpg"
+        },
+        {
             "title": "又一位杭州科创企业的创始人火了",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250226/48014766.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250225/b17d5a1a-d13b-4a03-9182-a802b6aa21a7.jpg"
@@ -9,14 +14,14 @@
             "title": "韩国高速桥倒塌致 4 死 6 伤，2 名中国工人遇难",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250226/48014767.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250225/be8aeae7-6862-4c01-a0d3-9214e7cb5474.jpg"
-        },
-        {
-            "title": "茂名荔枝大数据平台接入 DeepSeek，病虫害诊断准确率提升至 95%",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250226/48014768.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250225/3af8975f-ec6f-4814-8d4e-48c1de7f146b.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "投资上千万的高标准农田被曝“插根管子弄虚作假应付检查”？当地回应",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250226/48014764.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250225/44a1974e-30a3-4a30-9610-2373dd9463ad.jpg"
+        },
         {
             "title": "国青惜败真相：不是运气差，而是这 3 大致命漏洞！我们到底缺什么",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250226/48014765.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250225/9b1557a4-e732-49b2-bc19-6c28af6ff71f.jpg"
         },
         {
-            "title": "韩国高速公路在建桥梁倒塌致3死5伤 现场画面公布",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250225/48011865.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250225/1255fc53-5aa4-401e-904b-eef36b96a531.jpg"
+            "title": "茂名荔枝大数据平台接入 DeepSeek，病虫害诊断准确率提升至 95%",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250226/48014768.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250225/3af8975f-ec6f-4814-8d4e-48c1de7f146b.jpg"
         },
         {
             "title": "自杀式行骗？骗子向受害者提供了自己的真实姓名和身份证号",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250226/48014769.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250225/a0482665-896f-41e0-83b6-8163d7e23618.jpg"
-        },
-        {
-            "title": "献血浆脑梗死背后的生意经：国内血浆缺口达五千吨",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250226/48014762.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250225/8716707e-a5d8-498e-aaa3-718287d68831.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "普京：俄美两国可就削减五成军备达成一致",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250225/48010990.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "特朗普：将“按时”对墨加两国加征关税",
@@ -231,12 +237,6 @@
             {
                 "title": "特朗普首月成绩单：利好消散后美股回到原点，恐慌情绪或升级",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250224/48005228.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "我是长姐，不是你妈",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250224/48005229.html?ayjr"
             }
         ]
     ]
