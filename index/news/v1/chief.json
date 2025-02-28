@@ -1,6 +1,23 @@
 {
     "focus": [
         {
+            "title": "美情报人员被指在机密通讯软件色情聊天 上百人被解雇",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250228/48024062.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/toutiao/20250227/6e3c5f44-05a1-4656-847b-18e58197618e.jpg"
+        },
+        {
+            "title": "以色列发生汽车冲撞人群事件 致14人受伤",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250228/48024045.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250228/6d3211ee-a07d-4d63-9251-691c0db43285.jpg"
+        },
+        {
+            "title": "特朗普：美乌达成矿产协议后才能组建维和部队",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250228/48024009.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250228/1f9dbc62-f4de-4a94-ae70-351f360401c6.jpg"
+        }
+    ],
+    "midImg": [
+        {
             "title": "验证月球岩浆洋模型 嫦娥六号月背样品成果公布！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250228/48023405.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250228/cbf21bb9-28b8-469a-8c10-a3a421ba1916.png"
@@ -14,38 +31,6 @@
             "title": "我国成功发射四维高景一号03、04星",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250227/48022394.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250227/2a18270e-cf8d-40a3-814f-100ab313df54.jpg"
-        }
-    ],
-    "midImg": [
-        {
-            "title": "连续9年减少 日本去年出生人口创逾120年来新低",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250227/48021928.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250227/945e87c7-97d8-4daf-ae3c-873b5d90a728.jpg"
-        },
-        {
-            "title": "福建推出惠台17条！支持台胞到宁德锂电行业就业",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250227/48021858.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250227/d85a7c5d-a63d-46a2-b1ec-c0a6860811a1.jpg"
-        },
-        {
-            "title": "新疆“爆改”大沙漠 治沙任务为何这么艰巨？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250227/48021810.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250227/37ba083d-39b5-48db-9337-c15b1a523835.jpg"
-        },
-        {
-            "title": "游客跳进意大利“许愿池” 被处500欧元罚款",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250227/48021786.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/news/20250227/4f3a4622-0dfb-4c46-8e51-2cb62399a386.png"
-        },
-        {
-            "title": "28日访美见特朗普 泽连斯基：我要问他三个问题",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250227/48021726.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250227/005d571e-8f0f-4183-afd1-00fb8ca7c54d.png"
-        },
-        {
-            "title": "马斯克非真“BOSS” 政府效率部换将藏玄机？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250227/48021679.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250227/4fd3a448-76d0-4383-bb9f-5ed338f3b164.jpg"
         },
         {
             "title": "外交部：美方对中俄关系的挑拨离间完全是徒劳的",
@@ -56,9 +41,66 @@
             "title": "国防部警告菲方：立即停止侵权与虚假叙事",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250227/48022229.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20250227/ce7759a3-8024-41b1-8552-af3bb2f848c8.png"
+        },
+        {
+            "title": "国防部回应中美两军交往：已有初步计划和安排",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250227/48022164.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250227/9342acbf-db9c-4ea8-9a86-30de693c6576.png"
+        },
+        {
+            "title": "刚果（金）布卡武市爆炸事件死亡人数升至11人",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250228/48023959.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250228/2b1864e5-b470-4de7-8b8a-1b470eb59da3.png"
+        },
+        {
+            "title": "刚果（金）不明原因疾病死亡病例升至60例",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250228/48023817.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250228/a6707ee6-b47a-452d-84cb-f633e490d586.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "乌克兰总统泽连斯基：将于28日与特朗普会晤",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250227/48019193.html?ayjr"
+            }
+        ],
+        [
+            {
+                "title": "特朗普：参与阿富汗撤军的&quot;每一位&quot;将军都应被解雇",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250227/48018938.html?ayjr"
+            }
+        ],
+        [
+            {
+                "title": "乌总理：乌政府批准与美国签署矿产框架协议",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250227/48018735.html?ayjr"
+            }
+        ],
+        [
+            {
+                "title": "特朗普称将“按时”对墨西哥加拿大两国加征关税",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250227/48018723.html?ayjr"
+            }
+        ],
+        [
+            {
+                "title": "特朗普证实乌总统将于28日访美签署稀土相关协议",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250227/48018711.html?ayjr"
+            }
+        ],
+        [
+            {
+                "title": "波兰：正为乌订购5000个星链系统 未来几周可交付",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250226/48017737.html?ayjr"
+            }
+        ],
+        [
+            {
+                "title": "定价500万美元 限量1000万张 特朗普为何亲自推销",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250226/48017718.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美解冻8.7亿美元“对台军援” 外交部回应",
@@ -195,48 +237,6 @@
             {
                 "title": "美国退伍军人事务部宣布再解雇1400名员工",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250226/48015035.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "哈马斯：停战、撤军与重建是停火谈判三条红线",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250226/48015023.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美法官拒绝恢复美联社对白宫发布会采访权",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250226/48015005.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美国“政府效率部”21名工作人员辞职",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250226/48014954.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "又一位杭州科创企业的创始人火了",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250226/48014766.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "韩国高速桥倒塌致 4 死 6 伤，2 名中国工人遇难",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250226/48014767.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "茂名荔枝大数据平台接入 DeepSeek，病虫害诊断准确率提升至 95%",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250226/48014768.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "自杀式行骗？骗子向受害者提供了自己的真实姓名和身份证号",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250226/48014769.html?ayjr"
             }
         ]
     ]
