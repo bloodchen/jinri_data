@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美国“卡尔·文森”号航母驶入韩国釜山海军基地",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250302/48030861.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/640x0/news/20250302/09ef6d43-8f91-4e27-acb7-2e56b254364e.jpg"
+        },
+        {
             "title": "北约秘书长劝泽连斯基“想想怎么跟特朗普和好”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250302/48030718.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/439x0/news/20250302/bd32ca3d-b901-4708-90d8-45387768fe57.png"
@@ -9,14 +14,14 @@
             "title": "美乌争吵后马克龙出手&quot;劝架&quot;:事关重大 要保持冷静",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250302/48030571.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250302/0dce1c06-3c9f-42af-8e0a-ef5bfa0d15ba.png"
-        },
-        {
-            "title": "科学家首次探测到中等质量黑洞吞噬恒星的“心跳”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250302/48030334.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250302/f8125d13-f09d-4f17-be37-e63d3a7dfffd.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美国得州达拉斯发生人群踩踏事件 造成多人受伤",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250302/48029798.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/560x0/news/20250302/ab55401c-b51d-4b22-bc03-4c6c2c9439c2.jpg"
+        },
         {
             "title": "尼加拉瓜宣布退出国际移民组织和国际劳工组织",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250302/48029786.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/600x0/news/20250302/24b85ff7-3cc9-4639-baa9-a92d59706f6a.jpg"
         },
         {
-            "title": "“AI医生”看病 你放心吗？看AI解读AI医疗政策",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250302/48029457.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/640x0/news/20250302/e22c4f30-7712-4680-b71a-fdaf5d8b8fea.jpg"
+            "title": "科学家首次探测到中等质量黑洞吞噬恒星的“心跳”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250302/48030334.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250302/f8125d13-f09d-4f17-be37-e63d3a7dfffd.jpg"
         },
         {
             "title": "“钱凯-上海”海运航线货运量突破两万吨",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250302/48030301.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250302/36dcb1ba-b466-45f1-b777-9f9c7ae960cf.jpg"
-        },
-        {
-            "title": "十四届全国人大三次会议新闻发布会3月4日举行",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250302/48030220.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250302/52f92710-5f06-48bb-8d8f-bbcdfab94093.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "特朗普解雇美军高官 五位前防长谴责",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250228/48025700.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "事关新能源车年检&quot;鬼秤&quot;治理 3月起这些新规将施行",
@@ -231,12 +237,6 @@
             {
                 "title": "【云端之上②】飞行14年累计8500个小时安全记录",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250228/48024172.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "IDF战机挂载雄风3亮相，但是对解放军最大的威胁，恐怕并不在空中",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250228/48024173.html?ayjr"
             }
         ]
     ]
