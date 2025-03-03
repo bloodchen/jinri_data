@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "埃及称其提出的加沙重建计划已准备就绪",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250303/48033486.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250303/e18bafa5-41f9-4bc0-bc70-09cd7be00709.jpg"
+        },
+        {
             "title": "美方称乌克兰或需要新领导人 泽连斯基表态愿辞职",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250303/48033427.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250303/3d4b38d9-39d2-48d4-902a-7ebfb527c7c4.jpg"
@@ -9,14 +14,14 @@
             "title": "寒潮抵达湘北 湖南岳阳出现强冰雹天气",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250303/48033290.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250303/fa52f88b-4258-431f-96d7-ba05b19322d0.jpg"
-        },
-        {
-            "title": "家电回收业迎爆发式增长 千亿级市场将突破2亿台",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250303/48033271.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250303/66e108f5-3648-4b70-8a70-70209ec9a212.png"
         }
     ],
     "midImg": [
+        {
+            "title": "雪龙2号大洋考察完成 获取丰富海洋生物水体样品",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250303/48033088.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250303/ddc4f0b1-3192-4ac8-808e-52a489264ec9.jpg"
+        },
         {
             "title": "遭报复杀害的王佳佳，被追授称号",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250303/48032663.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250228/e82aac45-443c-4688-baa1-b32ed6222067.jpg"
         },
         {
-            "title": "迈巴赫车主再发声：对方曾称不是测试，是拍广告片，目前仍无人来沟通",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250303/48032668.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250228/7b459181-3aa3-40f9-9992-0329f572fe03.jpg"
+            "title": "家电回收业迎爆发式增长 千亿级市场将突破2亿台",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250303/48033271.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250303/66e108f5-3648-4b70-8a70-70209ec9a212.png"
         },
         {
             "title": "国安机关侦破一批粮食领域间谍窃密案",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250303/48033257.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250303/c1ac4d25-e888-47e4-8f84-2ae1da01d11f.png"
-        },
-        {
-            "title": "注意防范！中央气象台4预警齐发",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250303/48033203.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250303/15293383-cfdd-42e1-896c-73b6bba0c742.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "杠杆产品放大特斯拉暴跌冲击，韩国散户投资者遭重创",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250303/48032642.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美乌“大吵一架” 特朗普露出自己的底牌",
@@ -231,12 +237,6 @@
             {
                 "title": "泽连斯基称希望特朗普“更多地站在我们这一边”",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250301/48028036.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "俄方：俄美已确定步骤允许外交机构资金流动畅通",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250301/48028024.html?ayjr"
             }
         ]
     ]
