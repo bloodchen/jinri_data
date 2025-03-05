@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "雷军：全球用户越来越认可中国科技创新的价值",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250305/48041950.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/555x0/news/20250305/600c468d-fdb2-49e1-a7c1-0c49b1294cce.png"
+        },
+        {
             "title": "2月份中国大宗商品价格指数环比上涨1.3%",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250305/48041851.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250305/c19e6509-eb58-4d67-92da-b7e1e53339fc.png"
@@ -9,14 +14,14 @@
             "title": "知情人士称美政府高级官员与乌克兰进行了秘密会谈",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250305/48041839.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/364x0/news/20250305/3611b0cf-3a66-4038-bdf7-ba3f7ca6fb5c.png"
-        },
-        {
-            "title": "墨加反制 欧盟谴责 &quot;关税大棒&quot;恐继续威胁美国经济",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250305/48041828.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/598x0/news/20250305/a232d53f-5209-474a-9b88-c2bd5dd7b6b8.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "中国出手：对美农产品加征关税精准反制！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250305/48041766.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250305/55c4a22e-cfd1-4d09-935a-adcb4735b405.jpg"
+        },
         {
             "title": "尼日利亚一公共汽车起火爆炸 造成16人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250305/48041744.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/564x0/news/20250305/f8aca94e-8c1c-41c2-88db-95f8f50a69ed.png"
         },
         {
-            "title": "解放军连出4招，统一进程迈大步，“台独”担心的，正在逐步实现",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250305/48041472.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250304/30850943-7a1f-458d-9b27-dc3737431f29.jpg"
+            "title": "墨加反制 欧盟谴责 &quot;关税大棒&quot;恐继续威胁美国经济",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250305/48041828.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/598x0/news/20250305/a232d53f-5209-474a-9b88-c2bd5dd7b6b8.jpg"
         },
         {
             "title": "中国建筑师刘家琨荣获2025年普利兹克建筑奖",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250305/48041810.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/364x0/news/20250305/dd05b7a4-4085-4d14-84ce-281aeac08348.png"
-        },
-        {
-            "title": "美暂停对乌军援有何战略意图？一文了解",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250305/48041797.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250305/a614afbb-f317-4a43-9cdc-fe9468d3c03f.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "以军空袭叙利亚西北部一军事设施",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250304/48037367.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "玻利维亚两车相撞事故已致38人死亡",
@@ -231,12 +237,6 @@
             {
                 "title": "埃及称其提出的加沙重建计划已准备就绪",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250303/48033486.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美方称乌克兰或需要新领导人 泽连斯基表态愿辞职",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250303/48033427.html?ayjr"
             }
         ]
     ]
