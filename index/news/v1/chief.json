@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "特朗普称应废除美国芯片法案",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250305/48044088.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/413x0/news/20250305/34336fa6-3200-4d1b-9cb1-9230c2df679d.png"
+        },
+        {
             "title": "“帮美国还债” 特朗普国会演讲再提卖“金卡”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250305/48043343.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250305/3c5d4017-aed3-48b5-899a-d0201f39698d.png"
@@ -9,14 +14,14 @@
             "title": "关于国防和军队建设，政府工作报告这么说",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250305/48043260.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250305/96689036-16a8-449b-a361-cca0312f34be.jpg"
-        },
-        {
-            "title": "2025政府工作任务有哪些？看图",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250305/48043218.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250305/d85d8d11-116d-42fd-b30d-ec3a516aa0b6.png"
         }
     ],
     "midImg": [
+        {
+            "title": "城乡居民基础养老金最低标准再提高20元！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250305/48042605.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20250305/1c4a7871-957a-49cf-8107-40a62dacc03a.png"
+        },
         {
             "title": "美国和加拿大官员就可能取消关税举行会谈",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250305/48042583.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250305/c7079465-14d0-489d-b91a-1bc247835fec.png"
         },
         {
-            "title": "2024年国内生产总值达到134.9万亿元 增长5%",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250305/48042196.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250305/e1f0d954-e295-49b9-a995-c2c243fc609b.png"
+            "title": "2025政府工作任务有哪些？看图",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250305/48043218.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250305/d85d8d11-116d-42fd-b30d-ec3a516aa0b6.png"
         },
         {
             "title": "来之不易！回顾过去一年成绩",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250305/48043184.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250305/2a4ea626-a1bc-4b87-a54c-5081c9a59de0.jpg"
-        },
-        {
-            "title": "美国务卿与匈牙利外长会面 讨论俄乌冲突等问题",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250305/48042930.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/371x0/news/20250305/44da0544-880b-40df-ad21-41a9dc38e234.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "董明珠两会建议将个人所得税基本减除费用标准提高至 10000 元 / 月",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250305/48041468.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "将有大事发生？特朗普 2.0 首次国会演讲有哪些看点？",
@@ -231,12 +237,6 @@
             {
                 "title": "烧48小时开水才启动，战争结束还没出港？辽宁舰真的那么落后吗？",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250304/48036693.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "“双头鹰”无人机部署海南？压倒性的性能优势，硬控美国和菲律宾",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250304/48036694.html?ayjr"
             }
         ]
     ]
