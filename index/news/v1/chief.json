@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "哈马斯：美方的警告让加沙停火“复杂化”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250307/48051365.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250307/d2f5dfc1-d013-4c7d-844b-c3aba2747ae7.jpg"
+        },
+        {
             "title": "新突破！我国科研团队解锁太阳能电池“长寿密码”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250307/48051345.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250307/495e7da5-d310-4093-9be1-96a403733d83.jpg"
@@ -9,14 +14,14 @@
             "title": "美国月球着陆器“雅典娜”登陆月球但未直立",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250307/48051329.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250307/4bdad283-d445-4883-b207-de3cb4600774.jpg"
-        },
-        {
-            "title": "特朗普竞选集会遇刺事件调查报告将于下周公布",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250307/48051317.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250307/3866d898-ac19-463b-93d8-0adf3d3fc394.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "普京：在乌克兰问题上 俄罗斯不会向任何人屈服",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250307/48051246.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250307/39913648-ed83-4e01-96f2-5b861bc663a4.jpg"
+        },
         {
             "title": "研制顺利！多型可重复使用火箭将于今年首飞",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250307/48051231.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250306/a5345f1e-48d1-4cef-83c6-3b4d9e5dd339.jpg"
         },
         {
-            "title": "想并肩 DeepSeek，不能靠自嗨和邀请码",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250307/48051026.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250306/8e5ec58c-cddb-47b6-a3d2-8d3d777dcb82.jpg"
+            "title": "特朗普竞选集会遇刺事件调查报告将于下周公布",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250307/48051317.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250307/3866d898-ac19-463b-93d8-0adf3d3fc394.jpg"
         },
         {
             "title": "美官员：美国计划在今年夏天前关闭十几个领事馆",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250307/48051301.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250307/13e72156-0138-4f63-84bf-88b9a9fa0cb9.png"
-        },
-        {
-            "title": "特朗普：北约国家“不付钱” 美国就“不会防御”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250307/48051287.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250307/8b69d2e2-abf6-4df4-9f07-290621182a32.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "卖爆了！飙涨53.8%！大“机”遇来了",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250307/48050990.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "全国人大代表刘懿艳：汽车促消费政策应减少临时性刺激 制定中长期一揽子措施",
@@ -231,12 +237,6 @@
             {
                 "title": "试一试！这一个细节可能决定退税还是补税",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250306/48049131.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "今年财政赤字率拟按4%左右安排 专家:传递积极信号",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250306/48049115.html?ayjr"
             }
         ]
     ]
