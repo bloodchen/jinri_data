@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "金正恩视察朝鲜重要造船厂",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250308/48054847.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250308/25992138-1232-4327-9083-2a78df80b49c.png"
+        },
+        {
             "title": "意大利总理提议北约集体防御条款适用于乌克兰",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250308/48054763.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250308/4475ae50-2a4c-4819-bced-a237a9fbef24.jpg"
@@ -9,14 +14,14 @@
             "title": "乌遭“猛烈攻击” 谁急了？ 特朗普：考虑对俄制裁",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250308/48054749.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/600x0/news/20250308/68f9c8b5-d917-4f55-8a79-bf17dd7f47ed.jpg"
-        },
-        {
-            "title": "美国防部开始裁员 超3万名文职员工提出辞职",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250308/48054731.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/600x0/news/20250308/29ffcd3c-06f9-4353-ab0e-782756a98db8.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "鲍威尔：美联储准备维持利率不变 等待更明确信号",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250308/48054682.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/600x0/news/20250308/acfd175d-9246-4deb-bed5-dcc218e525f2.jpg"
+        },
         {
             "title": "特朗普：将对加拿大乳制品征收250%对等关税",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250308/48054671.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20250307/f64420da-711a-4825-b5c7-fc2575899375.png"
         },
         {
-            "title": "“惊人逆转”？约24万在美乌克兰人或遭快速遣返",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250307/48053994.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250307/5f85cd23-03ad-4bf3-a1f9-0a8ad9fc160b.jpg"
+            "title": "美国防部开始裁员 超3万名文职员工提出辞职",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250308/48054731.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/600x0/news/20250308/29ffcd3c-06f9-4353-ab0e-782756a98db8.jpg"
         },
         {
             "title": "南苏丹总统：联合国直升机遇袭 多人丧生",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250308/48054722.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250308/85b59888-fa29-4826-8191-661136209e63.png"
-        },
-        {
-            "title": "乌外长与美国务卿通话 乌美围绕沙特会晤密集互动",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250308/48054705.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/517x0/news/20250308/c43b119b-8d67-47a4-b8d1-8bd11cb69869.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "欧盟特别峰会同意“重新武装欧洲”计划",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250307/48051274.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "普京：在乌克兰问题上 俄罗斯不会向任何人屈服",
@@ -231,12 +237,6 @@
             {
                 "title": "DeepSeek 的胡编乱造，正在淹没中文互联网",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250307/48051024.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "上证早知道｜阿里通义千问 最新开源；5G-A人形机器人 来了；多只港股主题ETF 份额创新高",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250307/48050984.html?ayjr"
             }
         ]
     ]
