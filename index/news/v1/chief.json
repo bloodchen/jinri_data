@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美国直接接触哈马斯 美以互信受打击",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250309/48057365.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250309/482f2ce5-10d2-4359-a67f-ce7d4eb14bf6.jpg"
+        },
+        {
             "title": "哈萨克斯坦机场发生人质劫持 前拳击手挺身而出",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250309/48057333.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250309/4359295b-c0b4-4752-bf82-df935101cfe6.png"
@@ -9,14 +14,14 @@
             "title": "惊险！秘鲁一男子从火车下逃生",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250309/48057242.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250309/28db95be-d51b-42ea-8b69-ea5c4c64d492.png"
-        },
-        {
-            "title": "距建军一百年奋斗目标两年 军队如何打好攻坚战？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250309/48057191.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/503x0/news/20250309/bc15f3fc-e77f-4249-84fd-fe4075bbec86.png"
         }
     ],
     "midImg": [
+        {
+            "title": "哈马斯称应立即开启停火协议第二阶段谈判",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250309/48057138.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250309/a7466fc8-44de-4dec-bf33-67dbf1a1d181.png"
+        },
         {
             "title": "多措并举促就业 如何“投资于人”？来看专家解读",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250309/48056830.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250309/fb9784e5-0c3c-4ccd-9d0c-ba7f8d5a063d.jpg"
         },
         {
-            "title": "太震撼！中国人用10000多面镜子操纵阳光",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250309/48056594.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250309/ca29e171-6cff-4da6-8683-7f880bdb52a4.png"
+            "title": "距建军一百年奋斗目标两年 军队如何打好攻坚战？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250309/48057191.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/503x0/news/20250309/bc15f3fc-e77f-4249-84fd-fe4075bbec86.png"
         },
         {
             "title": "2025年全国一般公共预算安排国防支出1.81万亿元",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250309/48057179.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/503x0/news/20250309/f87a8e92-4b39-48ea-9445-098d4f818091.png"
-        },
-        {
-            "title": "英法德意四国支持重建加沙“阿拉伯方案”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250309/48057162.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250309/693cd92d-841c-4d10-a903-368b4cb3e062.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "全国人大常委会一年来通过法律案24件",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250308/48054882.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "我国将对原产于加拿大的菜子油、豌豆等加征关税",
@@ -231,12 +237,6 @@
             {
                 "title": "关税大棒重伤美国 特朗普改签修正案救市",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250307/48052591.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "特朗普签署行政命令 建立战略性比特币储备",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250307/48052498.html?ayjr"
             }
         ]
     ]
