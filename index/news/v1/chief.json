@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "哈马斯称应立即开启停火协议第二阶段谈判",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250309/48057138.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250309/a7466fc8-44de-4dec-bf33-67dbf1a1d181.png"
+        },
+        {
             "title": "多措并举促就业 如何“投资于人”？来看专家解读",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250309/48056830.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250309/59abf495-f279-4d33-ac16-261f6c41d7b1.jpg"
@@ -9,14 +14,14 @@
             "title": "2025年2月份CPI同比下降 PPI降幅略有收窄",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250309/48056719.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20250309/00aaa8fc-7e1e-45a5-9a77-1e50facd2dd0.png"
-        },
-        {
-            "title": "伊朗最高领袖：不会受胁迫与美国谈判",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250309/48056696.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250309/b57c04a7-0454-4b2d-83f1-b18cc5cc93e1.png"
         }
     ],
     "midImg": [
+        {
+            "title": "个人所得税专项附加扣除常见问题解答",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250309/48056562.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/433x0/news/20250309/10747c99-8cdf-416e-bd73-9128b0e004e5.png"
+        },
         {
             "title": "&quot;AI医生&quot;能取代医生吗？听听医药科技专家怎么说",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250309/48056360.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250309/fd0d4b18-1d4d-4caf-9d7b-1d29fe3e1810.png"
         },
         {
-            "title": "热带气旋“阿尔弗雷德”已致澳大利亚1人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250309/48056266.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250309/4bbb0299-343e-4eaa-8111-19a48220f8bb.jpg"
+            "title": "伊朗最高领袖：不会受胁迫与美国谈判",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250309/48056696.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250309/b57c04a7-0454-4b2d-83f1-b18cc5cc93e1.png"
         },
         {
             "title": "2025年2月份居民消费价格同比下降0.7%",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250309/48056636.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250309/3673e6c1-7180-4382-9e7c-148c07aa3229.jpg"
-        },
-        {
-            "title": "美国众议院民主党领导层反对共和党政府支出法案",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250309/48056624.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250309/fb9784e5-0c3c-4ccd-9d0c-ba7f8d5a063d.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "乌外长与美国务卿通话 乌美围绕沙特会晤密集互动",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250308/48054705.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "政府工作报告中，这些“加减乘除”与我们息息相关",
@@ -231,12 +237,6 @@
             {
                 "title": "欧盟特别峰会就进一步支持乌克兰达成协议",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250307/48051507.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美“星舰”实施第八次试飞 第二级飞船失联",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250307/48051481.html?ayjr"
             }
         ]
     ]
