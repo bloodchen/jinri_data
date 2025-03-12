@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "以色列切断加沙供电 淡化水产量骤降80%",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250312/48069860.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250312/91c0112a-b978-47da-84e2-a3a15ce77c1d.jpg"
+        },
+        {
             "title": "澳总理：美对澳铁铝加征关税是“经济自损”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250312/48069425.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/418x0/news/20250312/6edbde80-038f-4671-8d3a-9bd5a34e3fc3.png"
@@ -9,14 +14,14 @@
             "title": "俄称遭乌大规模无人机袭击致3人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250312/48069249.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250312/8e8f8a42-7282-4c00-867b-1010c6d3062c.jpg"
-        },
-        {
-            "title": "一夜之间反转 美乌会谈还促成特朗普一项重要决定",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250312/48069073.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250312/23c35863-f1b0-440f-9399-fe1881d9fa10.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "哈马斯：与以色列已开始新一轮加沙停火谈判",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250312/48068961.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250312/9ab65fb7-4a70-4eda-9f84-9ef6fb7c2b18.jpg"
+        },
         {
             "title": "美方:恢复对乌安全援助 希望尽快进行俄乌停火谈判",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250312/48068904.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250311/dae622db-24b6-4a8a-89b8-c35b280a17cd.jpg"
         },
         {
-            "title": "汤阴警方速破地下室盗窃案 两“寻宝”盗贼落网",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250312/48068787.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250311/11e51976-9ad6-48ca-b8a4-65497c0e0891.jpg"
+            "title": "一夜之间反转 美乌会谈还促成特朗普一项重要决定",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250312/48069073.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250312/23c35863-f1b0-440f-9399-fe1881d9fa10.jpg"
         },
         {
             "title": "美国波兰就“星链”断供问题打嘴仗",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250312/48069023.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250312/c2906072-7a73-4ad1-b7ce-5ca016d84623.jpg"
-        },
-        {
-            "title": "出尔反尔 美方：12日不会对加拿大钢铝征收50%关税",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250312/48069001.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/600x0/news/20250312/d8a34b24-fc84-42a0-97d8-d4e48d626982.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "世界杯：扩军！直到中国能进",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250311/48064387.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "特朗普：联邦政府“可能会关门”",
@@ -231,12 +237,6 @@
             {
                 "title": "全国政协委员蒋胜男：20 多岁天天 996 35 岁会被边缘化",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250310/48059339.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "全国人大代表其实：建议加快推动大模型落地服务商的培育、推进多元场景与数据的开放",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250310/48059340.html?ayjr"
             }
         ]
     ]
