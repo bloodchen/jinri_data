@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "国台办发声：“台独”意味着战争！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250401/48155364.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250401/d22ad2e1-9fa7-40f4-9f00-af3e304dda3e.png"
+        },
+        {
             "title": "普京做了什么，让特朗普“非常生气”？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250401/48155055.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250401/3f9bdbfe-7051-4d76-a729-20064ffd319d.png"
@@ -9,14 +14,14 @@
             "title": "致吾爱王伟！时隔24年，她念出了这封信",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250401/48154893.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250401/1ff211c4-b833-4478-8da9-820cc02f6add.jpg"
-        },
-        {
-            "title": "东部战区发布动漫《壳》，细节意味深长",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250401/48154853.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250401/98882598-fd1a-49cc-b226-bb31bfd5548d.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "OpenAI 掀起 AI 生图热潮：“吉卜力”动漫风陷版权争议，实测中文渲染遇瓶颈",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250401/48154387.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250329/7fa7f2e4-c7b7-453d-98f5-c294832b96c4.jpg"
+        },
         {
             "title": "地震后第一夜：缅甸华人已开始抱团互助，大家都在马路上过夜！“灾区有多所华校，有华人子弟被困”",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250401/48154388.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250329/81ad24cd-efb4-4249-b431-89a452367e54.jpg"
         },
         {
-            "title": "缅甸大地震为当地 200 年来最强，断裂长度惊人，几乎横贯整个缅甸",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250401/48154393.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250329/890013ea-f1e9-446e-acdc-e933fb551eb7.jpg"
+            "title": "东部战区发布动漫《壳》，细节意味深长",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250401/48154853.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250401/98882598-fd1a-49cc-b226-bb31bfd5548d.jpg"
         },
         {
             "title": "“黑粉”变“金矿”，怎么挖？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250401/48153500.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/640x0/news/20250401/4b1517be-46b0-4ebd-8012-a39026a68fbb.jpg"
-        },
-        {
-            "title": "市场上的“零添加”暗藏哪些套路？记者走访市场发现“ 0 ”字泛滥",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250401/48154385.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250329/86d92bff-6d73-4e4e-bd76-603afec26007.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "西藏人权事业跨越发展 人民幸福诠释人权真谛",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250331/48149267.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "男子退机票被扣费近万元，平台：按规则需扣费，还在处理中",
@@ -231,12 +237,6 @@
             {
                 "title": "特朗普称“不在乎”汽车制造商因关税涨价",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250330/48146675.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "45个山里娃站上国际T台！讲述藏在衣服里的秘密",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250330/48146643.html?ayjr"
             }
         ]
     ]
