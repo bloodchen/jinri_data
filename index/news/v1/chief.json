@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "巴西批评美国加征关税：谈判才是解决问题的途径",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250402/48160207.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250402/072e86e3-716f-4d41-964f-dc7a0c18aad6.png"
+        },
+        {
             "title": "缅甸震后救援仍在进行 一老人被困91小时后获救",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250402/48159862.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250402/1ffbb3c1-4a7f-40cd-8a34-d0ec59806a4e.jpg"
@@ -9,14 +14,14 @@
             "title": "玉渊谭天丨东部战区对台军演新代号意味着什么？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250402/48159847.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250402/0dd21118-cece-42ce-9204-25f6b72a8628.jpg"
-        },
-        {
-            "title": "以强推“迁移加沙居民”计划意欲何为？专家分析",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250402/48159813.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250402/06097412-5b32-4388-b8d5-290bcdb23bcf.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "印度古吉拉特邦一工厂爆炸事故已致21人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250402/48159510.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250402/bc9fffd5-a7ef-43b0-94d9-9e6c67e5b711.jpg"
+        },
         {
             "title": "特朗普：乌方欲就稀土问题重新谈判",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250402/48159448.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250401/9d7064c7-eb14-4036-8fed-5eaa01437111.jpg"
         },
         {
-            "title": "广东在这两个领域“放大招”，透露三方面信息",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250402/48159036.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250401/88d74073-d98f-453f-ba41-ced941ae1dc0.jpg"
+            "title": "以强推“迁移加沙居民”计划意欲何为？专家分析",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250402/48159813.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250402/06097412-5b32-4388-b8d5-290bcdb23bcf.jpg"
         },
         {
             "title": "24小时内第三次 胡塞武装称再次袭击美军航母",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250402/48159779.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/600x0/news/20250402/9c1ec4c0-99d4-475e-aabc-71fb0fbfe45e.jpg"
-        },
-        {
-            "title": "他们为何都选择雄安？来看看新雄安人的答案",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250402/48159756.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250402/11505b52-ea52-466d-8def-139dfb544136.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "OpenAI 掀起 AI 生图热潮：“吉卜力”动漫风陷版权争议，实测中文渲染遇瓶颈",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250401/48154387.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "地震后第一夜：缅甸华人已开始抱团互助，大家都在马路上过夜！“灾区有多所华校，有华人子弟被困”",
@@ -231,12 +237,6 @@
             {
                 "title": "镜观 · 回响｜“古为今用”见新章",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250331/48149276.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "买药先验码！一文教你如何识别“回流药”",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250331/48149277.html?ayjr"
             }
         ]
     ]
