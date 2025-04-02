@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美国交通部向数千名员工发出自愿离职买断方案",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250402/48159426.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250402/81ff8a5d-9091-4f00-b8ff-6688a363e94b.jpg"
+        },
+        {
             "title": "4名在立陶宛失踪的美军士兵均已确认死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250402/48159271.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250402/d043829f-b47e-43c5-b75e-e252553036c7.jpg"
@@ -9,14 +14,14 @@
             "title": "马来西亚一燃气管道爆炸起火 超 60 人受伤",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250402/48159034.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250401/1bd8215a-ee19-4010-a4a1-3e983d61dbb3.jpg"
-        },
-        {
-            "title": "家属回应小米 su7 爆燃事故，多方回应：事故至少两人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250402/48159035.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250401/9d7064c7-eb14-4036-8fed-5eaa01437111.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "能炸穿 60 米地层的隐形轰炸机重兵压境，伊朗面临空前威胁",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250402/48159019.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250402/f82efe1f-7386-4dde-85ad-c91a6af5030c.jpg"
+        },
         {
             "title": "昂瑞微 IPO：三星、小米撬动业绩高增，亏损难题待解",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250402/48159020.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250402/9d784363-6163-4f32-bae3-e1467ec1ece2.jpg"
         },
         {
-            "title": "一旦美国无法制衡日本，哪国会率先遭殃？说了你可能不信",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250402/48159025.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250401/c63e6e16-e733-4662-a442-f35b3ee2b75d.jpg"
+            "title": "家属回应小米 su7 爆燃事故，多方回应：事故至少两人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250402/48159035.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250401/9d7064c7-eb14-4036-8fed-5eaa01437111.jpg"
         },
         {
             "title": "广东在这两个领域“放大招”，透露三方面信息",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250402/48159036.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250401/88d74073-d98f-453f-ba41-ced941ae1dc0.jpg"
-        },
-        {
-            "title": "安徽致命智驾 3 死背后：母亲曾多次劝告女儿，盲目相信智驾很危险",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250402/48159037.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250401/5041a6c6-2e0e-4727-accb-6f037ec82620.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "不装了！万斯登格陵兰岛鼓吹“脱丹入美”",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250401/48154396.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "【央视快评】与中国同行就是与机遇同行",
@@ -231,12 +237,6 @@
             {
                 "title": "“没有护照怎么办？”缅甸多名华人护照被埋，当事人：目前无法行动尝试联系大使馆补办",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250331/48149270.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "老戏重演，美国威胁动武，伊朗威胁关闭霍尔木兹海峡",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250331/48149271.html?ayjr"
             }
         ]
     ]
