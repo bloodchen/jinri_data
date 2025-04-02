@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "以色列防长证实以军已在拉法发起军事行动",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250402/48161500.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250402/13fd415f-26fa-47b7-98ce-cec1395635d4.jpg"
+        },
+        {
             "title": "墨西哥与加拿大强调北美经济一体化重要性",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250402/48161155.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250402/ead6f354-4c3f-4e39-a26d-3e32264cc0ee.jpg"
@@ -9,14 +14,14 @@
             "title": "世界最高双层悬索桥狮子洋大桥索塔突破100米",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250402/48161077.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250402/bc095a2c-1fb0-4ace-a06d-65e179b25454.png"
-        },
-        {
-            "title": "美军向中东增派航母战斗群",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250402/48161035.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/600x0/news/20250402/e072920c-6c76-4f80-b4c7-8e197495d127.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "东部战区发布主题海报《毁瘫》 倒行逆施 必陷绝境",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250402/48160651.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250402/69eedfe6-c265-4fa7-b39f-deedecdcc4c7.jpg"
+        },
         {
             "title": "东部战区位东海相关海域实施远程火力实弹射击演练",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250402/48160583.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250402/1ffbb3c1-4a7f-40cd-8a34-d0ec59806a4e.jpg"
         },
         {
-            "title": "玉渊谭天丨东部战区对台军演新代号意味着什么？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250402/48159847.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250402/0dd21118-cece-42ce-9204-25f6b72a8628.jpg"
+            "title": "美军向中东增派航母战斗群",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250402/48161035.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/600x0/news/20250402/e072920c-6c76-4f80-b4c7-8e197495d127.jpg"
         },
         {
             "title": "我国已研制世界第一台月壤打砖机",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250402/48160962.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250402/f26787ae-ffd9-4689-8793-d5f983e015e8.jpg"
-        },
-        {
-            "title": "玉渊谭天丨东部战区对台军演为何第二天公布代号？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250402/48160805.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250402/542fe5ef-fad5-4186-9e4f-98df830357af.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "解放军围台军演亮出＂杀独＂神器 4个地方让人＂没想到＂",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250402/48158384.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "杀戮何时停止？以军疑杀害14名急救人员",
@@ -231,12 +237,6 @@
             {
                 "title": "软银被曝筹划在美投资万亿 AI 机器人产业园",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250401/48154383.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "拟开 17 亿元罚单、19 人终身禁入！监管层揭开“东旭系”之“四宗罪”",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250401/48154384.html?ayjr"
             }
         ]
     ]
