@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "我国已研制世界第一台月壤打砖机",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250402/48160962.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250402/f26787ae-ffd9-4689-8793-d5f983e015e8.jpg"
+        },
+        {
             "title": "玉渊谭天丨东部战区对台军演为何第二天公布代号？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250402/48160805.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250402/542fe5ef-fad5-4186-9e4f-98df830357af.jpg"
@@ -9,14 +14,14 @@
             "title": "“好房子”新标准有何亮点？几个关键词带你看懂",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250402/48160747.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250402/beb65c19-2dad-48cc-871f-cb16e5bfc9b8.jpg"
-        },
-        {
-            "title": "东部战区发布主题海报《毁瘫》 倒行逆施 必陷绝境",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250402/48160651.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250402/69eedfe6-c265-4fa7-b39f-deedecdcc4c7.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "巴西批评美国加征关税：谈判才是解决问题的途径",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250402/48160207.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250402/072e86e3-716f-4d41-964f-dc7a0c18aad6.png"
+        },
         {
             "title": "缅甸震后救援仍在进行 一老人被困91小时后获救",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250402/48159862.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250402/11505b52-ea52-466d-8def-139dfb544136.jpg"
         },
         {
-            "title": "钠离子电池实现量产 未来或成锂电价格“平衡器”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250402/48159671.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250402/6c5a241d-95ff-4e9b-b264-cde724addd10.jpg"
+            "title": "东部战区发布主题海报《毁瘫》 倒行逆施 必陷绝境",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250402/48160651.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250402/69eedfe6-c265-4fa7-b39f-deedecdcc4c7.jpg"
         },
         {
             "title": "东部战区位东海相关海域实施远程火力实弹射击演练",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250402/48160583.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/447x0/news/20250402/8da9a28f-4476-40c3-894d-ad8a34c5afa4.png"
-        },
-        {
-            "title": "16亿“黑”钱打水漂 “甲亢哥”中国行让谁破防了",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250402/48160368.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250402/1b1ab512-572d-4996-8cf6-4fc832db33bd.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "国台办发声：“台独”意味着战争！",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250401/48155364.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "普京做了什么，让特朗普“非常生气”？",
@@ -231,12 +237,6 @@
             {
                 "title": "挺进缅甸灾区 中国救援争分夺秒",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250401/48153326.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "俄总统普京签署2025年春季征兵命令",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250401/48153305.html?ayjr"
             }
         ]
     ]
