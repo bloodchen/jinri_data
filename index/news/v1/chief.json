@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "墨西哥与加拿大强调北美经济一体化重要性",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250402/48161155.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250402/ead6f354-4c3f-4e39-a26d-3e32264cc0ee.jpg"
+        },
+        {
             "title": "世界最高双层悬索桥狮子洋大桥索塔突破100米",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250402/48161077.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250402/bc095a2c-1fb0-4ace-a06d-65e179b25454.png"
@@ -9,14 +14,14 @@
             "title": "美军向中东增派航母战斗群",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250402/48161035.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/600x0/news/20250402/e072920c-6c76-4f80-b4c7-8e197495d127.jpg"
-        },
-        {
-            "title": "我国已研制世界第一台月壤打砖机",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250402/48160962.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250402/f26787ae-ffd9-4689-8793-d5f983e015e8.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "东部战区位东海相关海域实施远程火力实弹射击演练",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250402/48160583.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/447x0/news/20250402/8da9a28f-4476-40c3-894d-ad8a34c5afa4.png"
+        },
         {
             "title": "16亿“黑”钱打水漂 “甲亢哥”中国行让谁破防了",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250402/48160368.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250402/0dd21118-cece-42ce-9204-25f6b72a8628.jpg"
         },
         {
-            "title": "以强推“迁移加沙居民”计划意欲何为？专家分析",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250402/48159813.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250402/06097412-5b32-4388-b8d5-290bcdb23bcf.jpg"
+            "title": "我国已研制世界第一台月壤打砖机",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250402/48160962.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250402/f26787ae-ffd9-4689-8793-d5f983e015e8.jpg"
         },
         {
             "title": "玉渊谭天丨东部战区对台军演为何第二天公布代号？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250402/48160805.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250402/542fe5ef-fad5-4186-9e4f-98df830357af.jpg"
-        },
-        {
-            "title": "“好房子”新标准有何亮点？几个关键词带你看懂",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250402/48160747.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250402/beb65c19-2dad-48cc-871f-cb16e5bfc9b8.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "杀戮何时停止？以军疑杀害14名急救人员",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250401/48156223.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "尹锡悦弹劾案将于4月4日宣判",
@@ -231,12 +237,6 @@
             {
                 "title": "拟开 17 亿元罚单、19 人终身禁入！监管层揭开“东旭系”之“四宗罪”",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250401/48154384.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "“二级关税”，特朗普再出关税乱拳",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250401/48153453.html?ayjr"
             }
         ]
     ]
