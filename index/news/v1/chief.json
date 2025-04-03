@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "特朗普关税乱拳开打 美自己被打进&quot;国家紧急状态&quot;",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48165875.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250403/2bc01c5b-414b-4e8d-b1ea-484d76feef8e.jpg"
+        },
+        {
             "title": "美对贸易伙伴征收“对等关税” 多国政要发声反对",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48165791.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250403/3de099a0-27e6-4a42-96d7-cf718f860b4b.jpg"
@@ -9,14 +14,14 @@
             "title": "特朗普宣布国家紧急状态 全面征收关税",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48165767.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250403/9e357678-8708-423b-a791-d79a1622e9ff.jpg"
-        },
-        {
-            "title": "特朗普签署行政令 对贸易伙伴征收“对等关税”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48165742.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250403/977cb7c2-838b-4c7f-9931-f370fcfc181f.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "俄军一轰炸机在伊尔库茨克州坠毁 一名飞行员死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48165540.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250403/5634a4a9-beaf-4ddf-b786-e10f4d351050.jpg"
+        },
         {
             "title": "解放军在台周边“多向抵近”，岛内最揪心的是这点",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250403/48165300.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250402/c173a8bd-f2fc-4fb6-a1ca-22cc7c4aa203.jpg"
         },
         {
-            "title": "为什么要“事故不决找雷军”？",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250403/48165280.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250402/5a625dda-d4d1-4afa-9602-ae1011fe377d.jpg"
+            "title": "特朗普签署行政令 对贸易伙伴征收“对等关税”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48165742.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250403/977cb7c2-838b-4c7f-9931-f370fcfc181f.jpg"
         },
         {
             "title": "联合国：加沙64%的地区处于以色列强制撤离令之下",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48165724.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/600x0/news/20250403/5db58eb7-2b9f-43d8-a01b-58655bb536da.jpg"
-        },
-        {
-            "title": "特朗普宣布对进口汽车加征25%关税",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48165711.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/600x0/news/20250403/4093ec6a-a26d-4ede-b500-e73556acdd69.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "外交部：&quot;台独&quot;挑衅一日不止 反&quot;独&quot;惩戒一刻不停",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250402/48162344.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "&quot;越海杀器&quot;震慑&quot;台独&quot; 专家解读远箱火四大特点",
@@ -231,12 +237,6 @@
             {
                 "title": "安徽致命智驾 3 死背后：母亲曾多次劝告女儿，盲目相信智驾很危险",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250402/48159037.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "珠三角“大本营”失守，燕塘乳业 2024 年净利骤降 43％",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250402/48159018.html?ayjr"
             }
         ]
     ]
