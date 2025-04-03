@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "清明假期出行，这些物品不能上火车！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250403/48166591.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250403/fd233127-1c5f-471d-91cc-f52b534870ce.png"
+        },
+        {
             "title": "特朗普汽车关税来袭 美新车价格将迎大涨",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48166560.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250403/6dc578b1-e498-4fd1-8266-f855c636ef98.jpg"
@@ -9,14 +14,14 @@
             "title": "清明假期“遇上”周末 赏花民俗体验热度攀升",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250403/48166493.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250403/ee4f0456-8ccf-484b-83d1-06cd67144dc9.png"
-        },
-        {
-            "title": "特朗普向无人岛加征关税",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48166459.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250403/dcc39aa5-7486-4519-b639-75e76edd423d.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "特朗普关税乱拳开打 美自己被打进&quot;国家紧急状态&quot;",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48165875.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250403/2bc01c5b-414b-4e8d-b1ea-484d76feef8e.jpg"
+        },
         {
             "title": "美对贸易伙伴征收“对等关税” 多国政要发声反对",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48165791.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/600x0/news/20250403/4093ec6a-a26d-4ede-b500-e73556acdd69.jpg"
         },
         {
-            "title": "美政府关税计划引发内外担忧 美欧裂痕加深",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48165672.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250403/0f3b2fee-5586-41f2-bff1-15496490fe43.jpg"
+            "title": "特朗普向无人岛加征关税",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48166459.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250403/dcc39aa5-7486-4519-b639-75e76edd423d.jpg"
         },
         {
             "title": "巴西国会通过经济对等法案 反制美国贸易单边行为",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48166430.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250403/f925fb76-a7ac-4a16-9e0e-b8507352cbba.png"
-        },
-        {
-            "title": "特朗普“对等关税”措施刺激美股指期货暴跌",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48166359.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250403/0b6ff8fb-8dd9-4220-82e0-c9b3089f82c5.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "擦边商标防不胜防，“小天才特惠”不是“小天才”",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250403/48165278.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "白宫：马斯克完成“政府效率部”工作后将离开公职",
@@ -231,12 +237,6 @@
             {
                 "title": "印度古吉拉特邦一工厂爆炸事故已致21人死亡",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250402/48159510.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "特朗普：乌方欲就稀土问题重新谈判",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250402/48159448.html?ayjr"
             }
         ]
     ]
