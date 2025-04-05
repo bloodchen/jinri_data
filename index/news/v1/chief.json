@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "蓝天配战舰！海上实战演习动如风雷",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250405/48172276.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250405/de1901c2-32c7-4297-b8b4-8f426f50204c.jpg"
+        },
+        {
             "title": "一座无名墓 这一家三代人却守护了近百年",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250405/48172222.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250405/36eba4c6-ce1f-44ab-9955-fe51d15ccea2.jpg"
@@ -9,14 +14,14 @@
             "title": "特朗普晒视频：美军精准空袭胡塞武装集会现场",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250405/48172099.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250405/1305ecb5-14d2-4e79-a923-c0b32cad5b0c.png"
-        },
-        {
-            "title": "中方连环反制！美方“关税战”又踢到钢板了",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250405/48172016.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250405/ca7cae3d-e4cf-4097-bebd-e636897bdc34.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美国国税局将裁员25% 波及约2万人",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250405/48171791.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250405/12c1e1c1-7685-45ee-b8ae-c7b4c43ea8d8.jpg"
+        },
         {
             "title": "“关税战”升级 中国反制行动有速度更有力度",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250405/48171740.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250405/54b1ed4f-0e6c-40dc-9d13-de76f3a14622.jpg"
         },
         {
-            "title": "乌称一居民区遭俄导弹袭击 已致12死50余伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250405/48171636.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250405/47e143e2-41eb-4309-9a79-91138c9b90ec.jpg"
+            "title": "中方连环反制！美方“关税战”又踢到钢板了",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250405/48172016.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250405/ca7cae3d-e4cf-4097-bebd-e636897bdc34.jpg"
         },
         {
             "title": "美加税加到内伤又催降息 纳指“自由落体”进熊市",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250405/48171908.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250405/bceffd22-fa0a-4cd5-b78b-1690915fecd2.png"
-        },
-        {
-            "title": "以军持续袭击加沙多地 造成30余人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250405/48171862.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250405/c2e526f5-91b6-4439-8bff-a791d5a87eb5.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美对贸易伙伴征收“对等关税” 多国政要发声反对",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48165791.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "特朗普宣布国家紧急状态 全面征收关税",
@@ -231,12 +237,6 @@
             {
                 "title": "兰州市首个“枫桥式”智慧警务站启用",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250403/48165297.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "又见银行宝宝类产品退场",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250403/48165298.html?ayjr"
             }
         ]
     ]
