@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "中国海警依法驱离日非法进入我钓鱼岛领海船只",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250406/48174326.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250406/77739c97-c79e-4c8a-b5ba-fc593cc5815e.png"
+        },
+        {
             "title": "假期最后一天 全国铁路预计发送旅客2000万人次",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250406/48174301.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20250406/c3f68bc2-0e3f-46ad-bc7b-a9be98e26fb2.png"
@@ -9,14 +14,14 @@
             "title": "美国被驱逐移民成“现代奴隶制”受害者",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250406/48174278.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250406/115d950e-5cdb-40f1-a904-8b045701ad20.jpg"
-        },
-        {
-            "title": "兵哥哥在石头上手绘漫画，氛围感拉满！",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250406/48174228.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250406/bb8ab312-de20-47bc-b11c-9becdd7e96e7.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "伊朗总统：不接受威胁 只会在平等基础上与美对话",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250406/48173754.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250406/18397a61-c3e0-4c6b-94cc-35240f9544dd.jpg"
+        },
         {
             "title": "美国一小型飞机飞行途中驾驶舱门突然脱落",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250406/48173742.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250406/a0e87e39-0f81-43d2-ae56-60794ecc150d.jpg"
         },
         {
-            "title": "刚果（金）政府与“M23运动”在多哈举行直接会谈",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250406/48173666.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/362x0/news/20250406/127a1a25-661e-4cc8-8878-dc989667bb7a.png"
+            "title": "兵哥哥在石头上手绘漫画，氛围感拉满！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250406/48174228.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250406/bb8ab312-de20-47bc-b11c-9becdd7e96e7.jpg"
         },
         {
             "title": "清明节首日 北京口岸出入境人员同比增长32%",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250406/48174210.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250406/f1dcce5b-575a-47ba-bd93-c750b8198e67.jpg"
-        },
-        {
-            "title": "美军空袭也门西北部城市萨达 已致2死4伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250406/48173810.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250406/012bb439-04c2-4544-b7c0-ba27e54d67df.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "外交部：对中方有关联合演训 日方无权说三道四",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250403/48168739.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "睁眼说瞎话！美国务卿鲁比奥抹黑中国被怼",
@@ -231,12 +237,6 @@
             {
                 "title": "特朗普宣布对进口汽车加征25%关税",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48165711.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美政府关税计划引发内外担忧 美欧裂痕加深",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48165672.html?ayjr"
             }
         ]
     ]
