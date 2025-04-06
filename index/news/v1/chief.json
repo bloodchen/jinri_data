@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "稻米竟能造血？这项产品有望今年上市",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250406/48174625.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250406/042055d6-7c71-41d7-9dbe-8ccd212d3ed9.jpg"
+        },
+        {
             "title": "中国海警依法驱离日非法进入我钓鱼岛领海船只",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250406/48174326.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20250406/77739c97-c79e-4c8a-b5ba-fc593cc5815e.png"
@@ -9,14 +14,14 @@
             "title": "假期最后一天 全国铁路预计发送旅客2000万人次",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250406/48174301.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20250406/c3f68bc2-0e3f-46ad-bc7b-a9be98e26fb2.png"
-        },
-        {
-            "title": "美国被驱逐移民成“现代奴隶制”受害者",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250406/48174278.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250406/115d950e-5cdb-40f1-a904-8b045701ad20.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "英国股市创五年最大单日跌幅 政府还能保持冷静吗",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250406/48173780.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250406/7cdc8b5a-ae3a-4b31-89d8-0db08c6584e1.jpg"
+        },
         {
             "title": "伊朗总统：不接受威胁 只会在平等基础上与美对话",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250406/48173754.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/640x0/news/20250406/8ae8d897-456e-4282-88b3-e6298730cc87.png"
         },
         {
-            "title": "用真实打破西方滤镜 甲亢哥的奇幻中国行来了",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250406/48173677.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250406/a0e87e39-0f81-43d2-ae56-60794ecc150d.jpg"
+            "title": "美国被驱逐移民成“现代奴隶制”受害者",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250406/48174278.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250406/115d950e-5cdb-40f1-a904-8b045701ad20.jpg"
         },
         {
             "title": "兵哥哥在石头上手绘漫画，氛围感拉满！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250406/48174228.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250406/bb8ab312-de20-47bc-b11c-9becdd7e96e7.jpg"
-        },
-        {
-            "title": "清明节首日 北京口岸出入境人员同比增长32%",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250406/48174210.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250406/f1dcce5b-575a-47ba-bd93-c750b8198e67.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "财政部在英国伦敦发行首笔人民币绿色主权债券",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250403/48168762.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "外交部：对中方有关联合演训 日方无权说三道四",
@@ -231,12 +237,6 @@
             {
                 "title": "联合国：加沙64%的地区处于以色列强制撤离令之下",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48165724.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "特朗普宣布对进口汽车加征25%关税",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48165711.html?ayjr"
             }
         ]
     ]
