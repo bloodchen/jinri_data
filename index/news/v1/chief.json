@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "全美爆发大规模反特朗普示威",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250406/48174776.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250406/8c40bc43-9b5a-425a-b89e-cd790fa9de39.png"
+        },
+        {
             "title": "美国强推“对等关税”引众怒 多方谴责损人不利己",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250406/48174754.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250406/11227674-f75c-40fa-aa32-5787d69c09de.jpg"
@@ -9,14 +14,14 @@
             "title": "尹锡悦被罢免后再次发声：感谢声援，非常抱歉",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250406/48174638.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250406/e396da96-09bd-443b-8e24-bfbff87f3a44.jpg"
-        },
-        {
-            "title": "稻米竟能造血？这项产品有望今年上市",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250406/48174625.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250406/042055d6-7c71-41d7-9dbe-8ccd212d3ed9.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "兵哥哥在石头上手绘漫画，氛围感拉满！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250406/48174228.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250406/bb8ab312-de20-47bc-b11c-9becdd7e96e7.jpg"
+        },
         {
             "title": "清明节首日 北京口岸出入境人员同比增长32%",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250406/48174210.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/648x0/news/20250406/62ece230-b7c9-464b-8371-4bfd05995304.jpg"
         },
         {
-            "title": "以军轰炸加沙地带汗尤尼斯 已造成9人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250406/48173728.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250406/e28f3b17-bc2a-4b3d-9251-9e76a3187619.png"
+            "title": "稻米竟能造血？这项产品有望今年上市",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250406/48174625.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250406/042055d6-7c71-41d7-9dbe-8ccd212d3ed9.jpg"
         },
         {
             "title": "中国海警依法驱离日非法进入我钓鱼岛领海船只",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250406/48174326.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20250406/77739c97-c79e-4c8a-b5ba-fc593cc5815e.png"
-        },
-        {
-            "title": "假期最后一天 全国铁路预计发送旅客2000万人次",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250406/48174301.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250406/c3f68bc2-0e3f-46ad-bc7b-a9be98e26fb2.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "乌称一居民区遭俄导弹袭击 已致12死50余伤",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250405/48171636.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美股继续暴跌，纳指进入熊市",
@@ -231,12 +237,6 @@
             {
                 "title": "美对贸易伙伴征收“对等关税” 多国政要发声反对",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48165791.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "特朗普宣布国家紧急状态 全面征收关税",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48165767.html?ayjr"
             }
         ]
     ]
