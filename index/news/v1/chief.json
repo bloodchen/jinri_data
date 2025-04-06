@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "假期最后一天 全国铁路预计发送旅客2000万人次",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250406/48174301.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250406/c3f68bc2-0e3f-46ad-bc7b-a9be98e26fb2.png"
+        },
+        {
             "title": "美国被驱逐移民成“现代奴隶制”受害者",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250406/48174278.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250406/115d950e-5cdb-40f1-a904-8b045701ad20.jpg"
@@ -9,14 +14,14 @@
             "title": "兵哥哥在石头上手绘漫画，氛围感拉满！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250406/48174228.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250406/bb8ab312-de20-47bc-b11c-9becdd7e96e7.jpg"
-        },
-        {
-            "title": "清明节首日 北京口岸出入境人员同比增长32%",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250406/48174210.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250406/f1dcce5b-575a-47ba-bd93-c750b8198e67.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美国一小型飞机飞行途中驾驶舱门突然脱落",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250406/48173742.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/648x0/news/20250406/62ece230-b7c9-464b-8371-4bfd05995304.jpg"
+        },
         {
             "title": "以军轰炸加沙地带汗尤尼斯 已造成9人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250406/48173728.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/362x0/news/20250406/127a1a25-661e-4cc8-8878-dc989667bb7a.png"
         },
         {
-            "title": "未来月球上能打电话盖房子？探月总设计师：都可以",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250405/48173114.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/540x0/news/20250405/6624531f-f2d2-4432-9f35-d7fb4343d54d.jpg"
+            "title": "清明节首日 北京口岸出入境人员同比增长32%",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250406/48174210.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250406/f1dcce5b-575a-47ba-bd93-c750b8198e67.jpg"
         },
         {
             "title": "美军空袭也门西北部城市萨达 已致2死4伤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250406/48173810.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250406/012bb439-04c2-4544-b7c0-ba27e54d67df.jpg"
-        },
-        {
-            "title": "英国股市创五年最大单日跌幅 政府还能保持冷静吗",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250406/48173780.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250406/7cdc8b5a-ae3a-4b31-89d8-0db08c6584e1.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "睁眼说瞎话！美国务卿鲁比奥抹黑中国被怼",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250403/48168723.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "外交部：中方敦促菲方停止捕风捉影、乱扣帽子",
@@ -231,12 +237,6 @@
             {
                 "title": "美政府关税计划引发内外担忧 美欧裂痕加深",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48165672.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "俄军一轰炸机在伊尔库茨克州坠毁 一名飞行员死亡",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250403/48165540.html?ayjr"
             }
         ]
     ]
