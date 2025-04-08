@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "回购、增持！已有百余家公司出手",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250409/48186546.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/600x0/news/20250409/ed57f346-f2ab-48a4-81bb-56523e1a8fec.jpg"
+        },
+        {
             "title": "解读一号文件:去年粮食减产104亿斤 仍是第2高产年",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20170206/48185555.html?ayjr",
             "img": "https://img3.utuku.china.com/600x0/news/20170206/c340e955-9c3c-42fc-ade8-4ece2b78bae9.jpg"
@@ -9,14 +14,14 @@
             "title": "特朗普称美国与伊朗展开“直接”谈判 伊外长表态",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250408/48183531.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/554x0/news/20250408/1767fc5e-1b18-4edf-8caa-62e7116c2418.jpg"
-        },
-        {
-            "title": "美司法部废除一项有关枪支经销的“零容忍”政策",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250408/48183410.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250408/bd046e41-b688-40ce-8f9f-194fd50c9a00.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美媒称美副总统“中国乡巴佬”用词令人震惊",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250408/48182836.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250408/b03e95ce-3e02-478c-9e22-94077ef35492.jpg"
+        },
         {
             "title": "“国家队”出手增持释放哪些信号？分析师解读",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250408/48182821.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250407/3f2cbb1d-a593-4959-87a8-c7f082839b43.jpg"
         },
         {
-            "title": "沪指失守 3100 点，中央汇金出手增持稳市，多家券商建议投资者谨慎补仓，亦要避免慌乱中减仓",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250408/48182492.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250407/1bdd0dea-ae25-43ed-87bc-850c79ab31f8.jpg"
+            "title": "美司法部废除一项有关枪支经销的“零容忍”政策",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250408/48183410.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250408/bd046e41-b688-40ce-8f9f-194fd50c9a00.jpg"
         },
         {
             "title": "开盘前，央行、中央汇金重磅发声",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250408/48183209.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250408/9be43dff-754e-4d98-a3dc-e85d0b542e88.png"
-        },
-        {
-            "title": "我国成功研制出口欧洲的高端屏蔽泵",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250408/48183006.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250408/8933be9d-58b9-4bd7-a622-76028c25056d.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "缅甸领导人敏昂莱慰问中国救援队伍",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250407/48177548.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "天津边检站护航新造国产货轮启程 扫码阅读手机版",
@@ -231,12 +237,6 @@
             {
                 "title": "美军持续对也门多地空袭已致257人死伤",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250407/48177393.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "“特朗普超越了他的权限”，因对中国进口产品征收关税，特朗普政府被起诉！",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250407/48177394.html?ayjr"
             }
         ]
     ]
