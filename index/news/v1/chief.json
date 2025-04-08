@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "开盘前，央行、中央汇金重磅发声",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250408/48183209.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250408/9be43dff-754e-4d98-a3dc-e85d0b542e88.png"
+        },
+        {
             "title": "我国成功研制出口欧洲的高端屏蔽泵",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250408/48183006.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250408/8933be9d-58b9-4bd7-a622-76028c25056d.jpg"
@@ -9,14 +14,14 @@
             "title": "“踏青+”释放文旅消费潜力",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250408/48182944.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250408/7d8db000-bf39-485d-9de8-486d431c158f.jpg"
-        },
-        {
-            "title": "美媒称美副总统“中国乡巴佬”用词令人震惊",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250408/48182836.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250408/b03e95ce-3e02-478c-9e22-94077ef35492.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "特朗普再对欧盟施压：必须从美国购入能源",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250408/48182762.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/600x0/news/20250408/f4cd1cce-948c-4a6b-a8d4-97cea9d0d320.jpg"
+        },
         {
             "title": "上个大号满屋味道？客栈“开放式马桶”遭吐槽，民宿：这样的评价不接受",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250408/48182491.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250407/1f25e06d-0f74-4815-b7f0-a277f0c761be.jpg"
         },
         {
-            "title": "关税政策冲击延续 美股持续跌势开盘即迎“黑色星期一”",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250408/48182496.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250407/4b40ebaf-e621-4a74-9112-42b74858f541.jpg"
+            "title": "美媒称美副总统“中国乡巴佬”用词令人震惊",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250408/48182836.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250408/b03e95ce-3e02-478c-9e22-94077ef35492.jpg"
         },
         {
             "title": "“国家队”出手增持释放哪些信号？分析师解读",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250408/48182821.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250408/d5a05218-4fa7-4580-b998-16678def563c.jpg"
-        },
-        {
-            "title": "消防直升机坠毁频发，韩国启动安全排查",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250408/48182801.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250408/704ea485-d512-4c09-9fcc-8de1022fcbf7.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "特朗普关税乱拳开打 为何美国自己被打进了“国家紧急状态”",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250407/48177411.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "抖音回应刘畊宏 cos 海王被关播：不当着装博眼球",
@@ -231,12 +237,6 @@
             {
                 "title": "自残式关税血洗美股，三大股指创近 5 年最大单日跌幅",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250407/48177397.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "“生三孩奖励 50000 元，每月还发 500 元……”广东一社区宣布",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250407/48177398.html?ayjr"
             }
         ]
     ]
