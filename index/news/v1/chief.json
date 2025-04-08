@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美司法部废除一项有关枪支经销的“零容忍”政策",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250408/48183410.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250408/bd046e41-b688-40ce-8f9f-194fd50c9a00.jpg"
+        },
+        {
             "title": "开盘前，央行、中央汇金重磅发声",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250408/48183209.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250408/9be43dff-754e-4d98-a3dc-e85d0b542e88.png"
@@ -9,14 +14,14 @@
             "title": "我国成功研制出口欧洲的高端屏蔽泵",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250408/48183006.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250408/8933be9d-58b9-4bd7-a622-76028c25056d.jpg"
-        },
-        {
-            "title": "“踏青+”释放文旅消费潜力",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250408/48182944.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250408/7d8db000-bf39-485d-9de8-486d431c158f.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "江苏如皋：春日花海采蜜忙 “甜蜜经济”助增收",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250408/48182783.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250408/f9b909d8-e8c1-447c-a08d-b66a4aafc3be.jpg"
+        },
         {
             "title": "特朗普再对欧盟施压：必须从美国购入能源",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250408/48182762.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250407/1d5d3daa-9be5-481d-aec8-f17c5d7c18ca.jpg"
         },
         {
-            "title": "小米：目前 SU7 车型的投保服务平稳正常",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250408/48182495.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250407/1f25e06d-0f74-4815-b7f0-a277f0c761be.jpg"
+            "title": "“踏青+”释放文旅消费潜力",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250408/48182944.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250408/7d8db000-bf39-485d-9de8-486d431c158f.jpg"
         },
         {
             "title": "美媒称美副总统“中国乡巴佬”用词令人震惊",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250408/48182836.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250408/b03e95ce-3e02-478c-9e22-94077ef35492.jpg"
-        },
-        {
-            "title": "“国家队”出手增持释放哪些信号？分析师解读",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250408/48182821.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250408/d5a05218-4fa7-4580-b998-16678def563c.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "江西景德镇“一家三口被撞身亡”案开庭在即，家属盼公正审判",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250407/48177410.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "特朗普关税乱拳开打 为何美国自己被打进了“国家紧急状态”",
@@ -231,12 +237,6 @@
             {
                 "title": "华盛顿发生持刀伤人事件，致 6 人受伤",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250407/48177396.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "自残式关税血洗美股，三大股指创近 5 年最大单日跌幅",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250407/48177397.html?ayjr"
             }
         ]
     ]
