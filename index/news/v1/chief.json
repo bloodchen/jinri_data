@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "韩国最大在野党党首李在明宣布辞去党首职务",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250409/48188183.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250409/63763c7b-2c80-49a8-a168-0c764721ce40.jpg"
+        },
+        {
             "title": "特朗普推关税能让制造业回流?企业主:这是致命幻觉",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250409/48188054.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250409/8efca863-396a-499e-9f61-bf99120a8c8b.jpg"
@@ -9,14 +14,14 @@
             "title": "中国如何“圈粉”外资企业持续加码布局？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250409/48187766.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250409/7a2f3208-25d3-4a46-8be5-0b89dde1e9a5.jpg"
-        },
-        {
-            "title": "“空中穿针” 他们全部一次对接成功",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250409/48187709.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250409/0eea0afa-ee7d-4903-9a48-c810a1c83a41.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美国华商亲历：一瓶中国产洗发水涨了 12 美元",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250409/48187314.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250408/7ea7135f-9a05-4ba4-bcce-8df0d9e9612d.jpg"
+        },
         {
             "title": "【新思想引领新征程】消费市场提质向好 助力经济高质量发展",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250409/48187315.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250408/a2fe798d-e9fc-472c-bf59-cf7ae50bd930.jpg"
         },
         {
-            "title": "广末凉子被捕！被曝殴打医护人员，进医院前发生车祸",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250409/48187320.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250408/065af628-8721-45f2-8c70-4d7e96fd5152.jpg"
+            "title": "“空中穿针” 他们全部一次对接成功",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250409/48187709.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250409/0eea0afa-ee7d-4903-9a48-c810a1c83a41.jpg"
         },
         {
             "title": "白宫最新表态后 一夜间美股由涨转跌 多国群起围攻",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250409/48187687.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/600x0/news/20250409/72ff0375-2c99-472c-8134-ee9c992a14d2.jpg"
-        },
-        {
-            "title": "送美股坐“过山车” 美“关税子弹”射中美国人",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250409/48187593.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250409/0763052d-3ed0-44a2-bf53-fb1c6fcf4495.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "沪指失守 3100 点，中央汇金出手增持稳市，多家券商建议投资者谨慎补仓，亦要避免慌乱中减仓",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250408/48182492.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "中央汇金之后，中国诚通、中国国新官宣增持中国股票资产",
@@ -231,12 +237,6 @@
             {
                 "title": "缅甸领导人敏昂莱慰问中国救援队伍",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250407/48177548.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "天津边检站护航新造国产货轮启程 扫码阅读手机版",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250407/48177408.html?ayjr"
             }
         ]
     ]
