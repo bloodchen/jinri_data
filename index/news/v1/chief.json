@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "图说全民国家安全教育 走深走实十周年",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250410/48193536.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250410/f468ae55-60fe-4da9-a967-520a2cfc334d.png"
+        },
+        {
             "title": "全民国家安全宣传教育日活动走进肇兴侗寨",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250410/48193443.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250410/8d853a23-25b0-4271-8dc6-53c72e8e0385.png"
@@ -9,14 +14,14 @@
             "title": "渝中区举办国家安全教育进校园活动",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250410/48193421.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20250410/19ffba90-90e3-4a8d-938a-ff2a45c34985.png"
-        },
-        {
-            "title": "美媒：特朗普关税政策重创六代战机计划",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250410/48193166.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250410/4c64ea32-5466-4c1a-aead-18121d474c79.png"
         }
     ],
     "midImg": [
+        {
+            "title": "2025年3月份居民消费价格同比下降0.1%",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250410/48192661.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250410/41878630-c5fc-47b6-af72-91357a47b0f0.jpg"
+        },
         {
             "title": "李在明正式宣布参选韩国总统",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250410/48192557.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250409/dd51f311-da27-45c5-8f23-0cc57e25dbbb.jpg"
         },
         {
-            "title": "面对新一轮“贸易战”，中国如何应对？经济学专家解读",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250410/48191718.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250409/5691b2e8-b885-46c1-b0b2-60069d525c7d.jpg"
+            "title": "美媒：特朗普关税政策重创六代战机计划",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250410/48193166.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250410/4c64ea32-5466-4c1a-aead-18121d474c79.png"
         },
         {
             "title": "提振信心！新增多家中央企业宣布增持回购",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250410/48193105.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20250410/c82cc496-3cb7-47b2-b2ce-6e08a9ad33fb.png"
-        },
-        {
-            "title": "新一轮找矿行动“挖到宝”了 我国矿种+1",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250410/48193032.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250410/6dbf066a-b6c1-4787-a801-cf0c32108755.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "重要成果！我国科学家首次证实！",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250409/48188677.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "拓宽渠道、精准匹配 大学生就业服务体系升级",
@@ -231,12 +237,6 @@
             {
                 "title": "护航高校毕业生高质量就业 政策“大礼包”来了！",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250409/48187105.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "加拿大宣布对美国汽车征收对等关税将于9日生效",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250409/48187021.html?ayjr"
             }
         ]
     ]
