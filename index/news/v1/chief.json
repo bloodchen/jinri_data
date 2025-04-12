@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美豁免从中国进口的智能手机和电脑等产品关税",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250413/48203032.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/431x0/news/20250413/a582eb99-0429-4000-911d-ca2a1112c097.png"
+        },
+        {
             "title": "哈佛大学教授就特朗普审查90亿美元拨款提起诉讼",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250413/48203005.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250413/c0583b74-d3f6-4528-88fc-5d54dc18946f.jpg"
@@ -9,14 +14,14 @@
             "title": "美上诉法院阻止特朗普政府解散消费者金融保护局",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250413/48202991.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250413/5e67240d-0f71-4f3e-894b-b9d68d4728a7.jpg"
-        },
-        {
-            "title": "希腊方面称该国海岸警卫队与土耳其船只交火",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250413/48202979.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250413/15f0af82-236b-41ed-849d-d0d0257c6bf1.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "巴西出口商：中国市场重要性与日俱增",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250412/48202286.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250412/3a46de55-9ac9-441c-a5ab-60064c2636e8.jpg"
+        },
         {
             "title": "体感风不大？北京大风最强时段，现场直击",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250412/48202129.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250412/2d1b3f52-55ca-4227-9007-faff5e6f2bef.jpg"
         },
         {
-            "title": "中国驻荷兰使馆发言人批驳荷兰议会涉华消极动议",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250412/48201644.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250412/03389023-cfdf-440b-aed7-117da8122ad7.jpg"
+            "title": "希腊方面称该国海岸警卫队与土耳其船只交火",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250413/48202979.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250413/15f0af82-236b-41ed-849d-d0d0257c6bf1.jpg"
         },
         {
             "title": "成立数字人民币银行、招募数字人民币推广员系谣言",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250412/48202424.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250412/a96b49f2-b98b-4f2f-9917-a6f60c1be398.jpg"
-        },
-        {
-            "title": "一日三试！火箭、卫星发动机试验均获成功",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250412/48202315.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250412/4d521a1d-e8fb-427a-b282-b97e3a1a6a46.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "日本专家：北约与日本所谓安全合作无益于地区安全",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250411/48198902.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "我国新增两处世界地质公园 数量继续稳居世界首位",
@@ -231,12 +237,6 @@
             {
                 "title": "2028 奥运项目上新 乒乓球多了一金",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250411/48196908.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "深圳家长建议小学延至傍晚六点半放学，教育局回应",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250411/48196909.html?ayjr"
             }
         ]
     ]
