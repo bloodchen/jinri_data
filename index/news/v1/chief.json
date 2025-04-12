@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "四预警齐发！北京大风进入最强时段",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250412/48201170.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250412/0b2569df-4665-44ab-8f6c-51a2b8740cf2.jpg"
+        },
+        {
             "title": "伊朗美国谈判临近 双方加紧博弈",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250412/48201119.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250412/ee187e36-0a21-4b71-a4ea-5767840157d9.jpg"
@@ -9,14 +14,14 @@
             "title": "美国滥施关税波及本国农业 涉多个特朗普票仓地区",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250412/48200993.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250412/0b6dd49b-ac7a-4cf2-ac70-227f84d0b6c0.jpg"
-        },
-        {
-            "title": "知情人士:美乌会谈气氛紧张 达成矿产协议前景渺茫",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250412/48200976.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/600x0/news/20250412/6c13b1a9-e706-4181-8112-4ca14d657de0.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "西班牙首相提醒：关税是暂停90天 不是取消",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250412/48200836.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250412/4374c48c-885f-4ba2-81d1-5fc408559417.png"
+        },
         {
             "title": "美国海关报告关税系统出现故障 暂未征收关税",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250412/48200820.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250411/fc901f03-9534-45fd-9a11-49f0ec0555ce.png"
         },
         {
-            "title": "中国不吃这一套！外交部回应“美对华关税达145%”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250411/48199861.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250411/11adf14a-c3bd-433a-8fa4-09f77e134fc4.png"
+            "title": "知情人士:美乌会谈气氛紧张 达成矿产协议前景渺茫",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250412/48200976.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/600x0/news/20250412/6c13b1a9-e706-4181-8112-4ca14d657de0.jpg"
         },
         {
             "title": "有人已领“红包”！你的这笔钱，到账了吗？速查",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250412/48200929.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/450x0/news/20250412/4efa89fd-8341-490b-8366-395acfb37702.jpg"
-        },
-        {
-            "title": "资金短缺 联合国将裁减两成人道主义事务员工",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250412/48200891.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/600x0/news/20250412/9d80ad8c-1f40-4082-ab24-d1fd8b44104d.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "耶鲁大学：关税将使美国家庭平均损失 4400 美元",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250411/48196898.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "非必要不外出！罕见强风周末来袭，多项活动、赛事延期",
@@ -231,12 +237,6 @@
             {
                 "title": "看清！美国想要的“对等”长这样！",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250410/48194517.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "坚决反制！对美加征84%关税，开始执行！",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250410/48194474.html?ayjr"
             }
         ]
     ]
