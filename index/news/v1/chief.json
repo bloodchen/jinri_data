@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美国纽约州一小型飞机坠毁 至少一人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250413/48203436.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250413/f619bb49-d49e-45a2-9008-dde54fd232a9.jpg"
+        },
+        {
             "title": "局地阵风超10级!北方大风今日持续 东北有大到暴雪",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250413/48203319.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250413/e9039c30-a130-40e3-b93b-39345e8aec4e.jpg"
@@ -9,14 +14,14 @@
             "title": "美国前财长：“加征关税有正面作用”是“欺诈言论",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250413/48203289.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250413/b624ef1c-9807-4c8b-8b3b-8fc04752ecf6.jpg"
-        },
-        {
-            "title": "沦为贸易战牺牲品 他们表示“看不到未来”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250413/48203263.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250413/26904846-c7d6-4e5c-a21b-6ee59dea5a13.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美国所作所为打击对美元信心 投资者转向欧亚市场",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250413/48203068.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250413/cf5ace0e-726f-4ba3-af41-220ea9c26855.jpg"
+        },
         {
             "title": "注意！今天北京大风依然较强 白天阵风可达9至11级",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250413/48203058.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250413/5e67240d-0f71-4f3e-894b-b9d68d4728a7.jpg"
         },
         {
-            "title": "希腊方面称该国海岸警卫队与土耳其船只交火",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250413/48202979.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250413/15f0af82-236b-41ed-849d-d0d0257c6bf1.jpg"
+            "title": "沦为贸易战牺牲品 他们表示“看不到未来”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250413/48203263.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250413/26904846-c7d6-4e5c-a21b-6ee59dea5a13.jpg"
         },
         {
             "title": "大兴区启动2025年全民国家安全教育日宣传活动",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250413/48203160.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20250413/1343dfcb-b96b-464b-aa9d-70119d818dac.png"
-        },
-        {
-            "title": "国家安全法治教育走进东莞台商子弟学校",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250413/48203146.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250413/b10bfeef-2f64-409a-90a9-506853915c2b.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "外交部：反对美国利用网络问题干涉中国内政",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250411/48199880.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "中国不吃这一套！外交部回应“美对华关税达145%”",
@@ -231,12 +237,6 @@
             {
                 "title": "歼-36低空“横穿马路” 美媒激动了 看到了双座和涂层",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250411/48196918.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "耶鲁大学：关税将使美国家庭平均损失 4400 美元",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250411/48196898.html?ayjr"
             }
         ]
     ]
