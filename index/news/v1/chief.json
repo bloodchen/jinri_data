@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美对俄部分制裁措施将延长一年",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250413/48203125.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/628x0/news/20250413/a6a12c17-7ce8-470d-9892-b7acfa76cbee.png"
+        },
+        {
             "title": "美国所作所为打击对美元信心 投资者转向欧亚市场",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250413/48203068.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250413/cf5ace0e-726f-4ba3-af41-220ea9c26855.jpg"
@@ -9,14 +14,14 @@
             "title": "注意！今天北京大风依然较强 白天阵风可达9至11级",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250413/48203058.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/600x0/news/20250413/aeefdf5e-aac4-489c-a3f6-696187ae98c5.jpg"
-        },
-        {
-            "title": "全球首个！我国公开6G通智感融合外场试验网",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250413/48203045.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250413/9e97015e-fa14-4b9b-b4a9-7c99171f6000.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "希腊方面称该国海岸警卫队与土耳其船只交火",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250413/48202979.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250413/15f0af82-236b-41ed-849d-d0d0257c6bf1.jpg"
+        },
         {
             "title": "成立数字人民币银行、招募数字人民币推广员系谣言",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250412/48202424.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250412/466a064e-b977-43fc-a7d6-6826ebdd1711.jpg"
         },
         {
-            "title": "受大雾和大风影响 福建沿海66条客渡运航线停航",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250412/48202097.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250412/b35ca737-eb55-4e96-abdb-98ce294ae91f.jpg"
+            "title": "全球首个！我国公开6G通智感融合外场试验网",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250413/48203045.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250413/9e97015e-fa14-4b9b-b4a9-7c99171f6000.jpg"
         },
         {
             "title": "美豁免从中国进口的智能手机和电脑等产品关税",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250413/48203032.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/431x0/news/20250413/a582eb99-0429-4000-911d-ca2a1112c097.png"
-        },
-        {
-            "title": "哈佛大学教授就特朗普审查90亿美元拨款提起诉讼",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250413/48203005.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250413/c0583b74-d3f6-4528-88fc-5d54dc18946f.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "全时待战,随时能战 来看战斗部队&quot;千里眼&quot;作战能力",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250411/48199477.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "国际锐评｜以“中国稳”应对“美国疯”",
@@ -231,12 +237,6 @@
             {
                 "title": "浙江一车辆从高架掉落，警方通报",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250411/48196903.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "对话林智桂：上汽通用五菱从来没有提过要做纯视觉，后续也会搭载激光雷达",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250411/48196904.html?ayjr"
             }
         ]
     ]
