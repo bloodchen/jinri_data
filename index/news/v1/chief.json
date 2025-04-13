@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "偷拍偷录、大肆窃取工作秘密 聂某某被判无期",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250413/48203558.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250413/026d03fa-5e22-4368-9759-f68f5c822a46.png"
+        },
+        {
             "title": "中越将开展第38次北部湾联合巡逻",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250413/48203466.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250413/1e37edc5-fb7f-4754-a243-7d5b7fc95768.png"
@@ -9,14 +14,14 @@
             "title": "美国纽约州一小型飞机坠毁 至少一人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250413/48203436.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250413/f619bb49-d49e-45a2-9008-dde54fd232a9.jpg"
-        },
-        {
-            "title": "局地阵风超10级!北方大风今日持续 东北有大到暴雪",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250413/48203319.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250413/e9039c30-a130-40e3-b93b-39345e8aec4e.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "国家安全法治教育走进东莞台商子弟学校",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250413/48203146.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250413/b10bfeef-2f64-409a-90a9-506853915c2b.jpg"
+        },
         {
             "title": "美对俄部分制裁措施将延长一年",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250413/48203125.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/431x0/news/20250413/a582eb99-0429-4000-911d-ca2a1112c097.png"
         },
         {
-            "title": "哈佛大学教授就特朗普审查90亿美元拨款提起诉讼",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250413/48203005.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250413/c0583b74-d3f6-4528-88fc-5d54dc18946f.jpg"
+            "title": "局地阵风超10级!北方大风今日持续 东北有大到暴雪",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250413/48203319.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250413/e9039c30-a130-40e3-b93b-39345e8aec4e.jpg"
         },
         {
             "title": "美国前财长：“加征关税有正面作用”是“欺诈言论",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250413/48203289.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250413/b624ef1c-9807-4c8b-8b3b-8fc04752ecf6.jpg"
-        },
-        {
-            "title": "沦为贸易战牺牲品 他们表示“看不到未来”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250413/48203263.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250413/26904846-c7d6-4e5c-a21b-6ee59dea5a13.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "继续反制！中国对美所有商品加征125%关税",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250411/48200241.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "民调显示超半数美国人对加征关税不满",
@@ -231,12 +237,6 @@
             {
                 "title": "我国成功发射通信技术试验卫星十七号",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250411/48197161.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美国商务部长：将在一周内开始发放移民“金卡”",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250411/48197142.html?ayjr"
             }
         ]
     ]
