@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "形式创新、内容多样 走进各地“国家安全教育”课",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250414/48207406.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250414/cb9c4924-4deb-4d7d-bc58-97c7ec7b043a.jpg"
+        },
+        {
             "title": "“关税战”冲击下，我们如何做好自己的事？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250414/48206862.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250414/fd781b7a-fb45-44fc-858b-65cbde70862d.jpg"
@@ -9,14 +14,14 @@
             "title": "特朗普政府“毁约”后首次伊美正式谈判陷分歧",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250414/48206790.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250414/c0abfbd3-552e-4e11-a687-db60f24b7df6.jpg"
-        },
-        {
-            "title": "探访大阪世博会中国馆",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250414/48206511.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250414/f31edc1b-736d-4619-8e3c-00a0ad223b2a.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "沙尘翻山越岭，竟然吹到海南去了！为什么这次能吹这么远？",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250414/48206162.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250413/c82c86b3-b72b-4ac5-9543-d37680c757d2.jpg"
+        },
         {
             "title": "大批医院，主动退出医保",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250414/48206163.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250413/37c96f64-6a03-4a48-9ee8-297c165bf103.jpg"
         },
         {
-            "title": "编造“在女子监狱门口猎艳”，余某被拘留！",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250414/48206168.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250413/24e966b4-80b1-458d-bf9b-529ca0f71b3e.jpg"
+            "title": "探访大阪世博会中国馆",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250414/48206511.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250414/f31edc1b-736d-4619-8e3c-00a0ad223b2a.jpg"
         },
         {
             "title": "历史性一周，这一仗打得漂亮",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250414/48206179.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/267x0/toutiao/20250413/c08bb2da-72d4-4321-a5ea-eb1b80a31acc.jpg"
-        },
-        {
-            "title": "女单提前包揽冠亚军！羽毛球亚锦赛国羽将冲击四冠",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250414/48206180.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250413/87cb69aa-9adf-4be0-abd7-bcd2d6ad5a9b.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "中越将开展第38次北部湾联合巡逻",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250413/48203466.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美国纽约州一小型飞机坠毁 至少一人死亡",
@@ -231,12 +237,6 @@
             {
                 "title": "历时约4小时，普京与美国中东问题特使结束会谈",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250412/48201193.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "四预警齐发！北京大风进入最强时段",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250412/48201170.html?ayjr"
             }
         ]
     ]
