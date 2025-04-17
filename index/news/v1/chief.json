@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "商务部：将加快出台优化离境退税等政策措施",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250417/48224850.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250417/795f2e2f-35fa-4ea9-87fc-53afb148e0cb.png"
+        },
+        {
             "title": "地区紧张局势致苏伊士运河2024年收入锐减",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250417/48224482.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250417/65311b56-e013-493d-9f60-ad04bb949e1e.jpg"
@@ -9,14 +14,14 @@
             "title": "美国防部第三名官员因涉嫌泄密被调查",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250417/48224452.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250417/d94b087d-300f-4e7b-a04f-8db0d4f2a4f4.png"
-        },
-        {
-            "title": "5亿 VS 4万亿 特朗普关税征出一笔“糊涂账”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250417/48224439.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/532x0/news/20250417/d1a84ea0-4f0b-4852-8732-af61715753d3.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "持续交火 苏丹冲突双方争夺西部重镇法希尔",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250417/48222974.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250417/2f09eb5e-4e08-4631-a781-56033a54f09d.jpg"
+        },
         {
             "title": "关税大棒致三方皆输 本田加拿大工厂恐被迫迁美",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250417/48222862.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250417/722ef9d0-243a-47e9-99c0-a61de1abb05a.png"
         },
         {
-            "title": "市场监管总局：严查“神医”“神药”等五类广告",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250417/48222337.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250417/cd1a59cb-4bbb-4b7c-843d-7bf6e6a5cb28.png"
+            "title": "5亿 VS 4万亿 特朗普关税征出一笔“糊涂账”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250417/48224439.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/532x0/news/20250417/d1a84ea0-4f0b-4852-8732-af61715753d3.jpg"
         },
         {
             "title": "美国电影股再跌 特朗普关税砸碎好莱坞的复苏希望",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250417/48223788.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250417/9ad401b2-ea33-4ecd-a626-7118d5cce4a3.jpg"
-        },
-        {
-            "title": "企业逆势而上的底气何在？记者直击外贸第一线",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250417/48223725.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250417/7b06ef2b-e6c5-44f6-aeda-f42095c30831.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美联储强烈警告之后 美股16日收盘大幅下跌",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250417/48220607.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "欧洲游客赴美旅游却被拘留 网友：去别的地方吧",
@@ -231,12 +237,6 @@
             {
                 "title": "被禁2个月后 美联社记者首次获准进入白宫",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250416/48216581.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "涉嫌泄密 美防长高级顾问被调查",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250416/48216558.html?ayjr"
             }
         ]
     ]
