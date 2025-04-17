@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "商务部：与美方对口部门一直保持工作层沟通",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250417/48224869.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20250417/1aa69d9e-3b4d-40d9-b849-38955aa211c0.png"
+        },
+        {
             "title": "商务部：将加快出台优化离境退税等政策措施",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250417/48224850.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20250417/795f2e2f-35fa-4ea9-87fc-53afb148e0cb.png"
@@ -9,14 +14,14 @@
             "title": "地区紧张局势致苏伊士运河2024年收入锐减",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250417/48224482.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250417/65311b56-e013-493d-9f60-ad04bb949e1e.jpg"
-        },
-        {
-            "title": "美国防部第三名官员因涉嫌泄密被调查",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250417/48224452.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250417/d94b087d-300f-4e7b-a04f-8db0d4f2a4f4.png"
         }
     ],
     "midImg": [
+        {
+            "title": "眨眼间完成10亿次存储 科研团队研制出超高速闪存",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250417/48223019.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250417/8318b2c9-9ca5-4b6b-b2c4-392d6a02aae2.jpg"
+        },
         {
             "title": "持续交火 苏丹冲突双方争夺西部重镇法希尔",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250417/48222974.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250417/0cc85ad9-1f4d-4097-b9b2-2da76bf4030d.png"
         },
         {
-            "title": "美国土安全部取消对哈佛大学270万美元拨款",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250417/48222379.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250417/722ef9d0-243a-47e9-99c0-a61de1abb05a.png"
+            "title": "美国防部第三名官员因涉嫌泄密被调查",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250417/48224452.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250417/d94b087d-300f-4e7b-a04f-8db0d4f2a4f4.png"
         },
         {
             "title": "5亿 VS 4万亿 特朗普关税征出一笔“糊涂账”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250417/48224439.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/532x0/news/20250417/d1a84ea0-4f0b-4852-8732-af61715753d3.jpg"
-        },
-        {
-            "title": "美国电影股再跌 特朗普关税砸碎好莱坞的复苏希望",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250417/48223788.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250417/9ad401b2-ea33-4ecd-a626-7118d5cce4a3.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "全美首例 加州起诉特朗普政府滥用关税政策&quot;违法&quot;",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250417/48220621.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美联储强烈警告之后 美股16日收盘大幅下跌",
@@ -231,12 +237,6 @@
             {
                 "title": "抢救回“星坚强” 我国实现全球首次地月空间组网",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250416/48216669.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "被禁2个月后 美联社记者首次获准进入白宫",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250416/48216581.html?ayjr"
             }
         ]
     ]
