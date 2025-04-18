@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "日本多地发生杀人事件，我使馆紧急提醒",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250418/48228713.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250418/118ed4a4-744d-45bd-9b9c-2938db80d862.png"
+        },
+        {
             "title": "乌称哈尔科夫遭火箭弹袭击 已致1死54伤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250418/48228671.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250418/9e0a3097-a04b-4efd-86bd-769cf22320b5.jpg"
@@ -9,14 +14,14 @@
             "title": "北京中小学入学信息采集将于5月6日启动",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250418/48228651.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250418/b98352e0-0e14-4901-bbc4-bedaf6aa2f3c.png"
-        },
-        {
-            "title": "专家分析丨美乌签署矿产协议备忘录 谁妥协了？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250418/48228581.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250418/e848ea7d-0a6c-469f-9f5b-0751035f14c2.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美军空袭也门拉斯伊萨港 已致38人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250418/48227390.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250418/e4e988bc-ce3f-4501-9f04-ff7e254f7771.jpg"
+        },
         {
             "title": "中国工程机械装备在海外火爆如常！靠什么应对挑战",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250418/48227299.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250418/001795c5-1eef-4c66-8393-336d60ec2c80.jpg"
         },
         {
-            "title": "美军再次空袭也门拉斯伊萨港 已致22人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250418/48226788.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/527x0/news/20250418/4476d329-fd39-4033-a8de-e615a0878f66.png"
+            "title": "专家分析丨美乌签署矿产协议备忘录 谁妥协了？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250418/48228581.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250418/e848ea7d-0a6c-469f-9f5b-0751035f14c2.jpg"
         },
         {
             "title": "市场监管总局集中发布一批直播电商领域典型案例",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250418/48227926.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250418/9f667958-2c83-451b-8040-497a9d80a771.png"
-        },
-        {
-            "title": "关税战下 为何这款中国APP一夜间爆火美国？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250418/48227873.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250418/bd0e74a6-a5eb-4e0f-9fe8-367a08d87d54.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "山西订婚强奸案二审维持原判，男方父亲表示将继续申诉，律师解析判决要点",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250417/48221420.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "山西婚约财产纠纷案二审宣判：维持原判，被告获刑三年",
@@ -231,12 +237,6 @@
             {
                 "title": "塞尔维亚新政府宣誓就职",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250417/48220523.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "春风何处不归来",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250416/48219890.html?ayjr"
             }
         ]
     ]
