@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "市场监管总局集中发布一批直播电商领域典型案例",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250418/48227926.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250418/9f667958-2c83-451b-8040-497a9d80a771.png"
+        },
+        {
             "title": "关税战下 为何这款中国APP一夜间爆火美国？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250418/48227873.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20250418/bd0e74a6-a5eb-4e0f-9fe8-367a08d87d54.png"
@@ -9,14 +14,14 @@
             "title": "今日启程 “坐着火车游云南”环线旅游列车开行",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250418/48227741.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250418/7ecfde62-6497-4b54-8b70-38f4c639162d.jpg"
-        },
-        {
-            "title": "美军空袭也门拉斯伊萨港 已致38人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250418/48227390.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250418/e4e988bc-ce3f-4501-9f04-ff7e254f7771.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "日本3月米价同比上涨92.1% 创54年来最大涨幅",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250418/48226918.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250418/19f42c5a-9bd2-4e9d-8bf2-46153ae2aa59.jpg"
+        },
         {
             "title": "多米尼加俱乐部屋顶坍塌事故死亡人数升至232人",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250418/48226847.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250418/72149928-5e55-4f94-a6c1-e700c34b82d6.png"
         },
         {
-            "title": "男子在足浴店欲与女技师发生关系被控强奸！",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250418/48226616.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/toutiao/20250418/ec316feb-d94c-4bc2-b08c-213693d08052.jpg"
+            "title": "美军空袭也门拉斯伊萨港 已致38人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250418/48227390.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250418/e4e988bc-ce3f-4501-9f04-ff7e254f7771.jpg"
         },
         {
             "title": "中国工程机械装备在海外火爆如常！靠什么应对挑战",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250418/48227299.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250418/42b0109e-cef0-473a-9fd7-4564113df04e.jpg"
-        },
-        {
-            "title": "快一百万倍！全球最快半导体电荷存储技术发布",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250418/48227235.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250418/c59282c6-0bc3-463e-a15b-428e5cc91727.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "“沉浸式”体验！这场军营开放日让孩子们收获满满",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250417/48221424.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "湖北首个低空飞行器大型试验基地在十堰启用",
@@ -231,12 +237,6 @@
             {
                 "title": "渔民老陈捞到“谍鱼”，立功了！",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250416/48219050.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "我国出口海外最大直径盾构机今天下线",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250416/48218942.html?ayjr"
             }
         ]
     ]
