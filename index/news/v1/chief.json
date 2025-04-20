@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "厄瓜多尔选举委员会正式宣布现任总统诺沃亚胜选",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250420/48233281.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250420/071fce6f-9579-426a-a67c-3f9b2b8b9d70.png"
+        },
+        {
             "title": "巴西为何不顾美国制裁威胁依然坚持进口俄罗斯柴油",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250420/48232949.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250420/43a1e5d2-38a1-4b51-a525-a8c28489e3a2.png"
@@ -9,14 +14,14 @@
             "title": "日本议员敦促政府不要屈服于“美国勒索者”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250420/48232928.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250420/53817e58-bf3a-441f-9a50-03222f65924f.png"
-        },
-        {
-            "title": "尹锡悦涉嫌发动内乱案第二次庭审21日举行",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250420/48232871.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250420/f1417026-a5e9-4696-a992-c2949d8e4f69.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "一片狼藉 也门拉斯伊萨港遭美军空袭后完全瘫痪",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250420/48232680.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250420/922b755b-dce8-49e6-be5b-6565b3866b4e.jpg"
+        },
         {
             "title": "能上天入海的“鲲龙”毕业了 AG600取得型号合格证",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250420/48232617.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250420/74249fc5-221c-44cf-8293-e36be08592a1.jpg"
         },
         {
-            "title": "普京宣布停火30小时，泽连斯基回应",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250420/48232284.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/600x0/news/20250420/763b2515-74f2-48fc-aa44-0ebea857009d.jpg"
+            "title": "尹锡悦涉嫌发动内乱案第二次庭审21日举行",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250420/48232871.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250420/f1417026-a5e9-4696-a992-c2949d8e4f69.jpg"
         },
         {
             "title": "诺奖得主等数十位经济学家发表宣言反对美关税政策",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250420/48232837.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250420/7e69d4b2-a7cb-4e4b-ae6e-57c6f5d9eb7c.jpg"
-        },
-        {
-            "title": "“太空出差”倒计时 返回前准备工作有哪些？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250420/48232825.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250420/0397eb14-1b77-48a2-af4c-dd24b1621768.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "财政部通报六起地方政府隐性债务问责典型案例",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250418/48229140.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "外交部回应特朗普将对中国建造船只加征“港口费”",
@@ -231,12 +237,6 @@
             {
                 "title": "美国防部第三名官员因涉嫌泄密被调查",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250417/48224452.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "5亿 VS 4万亿 特朗普关税征出一笔“糊涂账”",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250417/48224439.html?ayjr"
             }
         ]
     ]
