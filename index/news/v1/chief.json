@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "英国要扩大在北极的军事活动？！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250421/48234330.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/501x0/news/20250421/8d5c63cf-7360-4809-9b46-392ca0225155.jpg"
+        },
+        {
             "title": "美国防部查信息外泄 防长四名亲信被解职",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250420/48233713.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250420/b13b9d56-e1bd-4269-87b3-ab9bb0a56d00.jpg"
@@ -9,14 +14,14 @@
             "title": "特朗普“自己人”暗中希望美最高法院叫停关税战",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250420/48233696.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250420/511bd06f-3d4d-499f-bd81-411eb137158d.png"
-        },
-        {
-            "title": "以军对哈马斯加大施压 关键被扣人员生死不明",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250420/48233551.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250420/ef8c3f24-5008-4d6e-9544-15656bf8d853.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "巴西为何不顾美国制裁威胁依然坚持进口俄罗斯柴油",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250420/48232949.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250420/43a1e5d2-38a1-4b51-a525-a8c28489e3a2.png"
+        },
         {
             "title": "日本议员敦促政府不要屈服于“美国勒索者”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250420/48232928.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250420/62050123-f6c2-426a-a0f0-27c3fbcd02b4.jpg"
         },
         {
-            "title": "一片狼藉 也门拉斯伊萨港遭美军空袭后完全瘫痪",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250420/48232680.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250420/922b755b-dce8-49e6-be5b-6565b3866b4e.jpg"
+            "title": "以军对哈马斯加大施压 关键被扣人员生死不明",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250420/48233551.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250420/ef8c3f24-5008-4d6e-9544-15656bf8d853.jpg"
         },
         {
             "title": "学签被撤销+多国旅行警告 赴美已变“高危行为”？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250420/48233323.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250420/801d4b63-00b4-432e-b14f-c2b03385873f.jpg"
-        },
-        {
-            "title": "&quot;科技+萌点&quot;机器人马拉松刷屏 宇树回应&quot;半马摔倒&quot;",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250420/48233304.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250420/1f26d58f-2af3-4108-8d81-efeb14d894da.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "连续两日施压 特朗普为何着急让美联储降息",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250419/48230497.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美国防部宣布整合驻叙美军部队 将减少至不足千人",
@@ -231,12 +237,6 @@
             {
                 "title": "鲁比奥称美国已向各方提出了“持久和平的框架”",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250418/48225745.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "特朗普称美乌矿产协议将于24日签署",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250418/48225708.html?ayjr"
             }
         ]
     ]
