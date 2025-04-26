@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "航行警告！黄海南部进行实弹射击 禁止驶入",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250426/48259355.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250426/64c5bd0d-6fd7-47fa-8b9a-623a350b432b.png"
+        },
+        {
             "title": "资金短缺 世粮署可能减少对苏丹粮食援助",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250426/48259322.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250426/115bab7c-c99c-44d0-a83f-c3f78439924e.jpg"
@@ -9,14 +14,14 @@
             "title": "美国对特定国家外交人员拒发签证 违反国际法义务",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250426/48259306.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250426/9e596c23-a77e-4b37-9289-d9b68c964e37.jpg"
-        },
-        {
-            "title": "美联合健康集团高管枪杀案嫌疑人对谋杀指控不认罪",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250426/48259165.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250426/aa5be75f-1b40-4a69-bb41-d445e4d8a05b.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "外交部：美方是国际军控与防扩散体系的最大破坏者",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250425/48258236.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250425/23c51163-bc2e-4f48-ae97-28ed86c16451.png"
+        },
         {
             "title": "纪录连破7个月 日本东京4月米价比去年几乎翻倍",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250425/48258176.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250425/ced937cd-dfb1-4bd0-9034-04f58a6fca2d.jpg"
         },
         {
-            "title": "欧盟对美关税放话&quot;谈不拢就反制&quot; 底气从何而来？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250425/48257393.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250425/245d38ac-7461-49f6-b166-969c31963554.jpg"
+            "title": "美联合健康集团高管枪杀案嫌疑人对谋杀指控不认罪",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250426/48259165.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250426/aa5be75f-1b40-4a69-bb41-d445e4d8a05b.jpg"
         },
         {
             "title": "特朗普说克里米亚将留在俄罗斯 泽连斯基:绝不承认",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250426/48259131.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250426/0468e76f-b578-4bd7-9b10-7e20077de1f3.jpg"
-        },
-        {
-            "title": "特朗普政府称将恢复被终止的外国学生合法身份",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250426/48259094.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250426/a70373eb-167d-4429-87d6-8a061efbf9d0.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "中美试探性过招，中国直接在美军头上“动土”，美国罕见装聋作哑",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250425/48254904.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "神舟二十号发射圆满成功 航天员乘组状态良好",
@@ -231,12 +237,6 @@
             {
                 "title": "美国又有11州起诉特朗普政府滥用关税政策“违法”",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250424/48249927.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "波兰外长称不会派兵参与乌克兰维和任务",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250424/48249834.html?ayjr"
             }
         ]
     ]
