@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "我国已形成完整人工智能产业体系",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250428/48268799.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250428/0d05bdf7-1e96-4262-b61d-e1e849cb9483.jpg"
+        },
+        {
             "title": "乌克兰的“坚持”到底能换来什么",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250428/48268007.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250428/ddcfb387-9878-4f9f-b128-f6d1deb9deb2.jpg"
@@ -9,14 +14,14 @@
             "title": "美经济学家：关税政策将致美国商店货架空空如也",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250428/48267987.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250428/f14ff00e-ccaa-422a-b360-32676cbaa1ee.jpg"
-        },
-        {
-            "title": "韩国最高法院可能将于5月宣判李在明案",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250428/48267970.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250428/e8da9100-3ce3-4c88-b97d-3109ce02c0ea.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "致40人死亡 伊朗港口爆炸最新细节披露",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250428/48267771.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250428/fd1c3d67-6456-4964-ac23-10f742533c20.jpg"
+        },
         {
             "title": "华表奖现场力推！五一档大波国产影片即将上新",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250428/48267759.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250427/9b1a45ce-3cf8-4b52-869a-53854ad0d45f.jpg"
         },
         {
-            "title": "京东：未来三个月将招聘 10 万名全职骑手，入职至少有 7000 元保障",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250428/48267412.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250427/f68e7891-608b-40b1-a39d-17772dedfbdd.jpg"
+            "title": "韩国最高法院可能将于5月宣判李在明案",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250428/48267970.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250428/e8da9100-3ce3-4c88-b97d-3109ce02c0ea.jpg"
         },
         {
             "title": "“深圳号”启程 全球装载量最大运输船苏州港首航",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250428/48267906.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250428/a4050731-445f-4778-88f0-01f715a20459.jpg"
-        },
-        {
-            "title": "美国土安全部长餐厅遇窃案嫌疑人被捕",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250428/48267833.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250428/18cdaf24-bd69-4f60-bdaf-a6b04e83fffb.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "俄愿无先决条件谈判 乌称须无条件停火",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250427/48262514.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "兵棋推演在陆军指挥与参谋学院作战课程教学中的运用",
@@ -231,12 +237,6 @@
             {
                 "title": "最新！朝鲜新建驱逐舰入水",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250426/48260289.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "四川统一取消普通住宅和非普通住宅标准",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250426/48259905.html?ayjr"
             }
         ]
     ]
