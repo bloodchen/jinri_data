@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "乌称俄袭击哈尔科夫 已致45人受伤",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250430/48279997.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250430/a491f270-d50e-4330-a729-21fa8b7c5dd0.jpg"
+        },
+        {
             "title": "成功着陆、身体状态良好！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250430/48279902.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250430/a07b440b-b7e2-40da-923b-ecb3c963f5b9.jpg"
@@ -9,14 +14,14 @@
             "title": "印度总理授权军队对印控克什米尔恐袭作出回应",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250430/48279150.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250430/4839a083-9843-4cef-8a8a-4087627c6bc0.jpg"
-        },
-        {
-            "title": "中方呼吁坚守多边主义 批评美方滥施关税",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250430/48279122.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250430/bc9384c9-0a91-4363-bf60-b179bcc5667b.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "“饿得快没力气说话” 加沙母亲为一顿饭排队5小时",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250430/48278877.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250430/8f19942c-3acb-4629-9e62-464d6e2bbe55.jpg"
+        },
         {
             "title": "中老铁路跨境国际旅客突破50万人次",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250430/48278834.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/647x0/news/20250430/776fbc94-b84f-4604-84f9-fa22270e6fc9.jpg"
         },
         {
-            "title": "驳回上诉！李铁二审获刑20年",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250430/48278493.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250430/682e76ff-8fb8-47ea-a2fe-c9e977f0640a.png"
+            "title": "中方呼吁坚守多边主义 批评美方滥施关税",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250430/48279122.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250430/bc9384c9-0a91-4363-bf60-b179bcc5667b.jpg"
         },
         {
             "title": "国台办：菲方应停止在台湾问题上玩火",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250430/48279065.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20250430/2e226683-8782-4f9e-aec8-9bfa1ff4d9d2.png"
-        },
-        {
-            "title": "国台办：“台独”是绝路 外人靠不住",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250430/48278928.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250430/d5d5576b-a745-4f02-b51b-6bbe7a9625bf.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "59 岁刘海石，主动投案！",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250430/48277330.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "媒体：美国撤离之际 中国或将深入欧洲腹地",
@@ -231,12 +237,6 @@
             {
                 "title": "新形势下“出口转内销”怎么转？",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250428/48268887.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "日本首相访越菲，意在“应对中国”？",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250428/48268833.html?ayjr"
             }
         ]
     ]
