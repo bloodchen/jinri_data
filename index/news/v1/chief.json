@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "被特斯拉踢出局？马斯克面临“双下岗”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250501/48281774.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250501/b8091c6b-8468-4978-a224-dd56a735147a.jpg"
+        },
+        {
             "title": "美一季度经济萎缩 关税政策将引发经济陷入衰退",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250501/48281699.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250501/c1f4d07a-93a5-44ad-b5ff-012218dc6c55.jpg"
@@ -9,14 +14,14 @@
             "title": "国家卫健委对近日肖某引发舆情问题开展调查",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250501/48281621.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250501/e42e2b0e-d5fa-4776-bc87-0ab7bd99dd2a.jpg"
-        },
-        {
-            "title": "白宫&quot;关税经济学&quot;重创美国内经济 特朗普：怪拜登",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250501/48281582.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250501/4544e5c4-9ff5-4686-a04c-e41b09ae2750.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "黎巴嫩首都贝鲁特一街区发生火灾 伤亡不明",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250501/48281315.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250501/668d6e1e-c1c1-4ad9-ab80-4e10b52b679c.png"
+        },
         {
             "title": "乌美签署矿产协议",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250501/48281288.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20250430/77ec16e7-8e6d-48d4-aae1-084901adc287.png"
         },
         {
-            "title": "外交部：中方高度赞赏索方坚定恪守一个中国原则",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250430/48280514.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/300x0/news/20250430/34c6114e-6f4d-4f04-8d05-04e468affbe4.png"
+            "title": "白宫&quot;关税经济学&quot;重创美国内经济 特朗普：怪拜登",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250501/48281582.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250501/4544e5c4-9ff5-4686-a04c-e41b09ae2750.jpg"
         },
         {
             "title": "伊朗外长：伊美第四轮间接谈判将于5月3日举行",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250501/48281541.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250501/4203166a-8c4c-488d-9bfa-b14a794d3b18.jpg"
-        },
-        {
-            "title": "驻德国使领馆提醒赴德务工中国公民谨防中介陷阱",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250501/48281352.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250501/f65a31ab-47af-482c-842b-2640f17b0108.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "巴西石油公司第一季度石油和天然气产量略有下降",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250430/48277312.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "特朗普：将在未来几周和几个月内通过减税法案",
@@ -231,12 +237,6 @@
             {
                 "title": "普京宣布将停火72小时",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250429/48272591.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "路口旁有 2 所学校却无红绿灯，车流较多居民担心安全，长沙交警：已上报情况",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250429/48272592.html?ayjr"
             }
         ]
     ]
