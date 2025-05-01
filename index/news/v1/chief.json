@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "法官：七天内无理由退款 预付式消费有“后悔权”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250501/48281822.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250501/2967e056-da58-43e3-8d60-e8d7b0525515.png"
+        },
+        {
             "title": "被特斯拉踢出局？马斯克面临“双下岗”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250501/48281774.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250501/b8091c6b-8468-4978-a224-dd56a735147a.jpg"
@@ -9,14 +14,14 @@
             "title": "美一季度经济萎缩 关税政策将引发经济陷入衰退",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250501/48281699.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250501/c1f4d07a-93a5-44ad-b5ff-012218dc6c55.jpg"
-        },
-        {
-            "title": "国家卫健委对近日肖某引发舆情问题开展调查",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250501/48281621.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250501/e42e2b0e-d5fa-4776-bc87-0ab7bd99dd2a.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美乌矿产协议详情 未提债务义务 包含美再援助条款",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250501/48281333.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250501/cf73e95c-a257-4645-91eb-522dfad1c6a2.jpg"
+        },
         {
             "title": "黎巴嫩首都贝鲁特一街区发生火灾 伤亡不明",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250501/48281315.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250430/bed6e4a3-c2f4-4df8-9aa7-a09f6cc0b748.jpg"
         },
         {
-            "title": "外交部：中美双方并未就关税问题进行磋商或谈判",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250430/48280529.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250430/77ec16e7-8e6d-48d4-aae1-084901adc287.png"
+            "title": "国家卫健委对近日肖某引发舆情问题开展调查",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250501/48281621.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250501/e42e2b0e-d5fa-4776-bc87-0ab7bd99dd2a.jpg"
         },
         {
             "title": "白宫&quot;关税经济学&quot;重创美国内经济 特朗普：怪拜登",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250501/48281582.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250501/4544e5c4-9ff5-4686-a04c-e41b09ae2750.jpg"
-        },
-        {
-            "title": "伊朗外长：伊美第四轮间接谈判将于5月3日举行",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250501/48281541.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250501/4203166a-8c4c-488d-9bfa-b14a794d3b18.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "韩国3月工业产出年率为5.3%，预期3.7%",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250430/48277311.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "巴西石油公司第一季度石油和天然气产量略有下降",
@@ -231,12 +237,6 @@
             {
                 "title": "抗美援朝一等功臣赵顺合辞世",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250429/48272590.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "普京宣布将停火72小时",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250429/48272591.html?ayjr"
             }
         ]
     ]
