@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "韩国代总统、国务总理韩德洙宣布辞职",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250501/48282717.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250501/9d483b1a-c0a0-4ca6-b9af-1ac73437b9f5.jpg"
+        },
+        {
             "title": "案件发回重审 李在明参选韩总统之路再添波折",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250501/48282652.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20250501/4500e201-a1a6-43e4-93c2-a3bd3c2bd3c2.png"
@@ -9,14 +14,14 @@
             "title": "假期第一天铁路迎来客流高峰 你也在出行路上吗？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250501/48282582.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250501/b5aed8d6-47e8-408b-a9b2-ab3e005c48d4.jpg"
-        },
-        {
-            "title": "韩国最高法院将就李在明案宣判 判决结果前瞻",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250501/48282557.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250501/61d59b91-0a31-47fd-921d-ac580fdb544f.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "中国驻日本大使馆提醒中国公民谨防新型电信诈骗",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250501/48282244.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250501/16ce3a97-ef69-47e6-ad9e-d424cbdaf8d2.png"
+        },
         {
             "title": "今年，工资、收入、职业发展会有这些政策措施支持",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250501/48282136.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250501/c48b6425-94a7-4cf4-ac6b-decde57060b7.jpg"
         },
         {
-            "title": "法官：七天内无理由退款 预付式消费有“后悔权”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250501/48281822.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250501/2967e056-da58-43e3-8d60-e8d7b0525515.png"
+            "title": "韩国最高法院将就李在明案宣判 判决结果前瞻",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250501/48282557.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250501/61d59b91-0a31-47fd-921d-ac580fdb544f.jpg"
         },
         {
             "title": "增诉滥用职权罪 尹锡悦遭韩国检方追加起诉",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250501/48282327.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250501/9b36363b-a44c-4869-aa34-d1ababd10477.jpg"
-        },
-        {
-            "title": "苹果手机为何无法在美制造？全球供应链难迁移",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250501/48282293.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250501/1d434e26-415b-480f-92c9-1ab35b509915.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "白宫喊了100天“美国回来了” 世界却更加混乱",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250430/48278585.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "驳回上诉！李铁二审获刑20年",
@@ -231,12 +237,6 @@
             {
                 "title": "美参议院确认戴维 · 珀杜出任驻华大使，为什么是他？",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250430/48277329.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "59 岁刘海石，主动投案！",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250430/48277330.html?ayjr"
             }
         ]
     ]
