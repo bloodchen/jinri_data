@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美滥施关税致自身经济“四面楚歌”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250502/48283869.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250502/dce1ee8a-f657-4e33-970e-97917e51d78d.jpg"
+        },
+        {
             "title": "商务部新闻发言人就中美经贸对话磋商情况答记者问",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250502/48283660.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250502/afbf3a58-56ea-4aa1-871d-46011be2e644.png"
@@ -9,14 +14,14 @@
             "title": "140天历经3位代总统 韩国政局动荡持续",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250502/48283645.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250502/1bfcbf03-4618-4c97-833c-694b8a93b553.jpg"
-        },
-        {
-            "title": "美国防部监察机构扩大“群聊门”事件调查范围",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250502/48283631.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250502/309b6668-998b-43a1-8f80-11f77ad0a1ba.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "&quot;美国小孩只能有2个玩具了&quot;，特朗普承认货架变空",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250502/48283460.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250502/ffb1aa24-53d3-4d50-8eec-192a26415535.jpg"
+        },
         {
             "title": "伊拉克禁止一切伊朗反对派团体在其境内活动",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250502/48283447.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250501/52181ec1-df56-4f66-991d-6a0248a1bd0d.jpg"
         },
         {
-            "title": "韩国代总统、国务总理韩德洙宣布辞职",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250501/48282717.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250501/9d483b1a-c0a0-4ca6-b9af-1ac73437b9f5.jpg"
+            "title": "美国防部监察机构扩大“群聊门”事件调查范围",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250502/48283631.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250502/309b6668-998b-43a1-8f80-11f77ad0a1ba.jpg"
         },
         {
             "title": "多名在日中国公民遭电诈，损失高达数百万元",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250502/48283614.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20250502/e2257e43-5058-4b07-b44c-a48dbd228f4f.png"
-        },
-        {
-            "title": "韩副总理兼教育部长李周浩任韩国代总统",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250502/48283553.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250502/7f4ca170-3cb8-45f4-9528-925b0443f021.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美为何急于推进俄乌停火？又为何威胁退出？",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250430/48280057.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "乌称俄袭击哈尔科夫 已致45人受伤",
@@ -231,12 +237,6 @@
             {
                 "title": "星巴克第二财季净收入88亿美元 同比增长2%",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250430/48277314.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "Q1营收首破500亿元！茅台“狂飙”背后：系列酒与海外市场双线发力",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250430/48277315.html?ayjr"
             }
         ]
     ]
