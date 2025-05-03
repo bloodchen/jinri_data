@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "韩国国民力量党宣布金文洙为该党总统候选人",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250503/48287019.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250503/5d3cb7d6-40ec-475e-b216-745cd9985715.png"
+        },
+        {
             "title": "全国共有共青团员7531.8万名 共青团组织439.7万个",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250503/48286925.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250503/9cd60ea1-d0ab-4a7b-b772-54a1ccd2499b.jpg"
@@ -9,14 +14,14 @@
             "title": "外国游客畅享“即买即退”快乐“买买买”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250503/48286864.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250503/1e1d5a62-72fe-486c-b5b3-57a0c4c6ab79.png"
-        },
-        {
-            "title": "加快&quot;人造太阳&quot;研发 记者探秘大科学装置&quot;夸父&quot;",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250503/48286811.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250503/9c977d12-50ff-4d3a-a7f1-b45d718cf6a7.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "南京大屠杀幸存者刘贵祥去世，享年95岁",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250503/48286425.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/626x0/news/20250503/589e6b3a-8cac-4c84-bd7f-cda9afdab5f6.jpg"
+        },
         {
             "title": "已构成“生存威胁”！鞋类巨头请求白宫豁免关税",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250503/48286406.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250503/404a23d8-8b16-413b-ac75-709cda768c02.jpg"
         },
         {
-            "title": "白宫深陷“泄密门” 国务卿身兼四职还要接任防长?",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250503/48286016.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250503/ddf38040-b9af-4a6d-ab1a-171ab7fe500d.jpg"
+            "title": "加快&quot;人造太阳&quot;研发 记者探秘大科学装置&quot;夸父&quot;",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250503/48286811.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250503/9c977d12-50ff-4d3a-a7f1-b45d718cf6a7.jpg"
         },
         {
             "title": "“对等关税”政策刚满月 美国人从头到脚受打击",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250503/48286778.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250503/e693dda1-31b1-49f0-8857-8532f3cdfef0.jpg"
-        },
-        {
-            "title": "5名中国公民在美国交通事故中遇难",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250503/48286652.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/300x0/news/20250503/aab57374-4dcb-4573-a2b2-889122245224.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "德国旅游胜地发生爆炸事故 11人受伤",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250502/48283436.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "特朗普称将禁止伊朗石油买家与美国做生意",
@@ -231,12 +237,6 @@
             {
                 "title": "120秒速览 神十九乘组安全着陆顺利出舱",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250430/48280573.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "外交部：中美双方并未就关税问题进行磋商或谈判",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250430/48280529.html?ayjr"
             }
         ]
     ]
