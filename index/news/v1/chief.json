@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "外国游客畅享“即买即退”快乐“买买买”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250503/48286864.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250503/1e1d5a62-72fe-486c-b5b3-57a0c4c6ab79.png"
+        },
+        {
             "title": "加快&quot;人造太阳&quot;研发 记者探秘大科学装置&quot;夸父&quot;",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250503/48286811.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250503/9c977d12-50ff-4d3a-a7f1-b45d718cf6a7.jpg"
@@ -9,14 +14,14 @@
             "title": "“对等关税”政策刚满月 美国人从头到脚受打击",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250503/48286778.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250503/e693dda1-31b1-49f0-8857-8532f3cdfef0.jpg"
-        },
-        {
-            "title": "5名中国公民在美国交通事故中遇难",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250503/48286652.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/300x0/news/20250503/aab57374-4dcb-4573-a2b2-889122245224.png"
         }
     ],
     "midImg": [
+        {
+            "title": "德国为何将选择党列为极右翼组织？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250503/48286297.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250503/11dc9a24-92b7-4700-84bd-a13cae1f1aea.png"
+        },
         {
             "title": "只有5个人的乡间小站，守护安全与温情",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250503/48286261.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/600x0/news/20250503/3c154e3f-8c0d-4aac-a947-7b59fe9beb2c.jpg"
         },
         {
-            "title": "5月2日全社会跨区域人员流动量超2.9亿人次",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250503/48285794.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250503/638a2d77-cb5d-45db-a80e-5d5f54c64aa7.jpg"
+            "title": "5名中国公民在美国交通事故中遇难",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250503/48286652.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20250503/aab57374-4dcb-4573-a2b2-889122245224.png"
         },
         {
             "title": "多国零售商停止向美发货 美国人跨境网购价格贵了",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250503/48286456.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250503/88cd3bd6-4fd2-4e07-be7e-3a0d0912cf09.jpg"
-        },
-        {
-            "title": "南京大屠杀幸存者刘贵祥去世，享年95岁",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250503/48286425.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/626x0/news/20250503/589e6b3a-8cac-4c84-bd7f-cda9afdab5f6.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美国法官裁定苹果公司违令 立即整改",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250501/48282831.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "高速封闭、紧急撤离！以色列进入“国家紧急状态”",
@@ -231,12 +237,6 @@
             {
                 "title": "外交部：中方高度赞赏索方坚定恪守一个中国原则",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250430/48280514.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "获奖名单公布，这个头像刷屏！",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250430/48280477.html?ayjr"
             }
         ]
     ]
