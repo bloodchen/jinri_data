@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "本轮巴以冲突中已有143家媒体机构遭以方袭击",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250503/48285832.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/600x0/news/20250503/3c154e3f-8c0d-4aac-a947-7b59fe9beb2c.jpg"
+        },
+        {
             "title": "5月2日全社会跨区域人员流动量超2.9亿人次",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250503/48285794.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250503/638a2d77-cb5d-45db-a80e-5d5f54c64aa7.jpg"
@@ -9,14 +14,14 @@
             "title": "玉渊谭天丨美国人正绕过关税“打飞的”来华购物",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250503/48285773.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20250503/4c10f201-1c84-4479-9c8a-c02ab3332d7b.png"
-        },
-        {
-            "title": "美不追求同朝核战核武对准美本土的事情就不会发生",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250503/48285748.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250503/4763362a-464e-467d-a865-2316bed681e0.png"
         }
     ],
     "midImg": [
+        {
+            "title": "美国黄石国家公园附近发生撞车事故 7人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250503/48285707.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250503/c4b08772-d875-43fa-ab33-8f3a0fe9b35a.png"
+        },
         {
             "title": "“五一”假期各地迎来出游热潮 文旅市场活力足",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250502/48284775.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250502/e0c15d1d-2916-4672-9e50-c9860e22d270.jpg"
         },
         {
-            "title": "1.0&quot;祸首&quot;刚离场群聊门2.0调查又曝美军方重大漏洞",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250502/48284180.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/640x0/news/20250502/2baf5294-7641-4fd6-94b7-6db241445c90.jpg"
+            "title": "美不追求同朝核战核武对准美本土的事情就不会发生",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250503/48285748.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250503/4763362a-464e-467d-a865-2316bed681e0.png"
         },
         {
             "title": "关税政策冲击美国港口 中国制造难以取代",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250503/48285736.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250503/9c608276-5094-42a7-8d70-8d9a1edbcdeb.jpg"
-        },
-        {
-            "title": "美国中央情报局计划裁员1200人",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250503/48285727.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250503/e7f68672-136c-4835-8e8d-6b124fe7eddb.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "候车大厅新增充电座椅！网友：车站是懂怎么宠我的",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250501/48282070.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美方主动与中方接触，希望就关税问题进行谈判",
@@ -231,12 +237,6 @@
             {
                 "title": "分歧难消：俄短期停火促谈 乌坚持30天停火",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250430/48278767.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美快递巨头宣布裁员 多家公司下调预期",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250430/48278742.html?ayjr"
             }
         ]
     ]
