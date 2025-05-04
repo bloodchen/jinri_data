@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "“高空起舞” 主播体验桥梁工硬核日常",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250504/48288163.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250504/d1b48255-3c80-43df-b184-592a083fd74e.jpg"
+        },
+        {
             "title": "日本政府强烈反对美关税政策并要求其取消",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250504/48288033.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250504/d9e51ebe-cdf8-46a5-919a-93e4ba24c29c.png"
@@ -9,14 +14,14 @@
             "title": "&quot;五一&quot;假期高速服务区新能源汽车充电量创历史新高",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250504/48288017.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250504/f0c36eaa-9d1d-4d14-8e89-30e3ed9fba30.jpg"
-        },
-        {
-            "title": "加沙居民凌晨被以军空袭炸醒 邻居家仅两孩子幸存",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250504/48287900.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250504/8ee1887d-5389-43fd-ad04-83855dc0b19e.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "七年前被美国打压的中国汽车如今怎样？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250504/48287759.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250504/51000b3f-3ecf-41e7-be11-acf0165bb1b6.png"
+        },
         {
             "title": "巴菲特宣布将于年底退休 “接班人”什么来头？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250504/48287683.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250503/acf679a3-fe21-4407-a978-b5278c99de77.jpg"
         },
         {
-            "title": "大连港迎今年首艘国际邮轮靠泊",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250503/48287090.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250503/7cd8201c-b3de-4fd0-af54-146ead3ea8ad.jpg"
+            "title": "加沙居民凌晨被以军空袭炸醒 邻居家仅两孩子幸存",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250504/48287900.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250504/8ee1887d-5389-43fd-ad04-83855dc0b19e.jpg"
         },
         {
             "title": "价格暴涨！美消费者为取消小额包裹免税政策买单",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250504/48287871.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250504/d333cb52-7673-43b6-8dc2-87f06c2b7f03.png"
-        },
-        {
-            "title": "苏丹外交部：苏丹西部一城市约300名平民遭杀害",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250504/48287825.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250504/84d09727-e46b-4201-9cb8-458078b5d531.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "首次演示聚变能发电 BEST工程总装正式启动",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250502/48284250.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "1.0&quot;祸首&quot;刚离场群聊门2.0调查又曝美军方重大漏洞",
@@ -231,12 +237,6 @@
             {
                 "title": "创六项世界纪录 扬子洲赣江公铁大桥钢梁吊装完成",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250501/48282114.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "候车大厅新增充电座椅！网友：车站是懂怎么宠我的",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250501/48282070.html?ayjr"
             }
         ]
     ]
