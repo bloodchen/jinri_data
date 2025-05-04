@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "七年前被美国打压的中国汽车如今怎样？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250504/48287759.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250504/51000b3f-3ecf-41e7-be11-acf0165bb1b6.png"
+        },
+        {
             "title": "巴菲特宣布将于年底退休 “接班人”什么来头？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250504/48287683.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/636x0/news/20250504/d04875c9-e08c-4997-ab1a-071aafa4cec4.jpg"
@@ -9,14 +14,14 @@
             "title": "巴菲特首次批评贸易战 &quot;投资界春晚&quot;有哪些看点",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250504/48287671.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/636x0/news/20250504/9be1c0f5-89d8-4397-a9ac-86fc62cffc3b.jpg"
-        },
-        {
-            "title": "巴菲特：美国不应将贸易当作武器 激怒全世界",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250504/48287631.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/636x0/news/20250504/756b371d-c397-406e-a656-e8f789aac4ca.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "特朗普出访沙特前 美国务院批准35亿美元导弹军售",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250503/48287049.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/600x0/news/20250503/c3232546-0f7b-4e7d-ac6c-fda16b43e05d.jpg"
+        },
         {
             "title": "德化工巨头警告美关税政策对全球市场情绪造成冲击",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250503/48287038.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250503/9c977d12-50ff-4d3a-a7f1-b45d718cf6a7.jpg"
         },
         {
-            "title": "“对等关税”政策刚满月 美国人从头到脚受打击",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250503/48286778.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250503/e693dda1-31b1-49f0-8857-8532f3cdfef0.jpg"
+            "title": "巴菲特：美国不应将贸易当作武器 激怒全世界",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250504/48287631.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/636x0/news/20250504/756b371d-c397-406e-a656-e8f789aac4ca.jpg"
         },
         {
             "title": "美国中央情报局发布中文视频招募间谍遭嘲讽",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250504/48287622.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250504/5e540c5a-227e-431b-8ac2-75e403f2bc60.png"
-        },
-        {
-            "title": "“超能力”搭档来啦！可代替人类冲在危险最前线",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250503/48287126.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250503/acf679a3-fe21-4407-a978-b5278c99de77.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美滥施关税致自身经济“四面楚歌”",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250502/48283869.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "商务部新闻发言人就中美经贸对话磋商情况答记者问",
@@ -231,12 +237,6 @@
             {
                 "title": "国家卫健委对近日肖某引发舆情问题开展调查",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250501/48281621.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "白宫&quot;关税经济学&quot;重创美国内经济 特朗普：怪拜登",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250501/48281582.html?ayjr"
             }
         ]
     ]
