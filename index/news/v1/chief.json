@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "加沙地带多地发生团伙劫掠物资事件",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250504/48288693.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250504/b720bf1a-6f21-4821-af64-4c9c577fafc9.png"
+        },
+        {
             "title": "又一艘！“新青年”报到了！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250504/48288675.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250504/e8ed9277-7283-404c-bdcd-63a068b2a55c.gif"
@@ -9,14 +14,14 @@
             "title": "投票通过 马斯克的星舰基地成了一座&quot;真正的&quot;城镇",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250504/48288196.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250504/33c32c8c-6f9b-471c-88d0-28a5574a0354.jpg"
-        },
-        {
-            "title": "巴基斯坦宣布禁止印度船只入港",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250504/48288180.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250504/562bc9a3-9471-4eb1-8a9a-9a68626cddbb.png"
         }
     ],
     "midImg": [
+        {
+            "title": "加沙居民凌晨被以军空袭炸醒 邻居家仅两孩子幸存",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250504/48287900.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250504/8ee1887d-5389-43fd-ad04-83855dc0b19e.jpg"
+        },
         {
             "title": "价格暴涨！美消费者为取消小额包裹免税政策买单",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250504/48287871.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/636x0/news/20250504/d04875c9-e08c-4997-ab1a-071aafa4cec4.jpg"
         },
         {
-            "title": "巴菲特首次批评贸易战 &quot;投资界春晚&quot;有哪些看点",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250504/48287671.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/636x0/news/20250504/9be1c0f5-89d8-4397-a9ac-86fc62cffc3b.jpg"
+            "title": "巴基斯坦宣布禁止印度船只入港",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250504/48288180.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250504/562bc9a3-9471-4eb1-8a9a-9a68626cddbb.png"
         },
         {
             "title": "“高空起舞” 主播体验桥梁工硬核日常",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250504/48288163.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250504/d1b48255-3c80-43df-b184-592a083fd74e.jpg"
-        },
-        {
-            "title": "日本政府强烈反对美关税政策并要求其取消",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250504/48288033.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250504/d9e51ebe-cdf8-46a5-919a-93e4ba24c29c.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "“五一”假期各地迎来出游热潮 文旅市场活力足",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250502/48284775.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "伊美第四轮间接谈判推迟  伊朗先与英法德三国会面",
@@ -231,12 +237,6 @@
             {
                 "title": "苹果手机为何无法在美制造？全球供应链难迁移",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250501/48282293.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美欧裂痕加深 冯德莱恩呼吁欧洲加强防务自主",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250501/48282260.html?ayjr"
             }
         ]
     ]
