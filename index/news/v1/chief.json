@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "中国青年打造巴基斯坦版“三峡工程”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250505/48289748.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250505/07e2c09c-5bb7-440f-a106-50a7030034d3.jpg"
+        },
+        {
             "title": "中国技术人员在德国造机车 让百年德企焕发生机",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250505/48289720.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250505/6453f5a5-7e7f-4484-bab2-e43a16dfedd4.jpg"
@@ -9,14 +14,14 @@
             "title": "露天看戏、河边听曲 复古放映很带感",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250505/48289672.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250505/6c08d180-6a6d-42a7-b881-1b2ea38f6483.jpg"
-        },
-        {
-            "title": "伊朗公布新型弹道导弹 “萨德”系统无法拦截",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250505/48289628.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250505/0ab8f7d5-483d-4ef5-ae54-5a519dbf3a16.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美关税“大棒”打击欧盟钢铝业的同时反噬自身",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250504/48288766.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250504/a00bba76-5cad-476a-b750-481d7906a63a.jpg"
+        },
         {
             "title": "新渝万高铁汝溪河双线特大桥合龙",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250504/48288736.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250504/33c32c8c-6f9b-471c-88d0-28a5574a0354.jpg"
         },
         {
-            "title": "巴基斯坦宣布禁止印度船只入港",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250504/48288180.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250504/562bc9a3-9471-4eb1-8a9a-9a68626cddbb.png"
+            "title": "伊朗公布新型弹道导弹 “萨德”系统无法拦截",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250505/48289628.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250505/0ab8f7d5-483d-4ef5-ae54-5a519dbf3a16.jpg"
         },
         {
             "title": "外交部就日本飞机侵闯我钓鱼岛领空向日方提出交涉",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250504/48288930.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250504/37469963-2e87-4e3a-8bd0-3caff964cd86.png"
-        },
-        {
-            "title": "刷手机突然不香了！坐这趟列车可以“刷车窗”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250504/48288894.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250504/f04f99ee-0591-41c1-ac7b-a15d68335aa1.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "“涉及中国公民伤亡”，我总领馆紧急提醒！",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250503/48286237.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "2025年五一档电影票房破4亿",
@@ -231,12 +237,6 @@
             {
                 "title": "&quot;美国小孩只能有2个玩具了&quot;，特朗普承认货架变空",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250502/48283460.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "伊拉克禁止一切伊朗反对派团体在其境内活动",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250502/48283447.html?ayjr"
             }
         ]
     ]
