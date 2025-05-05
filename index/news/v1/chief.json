@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "特朗普：征收100%关税，立即启动",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250505/48290242.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250505/ed71b968-3611-4f31-bce5-e002289d85e4.jpg"
+        },
+        {
             "title": "中国驻美大使最新发声",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250505/48289875.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250505/a86e19ad-7ad5-4b25-ad33-6b62dcb5fbb5.jpg"
@@ -9,14 +14,14 @@
             "title": "是否考虑动用武力吞并加拿大？特朗普回应",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250505/48289842.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250505/763112a6-0300-46e7-b45f-fc2c9da75351.png"
-        },
-        {
-            "title": "以安全内阁召开会议 讨论加沙军事扩展计划",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250505/48289806.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250505/567ffc4c-5f05-4b7c-b5cd-4e2dcab7f99d.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "露天看戏、河边听曲 复古放映很带感",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250505/48289672.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250505/6c08d180-6a6d-42a7-b881-1b2ea38f6483.jpg"
+        },
         {
             "title": "伊朗公布新型弹道导弹 “萨德”系统无法拦截",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250505/48289628.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250504/a00bba76-5cad-476a-b750-481d7906a63a.jpg"
         },
         {
-            "title": "新渝万高铁汝溪河双线特大桥合龙",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250504/48288736.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250504/0912a3dc-4bb8-487d-ad6d-c90ad444d62f.jpg"
+            "title": "以安全内阁召开会议 讨论加沙军事扩展计划",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250505/48289806.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250505/567ffc4c-5f05-4b7c-b5cd-4e2dcab7f99d.jpg"
         },
         {
             "title": "在关税问题上，美日为何又“谈崩了”？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250505/48289777.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250505/a2d89254-5201-4fe0-956a-7eab3b7ae3ba.jpg"
-        },
-        {
-            "title": "中国青年打造巴基斯坦版“三峡工程”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250505/48289748.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250505/07e2c09c-5bb7-440f-a106-50a7030034d3.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "多国零售商停止向美发货 美国人跨境网购价格贵了",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250503/48286456.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "南京大屠杀幸存者刘贵祥去世，享年95岁",
@@ -231,12 +237,6 @@
             {
                 "title": "140天历经3位代总统 韩国政局动荡持续",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250502/48283645.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美国防部监察机构扩大“群聊门”事件调查范围",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250502/48283631.html?ayjr"
             }
         ]
     ]
