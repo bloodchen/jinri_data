@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "朝鲜进行远程炮及导弹系统联合打击训练",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250509/48308804.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250509/da0ea0b3-8dec-481e-9479-8a1fde8a1a56.jpg"
+        },
+        {
             "title": "玉渊谭天丨一艘航母看中国稀土出口管制为何有效",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250509/48308485.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250509/39fda2e1-3c5c-4800-a66e-76870ebb0d82.png"
@@ -9,14 +14,14 @@
             "title": "加沙多地遭袭 巴武装人员与以军激烈战斗",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250509/48308165.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250509/d60f279e-dab3-42cd-a8b8-41cad90b47ef.jpg"
-        },
-        {
-            "title": "巴官员：若印度发动全面战争 我们现在已有应对的实力",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250509/48308066.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/550x0/toutiao/20250508/281c26e5-a52b-4d2d-9ae2-c5e2d11c2739.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "成本大涨 美关税伤害美国自行车企业",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250509/48307542.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250509/cc846a15-9cc7-492a-9792-15bbb73263c0.jpg"
+        },
         {
             "title": "泽连斯基称与特朗普通话讨论停火事宜",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250509/48307520.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/563x0/news/20250508/5e0c79d2-0441-4a44-93a3-dab01e924380.png"
         },
         {
-            "title": "国防部：正告菲方停止以任何方式冲撞中方核心利益",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250508/48306556.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/563x0/news/20250508/4cb51425-9dd0-4900-8025-eafc004fc722.png"
+            "title": "巴官员：若印度发动全面战争 我们现在已有应对的实力",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250509/48308066.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/550x0/toutiao/20250508/281c26e5-a52b-4d2d-9ae2-c5e2d11c2739.jpg"
         },
         {
             "title": "伊朗革命卫队海军揭幕一处地下无人机基地",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250509/48307925.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250509/9c540017-1380-4a20-91de-bdfdf8b3842e.png"
-        },
-        {
-            "title": "人才需求达百万级！人工智能如何催生职业新赛道",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250509/48307621.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250509/fbec8695-e5b7-4c4e-99f2-fe8b9a4ab491.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "中国德国商会：德中共同支持多边贸易 冀深化双边合作",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250508/48302484.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "前方后方·远隔万里的共同纪念",
@@ -231,12 +237,6 @@
             {
                 "title": "央行宣布降准、降息、下调个人住房公积金贷款利率",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250507/48298467.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "面对关税挑战的中国外贸人底气从何而来？",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250507/48298382.html?ayjr"
             }
         ]
     ]
