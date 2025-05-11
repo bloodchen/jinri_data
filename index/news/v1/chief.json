@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "巴勒斯坦水务局：加沙供水和卫生服务几乎完全崩溃",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250511/48314870.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250511/a469b1b5-0f5b-4fd9-bd1d-4f7812b2d08f.jpg"
+        },
+        {
             "title": "假消息！印度军方否认S-400防空系统被摧毁",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250510/48314243.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250510/703d07b3-2e5f-4f92-8eff-da816cf61aa6.png"
@@ -9,14 +14,14 @@
             "title": "重庆大学通报&quot;本科生发14篇SCI论文&quot;:存在学术不端",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250510/48314042.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20250510/be8615be-a22b-40fb-805c-31c85f47f6b2.png"
-        },
-        {
-            "title": "俄总统新闻秘书：乌克兰一直在回避谈判",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250510/48314031.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/600x0/news/20250510/ca52f5e9-a2b9-412e-8d2e-eedbc26a2300.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "印称一名高级官员在巴基斯坦发动的袭击中死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250510/48313528.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250510/f87900e9-c536-4dc7-bf34-703f430b1b01.png"
+        },
         {
             "title": "云南永金高速戛洒至元江段正式通车运营",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250510/48313477.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20250510/d73d80fa-8b1e-43fa-9aab-1f8c27561d95.png"
         },
         {
-            "title": "别让这些“小事”成威胁国家安全的“突破口”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250510/48313003.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/300x0/news/20250510/18207aa6-07ef-45df-ab3f-36e802376a15.png"
+            "title": "俄总统新闻秘书：乌克兰一直在回避谈判",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250510/48314031.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/600x0/news/20250510/ca52f5e9-a2b9-412e-8d2e-eedbc26a2300.jpg"
         },
         {
             "title": "欧洲多国领导人抵达乌克兰基辅进行访问",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250510/48313971.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250510/96933638-e81e-44dd-bde3-dcad9ff73833.jpg"
-        },
-        {
-            "title": "印巴局势升级，中方强烈呼吁！",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250510/48313954.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250510/cc0b9391-5523-45d0-986e-fb8a38514974.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "朝鲜进行远程炮及导弹系统联合打击训练",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250509/48308804.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "玉渊谭天丨一艘航母看中国稀土出口管制为何有效",
@@ -231,12 +237,6 @@
             {
                 "title": "波音公司计划于2027年交付新版“空军一号”飞机",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250508/48304314.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "事关5700多万家民营企业 重磅发布会“剧透”来了",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250508/48303922.html?ayjr"
             }
         ]
     ]
