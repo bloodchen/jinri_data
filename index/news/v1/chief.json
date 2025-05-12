@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "1至4月我国汽车产销量首次双超千万辆",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250512/48321423.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250512/0fcc0d8e-b4a5-4167-9c03-6e079a0c2269.jpg"
+        },
+        {
             "title": "巴基斯坦军方公布“铜墙铁壁”行动细节",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250512/48320302.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250512/dadee4c1-483a-4565-b73c-0ba38334efbf.jpg"
@@ -9,14 +14,14 @@
             "title": "汶川地震，17年了",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250512/48318705.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250512/aaf275ee-e77c-498b-b2b1-cfb579713125.jpg"
-        },
-        {
-            "title": "中美双方一致同意建立经贸磋商机制",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250512/48318633.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250512/29be5fad-ab8b-466c-b17f-9510a0b5ced1.png"
         }
     ],
     "midImg": [
+        {
+            "title": "56 岁的我选择为自己而活：在海南的三个月，治愈了半生的疲惫",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250512/48318146.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250509/e5a16afb-4f30-47a6-b38e-e70394a78c7f.jpg"
+        },
         {
             "title": "巴基斯坦总理最新表态，印巴高强度对抗持续：巴方称与约 80 架印度战机交战！印度一地传出爆炸声",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250512/48318147.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250509/6108c1d4-7dc3-4f04-b66e-8c6922090be2.jpg"
         },
         {
-            "title": "执政刚过百天，特朗普为何突然“立太子”？",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250512/48318152.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250509/f5da9481-2883-4ddb-8bb5-7e2593d4f4c0.jpg"
+            "title": "中美双方一致同意建立经贸磋商机制",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250512/48318633.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250512/29be5fad-ab8b-466c-b17f-9510a0b5ced1.png"
         },
         {
             "title": "泽连斯基：乌克兰已做好与俄罗斯举行会谈的准备",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250512/48318574.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250512/6908b349-883d-4750-88ca-361e6f834c75.jpg"
-        },
-        {
-            "title": "结果“困难但有益” 伊美双方同意继续推进谈判",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250512/48318254.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250512/522a515f-95cc-478c-9a5e-6b2e9d693586.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "“二代”们到底在跟谁抢岗位？",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250512/48318142.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "价值两万多的金链误扔垃圾堆，广州一物业翻数吨垃圾帮她找回",
@@ -231,12 +237,6 @@
             {
                 "title": "巴防空系统击落印度无人机 印称巴方违反停火协议",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250511/48314896.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "宣布停火后 印控克什米尔地区再次传出爆炸声",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250511/48314887.html?ayjr"
             }
         ]
     ]
