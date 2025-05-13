@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "特朗普开启中东三国访问，以色列不在列",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250513/48323286.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250513/71fba578-34f6-4ddd-94ee-a8be62d26793.png"
+        },
+        {
             "title": "英国首相斯塔默一处房产发生火灾",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250513/48323242.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250513/e3a269eb-92c9-4fed-b465-2379bf4d7240.jpg"
@@ -9,14 +14,14 @@
             "title": "哈马斯称已准备好立即开始停火谈判",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250513/48323230.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250513/a8f30eb4-0c2e-4af4-b343-b699a1871e5b.jpg"
-        },
-        {
-            "title": "1至4月我国汽车产销量首次双超千万辆",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250512/48321423.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250512/0fcc0d8e-b4a5-4167-9c03-6e079a0c2269.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "泽连斯基：乌克兰已做好与俄罗斯举行会谈的准备",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250512/48318574.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250512/6908b349-883d-4750-88ca-361e6f834c75.jpg"
+        },
         {
             "title": "结果“困难但有益” 伊美双方同意继续推进谈判",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250512/48318254.html?ayjr",
@@ -43,22 +48,29 @@
             "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250509/eacaef06-4fe8-42c2-835d-854b9981fbac.jpg"
         },
         {
-            "title": "大搞家庭式腐败！“女老虎”赵金云被决定逮捕，夫妻双双落马",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250512/48318149.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250509/4895daae-d2b2-4309-9ebc-c544239825cf.jpg"
+            "title": "1至4月我国汽车产销量首次双超千万辆",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250512/48321423.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250512/0fcc0d8e-b4a5-4167-9c03-6e079a0c2269.jpg"
         },
         {
             "title": "巴基斯坦军方公布“铜墙铁壁”行动细节",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250512/48320302.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250512/dadee4c1-483a-4565-b73c-0ba38334efbf.jpg"
-        },
-        {
-            "title": "汶川地震，17年了",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250512/48318705.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250512/aaf275ee-e77c-498b-b2b1-cfb579713125.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "日本冲绳县议会要求彻底修改日美地位协定",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250512/48318137.html?ayjr"
+            }
+        ],
+        [
+            {
+                "title": "离岸人民币对美元盘中跌近 400 点，后市怎么走？专家解读",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250512/48318138.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "杭州女子上门做饭月入近 2 万，90% 为女性客户，本人回应“每天跑 6 单”质疑",
@@ -225,18 +237,6 @@
             {
                 "title": "印度称巴基斯坦违反停火协议 巴方否认",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250511/48314958.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "让安全不再“隐形” 隐藏式车门把手将有国家标准",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250511/48314943.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "苏丹一州首府遭无人机袭击 20名囚犯死亡",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250511/48314925.html?ayjr"
             }
         ]
     ]
