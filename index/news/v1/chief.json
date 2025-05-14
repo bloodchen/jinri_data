@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "又一巨头宣布，裁员！约6000人要失业",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250514/48330205.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250514/74d0f6c0-4eda-484f-a112-63453596b998.jpg"
+        },
+        {
             "title": "这轮中美关税会谈让台湾社会看清了什么？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250514/48330112.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250514/d92f8e51-bbb8-4254-9d50-edb23d018860.jpg"
@@ -9,14 +14,14 @@
             "title": "“五大工程”赋能中拉命运共同体走深走实",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250514/48330043.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250514/cc7c4c1d-9d8d-4453-ac0d-6268545eee63.png"
-        },
-        {
-            "title": "从3亿到18亿美元 持续增加投资的信心从何而来？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250514/48329681.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250514/30c2a386-44c5-4490-af06-e4b6d1c8f823.png"
         }
     ],
     "midImg": [
+        {
+            "title": "广州一饮品店取名“警茶”引质疑，市监局：取名没问题，但图像会产生误解，将去现场核查",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250514/48329418.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250513/2a90d750-9fd1-4cdd-9f80-5876e3241617.jpg"
+        },
         {
             "title": "关税大降，然后呢？",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250514/48329419.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/toutiao/20250513/ee7bf303-afc8-4c4f-8e35-b83b184816f7.jpg"
         },
         {
-            "title": "小伙为救同学职教高考缺考 网友：你的试卷已经是满分",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250514/48329398.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250513/11a815e2-65e2-4f1d-9f44-583472a60352.jpg"
+            "title": "从3亿到18亿美元 持续增加投资的信心从何而来？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250514/48329681.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250514/30c2a386-44c5-4490-af06-e4b6d1c8f823.png"
         },
         {
             "title": "金正恩观摩朝鲜人民军各兵种战术综合训练",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250514/48329648.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250514/b354d995-c165-45df-ae6d-d7c549219835.jpg"
-        },
-        {
-            "title": "胡塞武装称使用导弹袭击以色列机场并准确命中目标",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250514/48329534.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250514/f261dc21-d0ca-48ca-b562-8c6f8d64eebe.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "为什么我不赞同文旅局长把巨婴游客接家里",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250513/48324102.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美国一波音 777 客机起飞时起火，原因查明：副机长起飞时左右不分",
@@ -231,12 +237,6 @@
             {
                 "title": "这次与美国“再接触”，对手不简单",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250512/48318153.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "巴掌大相片花 329 元还说“值”，“撕拉片”为何成为年轻人新宠？",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250512/48318154.html?ayjr"
             }
         ]
     ]
