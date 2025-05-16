@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "端午假期火车票今起开售 购票技巧请查收",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250516/48341589.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20250516/886c8c1c-9a89-4d71-932d-7923b3f58d57.png"
+        },
+        {
             "title": "美国务卿：北约成员国将同意国防支出占GDP5%目标",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250516/48341566.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250516/7487782c-f934-49a7-9e7e-83a8fad3504b.jpg"
@@ -9,14 +14,14 @@
             "title": "全程4公里！终点站竟是“1950”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250516/48341441.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250516/6d7880a3-8590-4c01-8da5-fd1dc405f3c6.jpg"
-        },
-        {
-            "title": "尼日利亚拉沙热疫情致138人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250516/48341379.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250516/20553f7d-72d4-4b1b-969e-0614b1e7215f.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "俄乌谈判“卡壳” 一方等不到人 一方说不清时间",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250516/48340230.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250516/56f87fb1-2327-4030-a7b9-a658ab3a9b13.jpg"
+        },
         {
             "title": "SpaceX许可证获修改 可进行发射次数增加",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250516/48340114.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250515/c9faceb1-ef6e-43ab-ae52-247201b38975.jpg"
         },
         {
-            "title": "涉医疗保险欺诈 美司法部对联合健康集团展开刑事调查",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250516/48340015.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250515/53a6ec59-7625-4492-b071-c3b4942e41c5.jpg"
+            "title": "尼日利亚拉沙热疫情致138人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250516/48341379.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250516/20553f7d-72d4-4b1b-969e-0614b1e7215f.jpg"
         },
         {
             "title": "自强！助残！全国200个集体260名个人受到表彰",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250516/48341304.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250516/c4e00c9d-9935-40ea-97ac-dc1b6b12ba8d.png"
-        },
-        {
-            "title": "伊拉克外长：巴勒斯坦问题仍将是阿盟峰会核心议题",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250516/48340317.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250516/1a3d3906-a236-4ecb-a5da-feee9e6c5cc7.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "卢拉谈美国降低对华关税：中国的行动捍卫了主权",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250515/48335848.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "年内首次降准落地！释放长期流动性约1万亿元",
@@ -231,12 +237,6 @@
             {
                 "title": "金正恩观摩朝鲜人民军各兵种战术综合训练",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250515/48334445.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "厦航翔安新生产基地 钢铁穹顶提升就位",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250515/48334446.html?ayjr"
             }
         ]
     ]
