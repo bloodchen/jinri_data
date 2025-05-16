@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "乌克兰总统泽连斯基抵达阿尔巴尼亚",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250516/48343077.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/630x0/news/20250516/bbbbf0b4-3829-4ce7-901f-46a4517ac8a2.jpg"
+        },
+        {
             "title": "德国：目前没有向乌克兰提供“金牛座”导弹的计划",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250516/48342628.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250516/1108a07d-1c3a-42d7-9fde-2868213900ed.png"
@@ -9,14 +14,14 @@
             "title": "带你揭开这3所新调整组建军队院校的神秘面纱",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250516/48342442.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250516/efd3f2bf-a709-439a-931b-296f813200cf.png"
-        },
-        {
-            "title": "央行开展1065亿元7天期逆回购操作",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250516/48342413.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250516/2d02ec8e-7c22-4fbf-8711-e5b7ab82e0c3.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美国务卿：北约成员国将同意国防支出占GDP5%目标",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250516/48341566.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250516/7487782c-f934-49a7-9e7e-83a8fad3504b.jpg"
+        },
         {
             "title": "全程4公里！终点站竟是“1950”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250516/48341441.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250516/e617c8d3-96fe-4702-87ce-15bfdb6bc08d.png"
         },
         {
-            "title": "俄乌谈判“卡壳” 一方等不到人 一方说不清时间",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250516/48340230.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250516/56f87fb1-2327-4030-a7b9-a658ab3a9b13.jpg"
+            "title": "央行开展1065亿元7天期逆回购操作",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250516/48342413.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250516/2d02ec8e-7c22-4fbf-8711-e5b7ab82e0c3.jpg"
         },
         {
             "title": "设备老化 美国又一地发生空中交通管制通信中断",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250516/48342399.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/463x0/news/20250516/98061c1e-ac45-4044-9a1c-5424d4629993.png"
-        },
-        {
-            "title": "商务部：中方加入DEPA谈判取得积极进展",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250516/48342380.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250516/3d247264-325e-4346-a1df-15bdeb76665e.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "卡塔尔首相：巴以停火谈判不会很快取得进展",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250515/48337037.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "刷新多个世界纪录！贵州纳晴高速六枝特大桥合龙",
@@ -231,12 +237,6 @@
             {
                 "title": "“特朗普 2.0 ”首次国事访问 获沙特 6000 亿美元投资“大礼包”！",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250515/48334475.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "微软：全球裁员 6000 人",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250515/48334476.html?ayjr"
             }
         ]
     ]
