@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "将运力握在自己手中！看中国车企如何“造船远航”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250517/48344841.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250517/a6ecf294-f2d4-4e67-9001-05c21861e5d4.jpg"
+        },
+        {
             "title": "没招了！多名台湾艺人被台当局列为重点核查对象",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250517/48344784.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250517/9965fa63-8909-40f5-b719-2b75a958b0f6.jpg"
@@ -9,14 +14,14 @@
             "title": "法国向塞内加尔移交又一处军事基地",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250517/48344718.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250517/b1b1099a-fe8a-462d-93f7-09d7b8ce2cd1.jpg"
-        },
-        {
-            "title": "特朗普政府涉税改法案遭众议院预算委员会否决",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250517/48344700.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250517/d6efced1-1664-487c-bb7f-7b7ecc2089cf.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美国务卿鲁比奥抵达会场 将参加俄乌会谈",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250516/48343590.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/565x0/news/20250516/ad6be409-a6db-499d-a3e6-b765c02085e9.png"
+        },
         {
             "title": "乌克兰总统泽连斯基抵达阿尔巴尼亚",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250516/48343077.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/463x0/news/20250516/98061c1e-ac45-4044-9a1c-5424d4629993.png"
         },
         {
-            "title": "商务部：中方加入DEPA谈判取得积极进展",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250516/48342380.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250516/3d247264-325e-4346-a1df-15bdeb76665e.png"
+            "title": "特朗普政府涉税改法案遭众议院预算委员会否决",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250517/48344700.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250517/d6efced1-1664-487c-bb7f-7b7ecc2089cf.jpg"
         },
         {
             "title": "流失美国79载，国之瑰宝即将归来！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250517/48344609.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250517/b1516827-83c5-40b2-91be-78f5e93dd4e3.jpg"
-        },
-        {
-            "title": "土耳其、美国、乌克兰三边会议开始",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250516/48343643.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250516/d530ffd1-681f-4475-93a5-4aa16cf9ba6a.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "哈马斯官员:若实现永久停火 可交出加沙地带控制权",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250516/48339169.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "中国对巴西等5国试行免签政策",
@@ -231,12 +237,6 @@
             {
                 "title": "为了看一眼“他”，我特地来了一趟中运博",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250515/48334467.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "站着把关税谈下来了",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250515/48334468.html?ayjr"
             }
         ]
     ]
