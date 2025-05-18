@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "AG600“鲲龙”批生产首架机完成生产试飞",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250518/48347678.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250518/98258a75-8353-49dc-8c28-345dc4683946.jpg"
+        },
+        {
             "title": "发射后失联 印度地球观测卫星发射任务宣告失败",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250518/48347457.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250518/531ddeb8-c700-4fbf-8f61-6ee1d6c0f7c6.jpg"
@@ -9,14 +14,14 @@
             "title": "加州棕榈泉爆炸事件致1死5伤 FBI定性其为恐袭",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250518/48347400.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250518/77ab67cb-8b7b-4eea-8c5b-0100c3179fd4.jpg"
-        },
-        {
-            "title": "声援巴勒斯坦民众 欧洲多国民众集会游行",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250518/48347389.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250518/deea6889-cafd-4721-973c-2f5eb38d6684.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美国加州棕榈泉发生爆炸 至少1人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250518/48347142.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/557x0/news/20250518/e81b69d5-dba6-4835-910a-dc4e7f117f91.jpg"
+        },
         {
             "title": "美国务卿与以色列总理通话 讨论加沙局势",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250518/48347106.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250517/170bab3b-81da-46a1-9ace-44dbb0ce7fa5.png"
         },
         {
-            "title": "2025年世界乒乓球锦标赛在多哈开赛",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250517/48346048.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250517/dbbc33c9-758a-40c3-8565-c1726b46d817.jpg"
+            "title": "声援巴勒斯坦民众 欧洲多国民众集会游行",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250518/48347389.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250518/deea6889-cafd-4721-973c-2f5eb38d6684.jpg"
         },
         {
             "title": "在野党候选人来势汹汹 韩执政党能否“尹”退为进",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250518/48347317.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/600x0/news/20250518/a3f8363f-99d7-4069-8f49-bf92e6749c57.jpg"
-        },
-        {
-            "title": "哈马斯拒绝将抵抗武器移交给巴勒斯坦权力机构",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250518/48347306.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250518/1c10d0a3-a494-446b-97b2-9187e92e8fce.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "土耳其、美国、乌克兰三边会议开始",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250516/48343643.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "外交部：坚决反对美方对中国芯片产品恶意封锁打压",
@@ -231,12 +237,6 @@
             {
                 "title": "超燃！空军飞行训练大片来袭",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250516/48340023.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "印军凌晨突射6枚导弹，红旗9体系全部拦截，巴军放弃忍让开始反击",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250516/48340024.html?ayjr"
             }
         ]
     ]
