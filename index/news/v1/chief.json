@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "卡塔尔首相：加沙停火谈判尚未取得进展",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250521/48362347.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250521/184ad332-7750-4398-853e-d048fa3fd84b.jpg"
+        },
+        {
             "title": "墨西哥军方：军舰在撞桥时由纽约引航员指挥操作",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250521/48362304.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250521/a52c354b-90f8-4ae1-8522-954a6dd76c8e.jpg"
@@ -9,14 +14,14 @@
             "title": "离境退税“即买即退”激活入境消费新活力",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250521/48362259.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250521/c2ad73b9-b2a1-4a31-ab91-81eff5cfe696.jpg"
-        },
-        {
-            "title": "巴副外长在安理会重申巴拿马运河中立立场",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250521/48362059.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/512x0/news/20250521/732f7e79-3816-41fc-b74c-deb3c54accaa.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美国企图全球禁用中国先进计算芯片 商务部发声",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250521/48361821.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250521/c95d4ccc-786c-4ff6-96bc-fe3ff2675158.png"
+        },
         {
             "title": "加拿大财长：乌克兰重建工作总耗资超5000亿美元",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250521/48361772.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250521/39a857aa-aee1-436e-b404-40c2b14cb513.jpg"
         },
         {
-            "title": "美防长下令审查拜登政府时期的阿富汗撤军行动",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250521/48361504.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/645x0/news/20250521/c7644270-2136-448e-9924-988f09a150aa.jpg"
+            "title": "巴副外长在安理会重申巴拿马运河中立立场",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250521/48362059.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/512x0/news/20250521/732f7e79-3816-41fc-b74c-deb3c54accaa.jpg"
         },
         {
             "title": "美国洛杉矶港5月初入境货运量大幅下降",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250521/48362031.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250521/2594e7f5-6a02-407c-8cc7-688d083bf1ca.png"
-        },
-        {
-            "title": "&quot;家里米多到能卖&quot;言论遭批 日本农林水产大臣辞职",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250521/48361978.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250521/82b863da-18c7-4690-a0c0-c9b648314796.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "吃 119 根串串买单变成 222 根？店家称阿姨按错了，律师：如证明故意多数可三倍索赔",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250521/48361011.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "小米公布一起有组织、有预谋的黑公关案件",
@@ -231,12 +237,6 @@
             {
                 "title": "过天桥要爬“百步梯”，广州街坊吐槽“真攞命”",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250519/48350303.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "小米 SU7 被曝大灯外框和翼子板翘边，消保委汽车专家：从业 12 年没碰到过",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250519/48350304.html?ayjr"
             }
         ]
     ]
