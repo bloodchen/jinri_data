@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "2025年全国计划招聘特岗教师2.1万名",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250523/48375018.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20250523/0d339a27-14a5-4774-84cb-b253bdf065c9.png"
+        },
+        {
             "title": "外交部回应日方抓扣台湾渔船：已提出严正交涉",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250523/48374996.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250523/ce846114-5a9a-4adb-88fd-bbd31dface91.png"
@@ -9,14 +14,14 @@
             "title": "国家医保局：推动100余项新治疗项目加快进入临床",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250523/48374836.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20250523/a7075359-005e-4a62-995e-51b2cb2f9422.png"
-        },
-        {
-            "title": "美国宣布对苏丹实施制裁 苏丹政府强烈谴责",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250523/48374794.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250523/d7615a9b-d927-4f46-beae-b9c6b9cdf3b1.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "独家披露：摩根大通董事长透露美方不想脱钩",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250523/48373388.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250523/3d5e7976-3c84-4aa1-966e-b060923aa97c.png"
+        },
         {
             "title": "胡塞武装警告外国航班和船只远离以色列机场和港口",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250523/48373344.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250523/3da0ec90-271d-400f-a2f9-4eefd2a2ec0e.png"
         },
         {
-            "title": "债务危机加信用下降 美国迫近&quot;财政悬崖&quot; 专家分析",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250523/48372866.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250523/35102320-a331-4319-b3d6-3db5920e0f15.jpg"
+            "title": "美国宣布对苏丹实施制裁 苏丹政府强烈谴责",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250523/48374794.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250523/d7615a9b-d927-4f46-beae-b9c6b9cdf3b1.jpg"
         },
         {
             "title": "哈佛遭&quot;封杀&quot;震动教育界 在美留学生未来何去何从",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250523/48374756.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/640x0/news/20250523/85ec99ae-e5ee-448c-85aa-793a3cbe66ba.jpg"
-        },
-        {
-            "title": "广西龙胜山洪泥石流灾害已致1人遇难",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250523/48373820.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250523/0d40881a-c0a3-4c1c-8cc8-1f5665e0b7c2.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "泽连斯基：正在努力确保下一次乌俄会谈尽快举行",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250523/48371038.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "商务部再回应美国对人工智能芯片出口管制",
@@ -231,12 +237,6 @@
             {
                 "title": "美国正式接受卡塔尔为特朗普提供的波音747飞机",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250522/48365647.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美总统特朗普与南非总统会晤时发生争执",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250522/48365623.html?ayjr"
             }
         ]
     ]
