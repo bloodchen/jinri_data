@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "战斗力显著提升 我国海军主战装备迭代迅速",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250524/48377014.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250524/548dea46-e15e-4d0a-8076-5531d73bb55e.jpg"
+        },
+        {
             "title": "香港科技大学表示欢迎哈佛国际生转学",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250524/48376672.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/600x0/news/20250524/0eae4c07-c6d3-4084-bfb7-93c3c2ca146c.jpg"
@@ -9,14 +14,14 @@
             "title": "美国圣迭戈坠机事件中机上六人全部死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250524/48376655.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/600x0/news/20250524/a5faaff6-4c6d-4963-91ad-0e89f16f4278.jpg"
-        },
-        {
-            "title": "看我国航母“全家福” 三舰各有哪些特点？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250524/48376626.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250524/194ba966-e266-4e67-af0c-5c6f62db9e03.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "山东舰刷新我国航母事业多个“首次”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250524/48376376.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250524/fce48482-ad40-4643-89fd-b52b023a1d6a.jpg"
+        },
         {
             "title": "情节随机、贴近实战 直击山东舰最新演练现场",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250524/48376350.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/600x0/news/20250524/73a89486-4237-4dce-870d-441eb596687f.jpg"
         },
         {
-            "title": "受特朗普新关税威胁影响 美股23日收盘下跌",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250524/48376045.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250524/5c74e5ed-1fd7-47bd-803f-8452265f9fe1.jpg"
+            "title": "看我国航母“全家福” 三舰各有哪些特点？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250524/48376626.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250524/194ba966-e266-4e67-af0c-5c6f62db9e03.jpg"
         },
         {
             "title": "惊险！135米长货船偏离航道，冲进一挪威民宅前院",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250524/48376578.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250524/c961851f-7a38-43fa-99bb-c7924af48b78.png"
-        },
-        {
-            "title": "首批新型浮动费率基金获批 将带来哪些新投资体验",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250524/48376556.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250524/ad88a5a1-424e-4ab4-80a8-97a68508091e.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "时政微观察丨把中华文化瑰宝保护好、传承好、传播好",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250523/48372067.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "锦艺城海洋馆就“员工虐待海狮”致歉：与涉事人解除劳动合同，暂停营业进行闭馆整顿",
@@ -231,12 +237,6 @@
             {
                 "title": "针对网络“黑嘴”伤企乱象 中央网信办出手整治",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250522/48369077.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "教育部拟同意设置32所“新大学” 公示名单详情",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250522/48369058.html?ayjr"
             }
         ]
     ]
