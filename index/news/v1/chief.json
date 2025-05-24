@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "首批新型浮动费率基金获批 将带来哪些新投资体验",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250524/48376556.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250524/ad88a5a1-424e-4ab4-80a8-97a68508091e.jpg"
+        },
+        {
             "title": "福建舰入列后能发挥怎样的作战效能？专家解读",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250524/48376522.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/405x0/news/20250524/fe105d7b-564a-4c53-9073-ab0df5f49e3c.jpg"
@@ -9,14 +14,14 @@
             "title": "山东舰刷新我国航母事业多个“首次”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250524/48376376.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250524/fce48482-ad40-4643-89fd-b52b023a1d6a.jpg"
-        },
-        {
-            "title": "情节随机、贴近实战 直击山东舰最新演练现场",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250524/48376350.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250524/06867a25-f91a-4075-83eb-268d07948877.png"
         }
     ],
     "midImg": [
+        {
+            "title": "美财政部宣布立即解除对叙利亚的制裁",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250524/48376059.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/600x0/news/20250524/73a89486-4237-4dce-870d-441eb596687f.jpg"
+        },
         {
             "title": "受特朗普新关税威胁影响 美股23日收盘下跌",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250524/48376045.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250524/d9909337-ec44-4c20-9b0c-817f587df9e4.jpg"
         },
         {
-            "title": "俄外长：愿在换俘完成后提交和平条约备忘录草案",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250524/48375978.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250524/32ad6cee-a1b8-4a9d-84ff-3b28574c56c4.jpg"
+            "title": "情节随机、贴近实战 直击山东舰最新演练现场",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250524/48376350.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250524/06867a25-f91a-4075-83eb-268d07948877.png"
         },
         {
             "title": "法英加三国批评以色列扩大军事行动的做法",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250524/48376301.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250524/a8eeb942-eaef-4a4e-bfc4-f30722ff6074.jpg"
-        },
-        {
-            "title": "特朗普再挥关税大棒 欧盟、苹果、三星遭“突袭”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250524/48376117.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250524/4e1d9884-1db4-417c-92e4-25ed402f7d9a.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "菲律宾总统马科斯呼吁全体内阁部长辞职",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250523/48372072.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "AI 搜索长尾变现有望超传统搜索，不追求基础模型全方向领先",
@@ -231,12 +237,6 @@
             {
                 "title": "国内最大单体储罐LNG保税仓库获批设立",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250522/48368193.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "加沙北部两家仍维持运营的医院遭以军包围",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250522/48368167.html?ayjr"
             }
         ]
     ]
