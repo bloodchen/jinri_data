@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "巴基斯坦校车遇袭事件死亡人数升至8人",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250524/48377180.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250524/a2e58ba0-a83c-4db9-a131-2ba00847e5ab.jpg"
+        },
+        {
             "title": "德国外长：欧盟正在讨论对俄实施新一轮制裁",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250524/48377170.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250524/61e8e290-e26a-41b7-abe4-8d222f416792.png"
@@ -9,14 +14,14 @@
             "title": "贵州大方山体滑坡救援现场：重型装备已进入",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250524/48377159.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250524/6fe5acd0-5bf3-4c7c-a8c8-075d17719bff.jpg"
-        },
-        {
-            "title": "高考在即，名师、AI预测押题齐上阵……真的靠谱吗",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250524/48377084.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250524/cb44c101-ac2e-40da-88b5-68b22b216648.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "香港科技大学表示欢迎哈佛国际生转学",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250524/48376672.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/600x0/news/20250524/0eae4c07-c6d3-4084-bfb7-93c3c2ca146c.jpg"
+        },
         {
             "title": "美国圣迭戈坠机事件中机上六人全部死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250524/48376655.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/405x0/news/20250524/fe105d7b-564a-4c53-9073-ab0df5f49e3c.jpg"
         },
         {
-            "title": "山东舰刷新我国航母事业多个“首次”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250524/48376376.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250524/fce48482-ad40-4643-89fd-b52b023a1d6a.jpg"
+            "title": "高考在即，名师、AI预测押题齐上阵……真的靠谱吗",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250524/48377084.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250524/cb44c101-ac2e-40da-88b5-68b22b216648.jpg"
         },
         {
             "title": "美政府大规模裁撤国家安全委员会工作人员",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250524/48377071.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250524/a225cf40-9328-475e-ac42-c9fb9b3bb79c.jpg"
-        },
-        {
-            "title": "特朗普“补刀”：哈佛很多学生连2+2都不会做",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250524/48377040.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250524/a79f4369-2733-4bf3-ad5f-64a936d8c34c.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "非法收受巨额财物！重庆一足疗养生馆负责人被查",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250523/48372061.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "举办“世界魅力夫人大赛”相关活动？四川省妇女儿童中心回应",
@@ -231,12 +237,6 @@
             {
                 "title": "外交部：坚定支持巴方打击恐怖主义 维护社会稳定",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250522/48369775.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美媒：美国对以色列失望 愿与哈马斯直接谈判",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250522/48369580.html?ayjr"
             }
         ]
     ]
