@@ -1,0 +1,14 @@
+rm -f  index/news/newtab/hot-words.json
+rm -f  index/news/recommends/chief.json
+rm -f  index/news/recommends/ent.json
+rm -f  index/news/recommends/military.json
+rm -f  index/news/recommends/social.json
+rm -f  index/news/v1/chief.json
+rm -f  index/news/v1/ent.json
+rm -f  index/news/v1/finance.json
+rm -f  index/news/v1/military.json
+rm -f  index/news/v1/social.json
+rm -f  news/chief.json
+rm -f  news/ent.json
+rm -f  news/finance.json
+rm -f  news/social.json
