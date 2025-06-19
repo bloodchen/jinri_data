@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "75年前的今天 人民空军第一支航空兵部队来了",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250619/48490167.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250619/3edd091c-fd99-4722-8bbb-58fd844124cc.png"
+        },
+        {
             "title": "伊朗逮捕以色列间谍 缴获武器并升级反网络战措施",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250619/48490038.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250619/eb3a86fc-38bf-4925-8ba2-cc363f6d3c57.jpg"
@@ -9,14 +14,14 @@
             "title": "哈梅内伊发声绝不投降 美称对伊攻击计划获批",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250619/48489968.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250619/87fe83d1-f11a-4316-b1e0-81cd5db06a0c.jpg"
-        },
-        {
-            "title": "普京：伊朗未向俄方请求军事援助",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250619/48489773.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250619/4ed9adc3-99bb-454d-82e6-09cab14628c4.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "俄总统普京：伊朗与以色列应停止冲突",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250619/48489657.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250619/ca334630-d303-46dc-b7e5-e5912ceb1cad.jpg"
+        },
         {
             "title": "以军称袭击伊朗西部核项目相关基地",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250619/48489608.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250618/c809b225-a4bb-49c0-b9dd-e2fa5db9b6a5.jpg"
         },
         {
-            "title": "南航飞行员实名举报遭停飞，公司回应技术能力不达标",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250619/48489423.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250618/fd14743f-529e-4b19-bc57-4bcb60d7c38d.jpg"
+            "title": "普京：伊朗未向俄方请求军事援助",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250619/48489773.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250619/4ed9adc3-99bb-454d-82e6-09cab14628c4.jpg"
         },
         {
             "title": "普京称愿与泽连斯基会面",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250619/48489744.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/600x0/news/20250619/c895576c-d8c2-457b-8769-c2b800007c59.jpg"
-        },
-        {
-            "title": "知情人士透露特朗普已批准对伊朗攻击计划",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250619/48489696.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/458x0/news/20250619/4572db6d-6c46-4aa0-98ed-5a2611046b4f.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "欧洲专家：美国拱火中东殃及世界",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250618/48484763.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "多部门运用追溯码查处倒卖“回流药”等问题",
@@ -231,12 +237,6 @@
             {
                 "title": "世界最大跨度斜拉桥常泰长江大桥迎通车前“体检”",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250617/48479556.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "伊朗称用“创新方法”扰乱以方多层防御系统",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250617/48479192.html?ayjr"
             }
         ]
     ]
