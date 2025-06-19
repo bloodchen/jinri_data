@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "海军潜艇部队71周年实战演练",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250619/48492053.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/523x0/news/20250619/46073a21-9c39-4994-a8f8-8d9e612c3d1c.jpg"
+        },
+        {
             "title": "首批新能源车电池逐步到达“8年质保期”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250619/48491601.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250619/dfa44832-429c-4590-9ca0-c6c7322e3da8.jpg"
@@ -9,14 +14,14 @@
             "title": "2025强基计划再升级！报考千万别错过这个环节",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250619/48491533.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250619/caeb5a6a-6594-4405-a981-1ae16a4fb9c4.jpg"
-        },
-        {
-            "title": "以军向伊朗两处核设施所在地指定区域发出撤离警告",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250619/48491060.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250619/23d95d0d-5ce8-40f9-ab90-6b460b865a24.png"
         }
     ],
     "midImg": [
+        {
+            "title": "伊朗逮捕以色列间谍 缴获武器并升级反网络战措施",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250619/48490038.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250619/eb3a86fc-38bf-4925-8ba2-cc363f6d3c57.jpg"
+        },
         {
             "title": "哈梅内伊发声绝不投降 美称对伊攻击计划获批",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250619/48489968.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/640x0/news/20250619/e0bf80e5-ebbf-4e93-a283-d53b77efd6ee.png"
         },
         {
-            "title": "俄总统普京：伊朗与以色列应停止冲突",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250619/48489657.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250619/ca334630-d303-46dc-b7e5-e5912ceb1cad.jpg"
+            "title": "以军向伊朗两处核设施所在地指定区域发出撤离警告",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250619/48491060.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250619/23d95d0d-5ce8-40f9-ab90-6b460b865a24.png"
         },
         {
             "title": "美高级官员透露美对伊袭击时间表",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250619/48490679.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250619/7b855c17-5b96-49d1-bba7-d36f91188380.jpg"
-        },
-        {
-            "title": "航行警告！黄海北部部分海域实弹射击训练禁止驶入",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250619/48490212.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250619/d0282437-a214-4415-bc33-7a4f4a4c089c.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "看对空、对地、对海多课目异型机协同训练",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250618/48485714.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "受贿数额特别巨大 杜玉波被提起公诉",
@@ -231,12 +237,6 @@
             {
                 "title": "美国纽约市审计长在访问移民法庭时被捕",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250618/48483595.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "俄总统新闻秘书：俄乌下一轮直接谈判时间尚未确定",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250618/48483578.html?ayjr"
             }
         ]
     ]
