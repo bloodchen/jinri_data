@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "3167所！教育部发布最新全国高校名单",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250627/48527791.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250627/0c5a7a3f-8e72-44b1-81d2-1204fa3b1c92.jpg"
+        },
+        {
             "title": "以军&quot;重返&quot;加沙24小时致百人死伤 民众:谁在乎我们",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250627/48527709.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250627/ae235953-c67b-4da3-9c6e-00e9c4e6d977.jpg"
@@ -9,14 +14,14 @@
             "title": "以军轰炸加沙南部流离失所者帐篷 超50人死伤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250627/48527218.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250627/3f6e8274-6101-4a03-bed8-264d5977643f.png"
-        },
-        {
-            "title": "&quot;入学即入职、毕业就上岗&quot; 三所高校实现精准就业",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250627/48527039.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250627/8f24fe67-9d44-465d-82bc-a5aebefc1abc.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "整治“内卷式”竞争 5起网络不正当竞争案被点名",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250627/48526469.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250627/1b74dd8b-c832-4301-81e4-15fcef907aa4.png"
+        },
         {
             "title": "@北京高考生 志愿填报时间安排来了",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250627/48525865.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250627/2b5ea330-b731-401d-85fa-78390bdd317d.jpg"
         },
         {
-            "title": "埃塞俄比亚宣布银行业对外国银行开放",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250627/48525583.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/300x0/news/20250627/5a0aa717-8188-4aa5-86cb-c527f0b3c1dd.jpg"
+            "title": "&quot;入学即入职、毕业就上岗&quot; 三所高校实现精准就业",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250627/48527039.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250627/8f24fe67-9d44-465d-82bc-a5aebefc1abc.jpg"
         },
         {
             "title": "埃及总统：以伊停火后应立即实现加沙停火",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250627/48527016.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250627/1da7ec89-57f2-4add-a01f-ae452f01e66e.png"
-        },
-        {
-            "title": "空间站穿上&quot;铠甲&quot;！应对空间碎片威胁还有这些招数",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250627/48526991.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250627/1706b8b9-e40e-411b-ab6f-2cf0654871f2.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "特朗普公开施压 要求撤销对内塔尼亚胡的审判",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250626/48522596.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "水流冲垮国道路基 四川茂县213线交通管制",
@@ -231,12 +237,6 @@
             {
                 "title": "台湾将举行“大罢免”投票 国台办回应",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250625/48518460.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "国台办回应台北故宫与美博物馆而不与大陆故宫合作",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250625/48517590.html?ayjr"
             }
         ]
     ]
