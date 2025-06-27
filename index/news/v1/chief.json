@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "马克龙：法国不会接受不对等的欧美关税协议",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250627/48525713.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250627/67614f1d-3d6d-4161-9882-72cd7709ed4b.jpg"
+        },
+        {
             "title": "哈梅内伊称&quot;战胜&quot;美以 浓缩铀哪去了再出&quot;罗生门&quot;",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250627/48525611.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250627/2b5ea330-b731-401d-85fa-78390bdd317d.jpg"
@@ -9,14 +14,14 @@
             "title": "埃塞俄比亚宣布银行业对外国银行开放",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250627/48525583.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20250627/5a0aa717-8188-4aa5-86cb-c527f0b3c1dd.jpg"
-        },
-        {
-            "title": "阿塞拜疆电影厂烟火材料爆炸引发火灾 无人伤亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250627/48525555.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/564x0/news/20250627/035abf7c-bedc-47b9-bb97-52e670147203.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "游本昌自曝：年初差不多死了一次",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250627/48525320.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250626/b4deecad-3352-4d75-8920-bba9d564700d.jpg"
+        },
         {
             "title": "两名溺水男孩已遇难，家属：打闹时不慎落水",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250627/48525321.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250626/c69ec0e1-cb94-43b6-9170-a43f43da60ac.jpg"
         },
         {
-            "title": "两部门定目标：银行业保险业未来五年基本建成高质量综合普惠金融体系",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250627/48525326.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250626/92b3d5fd-4d6e-41bc-b470-f567c7e7612a.jpg"
+            "title": "阿塞拜疆电影厂烟火材料爆炸引发火灾 无人伤亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250627/48525555.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/564x0/news/20250627/035abf7c-bedc-47b9-bb97-52e670147203.jpg"
         },
         {
             "title": "伊朗外长：目前伊朗没有重启核谈判的计划",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250627/48525541.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250627/44734753-24e5-45bb-bc05-c772bf7b8734.png"
-        },
-        {
-            "title": "海南三沙举办“海空立体”应急救援综合演练",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250627/48525519.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250627/55adcbbc-5fee-4b0f-a5bb-57cbac43bdec.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "俄罗斯禁止航班凌晨时段飞往以色列机场",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250626/48520995.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "以方暂缓派遣人质谈判小组与哈马斯进行谈判",
@@ -231,12 +237,6 @@
             {
                 "title": "全国13个省份统筹区生育津贴直接发放至个人",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250625/48516497.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "12天冲突落幕？&quot;口头停火&quot;成疑 以伊开启&quot;新战场&quot;",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250625/48516434.html?ayjr"
             }
         ]
     ]
