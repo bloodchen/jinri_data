@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "明天起 上海地铁全网试点银行卡刷卡过闸",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250627/48528613.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250627/323a6ddb-d95a-4176-bf79-371f2b6fbfce.jpg"
+        },
+        {
             "title": "外交部：美国和印度之间的交往中方不做评论",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250627/48528546.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250627/af2f2903-14e6-45da-8dcb-a0126325d604.png"
@@ -9,14 +14,14 @@
             "title": "外交部：中国同伊拉克保持着正常的贸易往来",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250627/48528525.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20250627/e91a3b4c-6499-4a8c-a895-60b90a8a007b.png"
-        },
-        {
-            "title": "商务部新闻发言人就中美伦敦框架有关情况答记者问",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250627/48528502.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250627/b6dc5e27-9922-430a-9746-ed8aef704d30.png"
         }
     ],
     "midImg": [
+        {
+            "title": "国际锐评丨赖清德挑战国际法权威注定失败",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250627/48527876.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250627/93b914eb-da17-4020-a924-d97d21be5906.jpg"
+        },
         {
             "title": "韩国总统首次施政演说重点谈经济",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250627/48527862.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250627/8f24fe67-9d44-465d-82bc-a5aebefc1abc.jpg"
         },
         {
-            "title": "埃及总统：以伊停火后应立即实现加沙停火",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250627/48527016.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250627/1da7ec89-57f2-4add-a01f-ae452f01e66e.png"
+            "title": "商务部新闻发言人就中美伦敦框架有关情况答记者问",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250627/48528502.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250627/b6dc5e27-9922-430a-9746-ed8aef704d30.png"
         },
         {
             "title": "马英九率台湾青年参访敦煌莫高窟",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250627/48527964.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250627/bbd55091-6d66-4770-8c6e-947d7635e575.jpg"
-        },
-        {
-            "title": "世界“干极”罕见降雪！智利阿塔卡马沙漠披银装",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250627/48527927.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250627/1b441fa7-51ce-4487-97d7-b816d6d7c558.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "外交部：北约虚假信息蒙蔽不了世人的眼睛",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250626/48523906.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "商务部介绍对欧盟稀土出口审批情况",
@@ -231,12 +237,6 @@
             {
                 "title": "韩国法院驳回尹锡悦逮捕令",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250626/48520655.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "提高居民收入、扩大外贸优品消费…六部门联合发文",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250625/48519634.html?ayjr"
             }
         ]
     ]
