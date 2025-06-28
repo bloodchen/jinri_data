@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "乌称俄袭击敖德萨市致2死 俄方暂无回应",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250628/48530143.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250628/c67ed94a-f3e2-4e85-b0d1-a25237d972d2.png"
+        },
+        {
             "title": "俄罗斯一轻型飞机坠毁 飞行员遇难",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250628/48530105.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250628/982d2f46-7f80-4cd5-bef9-f3b5e622eb64.png"
@@ -9,14 +14,14 @@
             "title": "今年阅兵式有可能看到哪些新舰载机？专家点评",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250628/48530090.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250628/dc3dbe5a-6f43-4c20-9117-03d67839714d.gif"
-        },
-        {
-            "title": "伊朗为以伊冲突中遇难的指挥官和科学家举行葬礼",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250628/48530072.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250628/f460d30f-3c9e-46ef-a2a4-f297ca46a6cb.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "治安管理处罚法、反不正当竞争法完成修订",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250628/48529926.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250628/67af5263-6bdd-4595-bf71-9eff79b5c17a.jpg"
+        },
         {
             "title": "联合国官员：有必要延长联黎部队任务授权",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250628/48529833.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250628/2c9140bb-2da7-42ad-963f-3632630e565e.jpg"
         },
         {
-            "title": "新修订的反不正当竞争法规范了哪些问题？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250628/48529678.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250628/2a8f248d-c544-45b2-a6f2-df17479b1589.jpg"
+            "title": "伊朗为以伊冲突中遇难的指挥官和科学家举行葬礼",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250628/48530072.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250628/f460d30f-3c9e-46ef-a2a4-f297ca46a6cb.jpg"
         },
         {
             "title": "全球首艘首航成功！&quot;氨晖&quot;号解锁多项关键核心技术",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250628/48530061.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250628/2502c582-1043-4660-8069-3d5f7ce5e25b.png"
-        },
-        {
-            "title": "贵州榕江防汛响应升级 洪区紧急撤离路线公布",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250628/48530049.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/439x0/news/20250628/e5a35384-b621-4bce-9636-38654a453185.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "国际锐评丨赖清德挑战国际法权威注定失败",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250627/48527876.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "韩国总统首次施政演说重点谈经济",
@@ -231,12 +237,6 @@
             {
                 "title": "鸿蒙智行官号删除“智界全系现金补贴 2 万元”活动内容",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250627/48525330.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "好事成双，登陆 NBA 之前，杨瀚森已被保送中国海洋大学",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250627/48525331.html?ayjr"
             }
         ]
     ]
