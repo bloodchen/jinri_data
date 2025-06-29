@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "乌议会称正在起草战时状态结束后选举相关法案",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250629/48530598.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/630x0/news/20250629/2bbadc6a-7b64-4076-a32f-5765c940c02b.jpg"
+        },
+        {
             "title": "日本发射搭载卫星的H2A火箭50号机",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250629/48530555.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250629/87c282af-c0e3-4887-b60f-c7d859d821bc.jpg"
@@ -9,14 +14,14 @@
             "title": "普京：俄罗斯被“北约不东扩”承诺欺骗了",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250628/48530268.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250628/8e3096ea-c957-4552-be9c-4f13bf27b72a.png"
-        },
-        {
-            "title": "乌称俄袭击敖德萨市致2死 俄方暂无回应",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250628/48530143.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250628/c67ed94a-f3e2-4e85-b0d1-a25237d972d2.png"
         }
     ],
     "midImg": [
+        {
+            "title": "全球首艘首航成功！&quot;氨晖&quot;号解锁多项关键核心技术",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250628/48530061.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250628/2502c582-1043-4660-8069-3d5f7ce5e25b.png"
+        },
         {
             "title": "贵州榕江防汛响应升级 洪区紧急撤离路线公布",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250628/48530049.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20250628/5133eb62-eb37-455b-b9cc-357c7950f076.png"
         },
         {
-            "title": "新规今起施行！怎样判断你的充电宝能否带上飞机？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250628/48529724.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250628/fb6609fe-90d8-4ab2-b6d2-b1eff506b39d.png"
+            "title": "乌称俄袭击敖德萨市致2死 俄方暂无回应",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250628/48530143.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250628/c67ed94a-f3e2-4e85-b0d1-a25237d972d2.png"
         },
         {
             "title": "俄罗斯一轻型飞机坠毁 飞行员遇难",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250628/48530105.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250628/982d2f46-7f80-4cd5-bef9-f3b5e622eb64.png"
-        },
-        {
-            "title": "今年阅兵式有可能看到哪些新舰载机？专家点评",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250628/48530090.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250628/dc3dbe5a-6f43-4c20-9117-03d67839714d.gif"
         }
     ],
     "text": [
+        [
+            {
+                "title": "马英九率台湾青年参访敦煌莫高窟",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250627/48527964.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "世界“干极”罕见降雪！智利阿塔卡马沙漠披银装",
@@ -231,12 +237,6 @@
             {
                 "title": "两部门定目标：银行业保险业未来五年基本建成高质量综合普惠金融体系",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250627/48525326.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "澳门将举办系列活动纪念抗战胜利 80 周年",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250627/48525327.html?ayjr"
             }
         ]
     ]
