@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "澳航遭遇&quot;重大&quot;网络攻击 数百万客户信息恐遭泄露",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48546397.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250702/5ae413b2-696d-4d4a-b84e-dea27986213c.jpg"
+        },
+        {
             "title": "转移、抢修、清淤、排水……各地灾后重建最新进展",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250702/48546050.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250702/8250e62a-6867-468c-a3b7-b735aba00e05.jpg"
@@ -9,14 +14,14 @@
             "title": "从“争吵不休”到军售合作 美对乌态度大转变",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48545930.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250702/893f2750-4b58-41c1-8367-5fd27440262d.jpg"
-        },
-        {
-            "title": "美国驻以色列大使：或许该轰炸也门胡塞武装",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48545524.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250702/22889924-1ac5-4ff5-bf0b-65633ccdccd2.png"
         }
     ],
     "midImg": [
+        {
+            "title": "韩国内乱特检组要求前国务总理韩德洙到案接受调查",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48544203.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/496x0/news/20250702/c59be78b-2fcd-43e5-b64b-1b9e211d6f19.jpg"
+        },
         {
             "title": "以总理下周将访美 特朗普再催加沙停火",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48544192.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250702/9cec4e55-8859-4c06-be4b-7ff06e1278b8.jpg"
         },
         {
-            "title": "特朗普：以色列已同意落实加沙停火所需条件",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48543767.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250702/4fb9678c-8b93-4bee-aed7-ae9e6ba1e27d.jpg"
+            "title": "美国驻以色列大使：或许该轰炸也门胡塞武装",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48545524.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250702/22889924-1ac5-4ff5-bf0b-65633ccdccd2.png"
         },
         {
             "title": "我使馆再次提醒中国公民暂勿前往伊朗",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250702/48545495.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250702/e5a8709c-fb02-47a1-b3af-614b25b98902.png"
-        },
-        {
-            "title": "&quot;大而美&quot;法案通过，特朗普与马斯克&quot;口水战&quot;升级",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48544555.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250702/8c7392ad-7925-47cb-b7f1-abc1a20333f1.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "男子手部外伤住院，医院开出“奇怪”检查单，包括前列腺检查，院方、当地卫健委回应",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250702/48543529.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "韩国前第一夫人金建希，刚出院又被盯上：调查将正式启动，涉 16 项指控；本人身体暴瘦",
@@ -231,12 +237,6 @@
             {
                 "title": "今年前五个月全国社会物流总额同比增长5.3%",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250630/48534338.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "首艘、首个、首场！上周末，我国多领域解锁新成就",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250630/48534321.html?ayjr"
             }
         ]
     ]
