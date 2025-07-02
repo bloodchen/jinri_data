@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "转移、抢修、清淤、排水……各地灾后重建最新进展",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250702/48546050.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250702/8250e62a-6867-468c-a3b7-b735aba00e05.jpg"
+        },
+        {
             "title": "从“争吵不休”到军售合作 美对乌态度大转变",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48545930.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250702/893f2750-4b58-41c1-8367-5fd27440262d.jpg"
@@ -9,14 +14,14 @@
             "title": "美国驻以色列大使：或许该轰炸也门胡塞武装",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48545524.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250702/22889924-1ac5-4ff5-bf0b-65633ccdccd2.png"
-        },
-        {
-            "title": "我使馆再次提醒中国公民暂勿前往伊朗",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250702/48545495.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250702/e5a8709c-fb02-47a1-b3af-614b25b98902.png"
         }
     ],
     "midImg": [
+        {
+            "title": "以总理下周将访美 特朗普再催加沙停火",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48544192.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250702/00a94b97-27a3-442b-bd5f-b16f2706e00a.jpg"
+        },
         {
             "title": "美参议院通过&quot;大而美&quot;法案 美议员怒斥&quot;劫贫济富&quot;",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48543988.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250702/4fb9678c-8b93-4bee-aed7-ae9e6ba1e27d.jpg"
         },
         {
-            "title": "埃及一艘驳船在苏伊士湾倾覆 已致4人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48543723.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250702/612b9b89-eef1-48cb-a9ff-32157eeffda0.jpg"
+            "title": "我使馆再次提醒中国公民暂勿前往伊朗",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250702/48545495.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250702/e5a8709c-fb02-47a1-b3af-614b25b98902.png"
         },
         {
             "title": "&quot;大而美&quot;法案通过，特朗普与马斯克&quot;口水战&quot;升级",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48544555.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250702/8c7392ad-7925-47cb-b7f1-abc1a20333f1.jpg"
-        },
-        {
-            "title": "上万名也门民众声援加沙并庆祝以伊冲突结束",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48544388.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/563x0/news/20250702/8beeaced-c345-496b-a184-f3b90632e304.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "韩国前第一夫人金建希，刚出院又被盯上：调查将正式启动，涉 16 项指控；本人身体暴瘦",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250702/48543530.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "安徽合肥：家门口乐享“诗与远方”",
@@ -231,12 +237,6 @@
             {
                 "title": "首艘、首个、首场！上周末，我国多领域解锁新成就",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250630/48534321.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "花样新“夜”态点燃夏日文旅新引擎",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250630/48534301.html?ayjr"
             }
         ]
     ]
