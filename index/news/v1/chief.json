@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "上万名也门民众声援加沙并庆祝以伊冲突结束",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48544388.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/563x0/news/20250702/8beeaced-c345-496b-a184-f3b90632e304.png"
+        },
+        {
             "title": "韩国内乱特检组要求前国务总理韩德洙到案接受调查",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48544203.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/496x0/news/20250702/c59be78b-2fcd-43e5-b64b-1b9e211d6f19.jpg"
@@ -9,14 +14,14 @@
             "title": "以总理下周将访美 特朗普再催加沙停火",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48544192.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250702/00a94b97-27a3-442b-bd5f-b16f2706e00a.jpg"
-        },
-        {
-            "title": "美参议院通过&quot;大而美&quot;法案 美议员怒斥&quot;劫贫济富&quot;",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48543988.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250702/ecf26172-970d-4791-a6db-7e48e8da15df.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "特朗普：以色列已同意落实加沙停火所需条件",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48543767.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250702/4fb9678c-8b93-4bee-aed7-ae9e6ba1e27d.jpg"
+        },
         {
             "title": "埃及一艘驳船在苏伊士湾倾覆 已致4人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48543723.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250702/4987aba0-13f3-43b9-b079-cadde251e880.jpg"
         },
         {
-            "title": "以色列发布对伊朗军事行动报告 评估自研武器系统",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48543654.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250702/eb61b7dd-95f6-40c8-b8a0-b1a63628a44e.jpg"
+            "title": "美参议院通过&quot;大而美&quot;法案 美议员怒斥&quot;劫贫济富&quot;",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48543988.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250702/ecf26172-970d-4791-a6db-7e48e8da15df.jpg"
         },
         {
             "title": "注意啦！这13种行为纳税缴费信用会直接判为D级",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250702/48543965.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250702/631f0128-6eac-4dc6-8e6a-c5a6b76d0729.jpg"
-        },
-        {
-            "title": "充电宝上飞机和高铁分别要满足哪些条件？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250702/48543869.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250702/972d8e5a-07b1-4c61-a555-32231ed3c268.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "香港国安法颁布实施5年，香港交出繁荣稳定答卷",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250701/48538513.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "全国已建设口袋公园超4.8万个",
@@ -231,12 +237,6 @@
             {
                 "title": "反对牺牲中方利益！中方就美关税谈判再发警告",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250630/48534236.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "日本民调显示石破茂内阁支持率连续4个月低于30%",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250630/48534220.html?ayjr"
             }
         ]
     ]
