@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "伊朗外长向欧盟外长抗议：某些欧洲国家“拉偏架”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48547369.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250702/33f875bc-6320-4aae-88d4-859e0f925adf.jpg"
+        },
+        {
             "title": "央行：8月1日起，现金买黄金超10万元需上报",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250702/48547314.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20250702/02a81ac0-cf90-46d7-9309-1e729aa33d96.png"
@@ -9,14 +14,14 @@
             "title": "外交部：一贯反对炒作所谓的“中国间谍”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250702/48547294.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250702/440f5b9b-d7fa-477d-9a58-7d68ffc53f67.png"
-        },
-        {
-            "title": "未来将实现可回收！探访火箭生产流水线",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250702/48547235.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250702/720ac26d-620e-43a3-b180-f3cba8d619ee.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "转移、抢修、清淤、排水……各地灾后重建最新进展",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250702/48546050.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250702/8250e62a-6867-468c-a3b7-b735aba00e05.jpg"
+        },
         {
             "title": "从“争吵不休”到军售合作 美对乌态度大转变",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48545930.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/563x0/news/20250702/8beeaced-c345-496b-a184-f3b90632e304.png"
         },
         {
-            "title": "韩国内乱特检组要求前国务总理韩德洙到案接受调查",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48544203.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/496x0/news/20250702/c59be78b-2fcd-43e5-b64b-1b9e211d6f19.jpg"
+            "title": "未来将实现可回收！探访火箭生产流水线",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250702/48547235.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250702/720ac26d-620e-43a3-b180-f3cba8d619ee.jpg"
         },
         {
             "title": "7月9日大限将至 欧盟对美贸易谈判立场转强硬",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48547192.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250702/23d23f33-c0c1-4f1f-bceb-75a295ff3477.jpg"
-        },
-        {
-            "title": "外交部：敦促美方立即取消对古巴的封锁制裁",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250702/48546940.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250702/3236bcd3-180a-4347-9ef6-1214fc85081a.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "特朗普威胁对日本征收新关税，“他们不买我们的大米”",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250702/48543545.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "天问二号在轨获取的地月影像图发布",
@@ -231,12 +237,6 @@
             {
                 "title": "守住钱袋子 · 护好幸福家！建信人寿深入开展防范非法金融宣传活动",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250701/48538127.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "if 椰子水登陆港交所：上市首日市值破百亿，五大客户贡献 97% 销售额",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250701/48538128.html?ayjr"
             }
         ]
     ]
