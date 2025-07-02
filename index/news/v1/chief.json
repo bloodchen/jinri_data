@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美参议院通过&quot;大而美&quot;法案 美议员怒斥&quot;劫贫济富&quot;",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48543988.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250702/ecf26172-970d-4791-a6db-7e48e8da15df.jpg"
+        },
+        {
             "title": "注意啦！这13种行为纳税缴费信用会直接判为D级",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250702/48543965.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250702/631f0128-6eac-4dc6-8e6a-c5a6b76d0729.jpg"
@@ -9,14 +14,14 @@
             "title": "充电宝上飞机和高铁分别要满足哪些条件？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250702/48543869.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250702/972d8e5a-07b1-4c61-a555-32231ed3c268.jpg"
-        },
-        {
-            "title": "回流药“码”上监管 药品追溯码应该怎么用？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250702/48543841.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250702/9cec4e55-8859-4c06-be4b-7ff06e1278b8.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美国防部暂停向乌克兰提供部分承诺的军火",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48543695.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250702/2b585394-1937-40c9-953b-1382d78ef0b7.jpg"
+        },
         {
             "title": "卡塔尔向以色列及哈马斯提交加沙停火协议新提案",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48543686.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250702/57252032-e39c-4a4a-8cf3-cb4500428193.jpg"
         },
         {
-            "title": "德国巴伐利亚州发生持刀袭击事件 四人重伤",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250702/48543531.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250701/ee02a930-b7cc-4f20-983c-4f7cd981e85c.jpg"
+            "title": "回流药“码”上监管 药品追溯码应该怎么用？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250702/48543841.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250702/9cec4e55-8859-4c06-be4b-7ff06e1278b8.jpg"
         },
         {
             "title": "特朗普：以色列已同意落实加沙停火所需条件",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48543767.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250702/4fb9678c-8b93-4bee-aed7-ae9e6ba1e27d.jpg"
-        },
-        {
-            "title": "埃及一艘驳船在苏伊士湾倾覆 已致4人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48543723.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250702/612b9b89-eef1-48cb-a9ff-32157eeffda0.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美国承认截获伊朗高官通信 白宫看完给出四字评价",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250701/48538135.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "杀死野猪，“流量扶持”下的狂热竞赛",
@@ -231,12 +237,6 @@
             {
                 "title": "山西一财政局原局长三次犯罪被判刑仍被提拔，当地最新回应",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250630/48533045.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "搞不定稀土，就会变成纸老虎",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250630/48533046.html?ayjr"
             }
         ]
     ]
