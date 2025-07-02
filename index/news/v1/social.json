@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "暴雨、大雾、强对流！中央气象台三预警齐发",
+            "url": "https://toutiao.china.com/s_aysh/aou/sh/13004012/20250702/48545437.html?aysh",
+            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250702/a3242e3b-5855-4c69-83a9-f4c1da0df132.jpg"
+        },
+        {
             "title": "再度募资 40 亿还债补流，高管调整，扣非持续亏损的豫园股份资金困局仍待解",
             "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250702/48543517.html?aysh",
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250701/2091dfe1-f760-482e-ba2f-ee99d6e2eacd.jpg"
@@ -9,14 +14,14 @@
             "title": "榕江副县长清淤后坐在物资上吃盒饭走红，拍摄者：这个场景很感动，已经熬了两三个通宵",
             "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250702/48543518.html?aysh",
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250701/eff6ace7-3938-45cc-8b67-83ec62f23527.jpg"
-        },
-        {
-            "title": "信美人寿掌门人更迭：董事长杨帆掌舵 8 年后辞任，“元老”胡晗接棒",
-            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250702/48543519.html?aysh",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250701/995f8a30-8657-4361-818e-e444077b528a.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "黄河财险兰州中支被罚 52 万，涉虚构中介业务套取费用等",
+            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250702/48543523.html?aysh",
+            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250701/38a563cc-2dfe-427e-b41f-508af2044517.jpg"
+        },
         {
             "title": "钦州市区农信联社被罚 40 万，涉贷款管理不审慎",
             "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250702/48543524.html?aysh",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250701/93947368-bcf5-4a25-8b19-b21a1175ab77.jpg"
         },
         {
-            "title": "郑钦文不敌西尼亚科娃 遗憾止步温网首轮",
-            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250702/48543509.html?aysh",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250701/e0bb659b-64d7-48cb-a7c0-65adc1c19291.jpg"
+            "title": "信美人寿掌门人更迭：董事长杨帆掌舵 8 年后辞任，“元老”胡晗接棒",
+            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250702/48543519.html?aysh",
+            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250701/995f8a30-8657-4361-818e-e444077b528a.jpg"
         },
         {
             "title": "新华字典表述“孩子小成了累赘”引争议，商务印书馆回应",
             "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250702/48543520.html?aysh",
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250701/ee6062eb-42b0-4d84-ad20-1ac4d01f74b4.jpg"
-        },
-        {
-            "title": "新华字典称小孩是“累赘”，胡锡进：不妥，建议下一版换一个",
-            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250702/48543521.html?aysh",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250701/1239c8a1-f673-433d-ae50-b4c96a61a314.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "赖清德造谣说马英九曾自称“区长”，黄国昌批：格局太小令人失望",
+                "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250701/48538153.html?aysh"
+            }
+        ],
         [
             {
                 "title": "上市公司董事长竟是老赖，监管部门：“限时两天换帅！”",
@@ -231,12 +237,6 @@
             {
                 "title": "上海发布高温黄色预警",
                 "url": "https://toutiao.china.com/s_aysh/aou/sh/13004012/20250630/48535104.html?aysh"
-            }
-        ],
-        [
-            {
-                "title": "中央气象台6月30日10时继续发布暴雨黄色预警",
-                "url": "https://toutiao.china.com/s_aysh/aou/sh/13004012/20250630/48535105.html?aysh"
             }
         ]
     ]
