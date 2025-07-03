@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "不会写诉状？最高法发布示范文本应用典型案例",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250703/48551810.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250703/fe8fc6ca-013c-4de7-aea8-2e4a9c31e819.png"
+        },
+        {
             "title": "印尼沉船事故最新报告发布：涉事渡轮发动机舱漏水",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48551737.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250703/48512a46-de63-4658-9af7-aeebd40e304c.png"
@@ -9,14 +14,14 @@
             "title": "国新办：独家史料+AI技术 抗战主题新作值得期待",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250703/48551637.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/563x0/news/20250703/14f97b53-1d07-44ac-9463-64920f0d4691.png"
-        },
-        {
-            "title": "韩国总统：将尽快改善韩中关系",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48551565.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250703/07beba88-3566-4beb-9223-8eb3b05fa545.png"
         }
     ],
     "midImg": [
+        {
+            "title": "只有一条路到外界……“鳄鱼恶魔岛”内部画面曝光",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48550066.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250703/f4d1ce9e-9ac7-4646-b5ec-f17b76690f54.jpg"
+        },
         {
             "title": "现场视频！山东舰航母编队抵达香港",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250703/48549997.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250703/82884a50-c3be-43d1-992a-148a1fe91a6a.jpg"
         },
         {
-            "title": "俄称打击乌军工企业 乌称击溃俄侦察小队",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48549548.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250703/69968743-8c55-42fa-a167-69ec7e4fa32a.png"
+            "title": "韩国总统：将尽快改善韩中关系",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48551565.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250703/07beba88-3566-4beb-9223-8eb3b05fa545.png"
         },
         {
             "title": "10只产品集中获批 首批科创债ETF来了",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250703/48551407.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20250703/76c5e818-f8b5-4da6-bc4b-7d59c94d1e21.png"
-        },
-        {
-            "title": "李在明：应恢复朝韩间沟通 改善对朝关系",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48550614.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250703/b0cd2785-0747-4c48-aa49-484ccf6a0054.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "浙江海盐农商行被罚 140 万，涉贷款管理不审慎等",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250703/48548934.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "B 站反腐通报：原游戏合作部总经理已被逮捕，曾任华为游戏中心部长",
@@ -231,12 +237,6 @@
             {
                 "title": "俄法两国总统时隔近3年再通话 讨论中东及俄乌问题",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48543624.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "德国巴伐利亚州发生持刀袭击事件 四人重伤",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250702/48543531.html?ayjr"
             }
         ]
     ]
