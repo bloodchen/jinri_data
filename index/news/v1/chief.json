@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "现场视频！山东舰航母编队抵达香港",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250703/48549997.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250703/9cff9540-4443-4ab4-bb1a-e9e9a7f6dfd0.jpg"
+        },
+        {
             "title": "我国首个天然气全链条深冷处理厂全面投产",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250703/48549656.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250703/6c027134-c8fd-4637-bb4f-9a3d71ab410b.png"
@@ -9,14 +14,14 @@
             "title": "印尼一艘客轮在巴厘海峡沉没 暂未搜寻到任何乘客",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48549640.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250703/7f73d116-4e0e-483e-8728-0eaa35b6bc83.png"
-        },
-        {
-            "title": "美国一载有15人小型飞机坠毁 至少5人受伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48549571.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250703/d053fba8-fc5c-4a1a-9449-b658d49a2106.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美国众议院程序性投票推进所谓“大而美”法案",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48549527.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/600x0/news/20250703/400cffe7-f1a4-45dc-b3ef-ef5c063c062f.jpg"
+        },
         {
             "title": "美两党对峙 &quot;大而美&quot;法案在众议院通过概率有多大?",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48549513.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250703/0f60e9ca-7766-47a8-9cba-8cc66ef0c722.jpg"
         },
         {
-            "title": "加沙多地遭以军空袭 已致108人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48549339.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250703/60e8437c-1d6e-4594-b8a2-b61fdd043d54.jpg"
+            "title": "美国一载有15人小型飞机坠毁 至少5人受伤",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48549571.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250703/d053fba8-fc5c-4a1a-9449-b658d49a2106.jpg"
         },
         {
             "title": "公告发布 石破内阁首次参议院选举拉开帷幕",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48549558.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250703/82884a50-c3be-43d1-992a-148a1fe91a6a.jpg"
-        },
-        {
-            "title": "俄称打击乌军工企业 乌称击溃俄侦察小队",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48549548.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250703/69968743-8c55-42fa-a167-69ec7e4fa32a.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "澳航遭遇&quot;重大&quot;网络攻击 数百万客户信息恐遭泄露",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48546397.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "转移、抢修、清淤、排水……各地灾后重建最新进展",
@@ -231,12 +237,6 @@
             {
                 "title": "韦东奕晋升北大长聘副教授？校方回应：按学校流程走",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250702/48543538.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "水均益辟谣移民，发视频晒带两个孩子领取身份证画面",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250702/48543539.html?ayjr"
             }
         ]
     ]
