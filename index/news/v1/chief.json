@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "只有一条路到外界……“鳄鱼恶魔岛”内部画面曝光",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48550066.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250703/f4d1ce9e-9ac7-4646-b5ec-f17b76690f54.jpg"
+        },
+        {
             "title": "现场视频！山东舰航母编队抵达香港",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250703/48549997.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250703/9cff9540-4443-4ab4-bb1a-e9e9a7f6dfd0.jpg"
@@ -9,14 +14,14 @@
             "title": "我国首个天然气全链条深冷处理厂全面投产",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250703/48549656.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250703/6c027134-c8fd-4637-bb4f-9a3d71ab410b.png"
-        },
-        {
-            "title": "印尼一艘客轮在巴厘海峡沉没 暂未搜寻到任何乘客",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48549640.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250703/7f73d116-4e0e-483e-8728-0eaa35b6bc83.png"
         }
     ],
     "midImg": [
+        {
+            "title": "近600人在美以支持的援助分发点被打死",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48549538.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250703/373d3743-2cac-4b8d-a501-82b1d3b985d4.jpg"
+        },
         {
             "title": "美国众议院程序性投票推进所谓“大而美”法案",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48549527.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250703/2a33b1ed-7e13-4f2a-be0a-ad0108e38dbd.png"
         },
         {
-            "title": "德国前总理默克尔：欧盟不应惧怕美国的关税",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48549381.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250703/0f60e9ca-7766-47a8-9cba-8cc66ef0c722.jpg"
+            "title": "印尼一艘客轮在巴厘海峡沉没 暂未搜寻到任何乘客",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48549640.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250703/7f73d116-4e0e-483e-8728-0eaa35b6bc83.png"
         },
         {
             "title": "美国一载有15人小型飞机坠毁 至少5人受伤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48549571.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250703/d053fba8-fc5c-4a1a-9449-b658d49a2106.jpg"
-        },
-        {
-            "title": "公告发布 石破内阁首次参议院选举拉开帷幕",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48549558.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250703/82884a50-c3be-43d1-992a-148a1fe91a6a.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "外交部：敦促美方立即取消对古巴的封锁制裁",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250702/48546940.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "澳航遭遇&quot;重大&quot;网络攻击 数百万客户信息恐遭泄露",
@@ -231,12 +237,6 @@
             {
                 "title": "河南西峡极端强降雨致 8 人失联 全力搜救中",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250702/48543537.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "韦东奕晋升北大长聘副教授？校方回应：按学校流程走",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250702/48543538.html?ayjr"
             }
         ]
     ]
