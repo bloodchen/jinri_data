@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "山东舰甲板深情告白 香港海陆空全方位热情欢迎",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250703/48552391.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250703/7cc88ad2-2fef-416b-a428-8a54401a09dc.jpg"
+        },
+        {
             "title": "美四名共和党众议员对“大而美”法案投出反对票",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48552186.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/359x0/news/20250703/95a35934-7d84-4be7-9b52-7150e9ddc916.png"
@@ -9,14 +14,14 @@
             "title": "不会写诉状？最高法发布示范文本应用典型案例",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250703/48551810.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20250703/fe8fc6ca-013c-4de7-aea8-2e4a9c31e819.png"
-        },
-        {
-            "title": "印尼沉船事故最新报告发布：涉事渡轮发动机舱漏水",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48551737.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250703/48512a46-de63-4658-9af7-aeebd40e304c.png"
         }
     ],
     "midImg": [
+        {
+            "title": "李在明：应恢复朝韩间沟通 改善对朝关系",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48550614.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250703/b0cd2785-0747-4c48-aa49-484ccf6a0054.png"
+        },
         {
             "title": "印尼沉船事故暂未涉及中国公民 已确认4人遇难",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48550592.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250703/7f73d116-4e0e-483e-8728-0eaa35b6bc83.png"
         },
         {
-            "title": "美国一载有15人小型飞机坠毁 至少5人受伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48549571.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250703/d053fba8-fc5c-4a1a-9449-b658d49a2106.jpg"
+            "title": "印尼沉船事故最新报告发布：涉事渡轮发动机舱漏水",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48551737.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250703/48512a46-de63-4658-9af7-aeebd40e304c.png"
         },
         {
             "title": "国新办：独家史料+AI技术 抗战主题新作值得期待",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250703/48551637.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/563x0/news/20250703/14f97b53-1d07-44ac-9463-64920f0d4691.png"
-        },
-        {
-            "title": "韩国总统：将尽快改善韩中关系",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48551565.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250703/07beba88-3566-4beb-9223-8eb3b05fa545.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "太平石化金融租赁被罚 25 万，责任人被禁业 10 年",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250703/48548932.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "平安财险宁波分公司被罚 80 万，责任人共被罚 22 万",
@@ -231,12 +237,6 @@
             {
                 "title": "以色列发布对伊朗军事行动报告 评估自研武器系统",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48543654.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "波兰最高法院裁定2025年总统选举结果合法有效",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250702/48543636.html?ayjr"
             }
         ]
     ]
