@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "印尼沉船事故最新报告发布：涉事渡轮发动机舱漏水",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48551737.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250703/48512a46-de63-4658-9af7-aeebd40e304c.png"
+        },
+        {
             "title": "国新办：独家史料+AI技术 抗战主题新作值得期待",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250703/48551637.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/563x0/news/20250703/14f97b53-1d07-44ac-9463-64920f0d4691.png"
@@ -9,14 +14,14 @@
             "title": "韩国总统：将尽快改善韩中关系",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48551565.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250703/07beba88-3566-4beb-9223-8eb3b05fa545.png"
-        },
-        {
-            "title": "10只产品集中获批 首批科创债ETF来了",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250703/48551407.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250703/76c5e818-f8b5-4da6-bc4b-7d59c94d1e21.png"
         }
     ],
     "midImg": [
+        {
+            "title": "现场视频！山东舰航母编队抵达香港",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250703/48549997.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250703/9cff9540-4443-4ab4-bb1a-e9e9a7f6dfd0.jpg"
+        },
         {
             "title": "我国首个天然气全链条深冷处理厂全面投产",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250703/48549656.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250703/69968743-8c55-42fa-a167-69ec7e4fa32a.png"
         },
         {
-            "title": "近600人在美以支持的援助分发点被打死",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48549538.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250703/373d3743-2cac-4b8d-a501-82b1d3b985d4.jpg"
+            "title": "10只产品集中获批 首批科创债ETF来了",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250703/48551407.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250703/76c5e818-f8b5-4da6-bc4b-7d59c94d1e21.png"
         },
         {
             "title": "李在明：应恢复朝韩间沟通 改善对朝关系",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48550614.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250703/b0cd2785-0747-4c48-aa49-484ccf6a0054.png"
-        },
-        {
-            "title": "印尼沉船事故暂未涉及中国公民 已确认4人遇难",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250703/48550592.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250703/3645ef5d-e282-44d5-9915-eba7be618f8e.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "B 站反腐通报：原游戏合作部总经理已被逮捕，曾任华为游戏中心部长",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250703/48548935.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "伊朗外长向欧盟外长抗议：某些欧洲国家“拉偏架”",
@@ -231,12 +237,6 @@
             {
                 "title": "德国巴伐利亚州发生持刀袭击事件 四人重伤",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250702/48543531.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "佩通坦道歉",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250702/48543532.html?ayjr"
             }
         ]
     ]
