@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "王毅：稀土不会成为中欧之间的问题",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250704/48556030.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250704/b99c8e2c-6219-44d3-8fb0-2d8a695279ad.png"
+        },
+        {
             "title": "朝鲜谴责美国借“四方安全对话”进行政治挑衅",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250704/48555993.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20250704/c81411ee-816f-41d8-b869-ceab0e274ffc.png"
@@ -9,14 +14,14 @@
             "title": "充电宝乘机新规发布后 多家机场提供暂存服务",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250704/48555974.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250704/a24ba0d5-d03d-4a04-873a-ba3a4d913453.jpg"
-        },
-        {
-            "title": "加戏9小时难阻法案通过 “大而美”马戏再刷荒诞榜",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250704/48555907.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250704/10836844-ba1a-404f-a9e5-68349b3bfce0.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美国和哥伦比亚各自召回驻对方使馆负责人",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250704/48555789.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250704/8cd13a6b-30e1-4ce9-bfbb-4c899547ddb4.png"
+        },
         {
             "title": "刚果(金)反政府武装称将与政府开启新一轮对话",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250704/48555759.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250704/009c89da-6256-4edc-8923-bdf859e3deb2.jpg"
         },
         {
-            "title": "美众议院通过“大而美”法案 普京称不放弃消除乌克兰危机根源",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250704/48555650.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250704/84a15f4c-597a-4f6e-989f-7a20016c7465.jpg"
+            "title": "加戏9小时难阻法案通过 “大而美”马戏再刷荒诞榜",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250704/48555907.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250704/10836844-ba1a-404f-a9e5-68349b3bfce0.jpg"
         },
         {
             "title": "巴西金融系统遭网络攻击 巴央行紧急介入调查",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250704/48555851.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250704/c5c43d63-b449-4eb6-b06b-979df926e060.jpg"
-        },
-        {
-            "title": "俄罗斯成功发射一枚“联盟-2.1a”运载火箭",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250704/48555832.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250704/af606440-85ce-4a44-b79d-773b8bb1612a.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "新船首航 中国阿联酋港口开通汽车物流新通道",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250703/48552475.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "山东舰甲板深情告白 香港海陆空全方位热情欢迎",
@@ -231,12 +237,6 @@
             {
                 "title": "广州一小区有住户阳台挂横幅抗议“天价”停车费，回应：每月 450 元，属正常价格",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250703/48548938.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "啥意思？山东泰山主帅崔康熙返回韩国，经纪公司发社媒：真理永远会战胜谎言",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250703/48548939.html?ayjr"
             }
         ]
     ]
