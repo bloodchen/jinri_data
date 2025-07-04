@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "埃及呼吁阻止以色列对加沙及约旦河西岸的侵略",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250704/48556131.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250704/84e8e57d-5a1f-437f-ac31-954da1d86975.jpg"
+        },
+        {
             "title": "王毅：稀土不会成为中欧之间的问题",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250704/48556030.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250704/b99c8e2c-6219-44d3-8fb0-2d8a695279ad.png"
@@ -9,14 +14,14 @@
             "title": "朝鲜谴责美国借“四方安全对话”进行政治挑衅",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250704/48555993.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20250704/c81411ee-816f-41d8-b869-ceab0e274ffc.png"
-        },
-        {
-            "title": "充电宝乘机新规发布后 多家机场提供暂存服务",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250704/48555974.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250704/a24ba0d5-d03d-4a04-873a-ba3a4d913453.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美总统特朗普将于4日下午签署“大而美”法案",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250704/48555816.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250704/84baab9a-796c-4219-aff7-b0285ccf6721.jpg"
+        },
         {
             "title": "美国和哥伦比亚各自召回驻对方使馆负责人",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250704/48555789.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250704/6d58784a-c691-4f26-abfb-1154ea8ec3a2.jpg"
         },
         {
-            "title": "芬兰一购物中心发生持刀伤人事件，20 多岁嫌疑男子被警方控制，目击者称现场有大量血迹",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250704/48555649.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250704/009c89da-6256-4edc-8923-bdf859e3deb2.jpg"
+            "title": "充电宝乘机新规发布后 多家机场提供暂存服务",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250704/48555974.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250704/a24ba0d5-d03d-4a04-873a-ba3a4d913453.jpg"
         },
         {
             "title": "加戏9小时难阻法案通过 “大而美”马戏再刷荒诞榜",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250704/48555907.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250704/10836844-ba1a-404f-a9e5-68349b3bfce0.jpg"
-        },
-        {
-            "title": "巴西金融系统遭网络攻击 巴央行紧急介入调查",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250704/48555851.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250704/c5c43d63-b449-4eb6-b06b-979df926e060.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "重磅！纪念抗战胜利80周年一系列文艺活动发布",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250703/48552625.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "新船首航 中国阿联酋港口开通汽车物流新通道",
@@ -231,12 +237,6 @@
             {
                 "title": "这些品牌燃油车又不停售了？发生了什么",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250703/48548937.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "广州一小区有住户阳台挂横幅抗议“天价”停车费，回应：每月 450 元，属正常价格",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250703/48548938.html?ayjr"
             }
         ]
     ]
