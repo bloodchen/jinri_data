@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "一座自带“电影滤镜”的城市 重庆也太出片了",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250704/48557031.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250704/7238399e-9e04-407a-be1b-9c7e5679ea45.jpg"
+        },
+        {
             "title": "韩军称控制一名越过军事分界线的朝鲜人员",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250704/48556602.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250704/6c8e5492-4e58-4fac-99d5-aa234000ab8f.png"
@@ -9,14 +14,14 @@
             "title": "埃及呼吁阻止以色列对加沙及约旦河西岸的侵略",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250704/48556131.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250704/84e8e57d-5a1f-437f-ac31-954da1d86975.jpg"
-        },
-        {
-            "title": "王毅：稀土不会成为中欧之间的问题",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250704/48556030.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250704/b99c8e2c-6219-44d3-8fb0-2d8a695279ad.png"
         }
     ],
     "midImg": [
+        {
+            "title": "巴西金融系统遭网络攻击 巴央行紧急介入调查",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250704/48555851.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250704/c5c43d63-b449-4eb6-b06b-979df926e060.jpg"
+        },
         {
             "title": "俄罗斯成功发射一枚“联盟-2.1a”运载火箭",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250704/48555832.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250704/16cdf1b4-44da-4c8e-8a0e-857082a91607.jpg"
         },
         {
-            "title": "美国会众议院表决通过“大而美”法案！非农超预期 标普、纳指创新高！光伏板块集体爆发 这只中概股大涨超100%",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250704/48555639.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250704/b70afa8b-dc80-4f66-a6f5-5e0f7877347b.jpg"
+            "title": "王毅：稀土不会成为中欧之间的问题",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250704/48556030.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250704/b99c8e2c-6219-44d3-8fb0-2d8a695279ad.png"
         },
         {
             "title": "朝鲜谴责美国借“四方安全对话”进行政治挑衅",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250704/48555993.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20250704/c81411ee-816f-41d8-b869-ceab0e274ffc.png"
-        },
-        {
-            "title": "充电宝乘机新规发布后 多家机场提供暂存服务",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250704/48555974.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250704/a24ba0d5-d03d-4a04-873a-ba3a4d913453.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "北京：个人转租住房10套(间)及以上拟纳入行业监管",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250703/48553026.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美国取消全球三大芯片设计软件供应商对华出口限制",
@@ -231,12 +237,6 @@
             {
                 "title": "山东舰航母编队抵达香港海域",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250703/48549290.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "亚马逊，机器人将比工人还多了？",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250703/48548936.html?ayjr"
             }
         ]
     ]
