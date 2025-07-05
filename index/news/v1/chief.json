@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "25万人凌晨4点蹲守直播等地震 预言时间已过：没震",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250705/48562293.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/640x0/news/20250705/97746a09-c362-4ece-b59e-00fd27382a4b.jpg"
+        },
+        {
             "title": "拾荒维生的加沙父亲：我无法为她们提供一个家",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250705/48561986.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250705/4cfdaec8-f703-4d35-a3b6-05f041b0d84b.jpg"
@@ -9,14 +14,14 @@
             "title": "救人OR杀人？美以主导的加沙物资分发点成&quot;杀戮点&quot;",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250705/48561951.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250705/ee711dcd-3a4c-4dd6-8f19-2ca93abd23ff.jpg"
-        },
-        {
-            "title": "即买即退秒到账！免签+退税 &quot;中国游&quot;带火&quot;中国购&quot;",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250705/48561899.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250705/19122c8c-4063-4d58-a318-0f9d416e06c4.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "王毅：中法要做稳定、开放、包容、团结的力量",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250705/48561773.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250705/aa44c993-4760-4aee-a187-8dbeed748541.png"
+        },
         {
             "title": "美国总统特朗普签署“大而美”税收和支出法案",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250705/48561464.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250705/3ff872e8-8af2-4428-928c-0ce4f33702b6.jpg"
         },
         {
-            "title": "日本学者发现侵华战争新史料：日政府刻意隐瞒真相",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250705/48561401.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250705/21e2a91d-f823-45bb-97f4-a6711bea6114.jpg"
+            "title": "即买即退秒到账！免签+退税 &quot;中国游&quot;带火&quot;中国购&quot;",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250705/48561899.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250705/19122c8c-4063-4d58-a318-0f9d416e06c4.jpg"
         },
         {
             "title": "B-2退役谁接班？美空军升级近况曝光",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250705/48561863.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250705/8aeaf661-bd73-44cb-9436-b734a4c02cb9.jpg"
-        },
-        {
-            "title": "韩国前总统尹锡悦出席内乱特检组第二次传唤调查",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250705/48561839.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250705/874d0d13-9fa7-4066-8f11-2045ad6e97b4.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "巴西金融系统遭网络攻击 巴央行紧急介入调查",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250704/48555851.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "俄罗斯成功发射一枚“联盟-2.1a”运载火箭",
@@ -231,12 +237,6 @@
             {
                 "title": "美国总统拟带企业团访华？商务部回应",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250703/48553680.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "打破美日垄断！这家民企让C919用上中国“飞机棉”",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250703/48553653.html?ayjr"
             }
         ]
     ]
