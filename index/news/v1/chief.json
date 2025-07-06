@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "俄称打击乌防空系统 乌称袭击俄军用机场",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48563362.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/3fdcd965-c715-4bfe-9e01-3bed23cebfa6.jpg"
+        },
+        {
             "title": "以色列被曝多处军事设施曾遭伊朗袭击",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48563324.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/63a20923-27e1-40f6-b2d4-54a7c70475b2.jpg"
@@ -9,14 +14,14 @@
             "title": "海景房直播暴露我军舰动态 国安机关:处置相关人员",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250706/48563274.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/c13e26b6-71d5-4849-bd60-3fa860f992c5.jpg"
-        },
-        {
-            "title": "土耳其罕见“七月飞雪” 当地人直呼几十年未见",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48563242.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/c63b683a-b066-4ba6-bf81-2797ac5cc734.png"
         }
     ],
     "midImg": [
+        {
+            "title": "054A护卫舰：航母编队的反潜“老手”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250706/48563028.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250706/65a2e579-2f43-441a-89d1-71e9e421d6e9.jpg"
+        },
         {
             "title": "洪水 山火 枪击 抗议 这个“独立日”美国不平静",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48562996.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250706/cf7ef9ad-86c9-4dfe-94a3-d8f6bc0fef95.jpg"
         },
         {
-            "title": "埃及吉萨省发生一起交通事故 已致10死10伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48562942.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/f00705b6-2b95-4e3f-a039-18c4a1803164.jpg"
+            "title": "土耳其罕见“七月飞雪” 当地人直呼几十年未见",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48563242.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/c63b683a-b066-4ba6-bf81-2797ac5cc734.png"
         },
         {
             "title": "以伊冲突后 哈梅内伊首次公开露面",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48563145.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/b4ee28a7-f113-4240-aa10-c6bb80cbca22.png"
-        },
-        {
-            "title": "“鲨鱼”→“飞虎”！80年了，他们再度来到中国",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250706/48563059.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250706/42bbe898-8ec7-4c0d-920f-308231318976.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "外交部：乌克兰危机长期化不符合任何一方的利益",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250704/48559963.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "特朗普称最早4日通报关税税率，多方回应",
@@ -231,12 +237,6 @@
             {
                 "title": "市场需求回升动力增强，6月份中国公路物流运价指数稳中有升",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250704/48555643.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "评论丨贷款“商转公”有利于稳定住房消费基本盘",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250704/48555644.html?ayjr"
             }
         ]
     ]
