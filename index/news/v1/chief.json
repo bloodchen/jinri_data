@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "“中华神盾”052D湛江舰到港引人瞩目",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250706/48563040.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/320x0/news/20250706/8839d707-262c-440b-8630-a317c8db3356.jpg"
+        },
+        {
             "title": "054A护卫舰：航母编队的反潜“老手”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250706/48563028.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250706/65a2e579-2f43-441a-89d1-71e9e421d6e9.jpg"
@@ -9,14 +14,14 @@
             "title": "洪水 山火 枪击 抗议 这个“独立日”美国不平静",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48562996.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/02872a47-077f-4158-ab71-f287f9e13bcf.jpg"
-        },
-        {
-            "title": "时隔57年 印度领导人访问阿根廷",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48562979.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/884071db-d3c3-46f4-a633-3572f731701e.png"
         }
     ],
     "midImg": [
+        {
+            "title": "埃及吉萨省发生一起交通事故 已致10死10伤",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48562942.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/f00705b6-2b95-4e3f-a039-18c4a1803164.jpg"
+        },
         {
             "title": "印尼在水下发现疑似沉船残骸 将进一步检查确认",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48562933.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250705/42dfebfb-2248-4c9c-8e23-6592df6d1f5f.jpg"
         },
         {
-            "title": "25万人凌晨4点蹲守直播等地震 预言时间已过：没震",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250705/48562293.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/640x0/news/20250705/97746a09-c362-4ece-b59e-00fd27382a4b.jpg"
+            "title": "时隔57年 印度领导人访问阿根廷",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48562979.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/884071db-d3c3-46f4-a633-3572f731701e.png"
         },
         {
             "title": "以总理办公室：无法接受哈马斯提出的意见",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48562970.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250706/44777f94-03aa-4009-8456-9182681bfe5b.jpg"
-        },
-        {
-            "title": "马斯克在社交媒体上宣布“美国党”成立",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48562961.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250706/e3d49fa4-929a-4d8e-abf4-2fe71fb9b8f8.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美方取消相关对华经贸限制措施，商务部回应",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250704/48558436.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "珍贵史料公开！记录日军杀害杨靖宇铁证",
@@ -231,12 +237,6 @@
             {
                 "title": "美众议院通过“大而美”法案 普京称不放弃消除乌克兰危机根源",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250704/48555650.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "智能体狂奔之时 安全是否就绪了？",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250704/48555651.html?ayjr"
             }
         ]
     ]
