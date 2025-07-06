@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "赖清德“团结十讲”背后谋“独”祸心昭然若揭",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250706/48563510.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/9175fe61-d2b2-466c-a202-de4db32f0c13.jpg"
+        },
+        {
             "title": "以色列民众抗议示威 要求政府尽快达成停火协议",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48563498.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250706/a5393a89-092c-47fc-b427-94cbb264a869.jpg"
@@ -9,14 +14,14 @@
             "title": "&quot;美国党&quot;成立后 还要&quot;参选&quot;？ 马斯克给出时间表",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48563489.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/536x0/news/20250706/9912555b-6f5d-4ccc-9ce9-95b8d3d542a0.png"
-        },
-        {
-            "title": "俄罗斯一架安-2轻型飞机发生硬着陆 8人受伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48563441.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/375x0/news/20250706/373d4848-f1b2-4bf6-87d0-c7ee92b90678.png"
         }
     ],
     "midImg": [
+        {
+            "title": "土耳其罕见“七月飞雪” 当地人直呼几十年未见",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48563242.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/c63b683a-b066-4ba6-bf81-2797ac5cc734.png"
+        },
         {
             "title": "以伊冲突后 哈梅内伊首次公开露面",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48563145.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/02872a47-077f-4158-ab71-f287f9e13bcf.jpg"
         },
         {
-            "title": "时隔57年 印度领导人访问阿根廷",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48562979.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/884071db-d3c3-46f4-a633-3572f731701e.png"
+            "title": "俄罗斯一架安-2轻型飞机发生硬着陆 8人受伤",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48563441.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/375x0/news/20250706/373d4848-f1b2-4bf6-87d0-c7ee92b90678.png"
         },
         {
             "title": "俄称打击乌防空系统 乌称袭击俄军用机场",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48563362.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/3fdcd965-c715-4bfe-9e01-3bed23cebfa6.jpg"
-        },
-        {
-            "title": "以色列被曝多处军事设施曾遭伊朗袭击",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48563324.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/63a20923-27e1-40f6-b2d4-54a7c70475b2.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美方恢复向中国商飞供应喷气发动机？外交部回应",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250704/48560266.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "俄罗斯正式承认阿富汗临时政府，中方表态",
@@ -231,12 +237,6 @@
             {
                 "title": "美国会众议院表决通过“大而美”法案！非农超预期 标普、纳指创新高！光伏板块集体爆发 这只中概股大涨超100%",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250704/48555639.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美股三大指数集体收涨 纳指涨1.02%",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250704/48555640.html?ayjr"
             }
         ]
     ]
