@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "土耳其罕见“七月飞雪” 当地人直呼几十年未见",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48563242.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/c63b683a-b066-4ba6-bf81-2797ac5cc734.png"
+        },
+        {
             "title": "以伊冲突后 哈梅内伊首次公开露面",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48563145.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/b4ee28a7-f113-4240-aa10-c6bb80cbca22.png"
@@ -9,14 +14,14 @@
             "title": "“鲨鱼”→“飞虎”！80年了，他们再度来到中国",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250706/48563059.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250706/42bbe898-8ec7-4c0d-920f-308231318976.jpg"
-        },
-        {
-            "title": "“中华神盾”052D湛江舰到港引人瞩目",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250706/48563040.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/320x0/news/20250706/8839d707-262c-440b-8630-a317c8db3356.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "以总理办公室：无法接受哈马斯提出的意见",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48562970.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250706/44777f94-03aa-4009-8456-9182681bfe5b.jpg"
+        },
         {
             "title": "马斯克在社交媒体上宣布“美国党”成立",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48562961.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/430x0/news/20250705/3abbb3e5-c032-4c8e-9ed0-4c564602b787.jpg"
         },
         {
-            "title": "我国两艘航母首次对公众开放都在香港释放何种信号",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250705/48562475.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250705/26c7fb4f-0d96-4b09-b3bf-9cfd0e76da3f.jpg"
+            "title": "“中华神盾”052D湛江舰到港引人瞩目",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250706/48563040.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/320x0/news/20250706/8839d707-262c-440b-8630-a317c8db3356.jpg"
         },
         {
             "title": "054A护卫舰：航母编队的反潜“老手”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250706/48563028.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250706/65a2e579-2f43-441a-89d1-71e9e421d6e9.jpg"
-        },
-        {
-            "title": "洪水 山火 枪击 抗议 这个“独立日”美国不平静",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48562996.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/02872a47-077f-4158-ab71-f287f9e13bcf.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "发现30万年前的木器！云南甘棠箐遗址考古获突破",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250704/48559144.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "乌称俄发射超500架无人机 主要目标瞄准基辅",
@@ -231,12 +237,6 @@
             {
                 "title": "罗马仕：没有倒闭 将努力解决问题",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250704/48555646.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "特朗普签署行政令 拟给国家公园“外国游客门票”涨价",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250704/48555647.html?ayjr"
             }
         ]
     ]
