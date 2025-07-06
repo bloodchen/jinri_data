@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "俄罗斯一架安-2轻型飞机发生硬着陆 8人受伤",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48563441.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/375x0/news/20250706/373d4848-f1b2-4bf6-87d0-c7ee92b90678.png"
+        },
+        {
             "title": "俄称打击乌防空系统 乌称袭击俄军用机场",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48563362.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/3fdcd965-c715-4bfe-9e01-3bed23cebfa6.jpg"
@@ -9,14 +14,14 @@
             "title": "以色列被曝多处军事设施曾遭伊朗袭击",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48563324.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/63a20923-27e1-40f6-b2d4-54a7c70475b2.jpg"
-        },
-        {
-            "title": "海景房直播暴露我军舰动态 国安机关:处置相关人员",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250706/48563274.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/c13e26b6-71d5-4849-bd60-3fa860f992c5.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "“中华神盾”052D湛江舰到港引人瞩目",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250706/48563040.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/320x0/news/20250706/8839d707-262c-440b-8630-a317c8db3356.jpg"
+        },
         {
             "title": "054A护卫舰：航母编队的反潜“老手”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250706/48563028.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250706/e3d49fa4-929a-4d8e-abf4-2fe71fb9b8f8.jpg"
         },
         {
-            "title": "俄罗斯谢列梅捷沃机场200余架航班取消或延误",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48562952.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250706/cf7ef9ad-86c9-4dfe-94a3-d8f6bc0fef95.jpg"
+            "title": "海景房直播暴露我军舰动态 国安机关:处置相关人员",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250706/48563274.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/c13e26b6-71d5-4849-bd60-3fa860f992c5.jpg"
         },
         {
             "title": "土耳其罕见“七月飞雪” 当地人直呼几十年未见",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48563242.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/c63b683a-b066-4ba6-bf81-2797ac5cc734.png"
-        },
-        {
-            "title": "以伊冲突后 哈梅内伊首次公开露面",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48563145.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/b4ee28a7-f113-4240-aa10-c6bb80cbca22.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "商务部：征收反倾销税！期限5年",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250704/48560118.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "外交部：乌克兰危机长期化不符合任何一方的利益",
@@ -231,12 +237,6 @@
             {
                 "title": "【环球财经】意储蓄信贷银行批准13亿欧元新融资 重点投向基建与绿色交通",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250704/48555642.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "市场需求回升动力增强，6月份中国公路物流运价指数稳中有升",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250704/48555643.html?ayjr"
             }
         ]
     ]
