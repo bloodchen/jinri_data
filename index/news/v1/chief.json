@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "“鲨鱼”→“飞虎”！80年了，他们再度来到中国",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250706/48563059.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250706/42bbe898-8ec7-4c0d-920f-308231318976.jpg"
+        },
+        {
             "title": "“中华神盾”052D湛江舰到港引人瞩目",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250706/48563040.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/320x0/news/20250706/8839d707-262c-440b-8630-a317c8db3356.jpg"
@@ -9,14 +14,14 @@
             "title": "054A护卫舰：航母编队的反潜“老手”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250706/48563028.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250706/65a2e579-2f43-441a-89d1-71e9e421d6e9.jpg"
-        },
-        {
-            "title": "洪水 山火 枪击 抗议 这个“独立日”美国不平静",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48562996.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/02872a47-077f-4158-ab71-f287f9e13bcf.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "俄罗斯谢列梅捷沃机场200余架航班取消或延误",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48562952.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250706/cf7ef9ad-86c9-4dfe-94a3-d8f6bc0fef95.jpg"
+        },
         {
             "title": "埃及吉萨省发生一起交通事故 已致10死10伤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48562942.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/595x0/news/20250705/4c35f208-5295-4e64-8c72-16b1be883439.png"
         },
         {
-            "title": "部分地区超40℃ 河南省106条高温预警信号生效中",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250705/48562421.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250705/42dfebfb-2248-4c9c-8e23-6592df6d1f5f.jpg"
+            "title": "洪水 山火 枪击 抗议 这个“独立日”美国不平静",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48562996.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/02872a47-077f-4158-ab71-f287f9e13bcf.jpg"
         },
         {
             "title": "时隔57年 印度领导人访问阿根廷",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48562979.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250706/884071db-d3c3-46f4-a633-3572f731701e.png"
-        },
-        {
-            "title": "以总理办公室：无法接受哈马斯提出的意见",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48562970.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250706/44777f94-03aa-4009-8456-9182681bfe5b.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "和普京电话谈咋样？特朗普：聊了很久 毫无进展",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250704/48558579.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美方取消相关对华经贸限制措施，商务部回应",
@@ -231,12 +237,6 @@
             {
                 "title": "马筱梅指出S妈的偏心，戳穿徐家人的假把戏，他们从不关心孩子",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250704/48555648.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美众议院通过“大而美”法案 普京称不放弃消除乌克兰危机根源",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250704/48555650.html?ayjr"
             }
         ]
     ]
