@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "这一天，怎能忘！怎敢忘！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250707/48567090.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250707/26989869-c63f-4a1f-b0fb-f3d612df6fc2.jpg"
+        },
+        {
             "title": "重庆发布激励政策 支持科技影视产业高质量发展",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250707/48566337.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250707/9c9cb650-aebb-4c6b-aa6b-66762456083e.jpg"
@@ -9,14 +14,14 @@
             "title": "珍妮弗·西蒙斯当选苏里南首位女总统",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250707/48566226.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250707/b02d57ec-c8de-4ac8-bbcc-0b9145735a52.jpg"
-        },
-        {
-            "title": "马斯克建“美国党”后未来12个月工作重点",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250707/48566215.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250707/ae69af17-c663-4189-8134-7902c94db1b9.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "泰国三天两换总理，准备迎回佩通坦？",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250707/48565822.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250704/3bb3e806-d7fc-4b55-96c2-e74d9165ea24.jpg"
+        },
         {
             "title": "高温黄色预警：浙江湖北河南陕西等 7 省区局地可达 40 ℃以上",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250707/48565823.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250704/28911a7c-cb61-49c4-8926-33e42648689e.jpg"
         },
         {
-            "title": "广州一男子因为工作生活压力大，试图杀了熟睡中的女友再自杀！法院判了",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250707/48565829.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250704/d40dc146-75cd-4a48-a2c6-714d4e3326c1.jpg"
+            "title": "马斯克建“美国党”后未来12个月工作重点",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250707/48566215.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250707/ae69af17-c663-4189-8134-7902c94db1b9.jpg"
         },
         {
             "title": "四川成都中心城区出现强降雨 消防员齐胸积水中营救被困群众",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250707/48565819.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250704/21ed151b-635a-4589-9454-e96efa6e7473.jpg"
-        },
-        {
-            "title": "美国解禁：恢复对华 C919 发动机出口！",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250707/48565820.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250704/5ba01cb0-d497-4516-8ae2-4f4103fe1f1b.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "山东舰编队访港有深意，既是示好也是示警",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250707/48565814.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "英国王妃凯特谈抗癌经历：必须“勇敢面对”",
@@ -231,12 +237,6 @@
             {
                 "title": "“中华神盾”052D湛江舰到港引人瞩目",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250706/48563040.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "054A护卫舰：航母编队的反潜“老手”",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250706/48563028.html?ayjr"
             }
         ]
     ]
