@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "前5个月生产原煤19.9亿吨 今夏能源保供底气足",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250707/48567727.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250707/f69b2396-4192-4ca6-a052-989e9ece61dd.jpg"
+        },
+        {
             "title": "运城舰率先启程 山东舰航母编队陆续返航离港",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250707/48567529.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250707/e4da49ad-f703-4190-9422-97cec523c642.jpg"
@@ -9,14 +14,14 @@
             "title": "马斯克建党当天，第一个“反制”来了",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250707/48567365.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250707/5b853d92-e0ff-4834-82cb-6fc5e88e3f82.jpg"
-        },
-        {
-            "title": "这一天，怎能忘！怎敢忘！",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250707/48567090.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250707/26989869-c63f-4a1f-b0fb-f3d612df6fc2.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "四川成都中心城区出现强降雨 消防员齐胸积水中营救被困群众",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250707/48565819.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250704/21ed151b-635a-4589-9454-e96efa6e7473.jpg"
+        },
         {
             "title": "美国解禁：恢复对华 C919 发动机出口！",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250707/48565820.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250704/316c10b1-7f67-4d94-ac64-21b7e7b40688.jpg"
         },
         {
-            "title": "与普京通话后，特朗普不满：毫无进展，我不高兴",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250707/48565825.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250704/5346ede5-f5dc-4177-9f7c-a35c8f10250d.jpg"
+            "title": "这一天，怎能忘！怎敢忘！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250707/48567090.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250707/26989869-c63f-4a1f-b0fb-f3d612df6fc2.jpg"
         },
         {
             "title": "重庆发布激励政策 支持科技影视产业高质量发展",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250707/48566337.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250707/9c9cb650-aebb-4c6b-aa6b-66762456083e.jpg"
-        },
-        {
-            "title": "珍妮弗·西蒙斯当选苏里南首位女总统",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250707/48566226.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250707/b02d57ec-c8de-4ac8-bbcc-0b9145735a52.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "南航坠楼机长妻子发声：丈夫出事后南航无任何人通知家属，为何会突然身亡",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250707/48565810.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "青海祁连县现“七月飞雪”，积雪盖住半个车轮！气象局回应：概率很低",
@@ -231,12 +237,6 @@
             {
                 "title": "土耳其罕见“七月飞雪” 当地人直呼几十年未见",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48563242.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "以伊冲突后 哈梅内伊首次公开露面",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250706/48563145.html?ayjr"
             }
         ]
     ]
