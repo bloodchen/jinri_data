@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "商务部：将8家台湾地区实体列入出口管制管控名单",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250709/48577722.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20250709/57c5df10-0a32-46d6-be4b-57ab663a57de.png"
+        },
+        {
             "title": "特朗普延长“对等关税”暂缓期 欧盟陷入战略迷茫",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250709/48577556.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250709/7ae3d9af-35e4-4bd1-84fc-7be6cc9cd639.jpg"
@@ -9,14 +14,14 @@
             "title": "俄称打击乌能源设施 乌称持续遏制俄攻势",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250709/48577482.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250709/28ff005b-31ef-446b-afaf-af8bade82f51.jpg"
-        },
-        {
-            "title": "“复兴号”新车型测试时速450公里！",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250709/48577420.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250709/bfe08afc-69bc-4e7b-929b-15ccfc772ca9.png"
         }
     ],
     "midImg": [
+        {
+            "title": "美国得克萨斯州洪灾已致109人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250709/48577173.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250709/d18f904a-b82a-4a12-93e7-70afb6ed0a5f.jpg"
+        },
         {
             "title": "法国南部森林火灾蔓延 已烧毁超700公顷林地",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250709/48577154.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250709/7bfeb4f9-3a82-4be6-8090-484097f0b326.jpg"
         },
         {
-            "title": "有关降息、对俄制裁等 特朗普内阁会议信息量极大",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250709/48577017.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250709/0e855a17-a7a3-4dab-8a33-63f8322c41f3.jpg"
+            "title": "“复兴号”新车型测试时速450公里！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250709/48577420.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250709/bfe08afc-69bc-4e7b-929b-15ccfc772ca9.png"
         },
         {
             "title": "特朗普的“关税信函”是什么？为何先给这14个国家",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250709/48577291.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250709/cc978c8c-7449-4610-b093-8c30170b6bee.jpg"
-        },
-        {
-            "title": "天舟八号货运飞船已受控再入大气层",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250709/48577235.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250709/6db8f404-217f-44a5-9335-8fc61609408a.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "伊朗总统称计划暗杀他的幕后黑手是以色列",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250708/48571170.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "空军三型教练机编队飞行影像首次展现！",
@@ -231,12 +237,6 @@
             {
                 "title": "“西交利物浦大学三名学生因非法获取试卷等被开除”，校方：情况属实",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250707/48565840.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "险资私募“弹药”再加码，新华保险出资 112.5 亿元认购鸿鹄志远三期",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250707/48565795.html?ayjr"
             }
         ]
     ]
