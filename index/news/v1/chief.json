@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "特朗普的“关税信函”是什么？为何先给这14个国家",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250709/48577291.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250709/cc978c8c-7449-4610-b093-8c30170b6bee.jpg"
+        },
+        {
             "title": "天舟八号货运飞船已受控再入大气层",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250709/48577235.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250709/6db8f404-217f-44a5-9335-8fc61609408a.png"
@@ -9,14 +14,14 @@
             "title": "24小时两见特朗普 以总理只为一件事",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250709/48577213.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250709/0c1a62e9-0ebb-4c15-8f33-2ea7b6c2ff15.png"
-        },
-        {
-            "title": "美国得克萨斯州洪灾已致109人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250709/48577173.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250709/d18f904a-b82a-4a12-93e7-70afb6ed0a5f.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "尼泊尔边境地区山洪已造成9人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250709/48577065.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250709/ad126fd5-a30b-4d1f-a59a-9995535bc78c.jpg"
+        },
         {
             "title": "又改口了 特朗普：不会赦免农场的非法移民",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250709/48577052.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250708/1936a152-bfd9-49a9-b198-c757285322ca.jpg"
         },
         {
-            "title": "抢锦绣芳华“云包场”冲上热搜，制片人坦言新剧宣发“标配”动作成额外负担",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250709/48576933.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250708/85d06049-f347-4ba7-a6dc-4459db4e7e16.jpg"
+            "title": "美国得克萨斯州洪灾已致109人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250709/48577173.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250709/d18f904a-b82a-4a12-93e7-70afb6ed0a5f.jpg"
         },
         {
             "title": "法国南部森林火灾蔓延 已烧毁超700公顷林地",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250709/48577154.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/348x0/news/20250709/2e3ddfe2-ca7f-47bd-adab-50c1c51bf4e0.jpg"
-        },
-        {
-            "title": "胡塞武装：海上袭击只针对以色列及其相关联目标",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250709/48577108.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250709/9ee1762f-99e0-4673-a930-3096ca1ca3c6.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "731部队原成员口述证言公布，细节触目惊心",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250707/48568082.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "韩国法院将于9日下午对尹锡悦进行拘捕必要性审查",
@@ -231,12 +237,6 @@
             {
                 "title": "江西共青农商行被罚 116.25 万，涉多项违规行为",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250707/48565798.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "华夏银行兰州分行被罚 46.93 万，涉未按规定识别客户身份等",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250707/48565799.html?ayjr"
             }
         ]
     ]
