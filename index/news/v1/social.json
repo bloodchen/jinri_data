@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "国新办将举行发布会，介绍2025年上半年金融统计数据情况",
+            "url": "https://toutiao.china.com/s_aysh/aou/sh/13004012/20250709/48580883.html?aysh",
+            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250709/ef6f4418-4b59-4826-9521-b6be52883a5f.jpg"
+        },
+        {
             "title": "重庆渝北银座村镇银行被罚 96 万，涉未按规定识别客户等",
             "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250709/48576941.html?aysh",
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250708/07f0e0bc-717f-44f0-aea7-7fabffe97d60.jpg"
@@ -9,14 +14,14 @@
             "title": "广西罗城农商行被罚 68.4 万，董事长被罚 4.4 万",
             "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250709/48576942.html?aysh",
             "img": "https://img2.utuku.imgcdc.com/650x0/toutiao/20250708/f8509ff0-06f5-4fea-a3f9-815abe8a03b9.jpg"
-        },
-        {
-            "title": "死缓！西藏自治区政府原副主席王勇受贿案一审宣判",
-            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250709/48576943.html?aysh",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250708/01cef5ec-b772-4c0b-96ac-3d8e4c496e6c.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "甘肃幼儿园血铅异常事件跟踪：不可食用的彩绘颜料为何被用于食品制作？",
+            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250709/48576947.html?aysh",
+            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250708/217499f2-e662-44d3-9320-392942ec3737.jpg"
+        },
         {
             "title": "湖北省政协原副主席周先旺被查",
             "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250709/48576948.html?aysh",
@@ -43,22 +48,41 @@
             "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250708/5ee65bdc-343b-4e10-9e56-21a6ed9a9549.jpg"
         },
         {
-            "title": "台风“丹娜丝”或在浙闽沿海再次登陆！浙江部分列车停运，多地暴雨到大暴雨",
-            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250709/48576953.html?aysh",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250708/4a92db0e-2080-4223-80e0-821595bbcac7.jpg"
+            "title": "死缓！西藏自治区政府原副主席王勇受贿案一审宣判",
+            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250709/48576943.html?aysh",
+            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250708/01cef5ec-b772-4c0b-96ac-3d8e4c496e6c.jpg"
         },
         {
             "title": "一见 · 从伟大抗战精神，领悟共产党人的初心、决心与信心",
             "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250709/48576944.html?aysh",
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250708/6137d6d5-49da-4ed5-9a2a-7c7c306bc508.jpg"
-        },
-        {
-            "title": "燕京啤酒延续增长势头，上半年净利润预增 40%-50%",
-            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250709/48576945.html?aysh",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250708/932f6793-d108-427a-bf66-712b005ea739.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "中央气象台7月8日06时继续发布台风蓝色预警",
+                "url": "https://toutiao.china.com/s_aysh/aou/sh/13004012/20250708/48573729.html?aysh"
+            }
+        ],
+        [
+            {
+                "title": "中央气象台7月8日06时继续发布大雾黄色预警",
+                "url": "https://toutiao.china.com/s_aysh/aou/sh/13004012/20250708/48573730.html?aysh"
+            }
+        ],
+        [
+            {
+                "title": "马斯克说美财长“不懂数学” 贝森特反讥“他不受欢迎”",
+                "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250708/48571616.html?aysh"
+            }
+        ],
+        [
+            {
+                "title": "四川商通支付科技被罚 3 万，涉违反预付卡管理规定",
+                "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250708/48571617.html?aysh"
+            }
+        ],
         [
             {
                 "title": "特朗普“官宣”发函时间 美国贸易谈判谈咋样了？",
@@ -213,30 +237,6 @@
             {
                 "title": "特朗普宣布：新关税税率最高 70%",
                 "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250707/48565763.html?aysh"
-            }
-        ],
-        [
-            {
-                "title": "重庆小雨点小额贷被罚 249.1 万，责任人被罚 14.2 万",
-                "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250707/48565764.html?aysh"
-            }
-        ],
-        [
-            {
-                "title": "长安汽车金融被罚 53 万元，涉违反信用信息采集管理规定等",
-                "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250707/48565765.html?aysh"
-            }
-        ],
-        [
-            {
-                "title": "重庆富民银行被罚 58 万，涉未按规定履行客户身份识别义务",
-                "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250707/48565766.html?aysh"
-            }
-        ],
-        [
-            {
-                "title": "太平资管被罚 678 万，责任人共被罚 76 万",
-                "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250707/48565768.html?aysh"
             }
         ]
     ]
