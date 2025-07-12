@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "18天后，美国国防部终于承认了……",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250712/48595566.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/537x0/news/20250712/01c9cd02-e978-4cdc-85b1-f92b17246a16.png"
+        },
+        {
             "title": "最新金融统计数据即将公布 重磅发布会下周一召开",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250712/48595521.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250712/57d9135b-07c4-432a-870e-bc77a13ee7fd.png"
@@ -9,14 +14,14 @@
             "title": "新一轮加沙地带停火谈判继续 两大分歧待解",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250712/48595369.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250712/8a262eda-8673-4440-9eec-8143d6f9e08f.jpg"
-        },
-        {
-            "title": "厄瓜多尔黑帮头目“菲托”同意被引渡到美国",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250712/48595345.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250712/d2277036-96f6-4d5d-94a0-471311b6fa76.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "8吨追尾+30吨夹击……汽车安全迎接“极限挑战”！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250712/48594943.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250712/50e9be72-ca8a-489f-9689-df2453d1c348.jpg"
+        },
         {
             "title": "印航空难调查报告：坠机前发动机燃料供应被切断",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250712/48594888.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250712/c149280b-d91b-423d-961e-9f9f855cf704.jpg"
         },
         {
-            "title": "4天23份“最后通牒” 美国时隔3月又一轮极限施压",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250711/48593367.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250711/6c9d8c47-2a22-4382-8f4d-031f92844ed9.jpg"
+            "title": "厄瓜多尔黑帮头目“菲托”同意被引渡到美国",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250712/48595345.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250712/d2277036-96f6-4d5d-94a0-471311b6fa76.jpg"
         },
         {
             "title": "入轨误差小于4秒 天舟九号的“专车”准备完毕",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250712/48595305.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250712/c0a8f795-f2a6-42b2-a06d-b0bec0cab13b.jpg"
-        },
-        {
-            "title": "禁止入境美国 美宣布对古巴国家主席进行制裁",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250712/48595282.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/600x0/news/20250712/b3a287be-8a24-487f-a7fc-7737e39a6845.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "郭德纲发文悼念杨少华",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250711/48588932.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "去年首亏的弘元绿能要做“白马骑士”？称托管无锡尚德暂不需要投入资金",
@@ -231,12 +237,6 @@
             {
                 "title": "战机如何安全平稳着舰？带你看明白它的独门绝技",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250710/48582724.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "卢拉回应特朗普：巴西拒绝被控制 将反制美50%关税",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250710/48582600.html?ayjr"
             }
         ]
     ]
