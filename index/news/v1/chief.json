@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "禁止入境美国 美宣布对古巴国家主席进行制裁",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250712/48595282.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/600x0/news/20250712/b3a287be-8a24-487f-a7fc-7737e39a6845.jpg"
+        },
+        {
             "title": "“西夏陵”申遗成功！这些神秘陵塔下埋葬的是谁？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250712/48595073.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250712/a1c616be-20de-45d1-b9e3-f25054bbe2b0.jpg"
@@ -9,14 +14,14 @@
             "title": "8吨追尾+30吨夹击……汽车安全迎接“极限挑战”！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250712/48594943.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250712/50e9be72-ca8a-489f-9689-df2453d1c348.jpg"
-        },
-        {
-            "title": "印航空难调查报告：坠机前发动机燃料供应被切断",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250712/48594888.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250712/11a5c349-d5c5-42d4-82f8-1f1547b7c31f.png"
         }
     ],
     "midImg": [
+        {
+            "title": "以色列官员：加沙停火谈判过去24小时未取得进展",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250712/48594798.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250712/c149280b-d91b-423d-961e-9f9f855cf704.jpg"
+        },
         {
             "title": "4天23份“最后通牒” 美国时隔3月又一轮极限施压",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250711/48593367.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250711/17ce8994-86ae-4ebc-9435-1238ea030ee2.jpg"
         },
         {
-            "title": "巴勒斯坦官员：加沙停火谈判陷入僵局",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250711/48591073.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250711/3401fc6c-747e-48d6-adaa-7adcff109616.jpg"
+            "title": "印航空难调查报告：坠机前发动机燃料供应被切断",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250712/48594888.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250712/11a5c349-d5c5-42d4-82f8-1f1547b7c31f.png"
         },
         {
             "title": "美国对乌援助手段“上新” 俄罗斯：全是生意",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250712/48594861.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/600x0/news/20250712/65c13f4e-2289-436a-a446-e6629798d3ee.jpg"
-        },
-        {
-            "title": "听说西夏陵申遗成功 这些珍贵文物开启了热聊模式",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250712/48594821.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250712/588d9a49-0d3a-4892-9f4f-c04858fe705c.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "苹果二把手，退休了",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250711/48588937.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "义乌开始收稳定币？月交易流水破 10 亿美元？现场调查来了",
@@ -231,12 +237,6 @@
             {
                 "title": "公职人员被境外间谍布局围猎 国安部公布案例详情",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250710/48582353.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "特朗普宣布将对巴西征收50%关税 巴回应称不公平",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250710/48582336.html?ayjr"
             }
         ]
     ]
