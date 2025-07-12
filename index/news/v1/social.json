@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "扣车 最高罚1000元！北京严查电动自行车非法改装",
+            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250712/48596291.html?aysh",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250712/5614b93e-9106-4edf-9e50-5d5be5dd703a.jpg"
+        },
+        {
             "title": "国家网信办：新备案93款生成式人工智能服务",
             "url": "https://toutiao.china.com/s_aysh/aou/sh/13004012/20250711/48594684.html?aysh",
             "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250711/5747c664-0358-44aa-ba31-3fc32f904279.jpg"
@@ -9,14 +14,14 @@
             "title": "停车后自动转向，特斯拉 Robotaxi 发生首起碰撞事故！马斯克最新发声，特斯拉股价大涨",
             "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250711/48588903.html?aysh",
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250711/710e7be5-bdd5-4b3a-9e78-65bb668a46bb.jpg"
-        },
-        {
-            "title": "巴西称将退回特朗普加税信函，并召见美国临时代办",
-            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250711/48588904.html?aysh",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250711/d4eb84bd-5906-42a5-b3fd-40134e4d06f0.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "别养猫狗了，这届年轻人开始养“恐龙”",
+            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250711/48588908.html?aysh",
+            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250711/86c04b5a-7d5c-43ed-b96c-792cb8248be3.jpg"
+        },
         {
             "title": "前员工讲述 Manus 战略调整始末：本周一才正式通知，与阿里通义合作开发中文版或生变",
             "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250711/48588909.html?aysh",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250710/712f121e-74b8-4565-87c8-20494480c03c.jpg"
         },
         {
-            "title": "中钢银通被罚 684 万，责任人被警告并罚款 30 万",
-            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250711/48588914.html?aysh",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250710/a4976867-dde0-4a59-9a2b-4e65444d4f7b.jpg"
+            "title": "巴西称将退回特朗普加税信函，并召见美国临时代办",
+            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250711/48588904.html?aysh",
+            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250711/d4eb84bd-5906-42a5-b3fd-40134e4d06f0.jpg"
         },
         {
             "title": "两大稀土巨头宣布提价",
             "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250711/48588905.html?aysh",
             "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250711/cba18dff-ad5e-4639-8c43-13a81d08c895.jpg"
-        },
-        {
-            "title": "特朗普：加到 100 亿美元 韩国：不加",
-            "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250711/48588906.html?aysh",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250711/2554f831-e375-4643-bce1-3ebf32025958.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "崇仁九银村镇银行被罚 28 万，涉违反金融统计规定等",
+                "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250710/48581914.html?aysh"
+            }
+        ],
         [
             {
                 "title": "林葳发文回应被德克萨斯传奇选中：逐梦之旅第一步 会义无反顾走下去",
@@ -231,12 +237,6 @@
             {
                 "title": "一见 · 从伟大抗战精神，领悟共产党人的初心、决心与信心",
                 "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250709/48576944.html?aysh"
-            }
-        ],
-        [
-            {
-                "title": "燕京啤酒延续增长势头，上半年净利润预增 40%-50%",
-                "url": "https://toutiao.china.com/s_aysh/shsy/gundong4/13000238/20250709/48576945.html?aysh"
             }
         ]
     ]
