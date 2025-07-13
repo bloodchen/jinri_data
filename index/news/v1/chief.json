@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "视频丨以军对加沙北部哈马斯地下设施发动空袭",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250713/48597710.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/443x0/news/20250713/93c65fbb-c63e-4b3a-b9df-c7bfca824e9e.gif"
+        },
+        {
             "title": "玉渊谭天丨国际贸易格局，变了",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250713/48597577.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250713/408ea0fc-5de2-4d68-8a46-032d5a5e604d.png"
@@ -9,14 +14,14 @@
             "title": "日方舰机对中方抵近侦察滋扰 国防部发声",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250713/48597532.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20250713/8f12f356-d68f-4a06-8a6a-8420007452e0.png"
-        },
-        {
-            "title": "匈牙利总理：欧洲已输掉俄乌冲突 却不敢承认",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250713/48597401.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250713/f18d6cc9-7b85-4b7e-8bca-a88bc8074caa.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "朝俄外长举行战略对话 重申加强合作",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250713/48597101.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250713/0767fba3-1517-401f-b786-925235b593ac.jpg"
+        },
         {
             "title": "美国向欧盟、墨西哥发出&quot;关税通牒&quot; 盟友强硬回怼",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250713/48597066.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250712/ac6049bb-2dba-4058-82d8-84943432846a.jpg"
         },
         {
-            "title": "巴勒斯坦官员：新一轮加沙停火谈判濒临崩溃",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250712/48596049.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250712/3fc77888-3137-42da-a3f2-d1715f510e84.jpg"
+            "title": "匈牙利总理：欧洲已输掉俄乌冲突 却不敢承认",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250713/48597401.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250713/f18d6cc9-7b85-4b7e-8bca-a88bc8074caa.jpg"
         },
         {
             "title": "我国首艘海洋级智能综合科考船“同济”号交付",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250713/48597266.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250713/ac715c8e-72ce-4b83-af57-037ff02e3fb9.png"
-        },
-        {
-            "title": "如何破除“内卷式”竞争？多家车企给出答案",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250713/48597253.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250713/7c41fa85-fa88-4d36-a833-8ecf86ee0186.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "稳就业再添新政策 19条硬核举措出炉 专家解读",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250711/48589608.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "“中国太酷了”！硬核实力圈粉世界",
@@ -231,12 +237,6 @@
             {
                 "title": "最高法披露典型案例：一上市公司两高管受贿 5.6 亿元被判刑背后",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250711/48588943.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "卢拉回应特朗普：巴西拒绝被控制 将反制美 50% 关税",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250711/48588944.html?ayjr"
             }
         ]
     ]
