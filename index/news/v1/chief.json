@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "德官员：7月底将向乌交付数百枚德购买的远程导弹",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250713/48597183.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250713/9843eafe-78e2-406d-9ffc-d2584b1017f6.jpg"
+        },
+        {
             "title": "朝俄外长举行战略对话 重申加强合作",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250713/48597101.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250713/0767fba3-1517-401f-b786-925235b593ac.jpg"
@@ -9,14 +14,14 @@
             "title": "美国向欧盟、墨西哥发出&quot;关税通牒&quot; 盟友强硬回怼",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250713/48597066.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250713/e21d618e-86c2-4547-83e3-e80963519517.jpg"
-        },
-        {
-            "title": "泽连斯基：将继续在俄领土开展无人机作战",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250713/48597032.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250713/b5438daa-4702-4b4e-9720-6dbb0fc8193f.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "巴勒斯坦官员：新一轮加沙停火谈判濒临崩溃",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250712/48596049.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250712/3fc77888-3137-42da-a3f2-d1715f510e84.jpg"
+        },
         {
             "title": "60多年前，他带头研制的无人机就已经试飞成功",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250712/48595923.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/537x0/news/20250712/01c9cd02-e978-4cdc-85b1-f92b17246a16.png"
         },
         {
-            "title": "最新金融统计数据即将公布 重磅发布会下周一召开",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250712/48595521.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250712/57d9135b-07c4-432a-870e-bc77a13ee7fd.png"
+            "title": "泽连斯基：将继续在俄领土开展无人机作战",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250713/48597032.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250713/b5438daa-4702-4b4e-9720-6dbb0fc8193f.jpg"
         },
         {
             "title": "美联邦上诉法院驳回“9·11”主谋认罪免死协议",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250713/48596974.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250713/a83cc6fa-4c32-4c01-9357-795ed58d9c0f.png"
-        },
-        {
-            "title": "墨称美加征30%关税是“不公平待遇” 已开始谈判",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250713/48596953.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250713/9ebae031-befd-4f76-81a5-e07ee61844b1.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美国务院称将迅速实施裁员及重组计划",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250711/48589136.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美政府再现安全漏洞 “AI鲁比奥”与多名官员联络",
@@ -231,12 +237,6 @@
             {
                 "title": "外交部：滥施关税不符合任何一方的利益",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250710/48586264.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "以色列情报显示伊朗未在美军空袭前转移浓缩铀",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250710/48586246.html?ayjr"
             }
         ]
     ]
