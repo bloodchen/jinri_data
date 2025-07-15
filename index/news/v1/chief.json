@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "俄唯一航母或退役？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250715/48606938.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250715/f17a1dc5-ec10-4e86-ab7d-2869c0576c1d.png"
+        },
+        {
             "title": "天舟九号货运飞船发射任务取得圆满成功",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250715/48606881.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/640x0/news/20250715/59ea43e7-db9e-4763-a928-ca7c82b5f58f.jpg"
@@ -9,14 +14,14 @@
             "title": "局地达40℃以上！中央气象台继续发布高温橙色预警",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250715/48606857.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/640x0/news/20250715/96ad5214-aaaf-44d8-b4f9-69741304cf62.jpg"
-        },
-        {
-            "title": "对俄加关税对乌“送”导弹特朗普“重大声明”揭晓",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250715/48606831.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/550x0/news/20250715/96ec752e-9895-4d7c-b638-1b8764db9e82.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "1750 杯奶茶配送费 76.13 元？有网友晒厦门一蜜雪冰城店奇葩订单，商家回应",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250715/48606464.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250714/bea22cbb-24b7-492d-8086-135b50de8987.jpg"
+        },
         {
             "title": "外资巨头重仓 ETF，华宝基金榜上有名",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250715/48606460.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250714/3d35d69a-0e8c-4e2c-b40f-c480164f0f3b.jpg"
         },
         {
-            "title": "“靠烟吃烟”，张天峰被开除党籍",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250715/48606440.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250714/3a86982f-6bb9-4514-9abe-8d6838f9c19e.jpg"
+            "title": "对俄加关税对乌“送”导弹特朗普“重大声明”揭晓",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250715/48606831.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/550x0/news/20250715/96ec752e-9895-4d7c-b638-1b8764db9e82.jpg"
         },
         {
             "title": "尹锡悦涉嫌外患罪调查启动",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250715/48606819.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/640x0/news/20250715/21f6b58c-e0d6-4083-bbe5-323d500708a2.jpg"
-        },
-        {
-            "title": "最高检5个巡视组，已全部反馈意见",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250715/48606807.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250715/3d9c45b3-f56d-4163-b6a4-05e9966af3de.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "脑机接口离现实有多远？对话 4 位一线人士，揭示产业真实进度条",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250715/48606411.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "中国出口的天，真没塌下来",
@@ -231,12 +237,6 @@
             {
                 "title": "38 万就能买玛莎拉蒂？“跑车皇后”在华销量遇冷，新车裸车价低于部分二手车",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250714/48600492.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "投资 80 万做买卖，每个月还要发展“下线”？当事人：现在本金取不出来了",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250714/48600493.html?ayjr"
             }
         ]
     ]
