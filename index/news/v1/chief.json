@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "价值840亿美元！欧盟亮出202页对美反制清单",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250716/48614286.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250716/ce2de081-b7bf-4126-b2af-284fab0cf97f.jpg"
+        },
+        {
             "title": "检方：禁止尹锡悦被起诉前会见律师及家属以外人员",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250716/48613891.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250716/b5abaea7-f55c-464c-8535-612a2f007490.jpg"
@@ -9,14 +14,14 @@
             "title": "关税后美又对墨西哥番茄征税 墨总统：均不接受",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250716/48613626.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250716/5b612cf8-a859-4f72-b61a-0dce0697d762.jpg"
-        },
-        {
-            "title": " 别让AI助手成威胁国家安全的“隐形武器”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250716/48613367.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250716/59c6710c-6a2b-4b75-a462-186908e09e2c.png"
         }
     ],
     "midImg": [
+        {
+            "title": "牛弹琴：很突然，特朗普 180 度大转弯了",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250716/48613262.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250715/efbf2320-9925-4fdf-961e-a5aef2f872f5.jpg"
+        },
         {
             "title": "欧盟准备对 720 亿欧元美国商品征收反制关税",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250716/48613263.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250716/2afdc610-96de-4d70-99d8-ee28b5103244.jpg"
         },
         {
-            "title": "也门胡塞武装：对以色列两处目标实施“同步袭击”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250716/48613057.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250716/ea137f53-1d45-4c2e-8520-2fb6ec48973c.jpg"
+            "title": " 别让AI助手成威胁国家安全的“隐形武器”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250716/48613367.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250716/59c6710c-6a2b-4b75-a462-186908e09e2c.png"
         },
         {
             "title": "对鼓动乌军打击莫斯科 特朗普给出了明确回答",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250716/48613342.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250716/d1170fc6-5842-49e3-92c2-d49494596bf4.jpg"
-        },
-        {
-            "title": "特朗普:武器已运往乌克兰 北约将偿还美方所有费用",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250716/48613308.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250716/801a4627-9cfa-4a3a-b6e6-470f5f3dba88.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美要这两国对“台海战争”做出表态，但被拒绝了",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250715/48606445.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "宗馥莉因 18 亿美元的信托资金遗产被同父异母弟妹三人起诉？娃哈哈：家族内部事务与公司业务无关联",
@@ -231,12 +237,6 @@
             {
                 "title": "中信尼雅预计上半年净利扭亏，扣非仍亏损 195 万元至 245 万元",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250715/48606418.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美“升级版”轰炸机飞临韩国，为何引发朝鲜高度警觉？",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250715/48606419.html?ayjr"
             }
         ]
     ]
