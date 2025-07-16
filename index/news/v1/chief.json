@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "关税后美又对墨西哥番茄征税 墨总统：均不接受",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250716/48613626.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250716/5b612cf8-a859-4f72-b61a-0dce0697d762.jpg"
+        },
+        {
             "title": " 别让AI助手成威胁国家安全的“隐形武器”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250716/48613367.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250716/59c6710c-6a2b-4b75-a462-186908e09e2c.png"
@@ -9,14 +14,14 @@
             "title": "对鼓动乌军打击莫斯科 特朗普给出了明确回答",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250716/48613342.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250716/d1170fc6-5842-49e3-92c2-d49494596bf4.jpg"
-        },
-        {
-            "title": "特朗普:武器已运往乌克兰 北约将偿还美方所有费用",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250716/48613308.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250716/801a4627-9cfa-4a3a-b6e6-470f5f3dba88.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "不识字老人两年被扣近 9000 元话费，女儿拿出超长账单，电信：退回误扣 2600 元",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250716/48613265.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250715/8dbee0e2-ef89-44f8-ba62-d11fe76a3bc6.jpg"
+        },
         {
             "title": "32 人挤一笼、刷牙用马桶水，揭开美国移民噩梦",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250716/48613266.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250716/3f6a64c6-e633-43e5-a1e3-e52dd6b5f558.jpg"
         },
         {
-            "title": "特朗普：泽连斯基不应将莫斯科作为攻击目标",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250716/48612509.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250716/142e7c71-f88f-4614-8e9b-3d6738b06637.jpg"
+            "title": "特朗普:武器已运往乌克兰 北约将偿还美方所有费用",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250716/48613308.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250716/801a4627-9cfa-4a3a-b6e6-470f5f3dba88.jpg"
         },
         {
             "title": "17 岁亚马尔中国行，称若世界杯遇到中国队也会很难踢",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250716/48613261.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250715/4ba8fca5-f902-45e4-89cf-852e98d1ef8a.jpg"
-        },
-        {
-            "title": "牛弹琴：很突然，特朗普 180 度大转弯了",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250716/48613262.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250715/efbf2320-9925-4fdf-961e-a5aef2f872f5.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "沙特：2026 年起，外国人也能买房了",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250715/48606447.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "永辉超市申请多枚“胖小辉”商标，预计到九月底调改门店突破 208 家",
@@ -231,12 +237,6 @@
             {
                 "title": "瑞梅铁路全线跨度最大连续梁顺利合龙",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250714/48603861.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "从深圳盐田港看中国外贸“加速度”",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250714/48603748.html?ayjr"
             }
         ]
     ]
