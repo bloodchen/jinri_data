@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "俄罗斯远东地区失联米-8直升机已确认坠毁",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250716/48615459.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/292x0/news/20250716/22caaa91-be59-4cf5-afed-982111770d9c.jpg"
+        },
+        {
             "title": "国台办：赖清德所谓“团结十讲”充斥着谎言与欺骗",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250716/48614888.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250716/7a3560bf-87b0-49c4-a03b-a01cb2b2fd0a.jpg"
@@ -9,14 +14,14 @@
             "title": "菲船用危险动作近距离挑衅中国海警被驱离",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250716/48614825.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20250716/40ed37a2-03cd-4eaa-9f4f-7e4b5bc3cb30.png"
-        },
-        {
-            "title": "市监局公布一批产品质量领域&quot;内卷式&quot;竞争典型案例",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250716/48614786.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250716/81c90a8b-7985-441f-b6ef-7025011c9429.png"
         }
     ],
     "midImg": [
+        {
+            "title": "食物短缺 加沙民众拼命举起锅碗只想领到一勺粥",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250716/48614522.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250716/8bf6ea59-877c-448c-960d-b21d0e938c5e.jpg"
+        },
         {
             "title": "8家台湾实体被列入出口管控名单 国台办：合理合法",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250716/48614465.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250716/5b612cf8-a859-4f72-b61a-0dce0697d762.jpg"
         },
         {
-            "title": " 别让AI助手成威胁国家安全的“隐形武器”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250716/48613367.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250716/59c6710c-6a2b-4b75-a462-186908e09e2c.png"
+            "title": "市监局公布一批产品质量领域&quot;内卷式&quot;竞争典型案例",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250716/48614786.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250716/81c90a8b-7985-441f-b6ef-7025011c9429.png"
         },
         {
             "title": "省下一半门票钱！请查收高铁+景区优惠全攻略",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250716/48614733.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250716/4a979958-a3cf-411d-92cc-99756ee9ab34.jpg"
-        },
-        {
-            "title": "质疑拘留合法性 尹锡悦提请韩国法院进行审查",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250716/48614644.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250716/5b959e39-cb5d-4b91-bee9-0b662008ae37.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "外资巨头重仓 ETF，华宝基金榜上有名",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250715/48606460.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "河南焊在 40 ℃里了！高温今日正式发起“攻击”！老乡们听劝：扔掉幻想，空调别停",
@@ -231,12 +237,6 @@
             {
                 "title": "美国得州洪灾仍有超 170 人下落不明，暴雨再袭致搜救暂停",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250715/48606429.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "好丽友进山姆，中产不买账了",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250715/48606408.html?ayjr"
             }
         ]
     ]
