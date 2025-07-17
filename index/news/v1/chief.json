@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美国总统特朗普被确诊患静脉疾病",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250718/48622570.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250718/6ccb8ffd-ac95-4945-a3fb-bfad9e3038a5.jpg"
+        },
+        {
             "title": "特朗普：对日征收25%关税 或很快与印度达成协定",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250717/48621294.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250717/2ce26142-5281-419b-ab58-27d1ef629cd4.jpg"
@@ -9,14 +14,14 @@
             "title": "俄奥委会主席：俄罗斯已准备好第三次举办奥运会",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250717/48621216.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250717/c0bc7656-4b09-4436-992d-158a8c66a31c.jpg"
-        },
-        {
-            "title": "6号台风“韦帕”预计今日生成 本月或登陆我国",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250717/48621143.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/550x0/news/20250717/a8471e97-7355-49e2-a2a7-af7674eb6620.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "外交部：叙利亚的主权和领土完整应得到尊重",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250717/48620977.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250717/d41c7f5e-cb78-4838-9a5c-50edef225a35.png"
+        },
         {
             "title": "第二轮土地承包到期再延30年试点扩大",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250717/48620959.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250717/77a3e21f-4eb6-4fee-8ffe-58e937dbfa8b.jpg"
         },
         {
-            "title": "韩国最高法院维持三星电子会长李在镕无罪判决",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250717/48619621.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250717/c7066951-e345-4b2a-92fc-04e617a79486.jpg"
+            "title": "6号台风“韦帕”预计今日生成 本月或登陆我国",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250717/48621143.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/550x0/news/20250717/a8471e97-7355-49e2-a2a7-af7674eb6620.jpg"
         },
         {
             "title": "快递服务收费计重“向上取整” 国家邮政局回应",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250717/48621103.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20250717/75f65230-65e7-4ff1-b165-da565e6d3544.png"
-        },
-        {
-            "title": "外交部回应特朗普言论：责任在美国自身！",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250717/48621073.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250717/c33d48be-df9e-430c-aab3-cfdcbc5f4b27.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "国新证券欲甩“历史包袱”，一次性抹平逾 60 亿亏损，频频调整人事、组织架构",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250717/48617614.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "黄仁勋高调示好中国后，经销商：H20 询价激增，重启销售或引发降价",
@@ -231,12 +237,6 @@
             {
                 "title": "欧盟准备对 720 亿欧元美国商品征收反制关税",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250716/48613263.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "不识字老人两年被扣近 9000 元话费，女儿拿出超长账单，电信：退回误扣 2600 元",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250716/48613265.html?ayjr"
             }
         ]
     ]
