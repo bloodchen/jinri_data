@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "俄奥委会主席：俄罗斯已准备好第三次举办奥运会",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250717/48621216.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250717/c0bc7656-4b09-4436-992d-158a8c66a31c.jpg"
+        },
+        {
             "title": "6号台风“韦帕”预计今日生成 本月或登陆我国",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250717/48621143.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/550x0/news/20250717/a8471e97-7355-49e2-a2a7-af7674eb6620.jpg"
@@ -9,14 +14,14 @@
             "title": "快递服务收费计重“向上取整” 国家邮政局回应",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250717/48621103.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20250717/75f65230-65e7-4ff1-b165-da565e6d3544.png"
-        },
-        {
-            "title": "外交部回应特朗普言论：责任在美国自身！",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250717/48621073.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250717/c33d48be-df9e-430c-aab3-cfdcbc5f4b27.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "530万美元！地球上已知最大火星陨石拍卖成交",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250717/48620598.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250717/f247c92c-0d01-44e8-8943-0eda2c744ae9.png"
+        },
         {
             "title": "美国阿拉斯加地区连续地震 此前已触发海啸预警",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250717/48620570.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250717/e9e4a51c-7142-491c-b00c-97a1caa514c8.jpg"
         },
         {
-            "title": "伊朗最高领袖称有能力对美国实施更沉重打击",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250717/48619111.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250717/10688ee9-ded3-4f02-9abb-dc0e3b08d8a8.jpg"
+            "title": "外交部回应特朗普言论：责任在美国自身！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250717/48621073.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250717/c33d48be-df9e-430c-aab3-cfdcbc5f4b27.jpg"
         },
         {
             "title": "恢复与美核谈判？ 伊朗再提先决条件",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250717/48621002.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250717/7ab24c20-cadb-465e-ae0f-b90523323ac2.jpg"
-        },
-        {
-            "title": "外交部：叙利亚的主权和领土完整应得到尊重",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250717/48620977.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250717/d41c7f5e-cb78-4838-9a5c-50edef225a35.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "从宾馆服务员干到副厅级领导，柴高潮涉嫌受贿罪被决定逮捕",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250717/48617616.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "暑假作业有意义吗？老师：个人认为最大意义是安抚家长",
@@ -231,12 +237,6 @@
             {
                 "title": "32 人挤一笼、刷牙用马桶水，揭开美国移民噩梦",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250716/48613266.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "中信银行舟山分行被罚 125 万，涉多项违规行为",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250716/48613260.html?ayjr"
             }
         ]
     ]
