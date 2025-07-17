@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "6号台风“韦帕”预计今日生成 本月或登陆我国",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250717/48621143.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/550x0/news/20250717/a8471e97-7355-49e2-a2a7-af7674eb6620.jpg"
+        },
+        {
             "title": "快递服务收费计重“向上取整” 国家邮政局回应",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250717/48621103.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20250717/75f65230-65e7-4ff1-b165-da565e6d3544.png"
@@ -9,14 +14,14 @@
             "title": "外交部回应特朗普言论：责任在美国自身！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250717/48621073.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250717/c33d48be-df9e-430c-aab3-cfdcbc5f4b27.jpg"
-        },
-        {
-            "title": "恢复与美核谈判？ 伊朗再提先决条件",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250717/48621002.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250717/7ab24c20-cadb-465e-ae0f-b90523323ac2.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美国阿拉斯加地区连续地震 此前已触发海啸预警",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250717/48620570.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/561x0/news/20250717/dacdbc45-0548-42a7-a2a7-7ba80894fe89.png"
+        },
         {
             "title": "伊拉克一超市突发大火 近50人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250717/48620530.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250717/10688ee9-ded3-4f02-9abb-dc0e3b08d8a8.jpg"
         },
         {
-            "title": "俄称高度关注西方援乌远程武器 核威慑政策仍有效",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250717/48618733.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250717/bcbe4f8e-877a-44ca-9542-f62cae88c461.jpg"
+            "title": "恢复与美核谈判？ 伊朗再提先决条件",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250717/48621002.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250717/7ab24c20-cadb-465e-ae0f-b90523323ac2.jpg"
         },
         {
             "title": "外交部：叙利亚的主权和领土完整应得到尊重",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250717/48620977.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20250717/d41c7f5e-cb78-4838-9a5c-50edef225a35.png"
-        },
-        {
-            "title": "第二轮土地承包到期再延30年试点扩大",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250717/48620959.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/300x0/news/20250717/bd1e0d66-5bfe-4be4-9bd6-de08f212d838.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "暑假作业有意义吗？老师：个人认为最大意义是安抚家长",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250717/48617617.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "人民网评“临沂蛤蟆汤事件”：破坏营商环境该追责",
@@ -231,12 +237,6 @@
             {
                 "title": "中信银行舟山分行被罚 125 万，涉多项违规行为",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250716/48613260.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "阿盟谴责以色列拟在加沙建“人道城”",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250716/48613259.html?ayjr"
             }
         ]
     ]
