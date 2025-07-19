@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美媒批评美国政府关税政策就是在对内加税",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250719/48628001.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250719/c4ce11ce-8015-4ac8-bd27-a9ecd891fa9b.jpg"
+        },
+        {
             "title": "扼住中国AI发展“咽喉”？算力焦虑背后的认知博弈",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250719/48627979.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250719/ad3ea1e1-20ee-48ce-837a-bbb38d324b13.jpg"
@@ -9,14 +14,14 @@
             "title": "北约5国拒绝加入“重新武装乌克兰”计划",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250719/48627940.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/562x0/news/20250719/dbed1442-f8c3-47db-86ea-df4d13e4078b.png"
-        },
-        {
-            "title": "受台风影响 海口三港将于7月19日21时30分起停运",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250719/48627927.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250719/b70094a0-cab4-4a99-9acf-279c49e16f06.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": " 美签新规：非移民签证需付“签证诚信费”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250719/48627406.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250719/785baf8e-ab28-4b1c-9ab5-bff29d3ef01a.jpg"
+        },
         {
             "title": "见证中国硬实力！从“首艘”“首座”看创新突破",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250719/48627388.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/382x0/news/20250719/e13fa5d4-0bdf-4226-9a66-6f9100834f1c.png"
         },
         {
-            "title": "为德国“插队”提供“爱国者” 美加快对乌军售",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250719/48627283.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250719/61f23773-3ae3-4997-9fcf-d29c61dcdebd.png"
+            "title": "受台风影响 海口三港将于7月19日21时30分起停运",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250719/48627927.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250719/b70094a0-cab4-4a99-9acf-279c49e16f06.jpg"
         },
         {
             "title": "加沙民众：以军所谓的“人道城”根本不人道",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250719/48627786.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250719/a92c8b6c-6533-46e1-889c-cbce82e98834.jpg"
-        },
-        {
-            "title": "特朗普称印巴冲突期间有五架战机被击落",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250719/48627770.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250719/c8479ce0-9b4d-4afb-a53e-08c7256d05bc.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "从20+到150+ 美关税大棒砸向全球超七成国家和地区",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250718/48623202.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "境外间谍利用寄递手段窃取我国稀土 国安最新提示",
@@ -231,12 +237,6 @@
             {
                 "title": "俄称高度关注西方援乌远程武器 核威慑政策仍有效",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250717/48618733.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "奖学金、助学金！14种资助政策，上大学必看→",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250717/48618628.html?ayjr"
             }
         ]
     ]
