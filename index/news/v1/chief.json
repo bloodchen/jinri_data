@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "“一声巨响”！美“传奇航母”被渔船撞了",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250720/48630652.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250720/58816689-7cfe-45d9-905c-0d438711482f.jpg"
+        },
+        {
             "title": "韩国连日暴雨已致14人死亡12人失踪",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250720/48630600.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/600x0/news/20250720/228d19b4-2336-4507-9499-2838f061643f.jpg"
@@ -9,14 +14,14 @@
             "title": "起飞后引擎突然起火 一波音客机紧急返航洛杉矶",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250720/48630581.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250720/552e72ca-24a0-4cf5-a4ab-7c5f3f95ed2e.png"
-        },
-        {
-            "title": "上半年国家铁路发送货物19.8亿吨 同比增长3.0%",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250720/48630439.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250720/7bc46ad5-b3f5-4a36-97e4-bddbbba21c97.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "台风“韦帕”已致菲律宾3人死亡 逾37万人受灾",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250720/48630215.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250720/0f9251ca-d81d-4dfe-a437-fcf210c644e8.jpg"
+        },
         {
             "title": "巴西咖啡出口商协会主席：美国加征关税&quot;害人害己&quot;",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250720/48630085.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250720/3ca2269e-335d-427d-85fe-5be6a8367c90.png"
         },
         {
-            "title": "中央巡视组进驻黑龙江 受理信访时间截至9月下旬",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250720/48629672.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250720/bee18eb1-f0b4-4b81-9595-66d84c64b199.png"
+            "title": "上半年国家铁路发送货物19.8亿吨 同比增长3.0%",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250720/48630439.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250720/7bc46ad5-b3f5-4a36-97e4-bddbbba21c97.jpg"
         },
         {
             "title": "中央巡视组进驻天津 接受群众来信来电来访",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250720/48630425.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250720/e20fb5a8-f9b6-4da3-a3ba-e778d10b84d1.png"
-        },
-        {
-            "title": "中央巡视组进驻辽宁并对沈阳大连开展联动巡视",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250720/48630410.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/300x0/news/20250720/58045a46-5288-4f77-9330-b719a09c32de.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "中央巡视组进驻山东 巡视济南青岛 联络方式公布",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250719/48627332.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "伊拉克商业楼火灾致60余人死亡 多名官员被停职",
@@ -231,12 +237,6 @@
             {
                 "title": "美媒称美军空袭仅重创伊朗一处核设施",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250718/48623564.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "叙南部武装冲突因何而起？以色列为何介入？",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250718/48623275.html?ayjr"
             }
         ]
     ]
