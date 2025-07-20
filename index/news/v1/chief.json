@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "新一轮加沙停火谈判预计可在两周内达成协议",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250720/48630242.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250720/c908f088-2395-408b-8abb-94afe034a2a8.jpg"
+        },
+        {
             "title": "台风“韦帕”已致菲律宾3人死亡 逾37万人受灾",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250720/48630215.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250720/0f9251ca-d81d-4dfe-a437-fcf210c644e8.jpg"
@@ -9,14 +14,14 @@
             "title": "巴西咖啡出口商协会主席：美国加征关税&quot;害人害己&quot;",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250720/48630085.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250720/b187696b-14e2-4b89-a621-fbdda36631e3.jpg"
-        },
-        {
-            "title": "厄瓜多尔中部发生暴力袭击 至少10人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250720/48629856.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250720/931f53a3-c670-4d2b-a283-38a072edc54b.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "中央巡视组进驻黑龙江 受理信访时间截至9月下旬",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250720/48629672.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250720/bee18eb1-f0b4-4b81-9595-66d84c64b199.png"
+        },
         {
             "title": "俄称打击乌军用机场 乌称击退新一轮进攻",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250720/48629629.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250720/c0ac76a9-3637-467a-89ad-7c0c0cf0291e.png"
         },
         {
-            "title": "乌克兰提议俄方于下周举行新一轮谈判",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250720/48629556.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250720/9cf8e294-0b7b-449a-825e-1244391a41b9.jpg"
+            "title": "厄瓜多尔中部发生暴力袭击 至少10人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250720/48629856.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250720/931f53a3-c670-4d2b-a283-38a072edc54b.jpg"
         },
         {
             "title": "撞车、撞石墩、士兵受伤…台军演习还是&quot;战损直播&quot;",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250720/48629840.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/440x0/news/20250720/b4fa8d78-f12a-4e0e-95da-fb69040323b0.png"
-        },
-        {
-            "title": "中央巡视组进驻重庆 专门电话和信箱公布",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250720/48629711.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250720/05827745-bbc2-485f-baf3-6f26ca645c19.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "伊拉克：6月袭击伊军事基地的无人机系境外制造",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250719/48627225.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "苏丹武装部队总司令要求作战部队全面撤出首都地区",
@@ -231,12 +237,6 @@
             {
                 "title": "美国务院：不支持以色列近期在叙利亚的行动",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250718/48623049.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "特朗普说可口可乐要改配方了 官方回应：谢谢，先不改",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250718/48622961.html?ayjr"
             }
         ]
     ]
