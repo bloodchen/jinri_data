@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "台风“韦帕”已致菲律宾3人死亡 逾37万人受灾",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250720/48630215.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250720/0f9251ca-d81d-4dfe-a437-fcf210c644e8.jpg"
+        },
+        {
             "title": "巴西咖啡出口商协会主席：美国加征关税&quot;害人害己&quot;",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250720/48630085.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250720/b187696b-14e2-4b89-a621-fbdda36631e3.jpg"
@@ -9,14 +14,14 @@
             "title": "厄瓜多尔中部发生暴力袭击 至少10人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250720/48629856.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250720/931f53a3-c670-4d2b-a283-38a072edc54b.jpg"
-        },
-        {
-            "title": "撞车、撞石墩、士兵受伤…台军演习还是&quot;战损直播&quot;",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250720/48629840.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/440x0/news/20250720/b4fa8d78-f12a-4e0e-95da-fb69040323b0.png"
         }
     ],
     "midImg": [
+        {
+            "title": "俄称打击乌军用机场 乌称击退新一轮进攻",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250720/48629629.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250720/ff6305e5-915d-476e-ad87-4f68829692f8.png"
+        },
         {
             "title": "台风“韦帕”中心临近广东 多地发布台风红色预警",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250720/48629605.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250720/9cf8e294-0b7b-449a-825e-1244391a41b9.jpg"
         },
         {
-            "title": "受美关税政策影响 大量汽车积压比利时港口",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250720/48629545.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250720/cf4fd9ce-b8b5-421d-9d12-a748d0b03e4c.jpg"
+            "title": "撞车、撞石墩、士兵受伤…台军演习还是&quot;战损直播&quot;",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250720/48629840.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/440x0/news/20250720/b4fa8d78-f12a-4e0e-95da-fb69040323b0.png"
         },
         {
             "title": "中央巡视组进驻重庆 专门电话和信箱公布",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250720/48629711.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20250720/05827745-bbc2-485f-baf3-6f26ca645c19.png"
-        },
-        {
-            "title": "停课、停航、橙色预警！台风“韦帕”加强为台风级",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250720/48629689.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250720/3ca2269e-335d-427d-85fe-5be6a8367c90.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "苏丹武装部队总司令要求作战部队全面撤出首都地区",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250719/48627212.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "俄罗斯终止俄德军事技术合作协议",
@@ -231,12 +237,6 @@
             {
                 "title": "特朗普说可口可乐要改配方了 官方回应：谢谢，先不改",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250718/48622961.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "孙颖莎主管教练邱贻可遭攻击谩骂，其本人回应",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250718/48622962.html?ayjr"
             }
         ]
     ]
