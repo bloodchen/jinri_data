@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "俄称打击乌军用机场 乌称击退新一轮进攻",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250720/48629629.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250720/ff6305e5-915d-476e-ad87-4f68829692f8.png"
+        },
+        {
             "title": "台风“韦帕”中心临近广东 多地发布台风红色预警",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250720/48629605.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250720/59c377ff-5ec8-42f6-b53a-a10d7d633fae.png"
@@ -9,14 +14,14 @@
             "title": "日本参议院今日选举 石破茂能否留任首相受关注",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250720/48629594.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250720/4d7fe92a-d509-4bbd-9552-7b8576d44aee.jpg"
-        },
-        {
-            "title": "美国华盛顿州一油罐车翻覆 1.1万升燃油泄漏",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250720/48629574.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250720/9b2b584d-3198-4c4f-82d6-167de2fc080d.png"
         }
     ],
     "midImg": [
+        {
+            "title": "这里地表温度飙至63℃ 游客迎“热”而来纷纷打卡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250719/48629095.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250719/14d22c43-1eb6-4c5a-9c52-90c57f06f6c3.png"
+        },
         {
             "title": "零容忍出重拳！已抓获一批战略矿产走私犯罪嫌疑人",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250719/48628928.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250719/a030a0ad-f01b-455b-af48-75fe71516497.jpg"
         },
         {
-            "title": "中央巡视组进驻广西 将开展约两个半月常规巡视",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250719/48628438.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250719/9ef1e02e-d733-4d60-b18b-8d5a02e909a9.jpg"
+            "title": "美国华盛顿州一油罐车翻覆 1.1万升燃油泄漏",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250720/48629574.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250720/9b2b584d-3198-4c4f-82d6-167de2fc080d.png"
         },
         {
             "title": "越南下龙湾游船倾覆事故已致36人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250720/48629565.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250720/c0ac76a9-3637-467a-89ad-7c0c0cf0291e.png"
-        },
-        {
-            "title": "乌克兰提议俄方于下周举行新一轮谈判",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250720/48629556.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250720/9cf8e294-0b7b-449a-825e-1244391a41b9.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "湖南省政协原党组成员、副秘书长龚文密被开除党籍",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250718/48626126.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美国批准对华销售英伟达H20芯片 商务部回应",
@@ -231,12 +237,6 @@
             {
                 "title": "韩国多地遭遇破纪录暴雨 已致4人死亡",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250718/48622825.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美国总统特朗普被确诊患静脉疾病",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250718/48622570.html?ayjr"
             }
         ]
     ]
