@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "警惕！境外生产芯片可能故意留“后门”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250721/48633968.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250721/7e1915ab-9fe1-4605-ab4c-2ae87549db14.jpg"
+        },
+        {
             "title": "中国和匈牙利顺利完成谈判",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250721/48633650.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250721/c49d0cc1-a9a3-4775-b848-784fe7e6f324.jpg"
@@ -9,14 +14,14 @@
             "title": "厄瓜多尔黑帮头目“菲托”被引渡到美国",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250721/48633535.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250721/1cd6fb82-d785-4fe0-8c36-6bacc8019a38.jpg"
-        },
-        {
-            "title": "*ST 苏吴卷入退市风波，艾塑菲代理权去向成谜",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250721/48633182.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250718/a9e9149c-9375-4af5-95ca-f1e83b225387.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "安理会就叙利亚局势举行紧急会议 中方呼吁各方恪守停火",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250721/48633186.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250718/4bf715bd-f6db-42d6-802b-bd6ab85d872a.jpg"
+        },
         {
             "title": "网红「多肉饱饱」被指涉诈骗，曾自称覃海洋未婚妻",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250721/48633187.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250718/29983d14-13df-45c2-b087-9f8a967e22c0.jpg"
         },
         {
-            "title": "特朗普心生一计，欧洲人头都大了",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250721/48633192.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250718/dd210efc-e516-439e-b08c-b21da8127f9f.jpg"
+            "title": "*ST 苏吴卷入退市风波，艾塑菲代理权去向成谜",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250721/48633182.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250718/a9e9149c-9375-4af5-95ca-f1e83b225387.jpg"
         },
         {
             "title": "德国生育率降至 17 年来最低水平",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250721/48633183.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/toutiao/20250718/aefea662-b5a0-4ac3-891c-34b38190500f.jpg"
-        },
-        {
-            "title": "律师 10 年体检“未见明显异常”突被诊断癌症晚期，爱康国宾体检是否能警示癌症引发质疑，相关平台投诉上千",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250721/48633184.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250718/03aeca8e-0c2a-4bd2-b544-2df31495e283.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "船长酒驾撞军舰传巨响 美军退役航母被“找茬”",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250720/48630958.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "越南游船倾覆事故官方通报：确认35人死亡4人失踪",
@@ -231,12 +237,6 @@
             {
                 "title": "中央巡视组进驻广西 将开展约两个半月常规巡视",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250719/48628438.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "中央巡视组进驻贵州 受理信访时间截至9月下旬",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250719/48628425.html?ayjr"
             }
         ]
     ]
