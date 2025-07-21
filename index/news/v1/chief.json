@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "日本执政联盟失去参议院过半数席位",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250721/48634205.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250721/3d0c2fb6-367c-4f6a-aba8-22c4cc9af524.jpg"
+        },
+        {
             "title": "美加征关税影响巴西约7.7万吨水果出口",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250721/48634160.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250721/37655a59-abcb-4543-abb2-dbc83dd4d6e0.jpg"
@@ -9,14 +14,14 @@
             "title": "4A级景区上新！航拍西藏萨普景区湖光山色",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250721/48634147.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250721/c54f0520-0406-4da1-a621-2283f2380c8b.jpg"
-        },
-        {
-            "title": "警惕！境外生产芯片可能故意留“后门”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250721/48633968.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250721/7e1915ab-9fe1-4605-ab4c-2ae87549db14.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "德国生育率降至 17 年来最低水平",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250721/48633183.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/toutiao/20250718/aefea662-b5a0-4ac3-891c-34b38190500f.jpg"
+        },
         {
             "title": "律师 10 年体检“未见明显异常”突被诊断癌症晚期，爱康国宾体检是否能警示癌症引发质疑，相关平台投诉上千",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250721/48633184.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250718/1fe90230-7db2-4e29-ac46-809349f3f62c.jpg"
         },
         {
-            "title": "杭州妈妈在商场给女儿拍照，遭保安质问！“感觉被蔑视了…”",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250721/48633189.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250718/785515e0-58f8-4b17-bfb7-c40132be2a53.jpg"
+            "title": "警惕！境外生产芯片可能故意留“后门”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250721/48633968.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250721/7e1915ab-9fe1-4605-ab4c-2ae87549db14.jpg"
         },
         {
             "title": "中国和匈牙利顺利完成谈判",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250721/48633650.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250721/c49d0cc1-a9a3-4775-b848-784fe7e6f324.jpg"
-        },
-        {
-            "title": "厄瓜多尔黑帮头目“菲托”被引渡到美国",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250721/48633535.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250721/1cd6fb82-d785-4fe0-8c36-6bacc8019a38.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "人保支付科技（重庆）被罚 104 万，涉账户管理等违规",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250721/48633159.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "全都在晃 视频记录下堪察加东岸远海强震瞬间",
@@ -231,12 +237,6 @@
             {
                 "title": "马达加斯加鲸群上演一年一度“海上大迁徙”",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250719/48628490.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "台风“韦帕”今夜影响深圳 最大风力可达14级",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250719/48628474.html?ayjr"
             }
         ]
     ]
