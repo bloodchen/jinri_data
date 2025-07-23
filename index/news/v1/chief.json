@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "石破茂证实日美达成协议：美对日征15%关税",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250723/48643254.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/560x0/news/20250723/97c41a88-9624-4765-bca6-1ae2d523e1db.jpg"
+        },
+        {
             "title": "特朗普指控奥巴马&quot;叛国&quot; 奥巴马回怼其&quot;转移视线&quot;",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250723/48643234.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250723/4ffad984-4584-4c6c-9c0b-2d4d4df72600.png"
@@ -9,14 +14,14 @@
             "title": "家有这类老人的注意 国家给您发补贴了",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250723/48643206.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20250723/9ff4e9f6-3efa-4d97-b181-aaf800979917.png"
-        },
-        {
-            "title": "&quot;美日达成贸易协议&quot;后 石破茂回应自身去留问题",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250723/48643129.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/600x0/news/20250723/ddaa2fd1-b6ac-4ebd-ae3c-43126e9829bd.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美国洛杉矶车辆冲撞事故涉事司机被起诉重罪",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250723/48642791.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250723/3ac210fc-bd3d-4ae4-a01d-5806b1367323.png"
+        },
         {
             "title": "某组织披着公益外衣窃取我海洋数据 国安部提示",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250723/48642737.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250723/67e3f519-e1ae-4426-9e98-c4fbb413724d.jpg"
         },
         {
-            "title": "高考录取风向又变了，名校被踩在脚下摩擦",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250723/48642092.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250722/a166b8cc-aae6-4e86-ba57-ce5b8db4568f.jpg"
+            "title": "&quot;美日达成贸易协议&quot;后 石破茂回应自身去留问题",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250723/48643129.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/600x0/news/20250723/ddaa2fd1-b6ac-4ebd-ae3c-43126e9829bd.jpg"
         },
         {
             "title": "俄国防部说乌方送返两名俄军被俘伤员",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250723/48643113.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250723/a5cae959-742e-46ce-94e5-77f28a92fc32.jpg"
-        },
-        {
-            "title": "伊朗官员：以伊冲突期间 伊朗遭超2万次网络攻击",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250723/48643084.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250723/52a58a54-7f68-48ee-8b29-5757d381387b.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "良品铺子控股股东涉诉被法院受理，涉案金额近 10 亿元",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250722/48637670.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "欧盟预算提案引发不满 落地面临多重挑战",
@@ -231,12 +237,6 @@
             {
                 "title": "来伊份入局威士忌：单桶定价 7.28 万，借上海气候优势缩短熟成周期",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250721/48633165.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "韩国法院裁定继续羁押尹锡悦",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250721/48633166.html?ayjr"
             }
         ]
     ]
