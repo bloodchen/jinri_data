@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "哈马斯称已提交对加沙停火协议提案的回应",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48648144.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250724/2a84cc12-c627-4292-8d78-ebb53ca34e6e.jpg"
+        },
+        {
             "title": "中印举行边境事务磋商和协调工作机制第34次会议",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250724/48648035.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250724/702c8555-9b19-4212-b2af-65ee19bb1430.png"
@@ -9,14 +14,14 @@
             "title": "美俄亥俄州发生枪击事件 致3名警察受伤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48647806.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/612x0/news/20250724/badb87cb-1946-443e-b542-69bbd8011561.jpg"
-        },
-        {
-            "title": "伊朗警告美舰：离开！",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48647741.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250724/95f48300-7842-4745-9ad1-4be8f87362b3.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美防长“群聊泄密门”证据流出 机密电邮发进群聊",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48646939.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250724/a48a23e0-ddb0-48e7-80f8-b473c1b1ad0d.jpg"
+        },
         {
             "title": "牛市再现“奔私潮”，鲍无可、张翼飞、翟相栋，下一位是谁？",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250724/48646449.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250723/ce556d0c-88e1-4833-bb53-36503c822e62.jpg"
         },
         {
-            "title": "4 岁男童拔乳牙全麻后殒命，家属追问什么环节出了错？医院回应：正在处理",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250724/48646454.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250723/fa1ee6de-af81-4d23-b17e-6e6814fa04c0.jpg"
+            "title": "伊朗警告美舰：离开！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48647741.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250724/95f48300-7842-4745-9ad1-4be8f87362b3.jpg"
         },
         {
             "title": "17年来首次在英部署核弹 美欲重塑欧洲核威慑格局",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48647341.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/591x0/news/20250724/c1f17035-fd28-4ff7-91d7-61b2b0d7c631.png"
-        },
-        {
-            "title": "埃及官员：加沙停火谈判已处于“最后阶段”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48647056.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250724/546a0880-71d1-4f34-a9d0-19cfe5fdad70.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "特朗普指控奥巴马&quot;叛国&quot; 奥巴马回怼其&quot;转移视线&quot;",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250723/48643234.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "家有这类老人的注意 国家给您发补贴了",
@@ -231,12 +237,6 @@
             {
                 "title": "突发！莫斯科遭大规模袭击",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250722/48638000.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "“耍花招”？内塔尼亚胡“因病居家”",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250722/48637986.html?ayjr"
             }
         ]
     ]
