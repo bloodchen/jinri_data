@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "阿尔及利亚西北部发生连环撞车事故 致6死45伤",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48645930.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250724/1e1e9135-e356-4df0-bdb9-14fff5c2a2de.jpg"
+        },
+        {
             "title": "乌释放停火信号 俄希望接着谈 第三轮谈判谈了什么",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48645848.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250724/a32d4e9f-d2bb-49b3-a604-57992f9ae518.jpg"
@@ -9,14 +14,14 @@
             "title": "某科研机构人员违规使用AI软件导致泄密！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250724/48645826.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250724/d89e1939-1a81-4c84-90a3-6733257ca203.jpg"
-        },
-        {
-            "title": "特朗普：将对大部分国家征收15%至50%的简单关税",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48645807.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250724/2b900345-38d6-4fc6-a27a-f7e3a2abf11e.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "伊朗副外长: 将对启动“快速恢复制裁”做出反应",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48645716.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250724/afd3f01c-6ef4-4bd6-bdb9-83649bd085ac.png"
+        },
         {
             "title": "俄乌第三轮直接谈判在土耳其伊斯坦布尔举行",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48645707.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250723/933c9431-366d-4794-8c18-95173094111c.jpg"
         },
         {
-            "title": "俄海军在太平洋、北冰洋、波罗的海进行作战演习",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250723/48644051.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/511x0/news/20250723/03d5a551-198c-4aa1-afba-0250d617b70e.png"
+            "title": "特朗普：将对大部分国家征收15%至50%的简单关税",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48645807.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250724/2b900345-38d6-4fc6-a27a-f7e3a2abf11e.jpg"
         },
         {
             "title": "俄乌第三轮直接谈判结束 双方同意新一轮换俘",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48645771.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250724/41654303-805b-422f-b095-4fe0247b5b63.jpg"
-        },
-        {
-            "title": "白宫称日本将立即增加75%美国大米进口量",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48645743.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250724/556abb0b-e0aa-4f61-84fa-02dd99de50e4.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "宗馥莉不能自降为大女主",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250723/48642098.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "董事长人选落定，顾宇正式执掌洋河",
@@ -231,12 +237,6 @@
             {
                 "title": "美加征关税影响巴西约7.7万吨水果出口",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250721/48634160.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "4A级景区上新！航拍西藏萨普景区湖光山色",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250721/48634147.html?ayjr"
             }
         ]
     ]
