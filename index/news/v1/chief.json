@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "泰国与柬埔寨在两国边境地区发生交火",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48648216.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250724/9ce33561-1d41-4518-b733-5d1111bfc70b.jpg"
+        },
+        {
             "title": "国家医保局：累计追回医保基金1045亿元",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250724/48648188.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20250724/4a1435c3-98fa-4574-998f-f98363e16d12.png"
@@ -9,14 +14,14 @@
             "title": "泰召回驻柬大使 柬方宣布两国外交关系降至最低级",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48648163.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/600x0/news/20250724/331d053f-e671-4c4c-b105-eec736dad52d.jpg"
-        },
-        {
-            "title": "哈马斯称已提交对加沙停火协议提案的回应",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48648144.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250724/2a84cc12-c627-4292-8d78-ebb53ca34e6e.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "17年来首次在英部署核弹 美欲重塑欧洲核威慑格局",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48647341.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/591x0/news/20250724/c1f17035-fd28-4ff7-91d7-61b2b0d7c631.png"
+        },
         {
             "title": "埃及官员：加沙停火谈判已处于“最后阶段”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48647056.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250723/0767ac21-8768-4c44-89e7-8a91240c5892.jpg"
         },
         {
-            "title": "宫斗小高潮来了，奥巴马开始绝地反击",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250724/48646451.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250723/34496e5b-07f0-450a-b947-850f9e562762.jpg"
+            "title": "哈马斯称已提交对加沙停火协议提案的回应",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48648144.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250724/2a84cc12-c627-4292-8d78-ebb53ca34e6e.jpg"
         },
         {
             "title": "中印举行边境事务磋商和协调工作机制第34次会议",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250724/48648035.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250724/702c8555-9b19-4212-b2af-65ee19bb1430.png"
-        },
-        {
-            "title": "美俄亥俄州发生枪击事件 致3名警察受伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48647806.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/612x0/news/20250724/badb87cb-1946-443e-b542-69bbd8011561.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "日本首相石破茂计划8月结束前宣布辞职",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250723/48643397.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "海南自贸港封关将于今年12月18日正式启动",
@@ -231,12 +237,6 @@
             {
                 "title": "《住房租赁条例》如何保护租客和房东的合法权益？",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250722/48638632.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "校园配餐首个国家标准发布 如何保障有效落地？",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250722/48638044.html?ayjr"
             }
         ]
     ]
