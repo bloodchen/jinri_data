@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美俄亥俄州发生枪击事件 致3名警察受伤",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48647806.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/612x0/news/20250724/badb87cb-1946-443e-b542-69bbd8011561.jpg"
+        },
+        {
             "title": "伊朗警告美舰：离开！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48647741.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250724/95f48300-7842-4745-9ad1-4be8f87362b3.jpg"
@@ -9,14 +14,14 @@
             "title": "17年来首次在英部署核弹 美欲重塑欧洲核威慑格局",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48647341.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/591x0/news/20250724/c1f17035-fd28-4ff7-91d7-61b2b0d7c631.png"
-        },
-        {
-            "title": "埃及官员：加沙停火谈判已处于“最后阶段”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48647056.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250724/546a0880-71d1-4f34-a9d0-19cfe5fdad70.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "“本升专”的年轻人，比你想象中清醒",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250724/48646450.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250723/0767ac21-8768-4c44-89e7-8a91240c5892.jpg"
+        },
         {
             "title": "宫斗小高潮来了，奥巴马开始绝地反击",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250724/48646451.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20250723/9debb6c8-270c-4158-b8d5-7eff152dc300.jpg"
         },
         {
-            "title": "骚乱蔓延以至不得不实施宵禁，法国怎么就管不住青少年？",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250724/48646444.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250723/0c323425-1684-4b8c-9455-88522e4daca1.jpg"
+            "title": "埃及官员：加沙停火谈判已处于“最后阶段”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48647056.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250724/546a0880-71d1-4f34-a9d0-19cfe5fdad70.jpg"
         },
         {
             "title": "零关税低税率 海南自贸港大步迈向新起点",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250724/48647007.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250724/28bb4a32-715e-495b-b451-4dfebef93058.jpg"
-        },
-        {
-            "title": "美防长“群聊泄密门”证据流出 机密电邮发进群聊",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48646939.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250724/a48a23e0-ddb0-48e7-80f8-b473c1b1ad0d.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "&quot;美日达成贸易协议&quot;后 石破茂回应自身去留问题",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250723/48643129.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "俄国防部说乌方送返两名俄军被俘伤员",
@@ -231,12 +237,6 @@
             {
                 "title": "德国防长宣布加强对乌克兰防空援助",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250722/48637973.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "伊朗试射“卡西德”卫星运载火箭",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250722/48637939.html?ayjr"
             }
         ]
     ]
