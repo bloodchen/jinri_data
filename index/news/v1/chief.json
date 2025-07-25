@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美媒称美军缩减F-35战机采购量",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250725/48653098.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250725/6dd5d7c8-3d1c-4d8d-a083-94d320d82eb0.png"
+        },
+        {
             "title": "柬埔寨召集中美等多国外交使节通报柬泰边境局势",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250725/48652863.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250725/d562d265-a5f0-4ba4-b89c-48eafd5c1779.jpg"
@@ -9,14 +14,14 @@
             "title": "看电影 享美食！解锁八月佳片 领双重优惠券",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250725/48652783.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250725/6f3d1014-d929-43c3-ae14-f91a9ae01fe7.jpg"
-        },
-        {
-            "title": "泰国卫生部：泰柬边境冲突已致泰方15人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250725/48652751.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250725/03bdbeac-699b-4123-aea8-835235b17250.png"
         }
     ],
     "midImg": [
+        {
+            "title": "柬埔寨官员称边境冲突已致1名柬平民死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250725/48652372.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250725/23b05e7a-9f0f-482f-93c4-e36f861bca52.jpg"
+        },
         {
             "title": "严格区分失信、失能被执行人 最高法发布典型案例",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250725/48652211.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250725/5742297f-4fb3-4466-b3e0-de8157d60f49.jpg"
         },
         {
-            "title": "两次降落失败 俄客机坠毁密林更多细节曝光",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250725/48651017.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250725/2ce98daf-059d-45e2-9de5-59c6b91a84cc.jpg"
+            "title": "泰国卫生部：泰柬边境冲突已致泰方15人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250725/48652751.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250725/03bdbeac-699b-4123-aea8-835235b17250.png"
         },
         {
             "title": "货币持续贬值 也门民众陷“工资买不起大米”困境",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250725/48652717.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250725/b274d8b4-1334-460c-b1eb-a610b03f4f81.jpg"
-        },
-        {
-            "title": "伊朗外长在与英法德会谈前重申伊朗铀浓缩权利",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250725/48652693.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/628x0/news/20250725/a4950cc0-3185-40eb-9002-538a07e4ac15.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "埃及官员：加沙停火谈判已处于“最后阶段”",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48647056.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "零关税低税率 海南自贸港大步迈向新起点",
@@ -231,12 +237,6 @@
             {
                 "title": "爱泼斯坦案再惹纠纷 美国会众议院提前放假",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250723/48643951.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "海南自贸港经济外向度提高到35% 封关运作准备就绪",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250723/48643906.html?ayjr"
             }
         ]
     ]
