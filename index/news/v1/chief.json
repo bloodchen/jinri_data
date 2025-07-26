@@ -1,22 +1,27 @@
 {
     "focus": [
         {
-            "title": "世界运动会火种成功采集 首次火炬传递今日举行",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250726/48654844.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250726/b986e7db-297d-4772-9d31-80923c9eb769.png"
+            "title": "暑期档票房突破46亿 一张电影票撬动商圈消费",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250726/48654922.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250726/7ad51cd4-36f9-48ef-bea3-9ce121869e89.jpg"
         },
         {
-            "title": "韩法院首度认定尹锡悦发动戒严致精神损失",
+            "title": "韩法院认定尹锡悦发动戒严致精神损失 须支付赔偿",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250726/48654815.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250726/cd0c113f-5a90-4388-b19c-ba0e78d9583a.jpg"
         },
         {
-            "title": "美国一架客机起飞后紧急下降 致两名空乘人员受伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250726/48654746.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250726/63f72998-0dda-4af1-9181-f76f045a6791.jpg"
+            "title": "世界运动会火种成功采集 首次火炬传递今日举行",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250726/48654844.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250726/b986e7db-297d-4772-9d31-80923c9eb769.png"
         }
     ],
     "midImg": [
+        {
+            "title": "柬国防部指责泰军事攻击侵犯柬主权 泰方暂无回应",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250726/48654591.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250726/bdf45cd2-5569-4baf-b89e-b9bdaeb5e70c.jpg"
+        },
         {
             "title": "加沙停火谈判陷入僵局 以色列考虑向哈马斯施压",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250726/48654576.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250725/e9c89e1f-e19f-4e74-b5f8-5100da280704.jpg"
         },
         {
-            "title": "限时免门票！登上热搜的宝藏景点，多趟动车直达",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250725/48653175.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250725/f890ce5e-fa9b-4fad-a7e3-e6e19ebdfb25.jpg"
+            "title": "美国一架客机起飞后紧急下降 致两名空乘人员受伤",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250726/48654746.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250726/63f72998-0dda-4af1-9181-f76f045a6791.jpg"
         },
         {
             "title": "加沙停火谈判有反转 分歧不大还有得谈？多方表态",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250726/48654633.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250726/e99a51a2-d948-48e5-87e2-412c209f737b.jpg"
-        },
-        {
-            "title": "以军袭击加沙地带领取物资民众 造成上百人伤亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250726/48654611.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250726/8f72dc2f-c4a5-4912-83a5-f9d371858eae.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "俄失联安-24客机碎片在距机场15公里处被发现",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48649086.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "全国首次！无人机紧随台风，抵近侦察",
@@ -231,12 +237,6 @@
             {
                 "title": "某科研机构人员违规使用AI软件导致泄密！",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250724/48645826.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "特朗普：将对大部分国家征收15%至50%的简单关税",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48645807.html?ayjr"
             }
         ]
     ]
