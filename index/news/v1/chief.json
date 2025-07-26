@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美国一架客机起飞后紧急下降 致两名空乘人员受伤",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250726/48654746.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250726/63f72998-0dda-4af1-9181-f76f045a6791.jpg"
+        },
+        {
             "title": "加沙停火谈判有反转 分歧不大还有得谈？多方表态",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250726/48654633.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250726/e99a51a2-d948-48e5-87e2-412c209f737b.jpg"
@@ -9,14 +14,14 @@
             "title": "以军袭击加沙地带领取物资民众 造成上百人伤亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250726/48654611.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250726/8f72dc2f-c4a5-4912-83a5-f9d371858eae.png"
-        },
-        {
-            "title": "哈马斯官员：已准备好完成停火谈判 以方试图逃避",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250726/48654600.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250726/1ede761e-c411-4b97-bf50-7c1dd11e6a2e.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "冯德莱恩与特朗普通话 讨论欧美关税谈判等议题",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250726/48654549.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/600x0/news/20250726/81a54cda-5ebc-4932-abd4-6907c60140d2.jpg"
+        },
         {
             "title": "特朗普“示好”马斯克：愿其生意“蒸蒸日上”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250725/48653559.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250725/d562d265-a5f0-4ba4-b89c-48eafd5c1779.jpg"
         },
         {
-            "title": "看电影 享美食！解锁八月佳片 领双重优惠券",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250725/48652783.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250725/6f3d1014-d929-43c3-ae14-f91a9ae01fe7.jpg"
+            "title": "哈马斯官员：已准备好完成停火谈判 以方试图逃避",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250726/48654600.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250726/1ede761e-c411-4b97-bf50-7c1dd11e6a2e.jpg"
         },
         {
             "title": "柬国防部指责泰军事攻击侵犯柬主权 泰方暂无回应",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250726/48654591.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250726/bdf45cd2-5569-4baf-b89e-b9bdaeb5e70c.jpg"
-        },
-        {
-            "title": "加沙停火谈判陷入僵局 以色列考虑向哈马斯施压",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250726/48654576.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250726/a441b22d-2633-43a1-a4ff-e0688f61e67b.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "泰国军方称已出动F-16战机摧毁柬方两处军事设施",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48648665.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "在轨90天！神二十乘组的工作清单",
@@ -231,12 +237,6 @@
             {
                 "title": "白宫称日本将立即增加75%美国大米进口量",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48645743.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "叙利亚苏韦达冲突致14.5万人流离失所",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48645732.html?ayjr"
             }
         ]
     ]
