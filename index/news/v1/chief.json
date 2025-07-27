@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "2名以色列国防军士兵在加沙南部身亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48658010.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250727/60e53638-5c8c-4266-bcbb-99b4a6c1efaa.jpg"
+        },
+        {
             "title": "印尼一汽车与火车相撞 造成3人死亡 7人受伤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48657909.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/538x0/news/20250727/57665dcb-3be0-4a3c-9da9-efe932d851d1.jpg"
@@ -9,14 +14,14 @@
             "title": "把火车“抱在怀中”翻滚 45秒卸完120吨煤炭",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250727/48657774.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250727/e0cf8306-cf1f-43b3-a0de-9e18166a58b3.jpg"
-        },
-        {
-            "title": "美国务卿称特朗普正在对俄“失去耐心”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48657732.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250727/c1c11e13-440f-4db0-a2e1-6f49630feaa3.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "发现可疑快递包裹？赶快拨打这个号码",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250727/48657272.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250727/547e4bcb-ecfe-47ca-a0a6-9d885edf800c.jpg"
+        },
         {
             "title": "马斯克挑战中期选举 能否撬动美国议会席位版图",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48657252.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250727/f7b73b1d-b7a6-46e9-a7da-fe11dc342591.jpg"
         },
         {
-            "title": "金正恩参谒中朝友谊塔并献花圈",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48656734.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250727/afa34af4-14b7-442d-93ad-a44d3d5fe35e.jpg"
+            "title": "美国务卿称特朗普正在对俄“失去耐心”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48657732.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250727/c1c11e13-440f-4db0-a2e1-6f49630feaa3.jpg"
         },
         {
             "title": "泰国军方:柬方主动提出谈判 泰柬才有可能实现停火",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48657377.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250727/f7693f8b-5618-43cf-b4a2-467fc68b4045.png"
-        },
-        {
-            "title": "《南京大屠杀档案》首次完整入藏日本高校",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48657328.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250727/0f3a5995-4d39-4dd2-bb98-2d1a15523f3e.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "特朗普“示好”马斯克：愿其生意“蒸蒸日上”",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250725/48653559.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "泽连斯基：俄乌时隔多年首次探讨元首会晤条件",
@@ -231,12 +237,6 @@
             {
                 "title": "外交部回应泰柬边境冲突：深感担忧",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250724/48649314.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "今年1月至6月支持起诉追索劳动报酬案2.09万件",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250724/48649283.html?ayjr"
             }
         ]
     ]
