@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美国务卿称特朗普正在对俄“失去耐心”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48657732.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250727/c1c11e13-440f-4db0-a2e1-6f49630feaa3.jpg"
+        },
+        {
             "title": "泰国军方:柬方主动提出谈判 泰柬才有可能实现停火",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48657377.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250727/f7693f8b-5618-43cf-b4a2-467fc68b4045.png"
@@ -9,14 +14,14 @@
             "title": "《南京大屠杀档案》首次完整入藏日本高校",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48657328.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250727/0f3a5995-4d39-4dd2-bb98-2d1a15523f3e.png"
-        },
-        {
-            "title": "越南游船倾覆事件搜救结束 船上49人确认39人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48657291.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250727/dff2edeb-6078-4e71-b8cb-9e02d3fa8da5.png"
         }
     ],
     "midImg": [
+        {
+            "title": "美客机急降约145米避免撞上军机 乘客讲述惊魂瞬间",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48656820.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250727/ed5fbee2-678d-45f0-93d9-0dea7268a226.jpg"
+        },
         {
             "title": "以军空袭加沙多地 巴武装人员伏击以军",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48656775.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/640x0/news/20250727/8111d42f-c63d-4617-a4b7-493f101be9cc.png"
         },
         {
-            "title": "“大罢免”大失败！岛内民意狠狠打脸赖清德",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250727/48656703.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250727/b3ffb570-555e-4bb5-ba77-deb203936f16.png"
+            "title": "越南游船倾覆事件搜救结束 船上49人确认39人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48657291.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250727/dff2edeb-6078-4e71-b8cb-9e02d3fa8da5.png"
         },
         {
             "title": "发现可疑快递包裹？赶快拨打这个号码",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250727/48657272.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250727/547e4bcb-ecfe-47ca-a0a6-9d885edf800c.jpg"
-        },
-        {
-            "title": "马斯克挑战中期选举 能否撬动美国议会席位版图",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48657252.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/560x0/news/20250727/10b41266-2a61-424a-a631-40ca8b0143a2.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美媒称美军缩减F-35战机采购量",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250725/48653098.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "柬埔寨召集中美等多国外交使节通报柬泰边境局势",
@@ -231,12 +237,6 @@
             {
                 "title": "全国首次！无人机紧随台风，抵近侦察",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250724/48648917.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "一架搭载约50人的俄罗斯客机失联",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48648731.html?ayjr"
             }
         ]
     ]
