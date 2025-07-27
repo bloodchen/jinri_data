@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "印尼一汽车与火车相撞 造成3人死亡 7人受伤",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48657909.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/538x0/news/20250727/57665dcb-3be0-4a3c-9da9-efe932d851d1.jpg"
+        },
+        {
             "title": "把火车“抱在怀中”翻滚 45秒卸完120吨煤炭",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250727/48657774.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250727/e0cf8306-cf1f-43b3-a0de-9e18166a58b3.jpg"
@@ -9,14 +14,14 @@
             "title": "美国务卿称特朗普正在对俄“失去耐心”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48657732.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250727/c1c11e13-440f-4db0-a2e1-6f49630feaa3.jpg"
-        },
-        {
-            "title": "泰国军方:柬方主动提出谈判 泰柬才有可能实现停火",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48657377.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250727/f7693f8b-5618-43cf-b4a2-467fc68b4045.png"
         }
     ],
     "midImg": [
+        {
+            "title": "马斯克挑战中期选举 能否撬动美国议会席位版图",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48657252.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/560x0/news/20250727/10b41266-2a61-424a-a631-40ca8b0143a2.png"
+        },
         {
             "title": "美航一波音客机发生故障 机上人员紧急撤离",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48656882.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250727/afa34af4-14b7-442d-93ad-a44d3d5fe35e.jpg"
         },
         {
-            "title": "特朗普与柬埔寨和泰国领导人通电话",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48656723.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250727/4099f497-054d-4cd9-9ba2-affc27c290c8.png"
+            "title": "泰国军方:柬方主动提出谈判 泰柬才有可能实现停火",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48657377.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250727/f7693f8b-5618-43cf-b4a2-467fc68b4045.png"
         },
         {
             "title": "《南京大屠杀档案》首次完整入藏日本高校",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48657328.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250727/0f3a5995-4d39-4dd2-bb98-2d1a15523f3e.png"
-        },
-        {
-            "title": "越南游船倾覆事件搜救结束 船上49人确认39人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48657291.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250727/dff2edeb-6078-4e71-b8cb-9e02d3fa8da5.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "泽连斯基：俄乌时隔多年首次探讨元首会晤条件",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250725/48653529.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "限时免门票！登上热搜的宝藏景点，多趟动车直达",
@@ -231,12 +237,6 @@
             {
                 "title": "今年1月至6月支持起诉追索劳动报酬案2.09万件",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250724/48649283.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "俄失联安-24客机碎片在距机场15公里处被发现",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250724/48649086.html?ayjr"
             }
         ]
     ]
