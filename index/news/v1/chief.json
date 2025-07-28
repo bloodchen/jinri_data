@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "乡村消费活力释放：智能家电进村 鲜果加速进城",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250728/48661075.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250728/120496d8-d8d5-4b10-a230-afb5d57a62e0.jpg"
+        },
+        {
             "title": "美国与欧盟达成贸易协议",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250728/48660673.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250728/3a5db3e2-15d5-434a-b7de-3e01f0635c0f.jpg"
@@ -9,14 +14,14 @@
             "title": "日本多地严重缺水 水稻产区面临“新米危机”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250728/48660388.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250728/3bd4f3e4-13c6-41a4-b335-65b14878b62f.jpg"
-        },
-        {
-            "title": "俄罗斯海军完成“七月风暴”作战演习",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250728/48660028.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250728/0259feb0-2214-48fb-8078-66c14a644b09.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "短剧圈爆发大战！点众、听花岛称出海头部平台 ReelShort 作品抄袭",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250728/48659968.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/360x0/toutiao/20250725/b83d25ca-35a1-4830-b48c-5cbca70e4ae3.jpg"
+        },
         {
             "title": "花大钱的山姆会员，如何一步步被背叛",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250728/48659969.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250725/76afde4a-acd1-4346-b416-937047f2dd72.jpg"
         },
         {
-            "title": "24 岁女外卖员遗体已找到，家有 2 岁孩子，上个月开始送外卖",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250728/48659974.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250725/c99b6126-53cd-4ab7-be63-067944b1bcff.jpg"
+            "title": "俄罗斯海军完成“七月风暴”作战演习",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250728/48660028.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250728/0259feb0-2214-48fb-8078-66c14a644b09.jpg"
         },
         {
             "title": "蚊子叮人也有“时间表”和“颜色偏好”？防蚊妙招请收好",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250728/48659991.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250725/4a22a2b8-0a3d-418d-bdfa-6f05033d3afd.jpg"
-        },
-        {
-            "title": "第一观察 · 瞬间｜中欧携手合作意义重大而深远",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250728/48659992.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20250725/35e20be0-788d-4f72-8c49-028c55d774d4.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "中国大熊猫保护研究中心：部分人员策动操纵境内外舆论，污名化大熊猫",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250728/48659952.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "“女主持人性暗示求职”简历系伪造！涉事账号被平台永久封禁",
@@ -231,12 +237,6 @@
             {
                 "title": "发现可疑快递包裹？赶快拨打这个号码",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250727/48657272.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "马斯克挑战中期选举 能否撬动美国议会席位版图",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48657252.html?ayjr"
             }
         ]
     ]
