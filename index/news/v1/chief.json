@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "截至上半年 我国累计新增减税降费9.9万亿元",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250729/48664504.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250729/4c05340f-cbce-443a-bd85-5fdd9e9c7f9d.jpg"
+        },
+        {
             "title": "西康高铁全线桥梁架设完成",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250729/48664445.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250729/cb499a59-cc13-4b7a-9ac1-805e78e1f36a.jpg"
@@ -9,14 +14,14 @@
             "title": "水利部：全国有41条河流发生超警以上洪水",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250729/48664435.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250729/23aa5e8b-0abe-4475-82ea-a5f93646060e.jpg"
-        },
-        {
-            "title": "伊朗披露以伊冲突期间对抗西方国家情报手段细节",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250729/48664419.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250729/03ba3a0d-96f5-4ab0-bf16-dc6de76ea424.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "境外所得为什么要缴税？哪些境外所得应该纳税？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250728/48661507.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250728/647c19e9-b0e5-44e0-85c5-b72311d887a6.jpg"
+        },
         {
             "title": "新一批援藏援青干部人才赴西藏青海工作",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250728/48661470.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250728/0259feb0-2214-48fb-8078-66c14a644b09.jpg"
         },
         {
-            "title": "蚊子叮人也有“时间表”和“颜色偏好”？防蚊妙招请收好",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250728/48659991.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/360x0/toutiao/20250725/4a22a2b8-0a3d-418d-bdfa-6f05033d3afd.jpg"
+            "title": "伊朗披露以伊冲突期间对抗西方国家情报手段细节",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250729/48664419.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250729/03ba3a0d-96f5-4ab0-bf16-dc6de76ea424.jpg"
         },
         {
             "title": "又一“回旋镖” 美关税“反噬”美桌游零售业",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250729/48664408.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250729/c5284f20-e983-4c02-bc92-1e209fcc3444.jpg"
-        },
-        {
-            "title": "乌克兰宣布暂停履行《欧洲常规武装力量条约》",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250729/48664399.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250729/8b3727fe-8875-4c66-98fb-b68eaef4098b.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "这个夏天，我不想做「腋下管理」了",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250728/48659941.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "抚顺银行再度被延迟出具评级报告，上月刚收 184 万元罚单",
@@ -231,12 +237,6 @@
             {
                 "title": "阿尔及利亚东北部发生交通事故 已致3死41伤",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250727/48658090.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "华北东北等地降雨持续 局地降水量超300毫米",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250727/48658080.html?ayjr"
             }
         ]
     ]
