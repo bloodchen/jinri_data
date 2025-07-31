@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "外交部：敦促日方采取有效措施 保障中国公民安全",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48677090.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250731/78d1dc74-8970-4591-bd73-c6739627c006.jpg"
+        },
+        {
             "title": "泰方称泰柬边境冲突已致32名泰国人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48676849.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250731/98b20920-e616-4ed6-90b9-d3364a12ff72.jpg"
@@ -9,14 +14,14 @@
             "title": "两名中国人在东京遭不明身份人员袭击受重伤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48676752.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/537x0/news/20250731/a46b3ce1-0a39-4170-9cb4-6351a3ec0ef3.jpg"
-        },
-        {
-            "title": "英伟达售华芯片留有后门？国家网信办约谈英伟达",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48676427.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250731/b7a2416d-80ee-42e4-9b28-71a18c928567.png"
         }
     ],
     "midImg": [
+        {
+            "title": "如何让老百姓享受更好的医疗服务？补齐这些短板",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48676284.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250731/e50bc2f3-eb49-45d5-856d-1f8c1a38a961.jpg"
+        },
         {
             "title": "我国成功发射巴基斯坦遥感卫星01星",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48675919.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250731/fd188e78-5b52-4042-8e2a-90a981ec72ee.jpg"
         },
         {
-            "title": "俄堪察加半岛附近余震不断 俄专家:不排除强烈余震",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48675204.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250731/766016a8-aae2-4e3a-826b-c1cc0f89857e.jpg"
+            "title": "英伟达售华芯片留有后门？国家网信办约谈英伟达",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48676427.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250731/b7a2416d-80ee-42e4-9b28-71a18c928567.png"
         },
         {
             "title": "日本发布海啸预警 中国公民近期谨慎前往日本旅游",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48676395.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20250731/643f1b11-0f41-4117-91e1-78d6f322018f.png"
-        },
-        {
-            "title": "澳门一居民涉勾结境外敌对势力危害国家安全被捕",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48676381.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250731/9e6038a2-2be2-45c6-8bd5-9e265ba2acda.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "民进党当局要求9月启用“台独”教材 国台办回应",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250730/48671426.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "我国汽车产业&quot;国家队&quot;再添新成员 有哪些重要意义",
@@ -231,12 +237,6 @@
             {
                 "title": "经济波动周期中，众享壹号增额终身寿险成家庭财富“稳定器”",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250730/48670091.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "专坑爸妈！“免费领鸡蛋”暗藏层层骗局曝光",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250730/48670092.html?ayjr"
             }
         ]
     ]
