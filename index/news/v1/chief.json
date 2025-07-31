@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "外交部：中方坚决反对美台开展任何形式的官方往来",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48677297.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250731/d2787dbc-d4cb-4376-95f4-d87da39a7aae.jpg"
+        },
+        {
             "title": "北京全市因灾死亡44人 失踪失联9人",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48677224.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250731/b1261cab-76aa-4669-b433-9448f834b5f1.png"
@@ -9,14 +14,14 @@
             "title": "商务部：中方期待与美方一道不断争取更多双赢结果",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48677121.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20250731/710da777-2923-4459-8e65-b96671948bcc.png"
-        },
-        {
-            "title": "外交部：敦促日方采取有效措施 保障中国公民安全",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48677090.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250731/78d1dc74-8970-4591-bd73-c6739627c006.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "日本发布海啸预警 中国公民近期谨慎前往日本旅游",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48676395.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250731/643f1b11-0f41-4117-91e1-78d6f322018f.png"
+        },
         {
             "title": "澳门一居民涉勾结境外敌对势力危害国家安全被捕",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48676381.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250731/9514bf65-4b1e-4b68-a5bf-ce5eea0b9beb.png"
         },
         {
-            "title": "我军洲际弹道导弹发射画面披露！",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48675676.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/648x0/news/20250731/150d3c72-bf69-4ff1-94c9-36a19ceccb8d.jpg"
+            "title": "外交部：敦促日方采取有效措施 保障中国公民安全",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48677090.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250731/78d1dc74-8970-4591-bd73-c6739627c006.jpg"
         },
         {
             "title": "泰方称泰柬边境冲突已致32名泰国人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48676849.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250731/98b20920-e616-4ed6-90b9-d3364a12ff72.jpg"
-        },
-        {
-            "title": "两名中国人在东京遭不明身份人员袭击受重伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48676752.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/537x0/news/20250731/a46b3ce1-0a39-4170-9cb4-6351a3ec0ef3.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "视频丨日本多地已观测到海啸 局地海水逆流向河道",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250730/48672074.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "国安部曝光！境外间谍利用共享充电宝窃密",
@@ -231,12 +237,6 @@
             {
                 "title": "年轻人的广场舞，正在席卷各大商场",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250730/48670088.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "刚刚，今年首只 10 倍股诞生",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250730/48670089.html?ayjr"
             }
         ]
     ]
