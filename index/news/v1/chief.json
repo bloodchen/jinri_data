@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "李在明证实韩美达成贸易协议：对美投资3500亿美元",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48674765.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250731/29c86747-3c39-4f02-bcd8-de4d3d0858cb.jpg"
+        },
+        {
             "title": "降息又落空！美联储决策层32年来首现分裂",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48674717.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250731/3464baed-3dc5-433d-9572-d5dcfe8ae679.png"
@@ -9,14 +14,14 @@
             "title": "首次披露！我军新型潜艇执行远航任务画面曝光",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48674629.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250731/2321c049-f9eb-45ab-bce5-82c2956e4c06.jpg"
-        },
-        {
-            "title": "堪察加遭遇73年来最强地震 海啸波及多国",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48673875.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250731/bf6beed7-9a88-41d8-84db-e0319da8ff4c.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美国暂停对低价值货物的最低限度免税待遇",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48673744.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250731/048629c5-4c49-4770-a976-e96347be8ec0.jpg"
+        },
         {
             "title": "特朗普签署行政命令 将对巴西征收50%关税",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48673723.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250730/a3799a6b-6310-4058-a4f4-2cb77e21308e.jpg"
         },
         {
-            "title": "外交部：敦促日方加快日遗化武处理进程",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250730/48672707.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250730/e0c61680-065b-4656-bd88-2c9c187a3df5.jpg"
+            "title": "堪察加遭遇73年来最强地震 海啸波及多国",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48673875.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250731/bf6beed7-9a88-41d8-84db-e0319da8ff4c.jpg"
         },
         {
             "title": "加拿大总理宣布将在九月有条件承认巴勒斯坦国",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48673840.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250731/7243ff06-2daa-4cf6-a16a-7f6fd655217d.jpg"
-        },
-        {
-            "title": "落实“两国方案”高级别国际会议在联合国闭幕",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48673795.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250731/c78d807a-7877-4f64-9999-8a0b2fe739ca.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "中国创新药商业化井喷，谁将命中“下一个靶点”",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250730/48670101.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "一男子在白宫附近丢下可疑包裹 美特勤局与排爆人员紧急出动",
@@ -231,12 +237,6 @@
             {
                 "title": "陕西“ 20 公斤黄金被洪水冲走”店老板再发声：希望捡到的人能归还，愿以一半价钱作为酬谢",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250730/48670078.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "育儿补贴政策来了！3 周岁以下婴幼儿每孩每年 3600 元",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250730/48670079.html?ayjr"
             }
         ]
     ]
