@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "北京全市因灾死亡44人 失踪失联9人",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48677224.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250731/b1261cab-76aa-4669-b433-9448f834b5f1.png"
+        },
+        {
             "title": "商务部：中方期待与美方一道不断争取更多双赢结果",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48677121.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20250731/710da777-2923-4459-8e65-b96671948bcc.png"
@@ -9,14 +14,14 @@
             "title": "外交部：敦促日方采取有效措施 保障中国公民安全",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48677090.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250731/78d1dc74-8970-4591-bd73-c6739627c006.jpg"
-        },
-        {
-            "title": "泰方称泰柬边境冲突已致32名泰国人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48676849.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250731/98b20920-e616-4ed6-90b9-d3364a12ff72.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "澳门一居民涉勾结境外敌对势力危害国家安全被捕",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48676381.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250731/9e6038a2-2be2-45c6-8bd5-9e265ba2acda.png"
+        },
         {
             "title": "牵涉金建希案 韩国法院对尹锡悦下达拘捕令",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48676364.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/648x0/news/20250731/150d3c72-bf69-4ff1-94c9-36a19ceccb8d.jpg"
         },
         {
-            "title": "中俄海上联合演习8月举行 中方参演舰艇揭秘",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48675568.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250731/ebf22741-197b-405c-88e9-ce340952286f.png"
+            "title": "泰方称泰柬边境冲突已致32名泰国人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48676849.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250731/98b20920-e616-4ed6-90b9-d3364a12ff72.jpg"
         },
         {
             "title": "两名中国人在东京遭不明身份人员袭击受重伤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48676752.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/537x0/news/20250731/a46b3ce1-0a39-4170-9cb4-6351a3ec0ef3.jpg"
-        },
-        {
-            "title": "英伟达售华芯片留有后门？国家网信办约谈英伟达",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48676427.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250731/b7a2416d-80ee-42e4-9b28-71a18c928567.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "国安部曝光！境外间谍利用共享充电宝窃密",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250730/48672002.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "M503航线W121衔接航线符合两岸同胞共同利益",
@@ -231,12 +237,6 @@
             {
                 "title": "刚刚，今年首只 10 倍股诞生",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250730/48670089.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "东盟青年眼中的中国—东盟教育交流周：这里有我们的“黄金机遇”",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250730/48670090.html?ayjr"
             }
         ]
     ]
