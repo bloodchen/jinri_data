@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "两名中国人在东京遭不明身份人员袭击受重伤",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48676752.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/537x0/news/20250731/a46b3ce1-0a39-4170-9cb4-6351a3ec0ef3.jpg"
+        },
+        {
             "title": "英伟达售华芯片留有后门？国家网信办约谈英伟达",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48676427.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20250731/b7a2416d-80ee-42e4-9b28-71a18c928567.png"
@@ -9,14 +14,14 @@
             "title": "日本发布海啸预警 中国公民近期谨慎前往日本旅游",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48676395.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20250731/643f1b11-0f41-4117-91e1-78d6f322018f.png"
-        },
-        {
-            "title": "澳门一居民涉勾结境外敌对势力危害国家安全被捕",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48676381.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250731/9e6038a2-2be2-45c6-8bd5-9e265ba2acda.png"
         }
     ],
     "midImg": [
+        {
+            "title": "柬埔寨国防部称停火后21名士兵遭泰军扣押仍未获释",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48675887.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250731/9514bf65-4b1e-4b68-a5bf-ce5eea0b9beb.png"
+        },
         {
             "title": "我军洲际弹道导弹发射画面披露！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48675676.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250731/fc6c4d65-4f46-4b9c-a113-ecb92b98b818.jpg"
         },
         {
-            "title": "李在明证实韩美达成贸易协议：对美投资3500亿美元",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48674765.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250731/29c86747-3c39-4f02-bcd8-de4d3d0858cb.jpg"
+            "title": "澳门一居民涉勾结境外敌对势力危害国家安全被捕",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48676381.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250731/9e6038a2-2be2-45c6-8bd5-9e265ba2acda.png"
         },
         {
             "title": "牵涉金建希案 韩国法院对尹锡悦下达拘捕令",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48676364.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250731/fd97db0d-794d-44c3-b0b3-6e3066cf86b9.jpg"
-        },
-        {
-            "title": "如何让老百姓享受更好的医疗服务？补齐这些短板",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48676284.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250731/e50bc2f3-eb49-45d5-856d-1f8c1a38a961.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "我国对75个国家实行单方面免签或全面互免签证",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250730/48671313.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "日本气象厅：第一波海啸已抵达北海道根室市",
@@ -231,12 +237,6 @@
             {
                 "title": "巨额采购订单、落地场景合作，eVTOL 企业打响商业化闭环突围赛",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250730/48670093.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "填补结直肠癌亚型精准治疗空白，皮尔法伯集团毕太维联合疗法在华获批",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250730/48670094.html?ayjr"
             }
         ]
     ]
