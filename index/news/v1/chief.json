@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "中国海警仁爱礁海域执法影像披露！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250801/48678043.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/560x0/news/20250801/530a47ac-364c-4a21-9831-6789b1ec300a.jpg"
+        },
+        {
             "title": "外交部：中方坚决反对美台开展任何形式的官方往来",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48677297.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250731/d2787dbc-d4cb-4376-95f4-d87da39a7aae.jpg"
@@ -9,14 +14,14 @@
             "title": "北京全市因灾死亡44人 失踪失联9人",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48677224.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250731/b1261cab-76aa-4669-b433-9448f834b5f1.png"
-        },
-        {
-            "title": "商务部：中方期待与美方一道不断争取更多双赢结果",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48677121.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250731/710da777-2923-4459-8e65-b96671948bcc.png"
         }
     ],
     "midImg": [
+        {
+            "title": "英伟达售华芯片留有后门？国家网信办约谈英伟达",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48676427.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250731/b7a2416d-80ee-42e4-9b28-71a18c928567.png"
+        },
         {
             "title": "日本发布海啸预警 中国公民近期谨慎前往日本旅游",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48676395.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250731/66896e8a-c179-4a75-9e45-b7ce27ea1f4d.jpg"
         },
         {
-            "title": "柬埔寨国防部称停火后21名士兵遭泰军扣押仍未获释",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48675887.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250731/9514bf65-4b1e-4b68-a5bf-ce5eea0b9beb.png"
+            "title": "商务部：中方期待与美方一道不断争取更多双赢结果",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48677121.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250731/710da777-2923-4459-8e65-b96671948bcc.png"
         },
         {
             "title": "外交部：敦促日方采取有效措施 保障中国公民安全",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250731/48677090.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250731/78d1dc74-8970-4591-bd73-c6739627c006.jpg"
-        },
-        {
-            "title": "泰方称泰柬边境冲突已致32名泰国人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48676849.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250731/98b20920-e616-4ed6-90b9-d3364a12ff72.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "俄阿穆尔州客机坠毁事故中遇难中国公民身份已确认",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250730/48672100.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "视频丨日本多地已观测到海啸 局地海水逆流向河道",
@@ -231,12 +237,6 @@
             {
                 "title": "河北银行青岛分行被罚 30 万，青岛胶州支行被罚 30 万",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250730/48670087.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "年轻人的广场舞，正在席卷各大商场",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250730/48670088.html?ayjr"
             }
         ]
     ]
