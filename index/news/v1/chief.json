@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "特朗普再次呼吁：鲍威尔应引咎辞职",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250802/48682586.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250802/09ffd5e6-e81c-4fc5-a6a3-2b7a6f99eaa7.jpg"
+        },
+        {
             "title": "当歼-35与歼-15T“配合双打”，战斗力拉满！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250802/48682522.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250802/db443617-d48a-4c78-a395-53248b276e9c.jpg"
@@ -9,14 +14,14 @@
             "title": "特朗普政府冻结美国疾控中心多个公共健康项目资金",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250802/48682500.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250802/231eff8f-0195-4107-b614-8cb2d82897e9.png"
-        },
-        {
-            "title": "胡塞武装3天内2次使用高超音速导弹袭击以色列",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250802/48682484.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250802/b8fa85d8-ddd9-4e0c-ab98-f26313d0085e.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "巴基斯坦一火车脱轨 至少25人受伤",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250802/48682385.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250802/c363d911-a9a6-4086-b36e-2923ce832d4b.jpg"
+        },
         {
             "title": "美国“龙”飞船发射升空 执行新一期载人航天任务",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250802/48682373.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250801/508f0bfe-4c60-4e2e-8928-0bc803bdbbfe.jpg"
         },
         {
-            "title": "今起北京个人可申领第三代社保卡 指南来了",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250801/48681082.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250801/53bcbeff-6183-4f0c-be8a-d0881a65ff8e.jpg"
+            "title": "胡塞武装3天内2次使用高超音速导弹袭击以色列",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250802/48682484.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250802/b8fa85d8-ddd9-4e0c-ab98-f26313d0085e.jpg"
         },
         {
             "title": "美陪审团裁定特斯拉支付超2亿美元赔偿金",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250802/48682467.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250802/b128f033-281b-4834-9dad-52a089ca825c.jpg"
-        },
-        {
-            "title": "哥伦比亚大学与美政府达成超2亿美元和解协议",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250802/48682406.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250802/6d15cd5d-d91f-4bb4-8cdb-6761e55a5e0c.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "明起，这些新规将影响你我生活",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250801/48678886.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "“山河映忠魂”全国英烈讲解员大赛第三场复赛在四川自贡举行",
@@ -231,12 +237,6 @@
             {
                 "title": "泰方称泰柬边境冲突已致32名泰国人死亡",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48676849.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "两名中国人在东京遭不明身份人员袭击受重伤",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250731/48676752.html?ayjr"
             }
         ]
     ]
