@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "冲锋！演习现场“机器狼”射击画面最新披露",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250806/48695515.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/558x0/news/20250806/0ff38217-44b0-4867-b8e0-1fc6ba5b2898.jpg"
+        },
+        {
             "title": "剑指中期选举 特朗普发声挺得州",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250806/48695387.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250806/3059f171-ea52-4452-bc7c-6d2ad3fa9792.jpg"
@@ -9,14 +14,14 @@
             "title": "墨西哥总统：已与美国就双边安全达成新协议",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250806/48695342.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/363x0/news/20250806/1a297ec1-6728-499a-bacf-494372c9adf9.png"
-        },
-        {
-            "title": "泽连斯基：支持美方停火倡议 呼吁对俄制裁",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250806/48695271.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250806/3e1863cd-3ab8-47b4-a9af-13daaa0707d2.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美司法部对奥巴马政府官员启动大陪审团调查",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250805/48693764.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250805/45d362af-a33d-4c91-8832-688741016f1a.jpg"
+        },
         {
             "title": "韩外长在美发表涉华言论，韩总统室表态",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250805/48693687.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250805/47e74293-719c-421e-97e8-8a11c2d68865.jpg"
         },
         {
-            "title": "7月份中国大宗商品价格指数连续3个月环比回升",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250805/48692108.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250805/660cd605-24b2-4ae9-a96c-517cbdbb5fc1.jpg"
+            "title": "泽连斯基：支持美方停火倡议 呼吁对俄制裁",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250806/48695271.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250806/3e1863cd-3ab8-47b4-a9af-13daaa0707d2.jpg"
         },
         {
             "title": "黎巴嫩真主党：若以色列再发动战争将以武力回应",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250806/48695247.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250806/969a1972-bbcc-4ed0-8765-7b7ec6950c0c.jpg"
-        },
-        {
-            "title": "阿尔及利亚一侦察机在训练时坠毁 致4人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250806/48695229.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250806/0324485a-d568-4782-8869-241047a6663b.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "天目山药业等多家公司线上售卖疑似电子烟产品，合规性、对青少年诱导问题引质疑",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250804/48688111.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "11 亿蹊跷贷款，3 家 A 股公司卷入局中局",
@@ -231,12 +237,6 @@
             {
                 "title": "白宫2亿美金建“顶级”宴会厅 特朗普：我出钱",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250803/48686302.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "俄联邦委员会成员：俄石油供应无法替代",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250803/48686169.html?ayjr"
             }
         ]
     ]
