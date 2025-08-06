@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "我国将减免幼儿园学前一年保育教育费",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250806/48695607.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250806/13eb2e41-994f-478a-b82d-6581e3c52ebe.jpg"
+        },
+        {
             "title": "冲锋！演习现场“机器狼”射击画面最新披露",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250806/48695515.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/558x0/news/20250806/0ff38217-44b0-4867-b8e0-1fc6ba5b2898.jpg"
@@ -9,14 +14,14 @@
             "title": "剑指中期选举 特朗普发声挺得州",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250806/48695387.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250806/3059f171-ea52-4452-bc7c-6d2ad3fa9792.jpg"
-        },
-        {
-            "title": "墨西哥总统：已与美国就双边安全达成新协议",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250806/48695342.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/363x0/news/20250806/1a297ec1-6728-499a-bacf-494372c9adf9.png"
         }
     ],
     "midImg": [
+        {
+            "title": "特朗普政府将正式取消马斯克的“周报”计划",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250806/48695216.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250806/75ae2cf9-1720-4aae-940e-a404f793eb3e.jpg"
+        },
         {
             "title": "美司法部对奥巴马政府官员启动大陪审团调查",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250805/48693764.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250805/6980672b-c5c1-463d-8905-9b94b55ba6b5.png"
         },
         {
-            "title": "巴西最高法院下令软禁前总统博索纳罗",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250805/48692161.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250805/47e74293-719c-421e-97e8-8a11c2d68865.jpg"
+            "title": "墨西哥总统：已与美国就双边安全达成新协议",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250806/48695342.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/363x0/news/20250806/1a297ec1-6728-499a-bacf-494372c9adf9.png"
         },
         {
             "title": "泽连斯基：支持美方停火倡议 呼吁对俄制裁",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250806/48695271.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250806/3e1863cd-3ab8-47b4-a9af-13daaa0707d2.jpg"
-        },
-        {
-            "title": "黎巴嫩真主党：若以色列再发动战争将以武力回应",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250806/48695247.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250806/969a1972-bbcc-4ed0-8765-7b7ec6950c0c.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "10%-41%，详解最新特朗普“对等关税”：如何分档？仍有窗口期？",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250804/48688110.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "天目山药业等多家公司线上售卖疑似电子烟产品，合规性、对青少年诱导问题引质疑",
@@ -231,12 +237,6 @@
             {
                 "title": "废旧塑料餐盒变身3D打印椅 “变废为宝”又有新招",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250803/48686348.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "白宫2亿美金建“顶级”宴会厅 特朗普：我出钱",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250803/48686302.html?ayjr"
             }
         ]
     ]
