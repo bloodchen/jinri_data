@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "一架载有哥伦比亚雇佣军的飞机在苏丹被摧毁",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250807/48699089.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250807/b862d245-0460-4a36-9195-d52b73fd46bf.jpg"
+        },
+        {
             "title": "特朗普称将对俄罗斯实施更多二级制裁",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250807/48699009.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/371x0/news/20250807/be726fb8-73a7-41d6-87d6-1c76ec389b62.png"
@@ -9,14 +14,14 @@
             "title": "特朗普称美将对芯片和半导体征收约100%的关税",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250807/48698964.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250807/4a0ff7d7-333a-43e8-a3b2-557efb794245.jpg"
-        },
-        {
-            "title": "卢拉:巴西不会对美征收报复性关税 未放弃与美对话",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250807/48698946.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250807/5fb63512-c063-46c3-8ab0-7837fed45b42.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "伊朗处决一名向以色列提供核科学家信息的间谍",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250806/48697810.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250806/3c1c9847-5b21-4006-8ea3-29304c388e11.jpg"
+        },
         {
             "title": "加沙地带一辆货运卡车翻车 已致20人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250806/48697406.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250806/c961a1f5-a4d3-4a77-b590-44876eae4bf4.png"
         },
         {
-            "title": "美考虑对俄“影子舰队”实施新制裁",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250806/48696348.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250806/fc7cbe3a-d761-460c-b127-c06acdf28d5f.png"
+            "title": "卢拉:巴西不会对美征收报复性关税 未放弃与美对话",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250807/48698946.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250807/5fb63512-c063-46c3-8ab0-7837fed45b42.jpg"
         },
         {
             "title": "以意欲“全面占领加沙” 美拒绝明确表态 多方谴责",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250807/48698926.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250807/8f3e55a2-4831-4de1-967c-72ad65e2195b.jpg"
-        },
-        {
-            "title": "商务部决定延长对进口牛肉保障措施调查期限",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250806/48697861.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20250806/2df4f6d3-f7f8-4319-9c30-60ae150e90f5.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "深圳机场三跑道校飞工作圆满完成",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250804/48688705.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "武契奇与马克龙通话 讨论双边关系及地区局势",
@@ -231,12 +237,6 @@
             {
                 "title": "31 省份半年报全部出炉，广东、江苏、山东 GDP 位列前三",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250804/48688089.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "特朗普终于圆了“白宫盖房梦”，只是这画风",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250804/48688090.html?ayjr"
             }
         ]
     ]
