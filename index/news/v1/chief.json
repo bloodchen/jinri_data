@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "特朗普称将对俄罗斯实施更多二级制裁",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250807/48699009.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/371x0/news/20250807/be726fb8-73a7-41d6-87d6-1c76ec389b62.png"
+        },
+        {
             "title": "特朗普称美将对芯片和半导体征收约100%的关税",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250807/48698964.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250807/4a0ff7d7-333a-43e8-a3b2-557efb794245.jpg"
@@ -9,14 +14,14 @@
             "title": "卢拉:巴西不会对美征收报复性关税 未放弃与美对话",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250807/48698946.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250807/5fb63512-c063-46c3-8ab0-7837fed45b42.jpg"
-        },
-        {
-            "title": "以意欲“全面占领加沙” 美拒绝明确表态 多方谴责",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250807/48698926.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250807/8f3e55a2-4831-4de1-967c-72ad65e2195b.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "加沙地带一辆货运卡车翻车 已致20人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250806/48697406.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250806/fdd7df4b-c3cd-4513-abc7-a79adf2b8d7f.jpg"
+        },
         {
             "title": "韩国9月29日起对中国团队游客实行临时免签政策",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250806/48697383.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250806/fc7cbe3a-d761-460c-b127-c06acdf28d5f.png"
         },
         {
-            "title": "这里生产的传感器拿下了欧洲车企亿元订单",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250806/48696325.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250806/8cb5f744-ba61-4374-b960-7aa21c4e0ff5.jpg"
+            "title": "以意欲“全面占领加沙” 美拒绝明确表态 多方谴责",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250807/48698926.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250807/8f3e55a2-4831-4de1-967c-72ad65e2195b.jpg"
         },
         {
             "title": "商务部决定延长对进口牛肉保障措施调查期限",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250806/48697861.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20250806/2df4f6d3-f7f8-4319-9c30-60ae150e90f5.png"
-        },
-        {
-            "title": "西班牙政府搁置购买美国F-35战斗机计划",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250806/48697843.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/414x0/news/20250806/a59e5fdd-1acb-436e-ad72-0f076f4e30a8.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "武契奇与马克龙通话 讨论双边关系及地区局势",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250804/48688636.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "伊朗批准成立国防委员会",
@@ -231,12 +237,6 @@
             {
                 "title": "特朗普终于圆了“白宫盖房梦”，只是这画风",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250804/48688090.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "国产首台自主研发，航空转子发动机量产下线",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250804/48688091.html?ayjr"
             }
         ]
     ]
