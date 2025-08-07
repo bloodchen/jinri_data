@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "出击！“智能蜂群”实战演练现场画面披露",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250807/48699677.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/564x0/news/20250807/c9a0810f-1f8a-4196-8753-99017ba07fe0.png"
+        },
+        {
             "title": "对俄“最后期限”将至 特朗普亮出两个绝招",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250807/48699182.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250807/89da100a-3bd8-42c6-8d93-afadc194cf5e.jpg"
@@ -9,14 +14,14 @@
             "title": "特朗普政府叫停拜登批准的巨型风电项目",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250807/48699156.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250807/842454c9-432a-434b-a2fe-6971c9a2976c.png"
-        },
-        {
-            "title": "一美军士兵因试图向俄罗斯泄露坦克情报被捕",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250807/48699144.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250807/17d44676-768d-44dd-8f22-28d6b16c8e95.png"
         }
     ],
     "midImg": [
+        {
+            "title": "特朗普称美将对芯片和半导体征收约100%的关税",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250807/48698964.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250807/4a0ff7d7-333a-43e8-a3b2-557efb794245.jpg"
+        },
         {
             "title": "卢拉:巴西不会对美征收报复性关税 未放弃与美对话",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250807/48698946.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250806/3c1c9847-5b21-4006-8ea3-29304c388e11.jpg"
         },
         {
-            "title": "加沙地带一辆货运卡车翻车 已致20人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250806/48697406.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250806/fdd7df4b-c3cd-4513-abc7-a79adf2b8d7f.jpg"
+            "title": "一美军士兵因试图向俄罗斯泄露坦克情报被捕",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250807/48699144.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250807/17d44676-768d-44dd-8f22-28d6b16c8e95.png"
         },
         {
             "title": "事出反常必有&quot;妖&quot; 国安曝光境外间谍最新窃密手段",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250807/48699132.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20250807/a9fd6f10-5271-41ce-b068-cdbee5272a60.png"
-        },
-        {
-            "title": "一架载有哥伦比亚雇佣军的飞机在苏丹被摧毁",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250807/48699089.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250807/b862d245-0460-4a36-9195-d52b73fd46bf.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "海南封关倒计时 一线、二线口岸准备得怎么样了？",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250804/48689811.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "复兴号“狂追”和谐号！网友：交警管吗？",
@@ -231,12 +237,6 @@
             {
                 "title": "美团、淘宝饿了么、京东齐表态：抵制不正当竞争！补贴大战“急刹车”",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250804/48688117.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "达利欧功成身退，桥水基金受益中国业务，收益率居全球前十",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250804/48688085.html?ayjr"
             }
         ]
     ]
