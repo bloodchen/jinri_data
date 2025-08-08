@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "日本首相石破茂再次表明将继续留任",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250808/48704682.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250808/97879867-5e5d-4e3d-a919-5c91ef996824.png"
+        },
+        {
             "title": "韩“金建希特检组”：将探讨直接起诉尹锡悦的方案",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250808/48704664.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250808/2d3e3db5-cda5-4afb-9d33-0ae8a41fe773.jpg"
@@ -9,14 +14,14 @@
             "title": "成都世运会首金！徒步定向男子中距离瑞士选手夺冠",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250808/48704602.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250808/5cdd8a02-d682-4d69-8815-7328752ee7e3.png"
-        },
-        {
-            "title": "视频丨美一直升机撞上输电线坠落至驳船",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250808/48704576.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250808/b5c1c369-3b40-4f71-9621-0aa588083564.png"
         }
     ],
     "midImg": [
+        {
+            "title": "外交部回应菲律宾领导人涉台言论：不要玩火",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250808/48703918.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250808/230c2c08-6db0-499d-a237-bc684cb25033.png"
+        },
         {
             "title": "上证指数站稳3500点 7月A股成交量创年内新高",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250808/48703480.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250808/a8660af7-418a-445c-815d-8c1b41ec2795.jpg"
         },
         {
-            "title": "泽连斯基：结束俄乌冲突的主动权掌握在俄罗斯手中",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250808/48702763.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250808/1017d2f9-0981-4066-8f8e-2c4dbd2ab1f6.jpg"
+            "title": "视频丨美一直升机撞上输电线坠落至驳船",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250808/48704576.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250808/b5c1c369-3b40-4f71-9621-0aa588083564.png"
         },
         {
             "title": "陪下棋能“体检” 探访养老机构里的保姆机器人",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250808/48704427.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250808/4f2ea75a-bd99-4de2-b706-b48296543da1.jpg"
-        },
-        {
-            "title": "委内瑞拉谴责美国悬赏马杜罗“可悲”“荒谬”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250808/48704083.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250808/4fb42b15-b42a-4f22-a8cc-071869750583.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "特朗普称美将对芯片和半导体征收约100%的关税",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250807/48698964.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "卢拉:巴西不会对美征收报复性关税 未放弃与美对话",
@@ -231,12 +237,6 @@
             {
                 "title": "巴西最高法院下令软禁前总统博索纳罗",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250805/48692161.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "7月份中国大宗商品价格指数连续3个月环比回升",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250805/48692108.html?ayjr"
             }
         ]
     ]
