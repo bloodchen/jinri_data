@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美关税政策已致美企遭受损失 车企尤为明显",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250809/48706148.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250809/e199b60b-797d-4a87-98ab-8df1eb0eaaee.jpg"
+        },
+        {
             "title": "特朗普称亚美尼亚与阿塞拜疆承诺“永远”停止战斗",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250809/48706138.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/600x0/news/20250809/51d5ff2a-4bfd-4027-a087-5ac6ae1fe7e0.jpg"
@@ -9,14 +14,14 @@
             "title": "究竟是否占领加沙地带 以总理再发声",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250809/48706122.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/600x0/news/20250809/3add4c8e-fad3-401b-bbdb-f26e75beabea.jpg"
-        },
-        {
-            "title": "肯尼亚西部城市一大巴翻车 已致21人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250809/48706106.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250809/e1d7f509-36ed-4983-8dfa-1aebb070a2b9.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "国防部：希望有关方客观理性看待中俄正常防务合作",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250808/48705039.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/562x0/news/20250808/5955a37f-80cd-4091-a9e7-eac7bcc5f5d4.png"
+        },
         {
             "title": "国防部：赖清德之流&quot;跪美卖台&quot; 最终只能羊入虎口",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250808/48704983.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250808/2d3e3db5-cda5-4afb-9d33-0ae8a41fe773.jpg"
         },
         {
-            "title": "成都世运会首金！徒步定向男子中距离瑞士选手夺冠",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250808/48704602.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250808/5cdd8a02-d682-4d69-8815-7328752ee7e3.png"
+            "title": "肯尼亚西部城市一大巴翻车 已致21人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250809/48706106.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250809/e1d7f509-36ed-4983-8dfa-1aebb070a2b9.jpg"
         },
         {
             "title": "多领域刷新进度条！大国重器硬核更新“动态”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250809/48706059.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250809/c228b54a-6da1-4141-a149-c7c3e2fce30c.jpg"
-        },
-        {
-            "title": "今天凌晨，海上发射成功！",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250809/48706013.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250809/d7f73df3-2461-400c-848c-d23e47d010f1.gif"
         }
     ],
     "text": [
+        [
+            {
+                "title": "韩国特检组再次尝试对尹锡悦实施强制到案措施",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250807/48700031.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "第十一批国家组织药品集采报量正式启动",
@@ -231,12 +237,6 @@
             {
                 "title": "剑指中期选举 特朗普发声挺得州",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250806/48695387.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "墨西哥总统：已与美国就双边安全达成新协议",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250806/48695342.html?ayjr"
             }
         ]
     ]
