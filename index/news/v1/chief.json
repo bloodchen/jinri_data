@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "墨西哥外交部：拒绝美国军事力量参与本国事务",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250810/48707393.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/634x0/news/20250810/302993df-4a5c-42df-8ad8-d10beb01cd7b.png"
+        },
+        {
             "title": "苏丹中部一村庄遭袭致16名平民死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250809/48706678.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250809/af868df4-23f0-4e35-ab58-fdcb8702a0f6.png"
@@ -9,14 +14,14 @@
             "title": "首项医疗保障领域国家标准发布 一图读懂",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250809/48706486.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250809/42034994-b7cc-40df-9171-2b4cd52d96d1.jpg"
-        },
-        {
-            "title": "普京特朗普为何在阿拉斯加会面？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250809/48706439.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250809/fbf1dcf7-fb5c-4bfe-a6c7-a2accb51e814.png"
         }
     ],
     "midImg": [
+        {
+            "title": "以接管加沙城计划暴困境 欧对以发出暂停军售威胁",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250809/48706293.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/600x0/news/20250809/61582acf-0f56-4238-b220-fe0a9ac36535.jpg"
+        },
         {
             "title": "美国多所顶尖大学被诉操纵“提前录取”抬高学费",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250809/48706279.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250809/5a9f2dc1-0df5-430e-8e84-e8d48e5eaebb.jpg"
         },
         {
-            "title": "可容纳4名乘客 未来打飞的可能和出租车一个价",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250809/48706199.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250809/680b18e3-2171-4e0e-9ea1-28fb22e1a36b.jpg"
+            "title": "普京特朗普为何在阿拉斯加会面？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250809/48706439.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250809/fbf1dcf7-fb5c-4bfe-a6c7-a2accb51e814.png"
         },
         {
             "title": "日本长崎市举行原子弹爆炸80周年纪念仪式",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250809/48706349.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250809/40ce4d0f-160d-496f-86fe-4426006b7068.jpg"
-        },
-        {
-            "title": "国家统计局：7月份居民消费价格同比持平",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250809/48706338.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250809/765092be-457c-4934-bf04-03859dcc436c.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "&quot;围困&quot;或&quot;占领&quot;？以色列将讨论决定加沙行动方案",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250807/48701936.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "揽月月面着陆器着陆起飞综合验证试验取得圆满成功",
@@ -231,12 +237,6 @@
             {
                 "title": "加沙地带一辆货运卡车翻车 已致20人死亡",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250806/48697406.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "韩国9月29日起对中国团队游客实行临时免签政策",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250806/48697383.html?ayjr"
             }
         ]
     ]
