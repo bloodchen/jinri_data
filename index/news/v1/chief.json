@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "机器人“绣花”？看中国战队“毫米级”操作",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250811/48710006.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/320x0/news/20250811/2eae9d28-cef7-4c4b-b69a-7af0daa3c94d.jpg"
+        },
+        {
             "title": "@职场新人 这里有一份你需要学习的社保问答",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250811/48709647.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250811/630e9253-c651-4425-81e1-48653644d7d1.jpg"
@@ -9,14 +14,14 @@
             "title": "数字乡村建设助力农业农村现代化",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250811/48709458.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250811/191cbaf4-fc23-42c0-8854-d0631ef9ce7e.jpg"
-        },
-        {
-            "title": "气候危机正在“蒸发”欧洲传统果酒产业",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250811/48709154.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250811/31322732-e22e-478d-80b5-6b222d365db8.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "“特普会”将至 泽连斯基最新表态传递什么信号？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250810/48708233.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250810/22f58078-58ed-497d-be73-cd61fabc656b.jpg"
+        },
         {
             "title": "伦敦数千人抗议巴勒斯坦团体活动禁令 超470人被捕",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250810/48708198.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250810/58e3b491-518b-4d24-8903-fbe9b42631b0.png"
         },
         {
-            "title": "王某被胁迫参谍回国后主动报告 国安：不予追责",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250810/48707729.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250810/97f46449-8268-4cc8-8e10-154a4ba4ae2b.jpg"
+            "title": "气候危机正在“蒸发”欧洲传统果酒产业",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250811/48709154.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250811/31322732-e22e-478d-80b5-6b222d365db8.jpg"
         },
         {
             "title": "英国防部隐瞒放射性废水泄漏入海",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250811/48709124.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250811/9b936224-411f-4c49-a239-b58699b5b788.jpg"
-        },
-        {
-            "title": "“特普会”倒计时 美俄还在酝酿更大的核博弈",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250811/48709103.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/610x0/news/20250811/2aec4a22-495a-4636-a207-83cdb1a046db.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "国防部：解放军和武警部队持续开展防汛抢险行动",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250808/48704964.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "生命没有“概率”，岂容侥幸？",
@@ -231,12 +237,6 @@
             {
                 "title": "最高法发布6个涉外商事海事调解典型案例",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250807/48700110.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "韩国特检组再次尝试对尹锡悦实施强制到案措施",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250807/48700031.html?ayjr"
             }
         ]
     ]
