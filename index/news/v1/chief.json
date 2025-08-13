@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "红旗列阵！织就防空“天网”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250813/48716366.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250813/2aef646f-ade3-4158-a03b-3d7e59bdb4af.png"
+        },
+        {
             "title": "内塔尼亚胡称加沙停火谈判“已成过去时”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250813/48716329.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250813/890affef-9191-482c-af3e-107c09fac29a.jpg"
@@ -9,14 +14,14 @@
             "title": "泽连斯基：不接受没有乌方参与的决定",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250813/48716253.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250813/e0ee32e5-f810-464e-a879-d851f5010493.jpg"
-        },
-        {
-            "title": "普京与金正恩通电话 讨论俄美元首会晤等议题",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250813/48716063.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/600x0/news/20250813/09b6a2a1-ed0a-45f7-a5b4-a17f565b130e.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "墨西哥总统强硬表态：绝不允许美军入境",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250812/48713396.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250812/e7cd58c2-8035-4049-92ab-ac48326ed62e.jpg"
+        },
         {
             "title": "一份“神秘”猪脚饭订单引起外卖员警觉……",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250812/48713356.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/369x0/news/20250811/35a7be03-407e-4bfb-9cc4-61ade6f77d3c.png"
         },
         {
-            "title": "柬埔寨指责泰军方表态违反停火协议",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250811/48711737.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250811/39cfef50-1d04-4e06-b4b6-88d1a182aff9.jpg"
+            "title": "普京与金正恩通电话 讨论俄美元首会晤等议题",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250813/48716063.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/600x0/news/20250813/09b6a2a1-ed0a-45f7-a5b4-a17f565b130e.jpg"
         },
         {
             "title": "伊朗：若条件合适可直接与美国进行核谈判",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250813/48716050.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250813/03eac9c2-c147-4783-a2a1-728785092d00.jpg"
-        },
-        {
-            "title": "特朗普称不会对进口黄金征收关税",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250812/48714770.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/600x0/news/20250812/93fe808e-4afd-4bf5-935f-a4194e171b69.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "胡塞武装举行大规模集会 抗议以方接管加沙城计划",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250809/48706326.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "以接管加沙城计划暴困境 欧对以发出暂停军售威胁",
@@ -231,12 +237,6 @@
             {
                 "title": "墨西哥总统谴责美国新一轮针对移民的搜查行动",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250808/48702811.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美法官叫停“鳄鱼恶魔岛”移民拘留中心建设",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250808/48702789.html?ayjr"
             }
         ]
     ]
