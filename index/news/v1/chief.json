@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "南非：美所谓“人权报告”存在严重缺陷",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250817/48727994.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250817/abdbb57d-b62c-4b43-9e36-b48d572a4fb2.jpg"
+        },
+        {
             "title": "划破天际落进美国佐治亚州民宅里的陨石长啥样？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250817/48727634.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250817/57f457f2-345a-4967-8285-c2390050e471.jpg"
@@ -9,14 +14,14 @@
             "title": "西雅图一珠宝店价值200万美元珠宝90秒内遭洗劫",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250817/48727612.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250817/3d9d05e5-2abd-4bd0-8a76-0a49135d7734.png"
-        },
-        {
-            "title": "鲲鹏展翅！中国空军战略投送能力再升级",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250817/48727549.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250817/e80b11c8-3a92-4a6c-a87a-35b702972612.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "医保支付按病种付费 患者就诊有哪些新变化？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250816/48726966.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250816/89e46e3b-5b6d-45b6-b0dc-a0d9cbaee7db.jpg"
+        },
         {
             "title": "梅德韦杰夫：俄乌能否停火要看乌克兰和欧洲",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250816/48726873.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250816/52d13ebf-4820-4731-88ee-4ec577de5b91.jpg"
         },
         {
-            "title": "我国治沙有多牛？西北大漠变身“菜篮子”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250816/48726487.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250816/a1b9ccf2-98f4-44a3-8ed1-14e6d76ef3fa.jpg"
+            "title": "鲲鹏展翅！中国空军战略投送能力再升级",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250817/48727549.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250817/e80b11c8-3a92-4a6c-a87a-35b702972612.jpg"
         },
         {
             "title": "美俄乌三方会晤有望举行？普京提和平没提会晤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250817/48727401.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/600x0/news/20250817/c4303df1-baf1-4f60-9b45-bcec42070ccd.jpg"
-        },
-        {
-            "title": "以军前高官称加沙死亡数万人是“必要的”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250817/48727391.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/600x0/news/20250817/bbe4ee6f-a1e7-4898-93d5-715637e736e5.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "充电宝3C认证新规今起实施 合规产品销量持续增长",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250815/48723073.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "苏丹武装部队总司令：不会与快速支援部队和解",
@@ -231,12 +237,6 @@
             {
                 "title": "“双贴息”政策落地，条件有哪些、如何办理？",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250813/48718033.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "办理消费贷贴息个人需要如何操作？财政部详解",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250813/48718001.html?ayjr"
             }
         ]
     ]
