@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "阿富汗西部一交通事故造成超50人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250820/48737389.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250820/4c3f378f-2985-4962-a6a1-6a5cb55ed459.png"
+        },
+        {
             "title": "印度官宣：莫迪即将赴华出席上合组织峰会",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250820/48737315.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20250820/659f56ee-0ca9-4291-80c1-9ad93b75cacd.png"
@@ -9,14 +14,14 @@
             "title": "韩国特检组：金建希拘留时限将延长至8月31日",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250820/48737268.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250820/736ae5d4-7f46-44b4-a273-346f406fa6b9.png"
-        },
-        {
-            "title": "一张地图引关注 欧美俄乌陷入新一轮外交角力",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250820/48737216.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250820/4d647b19-ca04-4f15-9863-756b7efee46b.png"
         }
     ],
     "midImg": [
+        {
+            "title": "白宫称8月7日以来华盛顿特区已有465人被捕",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250820/48737094.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/548x0/news/20250820/702aee55-2ff1-4c66-a4b6-96f08479fa27.png"
+        },
         {
             "title": "俄罗斯梁赞州工厂火灾已致25人遇难",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250819/48735673.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250819/39e5bb3d-f5ba-4322-8ab6-59af1fcbe6d7.jpg"
         },
         {
-            "title": "进度条刷新 西十高铁全线桥隧主体工程完工",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250819/48733030.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250819/7830704f-d88e-4b87-a03d-16f889e0d155.jpg"
+            "title": "一张地图引关注 欧美俄乌陷入新一轮外交角力",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250820/48737216.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250820/4d647b19-ca04-4f15-9863-756b7efee46b.png"
         },
         {
             "title": "哥伦比亚法院下令立即解除前总统乌里韦的监禁",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250820/48737189.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/622x0/news/20250820/c8968eb3-1abf-427d-8bba-0f7b86cb7905.png"
-        },
-        {
-            "title": "以色列追加90亿美元财政预算 主要用于国防开支",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250820/48737162.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250820/b456e74d-995c-4844-95a9-f8769ba9e07c.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "医保支付按病种付费 患者就诊有哪些新变化？",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250816/48726966.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "梅德韦杰夫：俄乌能否停火要看乌克兰和欧洲",
@@ -231,12 +237,6 @@
             {
                 "title": "有组织的国家犯罪！侵华日军细菌战再添新罪证",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250815/48723593.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "俄美总统会晤在即 4项议题受关注",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250815/48723357.html?ayjr"
             }
         ]
     ]
