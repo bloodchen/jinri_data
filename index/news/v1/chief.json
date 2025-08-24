@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "多地调整最低工资标准 9月1日起执行",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250824/48752434.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250824/b6f4c7d0-d248-401a-9348-2eee2895adae.png"
+        },
+        {
             "title": "泽连斯基：准备采取措施实现和平",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250824/48751845.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250824/d303465c-874c-4cc2-b95d-726aab571604.jpg"
@@ -9,14 +14,14 @@
             "title": "“大罢免”再败 赖清德遭遇岛内民意大暴击",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250824/48751806.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250824/bf7fea78-0590-4f84-ba40-4a552382410b.jpg"
-        },
-        {
-            "title": "美军方官员：特朗普计划在芝加哥部署军队",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250824/48751791.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/636x0/news/20250824/7f518912-0af6-4b98-a1e3-8f997e893bd0.png"
         }
     ],
     "midImg": [
+        {
+            "title": "全球首个“超阶零碳建筑”在青岛启用",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250824/48751710.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250824/77f34748-f4d0-444f-8fce-64394be6af21.jpg"
+        },
         {
             "title": "意大理副总理言论引发法国方面不满 两国分歧凸显",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250824/48751658.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250823/3690d92a-ae5b-489c-b038-710913863c07.jpg"
         },
         {
-            "title": "纽约州大巴侧翻致6名中国公民受伤 其中1人重伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250823/48750505.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250823/ce0f4857-d54e-4b36-bc2f-0a7239d26923.png"
+            "title": "美军方官员：特朗普计划在芝加哥部署军队",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250824/48751791.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/636x0/news/20250824/7f518912-0af6-4b98-a1e3-8f997e893bd0.png"
         },
         {
             "title": "突破3100℃ 中国空间站“炼丹炉”刷新世界纪录",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250824/48751774.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250824/acbd5d95-ad14-4941-beb2-5be76572bd99.jpg"
-        },
-        {
-            "title": "“北溪”爆炸事件一重要嫌疑人落网",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250824/48751755.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250824/620a8c38-81cd-4724-a46b-0009a889b2de.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "苏丹总理：政府的优先事项是实现和平",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250822/48745947.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "内塔尼亚胡批准接管加沙城计划并要求重启谈判",
@@ -231,12 +237,6 @@
             {
                 "title": "阅兵准备情况，一图速览！",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250820/48738887.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "阅兵训练对实战有什么意义？如何提升战斗力？",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250820/48738802.html?ayjr"
             }
         ]
     ]
