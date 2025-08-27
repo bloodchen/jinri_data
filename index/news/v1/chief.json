@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "印控克什米尔地区发生山体滑坡 已致至少30人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250827/48764553.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/432x0/news/20250827/0772bffd-f068-4566-8b16-f80095c21a0a.png"
+        },
+        {
             "title": "多科目、高强度海上训练 海南舰最新画面公开",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250827/48764455.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250827/83f7d115-d86a-4d4d-bea8-00ebe3d434ff.png"
@@ -9,14 +14,14 @@
             "title": "美对印加征50%关税生效 印度出口商称大量订单取消",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250827/48764418.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250827/2fb59273-058d-41ba-a800-b2e478f42f8b.jpg"
-        },
-        {
-            "title": "商务部：下个月将出台扩大服务消费若干政策措施",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250827/48764390.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/300x0/news/20250827/2c2d5d5a-d578-4f75-a294-e75f3f4ccafb.png"
         }
     ],
     "midImg": [
+        {
+            "title": "每个角度都整整齐齐，每个画面都让人心潮澎湃！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250827/48763510.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/360x0/news/20250827/625f85bf-4410-4ffc-a860-b65976bd7178.jpg"
+        },
         {
             "title": "日本10年期新发国债收益率创近17年来新高",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250827/48763378.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250827/4f3ebec4-d3d0-407d-a4c7-f813740ef32c.jpg"
         },
         {
-            "title": "应对美军事部署 委内瑞拉宣布在加勒比海部署舰船",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250827/48762416.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250827/38bdd040-1b79-4037-b0fa-bbc18ac2182d.png"
+            "title": "商务部：下个月将出台扩大服务消费若干政策措施",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250827/48764390.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20250827/2c2d5d5a-d578-4f75-a294-e75f3f4ccafb.png"
         },
         {
             "title": "民进党当局威胁25名台湾艺人 国台办回应",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250827/48764358.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250827/bd8bec5e-8e4e-4eea-9313-d850659ab24e.jpg"
-        },
-        {
-            "title": "商务部：近期将出台促进服务出口的政策措施",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250827/48764326.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/300x0/news/20250827/5009d8db-490e-415c-9bc1-0dc891f28eb0.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "加沙超50万人陷饥荒 民众怒斥以把饥饿当杀戮武器",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250824/48752732.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "金正恩观摩！朝鲜试射新型防空导弹",
@@ -231,12 +237,6 @@
             {
                 "title": "外交部：敦促美方停止针对中国学生的无端盘查滋扰",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250822/48748886.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "我国千万吨级炼化一体化项目全面建成",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250822/48748858.html?ayjr"
             }
         ]
     ]
