@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "俄总统新闻秘书：反对在乌克兰部署“欧洲军队”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250828/48767905.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250828/db96dbb7-1eec-4d9a-90de-dcba3cf2e9af.jpg"
+        },
+        {
             "title": "&quot;北溪&quot;事件进展 德向6名乌克兰籍嫌疑人发出逮捕令",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250828/48767813.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250828/bd04d4f0-1ab2-4e98-82d0-f78452fa200e.jpg"
@@ -9,14 +14,14 @@
             "title": "10组主题花坛亮相长安街沿线 纪念抗战胜利80周年",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250828/48767653.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250828/a7714bf0-b333-41e6-a023-961631bcc002.jpg"
-        },
-        {
-            "title": "初次亮相占比高 九三阅兵四个特点抢先看",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250828/48767590.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250828/45a4b936-a9cb-4a8a-8d21-d54318679dce.png"
         }
     ],
     "midImg": [
+        {
+            "title": "普京等26位外国元首将出席抗战胜利80周年纪念活动",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250828/48767348.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250828/4c3725d7-5b8c-4810-b850-fa7d9da49e08.jpg"
+        },
         {
             "title": "实拍！高铁和渔船同框瞬间，绝了！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250828/48767225.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250828/dc40b531-ac0b-4ede-8df5-155683141754.png"
         },
         {
-            "title": "丹麦外交大臣就格陵兰岛问题召见美高级外交官",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250827/48765072.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250827/240758a7-da28-43ec-bec6-3bfd8eaa278a.jpg"
+            "title": "初次亮相占比高 九三阅兵四个特点抢先看",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250828/48767590.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250828/45a4b936-a9cb-4a8a-8d21-d54318679dce.png"
         },
         {
             "title": "美对印惩罚性关税生效 印度副外长：毫无正当理由",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250828/48767501.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250828/eb8a2cff-80aa-4b88-a6fc-2449f77ecf7c.jpg"
-        },
-        {
-            "title": "涉及消费贷贴息等 9月起一批新规将实施",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250828/48767449.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250828/2ade64ef-1eee-49f4-988c-8d33ffe77b0b.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "特朗普政府拟对印度商品征收50%关税",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250826/48758446.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "这些跨境寄递行为可能违法 国家安全部提示四大风险",
@@ -231,12 +237,6 @@
             {
                 "title": "美方要以色列“速战速决” 以决策层内部爆发冲突",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250824/48751595.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "这一周，多领域好消息频传",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250824/48751453.html?ayjr"
             }
         ]
     ]
