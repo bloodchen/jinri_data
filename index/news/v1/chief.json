@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "阅兵准备基本就绪，进入倒计时！最新进展来了",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250828/48768288.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250828/2b8786ea-ce06-478c-b08b-993c4a9aa211.png"
+        },
+        {
             "title": "俄总统新闻秘书：反对在乌克兰部署“欧洲军队”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250828/48767905.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250828/db96dbb7-1eec-4d9a-90de-dcba3cf2e9af.jpg"
@@ -9,14 +14,14 @@
             "title": "&quot;北溪&quot;事件进展 德向6名乌克兰籍嫌疑人发出逮捕令",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250828/48767813.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250828/bd04d4f0-1ab2-4e98-82d0-f78452fa200e.jpg"
-        },
-        {
-            "title": "10组主题花坛亮相长安街沿线 纪念抗战胜利80周年",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250828/48767653.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250828/a7714bf0-b333-41e6-a023-961631bcc002.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "韩国法院再次对前总统尹锡悦进行缺席审判",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250828/48767367.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250828/529cde20-5a72-49ea-b622-d6110a3304f4.png"
+        },
         {
             "title": "普京等26位外国元首将出席抗战胜利80周年纪念活动",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250828/48767348.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250828/120cb5df-4371-49ef-b4ef-720a944aee27.png"
         },
         {
-            "title": "委内瑞拉总统称该国正遭受核潜艇直接威胁",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250828/48766846.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250828/dc40b531-ac0b-4ede-8df5-155683141754.png"
+            "title": "10组主题花坛亮相长安街沿线 纪念抗战胜利80周年",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250828/48767653.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250828/a7714bf0-b333-41e6-a023-961631bcc002.jpg"
         },
         {
             "title": "初次亮相占比高 九三阅兵四个特点抢先看",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250828/48767590.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20250828/45a4b936-a9cb-4a8a-8d21-d54318679dce.png"
-        },
-        {
-            "title": "美对印惩罚性关税生效 印度副外长：毫无正当理由",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250828/48767501.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250828/eb8a2cff-80aa-4b88-a6fc-2449f77ecf7c.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美国在加勒比海军事部署 “门罗主义”阴霾不散",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250826/48758501.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "特朗普政府拟对印度商品征收50%关税",
@@ -231,12 +237,6 @@
             {
                 "title": "意大理副总理言论引发法国方面不满 两国分歧凸显",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250824/48751658.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美方要以色列“速战速决” 以决策层内部爆发冲突",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250824/48751595.html?ayjr"
             }
         ]
     ]
