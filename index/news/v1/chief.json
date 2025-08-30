@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "佩通坦被解职 新总理人选浮出",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250830/48775198.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250830/995d34f3-7254-48ad-83d3-2ae6dc39fbe6.jpg"
+        },
+        {
             "title": "巴方：美取消巴勒斯坦领导人签证违反国际法",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250830/48775187.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250830/34d68322-9a28-4996-8763-e0a55e220893.png"
@@ -9,14 +14,14 @@
             "title": "土耳其议会通过动议谴责以色列实施种族灭绝",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250830/48775175.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250830/47c7cadc-6ada-4f7e-901e-f00c3ff599bb.jpg"
-        },
-        {
-            "title": "外交部：敦促美方、日方！不得部署&quot;堤丰&quot;中导系统",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250829/48774195.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250829/27293bb2-f2a0-4b6e-ad25-a806c8129a66.png"
         }
     ],
     "midImg": [
+        {
+            "title": "日企又被曝在测试中存在&quot;不当行为&quot; 是潜艇发动机",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250829/48773053.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250829/04b294db-11d4-4584-9efa-53ba7685ad7d.jpg"
+        },
         {
             "title": "外交部：中国终将统一 也必将统一的大势不可阻挡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250829/48772764.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250829/61c1624a-e673-4d27-91f9-1977a7b765af.png"
         },
         {
-            "title": "上任不到一个月 美国疾控中心主任被解职",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250829/48771621.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250829/7f5d049d-93db-4d3f-bb48-74d474e0a47f.png"
+            "title": "外交部：敦促美方、日方！不得部署&quot;堤丰&quot;中导系统",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250829/48774195.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250829/27293bb2-f2a0-4b6e-ad25-a806c8129a66.png"
         },
         {
             "title": "埃及总理马德布利抵华 出席2025年上合组织峰会",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250829/48774137.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/564x0/news/20250829/d81e7280-eee0-4d26-b184-75e416895f78.png"
-        },
-        {
-            "title": "外交部：联合国的作用只能加强不能削弱",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250829/48773569.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250829/4fbffed5-00fa-40fe-b5b4-74ea8a3b4fdd.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "委内瑞拉总统称该国正遭受核潜艇直接威胁",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250828/48766846.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "丹麦外交大臣就格陵兰岛问题召见美高级外交官",
@@ -231,12 +237,6 @@
             {
                 "title": "美国在加勒比海军事部署 “门罗主义”阴霾不散",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250826/48758501.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "特朗普政府拟对印度商品征收50%关税",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250826/48758446.html?ayjr"
             }
         ]
     ]
