@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "非制造业扩张加快 8月份商务活动指数50.3%",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250831/48776851.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250831/fc86d468-cc22-4545-9c96-7fd11576c413.png"
+        },
+        {
             "title": "低空装备加速出海 抢占全球低空产业新赛道",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250831/48776728.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250831/2f87fd96-65ef-45ce-bd25-968de120502a.jpg"
@@ -9,14 +14,14 @@
             "title": "哈马斯证实其军事领导人穆罕默德·辛瓦尔已死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250831/48776486.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250831/92aed712-f503-4e6d-ab77-6d7f726ca1e3.png"
-        },
-        {
-            "title": "以军袭击加沙多地 巴武装人员袭击以军",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250831/48776464.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250831/1732bc5b-5473-494c-bf03-aad5b09378dc.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "南非成功实施首例机器人辅助供体肾脏切除手术",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250830/48775883.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/620x0/news/20250830/ab3766d4-2d6d-4d9a-b6a3-61601daaf865.jpg"
+        },
         {
             "title": "阅兵装备191式步枪有哪些独特本领？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250830/48775870.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250830/34d68322-9a28-4996-8763-e0a55e220893.png"
         },
         {
-            "title": "佩通坦被解职 新总理人选浮出",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250830/48775198.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250830/995d34f3-7254-48ad-83d3-2ae6dc39fbe6.jpg"
+            "title": "以军袭击加沙多地 巴武装人员袭击以军",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250831/48776464.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250831/1732bc5b-5473-494c-bf03-aad5b09378dc.jpg"
         },
         {
             "title": "以军行动升级 胡塞武装、哈马斯高层遭&quot;精准打击&quot;",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250831/48776454.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250831/4421d301-05ee-4f9a-bdf2-88d78481ed96.jpg"
-        },
-        {
-            "title": "哥伦比亚政府宣布禁止向以色列出口煤炭",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250831/48776445.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250831/cc9e0376-3082-4490-9295-a1ed0b02f934.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "阅兵准备基本就绪，进入倒计时！最新进展来了",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250828/48768288.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "俄总统新闻秘书：反对在乌克兰部署“欧洲军队”",
@@ -231,12 +237,6 @@
             {
                 "title": "关税新规带来不确定性 25国宣布暂停对美寄送包裹",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250827/48762614.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "特朗普政府与美联储斗争“显著升级”",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250827/48762433.html?ayjr"
             }
         ]
     ]
