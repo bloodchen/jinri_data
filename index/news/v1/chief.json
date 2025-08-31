@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "我国开通首条金砖安全智能贸易试点航线",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250831/48776898.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250831/ab0afab9-8155-4999-bd0d-f7f8211e3494.jpg"
+        },
+        {
             "title": "非制造业扩张加快 8月份商务活动指数50.3%",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250831/48776851.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20250831/fc86d468-cc22-4545-9c96-7fd11576c413.png"
@@ -9,14 +14,14 @@
             "title": "低空装备加速出海 抢占全球低空产业新赛道",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250831/48776728.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250831/2f87fd96-65ef-45ce-bd25-968de120502a.jpg"
-        },
-        {
-            "title": "哈马斯证实其军事领导人穆罕默德·辛瓦尔已死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250831/48776486.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250831/92aed712-f503-4e6d-ab77-6d7f726ca1e3.png"
         }
     ],
     "midImg": [
+        {
+            "title": "“20分钟效应”爆火后，公园已经进化到这种程度了",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250830/48775923.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250830/53876d31-ed23-4753-842d-a5f855729e30.jpg"
+        },
         {
             "title": "南非成功实施首例机器人辅助供体肾脏切除手术",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250830/48775883.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250830/ff3db6a0-f341-4714-ab7e-8ceab597611e.jpg"
         },
         {
-            "title": "总统赴美签证被吊销！巴方：遗憾、震惊",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250830/48775187.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250830/34d68322-9a28-4996-8763-e0a55e220893.png"
+            "title": "哈马斯证实其军事领导人穆罕默德·辛瓦尔已死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250831/48776486.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250831/92aed712-f503-4e6d-ab77-6d7f726ca1e3.png"
         },
         {
             "title": "以军袭击加沙多地 巴武装人员袭击以军",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250831/48776464.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250831/1732bc5b-5473-494c-bf03-aad5b09378dc.jpg"
-        },
-        {
-            "title": "以军行动升级 胡塞武装、哈马斯高层遭&quot;精准打击&quot;",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250831/48776454.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250831/4421d301-05ee-4f9a-bdf2-88d78481ed96.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "反对炮舰外交 委内瑞拉总统谴责美国核威胁",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250828/48768363.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "阅兵准备基本就绪，进入倒计时！最新进展来了",
@@ -231,12 +237,6 @@
             {
                 "title": "视频丨美“星舰”第十次试飞",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250827/48762679.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "关税新规带来不确定性 25国宣布暂停对美寄送包裹",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250827/48762614.html?ayjr"
             }
         ]
     ]
