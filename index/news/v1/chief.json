@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "香港特区选委会界别分组补选顺利举行",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250908/48799612.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250908/8cd54e12-8d92-4c90-91be-ad9bbd1097ed.jpg"
+        },
+        {
             "title": "为何这部电影刚上映就在台胞中引发热议？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250908/48799208.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250908/db471cc7-fc63-4dcb-8f8a-ed9b8c96c22d.jpg"
@@ -9,14 +14,14 @@
             "title": "五角大楼资助中国研究项目？我驻美使馆回应",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250908/48799168.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250908/ab4019cf-0366-4136-9d82-a156022ffbb4.jpg"
-        },
-        {
-            "title": "特朗普向哈马斯发出“最后警告”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250908/48799145.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250908/0f29339a-5963-42b4-947d-e5b5796891d6.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "圭亚那连任总统伊尔凡·阿里宣誓就职",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250908/48799034.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250908/a403fb16-9c08-41e7-9051-21ae827bb55a.jpg"
+        },
         {
             "title": "刷屏朋友圈！“红月亮”高清大图来了",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250908/48799025.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/600x0/news/20250907/e5c8d6b9-a79c-4b8b-9f72-2e6fffe5e02b.jpg"
         },
         {
-            "title": "乌总理证实乌政府大楼首次遭俄军袭击受损",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250907/48797987.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250907/5505e0f1-209e-41a1-bd61-47b0de5e341c.jpg"
+            "title": "特朗普向哈马斯发出“最后警告”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250908/48799145.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250908/0f29339a-5963-42b4-947d-e5b5796891d6.jpg"
         },
         {
             "title": "“云遥一号”系列卫星预计明年底前发射90颗",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250908/48799119.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250908/81525665-6974-4a6c-b241-9761e761be82.jpg"
-        },
-        {
-            "title": "九三阅兵背后 有着怎样不为人为知的故事？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250908/48799086.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250908/2df2e630-17af-4543-a2b1-8464e5198588.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美国防部真改名“战争部”了？事情是这样的",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250906/48796012.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "后劲太大！战机纯享版阅兵大片送上",
@@ -231,12 +237,6 @@
             {
                 "title": "我国科学家最新发现 首次确证火星存在固态内核",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250904/48788800.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "九三阅兵高清大图合集（收藏版）",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250903/48787077.html?ayjr"
             }
         ]
     ]
