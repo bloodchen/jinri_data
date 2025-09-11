@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "政治盟友遭枪击身亡，特朗普下令降半旗志哀",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250911/48812225.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250911/5b9d7ac8-0ded-4a01-a652-fe5cb0af796f.jpg"
+        },
+        {
             "title": "以色列重创“调停者” 加沙停火谈判或再陷僵局",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250911/48812012.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250911/dd3a64bf-a8c1-4902-a2e1-99b89b85e83d.jpg"
@@ -9,14 +14,14 @@
             "title": "俄外交部重申俄方愿就无人机事件与波兰磋商",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250911/48811983.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250911/3ebfbb08-e9be-4166-b6f2-189db68411c6.jpg"
-        },
-        {
-            "title": "接回在美被捕韩国人的包机将于11日从美国出发",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250911/48811973.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250911/96edb729-1995-42de-adf8-288c9c79191e.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "国防部：决不允许日本军国主义卷土重来",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250910/48810782.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20250910/5f71bf15-8763-4607-ab92-77ffb836548c.png"
+        },
         {
             "title": "卡塔尔首相：以方行为构成“国家恐怖主义”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250910/48810768.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250910/67f1111b-20de-4d44-832b-de4ddf096202.jpg"
         },
         {
-            "title": "韩企员工被捕只是冰山一角？美制造业流失一万多人",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250910/48809632.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250910/415dd981-593e-489c-aac2-bf3ed89daedc.png"
+            "title": "接回在美被捕韩国人的包机将于11日从美国出发",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250911/48811973.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250911/96edb729-1995-42de-adf8-288c9c79191e.jpg"
         },
         {
             "title": "以色列总理要求卡塔尔驱逐哈马斯领导人",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250911/48811953.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250911/07e8d0b0-3289-4189-af34-7eb883b8ad94.jpg"
-        },
-        {
-            "title": "凭种族特征可抓人？美最高法院裁定引争议",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250911/48811923.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250911/d0059bfc-fd11-4f4d-839e-944339024e67.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "特朗普向哈马斯发出“最后警告”",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250908/48799145.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "“云遥一号”系列卫星预计明年底前发射90颗",
@@ -231,12 +237,6 @@
             {
                 "title": "泰国新总理选举当日 前总理他信发声：正前往迪拜",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250906/48796583.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "共同的历史记忆激发岛内民众身为中国人的自豪",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250906/48796416.html?ayjr"
             }
         ]
     ]
