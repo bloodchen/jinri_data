@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美国海军学院内传出枪声 校园已封锁",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250912/48815423.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250912/771383c3-145b-4bb1-a608-c304fe790aa1.png"
+        },
+        {
             "title": "细节披露：境外反华敌对势力&quot;钓鱼式&quot;攻击办公邮箱",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250912/48815386.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250912/ccf24b94-5705-4272-8e44-9dae0e9cd6f3.jpg"
@@ -9,14 +14,14 @@
             "title": "特朗普计划出席遭枪杀盟友柯克的葬礼",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250912/48815362.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250912/6ca8aa17-13d2-47f3-a3f7-1ffacac28a98.jpg"
-        },
-        {
-            "title": "胡塞武装证实对以色列发动弹道导弹袭击",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250912/48815349.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250912/23bdffff-3066-46f7-8043-6b2f1611c991.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "硬核！原来这些纵横天地间的&quot;大国重器&quot;是天津制造",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250911/48813932.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250911/1ed640a8-8204-4b24-8f5e-c48af1caa791.jpg"
+        },
         {
             "title": "如何免费坐火车？用积分就“兑”了！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250911/48813819.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250911/b440fe76-9cdf-43c8-854e-2ed6d9f2b8a1.jpg"
         },
         {
-            "title": "以军空袭也门萨那等地 针对三大目标",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250911/48812739.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250911/153990cf-3f49-4bf3-872f-7dde2c5eee97.jpg"
+            "title": "胡塞武装证实对以色列发动弹道导弹袭击",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250912/48815349.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250912/23bdffff-3066-46f7-8043-6b2f1611c991.jpg"
         },
         {
             "title": "菲连收两个坏消息 中方宣布黄岩岛大动作阳谋无法破解",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250912/48815204.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/640x0/toutiao/20250911/37a24665-dbe0-4995-9c0c-a9840b90dc8d.jpg"
-        },
-        {
-            "title": "黄岩岛是中国的！中方不接受菲律宾所谓“抗议”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250911/48814175.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250911/2e889444-f49b-4c3b-a682-a768a6d1f045.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "伊外长：伊朗坚定维护其和平利用核能权利",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250910/48808289.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "欧盟宣布1500亿欧元防务贷款初步分配方案",
@@ -231,12 +237,6 @@
             {
                 "title": "泰国国王批准阿努廷·参威拉军出任总理",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250907/48797978.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "今晚记得抬头看“红月亮” 最佳观赏时间表来了",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250907/48797965.html?ayjr"
             }
         ]
     ]
