@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "“盟友”炸弹落向“盟友” 美式保护现形了",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250914/48820942.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250914/fa489bfc-9696-4d4d-b0a9-811cf5eeabe2.png"
+        },
+        {
             "title": "国庆中秋假期将至 最新购票出行提示快查收",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250914/48820856.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250914/321dc3fe-4f04-4c97-ad63-3d98b1b3f9aa.jpg"
@@ -9,14 +14,14 @@
             "title": "南部战区正告菲方：引入外部势力撑腰注定徒劳无益",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250914/48820834.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20250914/c2498838-55ea-420e-9f41-068e99070636.png"
-        },
-        {
-            "title": "美方不清楚 波领空无人机事件依旧扑朔迷离",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250914/48820808.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/600x0/news/20250914/afacf402-9964-4869-a834-36beb611f94a.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "以军前总参谋长：冲突致加沙地带10%人口死伤",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250913/48820323.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250913/1bc34fb2-dc07-46ac-b04b-bd851f7533d6.jpg"
+        },
         {
             "title": "阿根廷谴责以色列企业在马尔维纳斯群岛开展作业",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250913/48820001.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250913/1c5b5d6a-045f-41a2-9f0b-3c441c2ff596.jpg"
         },
         {
-            "title": "好看又实用 这抹醒目“城墙红”被搬到了服贸会",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250913/48819750.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250913/e774f5b5-f7ec-4786-9059-5ed96c0021a8.jpg"
+            "title": "美方不清楚 波领空无人机事件依旧扑朔迷离",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250914/48820808.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/600x0/news/20250914/afacf402-9964-4869-a834-36beb611f94a.jpg"
         },
         {
             "title": "内塔尼亚胡暗示将继续“清除”哈马斯领导层",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250914/48820749.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250914/77fd249a-dae7-4cf6-a23f-40e16a673c36.jpg"
-        },
-        {
-            "title": "美国佐治亚州一警长遭枪击重伤 嫌犯在逃",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250914/48820729.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250914/5c50fb30-d3ae-4cfb-b246-35e3fc5efd64.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "硬核！原来这些纵横天地间的&quot;大国重器&quot;是天津制造",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250911/48813932.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "如何免费坐火车？用积分就“兑”了！",
@@ -231,12 +237,6 @@
             {
                 "title": "特朗普：对以色列袭击卡塔尔“并不感到高兴”",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250910/48808594.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "10枚导弹只打一处 以军越境袭击哈马斯高层",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250910/48808427.html?ayjr"
             }
         ]
     ]
