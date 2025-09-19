@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "今日拉开帷幕！空军航空开放活动最新剧透来了",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250919/48837041.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250919/14644488-9ed4-40b7-99db-70c6273b875c.jpg"
+        },
+        {
             "title": "加沙战火持续 有关中东一夜间发生了什么？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250919/48836992.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250919/e78701bb-1411-452a-8d2b-78dc7a581e86.jpg"
@@ -9,14 +14,14 @@
             "title": "胡塞武装称袭击以色列特拉维夫并命中军事目标",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250919/48836976.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250919/5fc880d9-698f-4b57-9f34-d2e2c2918266.jpg"
-        },
-        {
-            "title": "黎巴嫩总统谴责以色列空袭 呼​​吁停止侵犯行为",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250919/48836965.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250919/37a86a7d-b666-4373-9e4e-19f97e17abd3.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "中国企业停止购买英伟达相关芯片？外交部回应",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250918/48835816.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/564x0/news/20250918/11f043f3-9f04-47dc-b47f-12c413879635.png"
+        },
         {
             "title": "破2亿！电影《731》上映首日票房再创新高",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250918/48835615.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250918/4ac3aa4f-dfd3-4fe1-8e3d-8c26e5a241f4.jpg"
         },
         {
-            "title": "“有警员倒下”美宾州枪击案致5名警员伤亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250918/48834445.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250918/0fd46302-2a50-468a-af9a-26253d1248c1.jpg"
+            "title": "黎巴嫩总统谴责以色列空袭 呼​​吁停止侵犯行为",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250919/48836965.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250919/37a86a7d-b666-4373-9e4e-19f97e17abd3.jpg"
         },
         {
             "title": "法国逾50万人罢工反对政府财政紧缩方案",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250919/48836954.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250919/8d3adf2d-9e71-4d19-8cfc-1386956af25a.jpg"
-        },
-        {
-            "title": "官方通报＂女子误触氢氟酸身亡＂：氢氟酸系2015年遗弃",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250919/48836843.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/toutiao/20250918/0b69ae00-d2a0-474a-865f-645691b9a24f.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美国重新解读军控协议 以放宽军用无人机出口",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250916/48827404.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "日本自民党新总裁选战升温 ",
@@ -231,12 +237,6 @@
             {
                 "title": "国庆中秋假期将至 最新购票出行提示快查收",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250914/48820856.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "南部战区正告菲方：引入外部势力撑腰注定徒劳无益",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250914/48820834.html?ayjr"
             }
         ]
     ]
