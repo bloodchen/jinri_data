@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "商务部新闻发言人就TikTok问题进展情况答记者问",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250920/48841246.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250920/797d7a56-e42c-46f8-b95a-219b4c5c9010.png"
+        },
+        {
             "title": "香港警方顺利拆除战时遗留炸弹 市民通行恢复正常",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250920/48841103.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250920/4a1b4004-b95b-4879-8d6c-e15c2eb21f95.png"
@@ -9,14 +14,14 @@
             "title": "震撼！空中极近距离拍战机影像大片来了",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250920/48841065.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250920/0389aafb-4f6e-4244-a78a-7ad248964c7c.jpg"
-        },
-        {
-            "title": "空警-500、歼-20亮相 长春航空展今日精彩瞬间",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250920/48840988.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250920/215a7da4-627f-4b01-aa16-f486b85fcea0.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "扎波罗热核电站培训中心大楼遭无人机袭击",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250920/48840816.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250920/a27b13b2-2b71-4157-9b2d-438f90a21241.jpg"
+        },
         {
             "title": "视频记录美国田纳西州废弃核冷却塔爆破瞬间",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250920/48840766.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/370x0/news/20250920/89e3c173-3970-4ee0-b734-052d45ab6a11.png"
         },
         {
-            "title": "因电信故障 美国达拉斯地区超1800个航班延误",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250920/48840323.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/460x0/news/20250920/ea741923-e4c8-47e6-a768-531fadca91c8.jpg"
+            "title": "空警-500、歼-20亮相 长春航空展今日精彩瞬间",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250920/48840988.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250920/215a7da4-627f-4b01-aa16-f486b85fcea0.jpg"
         },
         {
             "title": "惊艳全场！“天之翼”飞行表演队展示“七机开花”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250920/48840954.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250920/269f2e9c-6db7-4d57-af60-65c3d4d88967.png"
-        },
-        {
-            "title": "应对美国军事部署 委内瑞拉宣布综合军演取得成功",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250920/48840943.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250920/00b8ba86-1f0e-4767-b0f4-0b52f7bc3bda.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "破2亿！电影《731》上映首日票房再创新高",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250918/48835615.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "谈到台湾问题，中国国防部长发声！",
@@ -231,12 +237,6 @@
             {
                 "title": "以方：曾在伊朗部署百名外国特工 摧毁其导弹系统",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250917/48829300.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "泽连斯基：愿与特朗普和普京会面 但不去莫斯科",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250917/48829283.html?ayjr"
             }
         ]
     ]
