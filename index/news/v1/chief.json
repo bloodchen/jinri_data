@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "从海底光缆到医疗设备 &quot;中国制造&quot;正改变你我生活",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250921/48841781.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250921/281a275e-778f-41fd-bfe2-aca055517895.jpg"
+        },
+        {
             "title": "又有多国将承认巴勒斯坦国 美以国际孤立加剧",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250921/48841756.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250921/1fce9134-a44e-4bc2-a2d7-9652cfd2f3c4.jpg"
@@ -9,14 +14,14 @@
             "title": "首款！首次！爆破试验带你看巡飞弹飞龙-60A有多强",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250921/48841741.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/320x0/news/20250921/c8d80125-5289-40d5-9a9b-ca2a9249a19b.jpg"
-        },
-        {
-            "title": "九三阅兵最新亮相 详解海军型歼-35与以往有何区别",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250921/48841721.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/320x0/news/20250921/ae92f14f-bd83-4d92-b908-e2f0e4b0608e.gif"
         }
     ],
     "midImg": [
+        {
+            "title": "商务部新闻发言人就TikTok问题进展情况答记者问",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250920/48841246.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20250920/797d7a56-e42c-46f8-b95a-219b4c5c9010.png"
+        },
         {
             "title": "香港警方顺利拆除战时遗留炸弹 市民通行恢复正常",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250920/48841103.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250920/00b8ba86-1f0e-4767-b0f4-0b52f7bc3bda.jpg"
         },
         {
-            "title": "中国科学院院士、分子生物物理学家王大成逝世",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250920/48840888.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/529x0/news/20250920/067ec58a-1778-4fed-8824-4b5d2761fd4b.png"
+            "title": "九三阅兵最新亮相 详解海军型歼-35与以往有何区别",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250921/48841721.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/320x0/news/20250921/ae92f14f-bd83-4d92-b908-e2f0e4b0608e.gif"
         },
         {
             "title": "为加强欧洲安全 英国战机开始在波兰上空巡逻",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250921/48841683.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250921/19aadda8-bfd2-4b2d-8290-5db5b1b19bce.png"
-        },
-        {
-            "title": "什么是量子科技？都有哪些应用？一文了解→",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250921/48841655.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250921/662e0d2e-b49e-48f2-bca9-0ddde808639b.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "加沙战火持续 有关中东一夜间发生了什么？",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250919/48836992.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "胡塞武装称袭击以色列特拉维夫并命中军事目标",
@@ -231,12 +237,6 @@
             {
                 "title": "出行旅客请注意 国庆中秋假期首日车票今起发售",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250917/48830664.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "联合国认定以色列在加沙犯下种族灭绝罪行",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250917/48830599.html?ayjr"
             }
         ]
     ]
