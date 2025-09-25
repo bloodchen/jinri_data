@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "现场视频：胡塞武装无人机突破以色列防空系统",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250925/48856504.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20250925/3afd0ad5-6321-49b2-a5a9-ece7bd402739.png"
+        },
+        {
             "title": "印度称成功在轨道式移动平台上发射导弹",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250925/48856285.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/636x0/news/20250925/6a96db94-fda1-4b1a-9739-17e52f019778.png"
@@ -9,14 +14,14 @@
             "title": "泽连斯基：任意地点！除了莫斯科",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250925/48855731.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250925/9f3f8c04-df45-47d3-908c-16c7a00f1e07.jpg"
-        },
-        {
-            "title": "告别&quot;背硬盘&quot;！我国上线50余条算力&quot;数据快递&quot;线路",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250925/48855160.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250925/515806a9-1fc5-4d38-bbdd-cf4a4a6d831e.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "泽连斯基动作不断 特朗普突然转向 意欲何为？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250925/48854863.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250925/7b75c22a-b924-4072-9bbf-a669547725b8.jpg"
+        },
         {
             "title": "特朗普：联合国发生三件“非常险恶”事件",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250925/48854838.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250925/24ea48ea-7262-4610-81aa-aadc58db0302.jpg"
         },
         {
-            "title": "台当局对南非实施芯片出口限制 外交部回应",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250924/48853707.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/565x0/news/20250924/f8378c2e-b7e3-4c90-85e7-23d26e67d5cc.png"
+            "title": "告别&quot;背硬盘&quot;！我国上线50余条算力&quot;数据快递&quot;线路",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250925/48855160.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250925/515806a9-1fc5-4d38-bbdd-cf4a4a6d831e.jpg"
         },
         {
             "title": "加沙民众：希望国际承认巴勒斯坦国能推动战争结束",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250925/48855131.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250925/b8880744-a56c-43e0-bf64-f3f58755f66a.jpg"
-        },
-        {
-            "title": "日本作祟：广岛都能申遗，“731”不行？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250925/48854931.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250925/2b5c9922-d522-43ac-9a05-13e94a48422c.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "巴勒斯坦国“承认潮”能否实现加沙“和平”？",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250923/48847851.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "大庆油田川渝探区天然气累产突破40亿立方米",
@@ -231,12 +237,6 @@
             {
                 "title": "商务部新闻发言人就TikTok问题进展情况答记者问",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250920/48841246.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "香港警方顺利拆除战时遗留炸弹 市民通行恢复正常",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250920/48841103.html?ayjr"
             }
         ]
     ]
