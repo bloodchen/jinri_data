@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "联合国儿基会驻苏丹一办公楼遇袭 造成至少7人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250926/48859209.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250926/bffd438e-2ef3-48ea-a30f-7bec0a05ffc6.jpg"
+        },
+        {
             "title": "尹锡悦出席其涉嫌滥用职权等案件首次庭审",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250926/48859163.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250926/de62c0f4-9599-4ff6-a690-a2f9e89ac76b.jpg"
@@ -9,14 +14,14 @@
             "title": "绕600公里 以总理在赴美专机上下令空袭也门",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250926/48858856.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/578x0/news/20250926/17a21e0d-c7c3-44e7-b59c-cfffecad12cd.jpg"
-        },
-        {
-            "title": "特朗普宣布将对进口建材、家具及药品实施高额关税",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250926/48858484.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/590x0/news/20250926/f2b8951a-91ee-444e-aeb1-c78a8e9b3be0.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "特朗普：不会允许以色列吞并约旦河西岸",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250926/48858391.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250926/211e18be-7c48-48e4-87d5-ab3ad12cc6f3.jpg"
+        },
         {
             "title": "伊拉克总理宣布中央政府接收库区原油并恢复出口",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250926/48858376.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/578x0/news/20250925/7b097d35-7c91-4a11-b152-2aa6e8dfd5a8.jpg"
         },
         {
-            "title": "岸田文雄遇袭案二审维持原判 嫌疑人被判10年监禁",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250925/48856993.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250925/49e0d538-a4ba-49c3-85f3-3caa1133ae9b.jpg"
+            "title": "特朗普宣布将对进口建材、家具及药品实施高额关税",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250926/48858484.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/590x0/news/20250926/f2b8951a-91ee-444e-aeb1-c78a8e9b3be0.jpg"
         },
         {
             "title": "189名专家名单 伊朗为何此时披露以色列核信息",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250926/48858453.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250926/ed54b24a-bbef-4ddb-a458-08be96b64ad8.jpg"
-        },
-        {
-            "title": "曾负责“通俄门”调查的美FBI前局长被起诉",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250926/48858424.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250926/f18e9ebb-50ee-4e8a-8256-5e988722b14f.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "福建舰“上新”，西太平洋战略格局将被重塑",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250924/48851239.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "中国订单：零！美国豆农坐不住了",
@@ -231,12 +237,6 @@
             {
                 "title": "首次突破、首座投运！多领域重点工程传来好消息",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250922/48843378.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "62岁农村大爷打赏女主播50万 全家人一查账单直接傻眼",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250922/48843186.html?ayjr"
             }
         ]
     ]
