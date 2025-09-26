@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "特朗普宣布将对进口建材、家具及药品实施高额关税",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250926/48858484.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/590x0/news/20250926/f2b8951a-91ee-444e-aeb1-c78a8e9b3be0.jpg"
+        },
+        {
             "title": "189名专家名单 伊朗为何此时披露以色列核信息",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250926/48858453.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250926/ed54b24a-bbef-4ddb-a458-08be96b64ad8.jpg"
@@ -9,14 +14,14 @@
             "title": "曾负责“通俄门”调查的美FBI前局长被起诉",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250926/48858424.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20250926/f18e9ebb-50ee-4e8a-8256-5e988722b14f.jpg"
-        },
-        {
-            "title": "特朗普批准华盛顿特区恢复死刑",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250926/48858403.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250926/c73a5338-37fc-4b1e-9706-0ce67550c112.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "商务部：将3家美国企业列入不可靠实体清单",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250925/48857253.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20250925/a90d715a-5372-4521-97eb-c0cdaed90c77.png"
+        },
         {
             "title": "商务部将3家美国实体列入出口管制管控名单",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250925/48857126.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/636x0/news/20250925/6a96db94-fda1-4b1a-9739-17e52f019778.png"
         },
         {
-            "title": "泽连斯基：任意地点！除了莫斯科",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250925/48855731.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250925/9f3f8c04-df45-47d3-908c-16c7a00f1e07.jpg"
+            "title": "特朗普批准华盛顿特区恢复死刑",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250926/48858403.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250926/c73a5338-37fc-4b1e-9706-0ce67550c112.jpg"
         },
         {
             "title": "特朗普：不会允许以色列吞并约旦河西岸",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250926/48858391.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250926/211e18be-7c48-48e4-87d5-ab3ad12cc6f3.jpg"
-        },
-        {
-            "title": "伊拉克总理宣布中央政府接收库区原油并恢复出口",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250926/48858376.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/600x0/news/20250926/0c32f476-473c-4cec-ae6c-0f7a942f7545.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美媒惊讶：电磁弹射给福建舰带来的优势 原来这么多",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250924/48851002.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "以色列驻挪威大使馆附近发生爆炸 1人被捕",
@@ -231,12 +237,6 @@
             {
                 "title": "我国首座盐穴储气库完成扩能",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250921/48842393.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "中国导弹，亮相塞尔维亚阅兵式！",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250921/48842378.html?ayjr"
             }
         ]
     ]
