@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "男子直播军机行动获刑 军事秘密绝非“流量密码”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250928/48863930.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250928/68c7499d-49ba-4036-bbe0-69e3dd13c02a.jpg"
+        },
+        {
             "title": "对伊制裁自动恢复 伊朗谴责西方政治打压",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250928/48863790.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250928/1f2650d1-4586-4b99-919c-0af106543f7c.jpg"
@@ -9,14 +14,14 @@
             "title": "以色列民众大规模集会 要求政府立即停止加沙战争",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250928/48863777.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250928/3e6480bc-ad67-47f3-98d4-4a1ed539421c.jpg"
-        },
-        {
-            "title": "以军扩大加沙城军事行动 超75万人已逃离加沙城",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250928/48863760.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250928/a7661396-87c8-44d9-ac06-239d580da1ba.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "男子错把＂化骨水＂当饮料喝下半瓶 胃像被火烧险没命",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250928/48863323.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/toutiao/20250927/d3cfe7d9-3afe-4439-8e8e-20612d719b52.jpg"
+        },
         {
             "title": "福建舰已完成多次海试 进度远超预期",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250927/48862723.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250927/d90b021e-2e38-4c42-a18b-90de2ef2fb01.jpg"
         },
         {
-            "title": "韩国京畿道汗蒸房燃气爆炸事故已致28人受伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250927/48862439.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250927/5ea384ca-2fc6-483e-87dd-f6807cff82ee.jpg"
+            "title": "以军扩大加沙城军事行动 超75万人已逃离加沙城",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250928/48863760.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250928/a7661396-87c8-44d9-ac06-239d580da1ba.jpg"
         },
         {
             "title": "德国柏林数万人举行巴以冲突相关示威活动",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250928/48863704.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20250928/44959fd2-7c0c-40e9-b1ea-4729a7d7e800.png"
-        },
-        {
-            "title": "印度集会踩踏事件已致超30人死亡 莫迪发文哀悼",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250928/48863685.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20250928/d24806da-06b1-4fc1-a44d-f52a4585f589.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "伊拉克总理宣布中央政府接收库区原油并恢复出口",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250926/48858376.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "国防部回应＂中国是否在建第四艘航母＂",
@@ -231,12 +237,6 @@
             {
                 "title": "香港定翼机拍到“桦加沙”台风眼壁清晰画面",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250924/48852241.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "定了！世界第一高桥——花江峡谷大桥28日通车",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250924/48852159.html?ayjr"
             }
         ]
     ]
