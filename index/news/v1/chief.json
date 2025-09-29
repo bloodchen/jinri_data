@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "拥抱“最可爱的人” 他与时间赛跑为老兵圆梦",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250929/48867214.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250929/cf6815c7-9e44-4886-8d88-80590bc3d32d.jpg"
+        },
+        {
             "title": "韩国面向中国团体游客免签入境政策今起试行",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250929/48867126.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250929/4d94596f-8d4d-46c9-9c06-aecb18a7caf7.jpg"
@@ -9,14 +14,14 @@
             "title": "中国高铁跑出发展“加速度”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250929/48867052.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/577x0/news/20250929/2fd3646f-2612-43b8-b1e0-9f8c5d4e5b54.jpg"
-        },
-        {
-            "title": "柳梧铁路全线54座隧道全部贯通 预计明年建成通车",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250929/48867030.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250929/1806b938-23d1-4634-9b7c-3e1e553ff478.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "超级工程进度条刷新 狮子洋通道将创五项世界纪录",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250928/48865988.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250928/0fbca2c1-e88f-4556-8878-57cca2bc37f8.jpg"
+        },
         {
             "title": "歼-15T在福建舰是如何弹射的？大量细节公开",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250928/48864608.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20250928/1f2650d1-4586-4b99-919c-0af106543f7c.jpg"
         },
         {
-            "title": "以色列民众大规模集会 要求政府立即停止加沙战争",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250928/48863777.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250928/3e6480bc-ad67-47f3-98d4-4a1ed539421c.jpg"
+            "title": "柳梧铁路全线54座隧道全部贯通 预计明年建成通车",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250929/48867030.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20250929/1806b938-23d1-4634-9b7c-3e1e553ff478.jpg"
         },
         {
             "title": "网络攻击影响持续 德国柏林机场运营仍受干扰",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250929/48866997.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250929/044a4448-d7df-456f-bc00-22530c1bcf98.jpg"
-        },
-        {
-            "title": "世界领先收放自如！解析福建舰电磁阻拦索多重优势",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250928/48866335.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/507x0/news/20250928/5b2c2ba9-d020-4c38-8586-efea2120a78a.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "全面提升学生综合素质 县中教育从这四个方面提质",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250926/48859596.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "泽连斯基：已准备好在俄乌冲突结束后离任",
@@ -231,12 +237,6 @@
             {
                 "title": "我国首个国家级页岩油示范区累计产量突破500万吨",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250925/48854678.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "台当局对南非实施芯片出口限制 外交部回应",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250924/48853707.html?ayjr"
             }
         ]
     ]
