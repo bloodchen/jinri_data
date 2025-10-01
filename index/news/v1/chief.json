@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "祝福祖国！五星红旗在天安门广场冉冉升起",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251001/48873595.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251001/df0e2648-24bc-4890-adbe-bc250297af02.jpg"
+        },
+        {
             "title": "内塔尼亚胡接受美方加沙和平计划 ",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250930/48871250.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250930/20d65164-87cd-4c91-8adb-2c182d062d0a.jpg"
@@ -9,14 +14,14 @@
             "title": "美政府资金9月30日将耗尽 再次陷入停摆危机",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250930/48871231.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250930/3de5f748-df9d-4ec0-a9c4-c88bd90425ad.jpg"
-        },
-        {
-            "title": "我国成功发射试验三十号卫星01、02星",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250930/48870774.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250930/94bab1db-dc90-4369-ae12-93f1c7528bfc.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "英国工党年会在“内忧外患”中开幕",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250929/48869157.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250929/6caf4773-b1a3-4903-b56e-d57eda294d8a.jpg"
+        },
         {
             "title": "以政府推进占领加沙城计划前 军方被曝曾发函警告",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250929/48869134.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/600x0/news/20250929/09e755fb-3739-4779-92ab-06a00d2510c7.jpg"
         },
         {
-            "title": "狮子洋通道建设进度更新 狮子洋大桥高度突破200米",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250929/48867261.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20250929/ecc4caf4-cca2-4a90-a853-5d9c4eb47cf5.jpg"
+            "title": "我国成功发射试验三十号卫星01、02星",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20250930/48870774.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20250930/94bab1db-dc90-4369-ae12-93f1c7528bfc.jpg"
         },
         {
             "title": "特朗普确认出席美军“罕见”会议",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250930/48870749.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20250930/b3d23abb-d846-40a7-97d5-c03b67ce289d.png"
-        },
-        {
-            "title": "妻子在家中失踪 深井边的菜让丈夫顿感不妙",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250930/48870456.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/640x0/toutiao/20250929/6a2b8800-56ff-40b8-b63c-5d5d554fac90.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "韩国京畿道汗蒸房燃气爆炸事故已致28人受伤",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250927/48862439.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "欧洲六代机项目陷僵局 德法因主导权之争互不让步",
@@ -231,12 +237,6 @@
             {
                 "title": "伊拉克总理宣布中央政府接收库区原油并恢复出口",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20250926/48858376.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "国防部回应＂中国是否在建第四艘航母＂",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20250926/48858284.html?ayjr"
             }
         ]
     ]
