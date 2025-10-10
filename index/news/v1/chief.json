@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "国家安全部公布3名“台独水军”身份信息",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251010/48889269.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/303x0/news/20251010/eea9804b-9c81-45f1-9e69-b4777962a2a3.jpg"
+        },
+        {
             "title": "以批准停火协议 哈马斯首度公开发声",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48889227.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251010/77801202-1e9f-40a1-a1b8-66c472b62ba4.jpg"
@@ -9,14 +14,14 @@
             "title": "以色列政府批准加沙停火协议 以军将撤至新防线",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48889213.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251010/ff67ac4d-400d-43ef-ac1c-669fb99ebf2b.jpg"
-        },
-        {
-            "title": "以媒公布停火协议文本",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48889203.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/560x0/news/20251010/70062709-8cd0-4e5e-9b99-1aa8054acd3d.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "泽连斯基：特朗普支持乌打击俄能源等目标",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251009/48888275.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251009/0cfa42f0-e459-4685-b934-c81bce542958.jpg"
+        },
         {
             "title": "外交部：中国和印度将于今年10月底前恢复直航航班",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251009/48888114.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/500x0/news/20251009/2278aa7e-e87c-4649-9b22-6fc518781f78.jpg"
         },
         {
-            "title": "丹麦首相提议禁止15岁以下人群使用社交媒体",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251009/48886693.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251009/5b2614c8-4d79-44b2-8545-6b96d280759e.jpg"
+            "title": "以媒公布停火协议文本",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48889203.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/560x0/news/20251010/70062709-8cd0-4e5e-9b99-1aa8054acd3d.jpg"
         },
         {
             "title": "美参议院再次否决民主党版本临时拨款法案",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48889190.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251010/d953cee8-f992-4ce9-9bff-a29ab4838152.jpg"
-        },
-        {
-            "title": "以外长：以色列致力于停火协议 无意“重启战争”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48888995.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251010/fbbc5040-85d6-46c9-af17-19fb5751f98c.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "厄瓜多尔总统专车遇袭受损 警方已逮捕5人",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251008/48883311.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "文旅融合，激活假日消费新活力",
@@ -231,12 +237,6 @@
             {
                 "title": "借裤子领奖！中国奥运首金背后还有这些故事",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251005/48879297.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "特朗普：以色列同意初步撤军路线",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251005/48879132.html?ayjr"
             }
         ]
     ]
