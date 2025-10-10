@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "总理闪电辞职 组阁前景不明 法国政局再度陷入僵局",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48890275.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251010/4ed56ef1-ac16-4631-9361-89d975d3d582.jpg"
+        },
+        {
             "title": "中方就坚持国际法治加强全球治理提出六点主张",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48890214.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251010/9ad5c9d0-9de3-45a3-8c09-16f4cff7f014.jpg"
@@ -9,14 +14,14 @@
             "title": "以总理办公室：停火后以军仍控制加沙53%地区",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48890175.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/564x0/news/20251010/524ba9b2-92b3-478d-bf41-a375e1cfeb2b.png"
-        },
-        {
-            "title": "《食品召回管理办法》正公开征求意见",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251010/48889877.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251010/3729c97f-44fa-4d5f-aaff-6dd5cdda6a2e.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "以批准停火协议 哈马斯首度公开发声",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48889227.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251010/77801202-1e9f-40a1-a1b8-66c472b62ba4.jpg"
+        },
         {
             "title": "以色列政府批准加沙停火协议 以军将撤至新防线",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48889213.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20251009/a8931e24-a79e-42fe-90fa-2caaf5f865d8.png"
         },
         {
-            "title": "泽连斯基：特朗普支持乌打击俄能源等目标",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251009/48888275.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251009/0cfa42f0-e459-4685-b934-c81bce542958.jpg"
+            "title": "《食品召回管理办法》正公开征求意见",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251010/48889877.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251010/3729c97f-44fa-4d5f-aaff-6dd5cdda6a2e.jpg"
         },
         {
             "title": "震撼上演！官方教你拍火车",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251010/48889788.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251010/51e91bc3-6005-4602-b097-f3db7f1dc013.jpg"
-        },
-        {
-            "title": "美特使称哈马斯“被迫接受”特朗普主导的和平协议",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48889708.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251010/d0754ccf-ee53-4bbd-9817-b8dc19eb782d.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "哈马斯提明确要求 特朗普称未来48小时至关重要",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251008/48883428.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "哈马斯：希望得到以方不再重启冲突的切实承诺",
@@ -231,12 +237,6 @@
             {
                 "title": "国庆中秋假期 铁路运输已累计发送旅客超1亿人次",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251005/48879801.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "谈判在即 以总理威胁军事手段解除哈马斯武装",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251005/48879603.html?ayjr"
             }
         ]
     ]
