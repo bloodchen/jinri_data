@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "又有中国公民入境美国遭无端羁押遣返 外交部回应",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251010/48891948.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20251010/57965f0b-c29a-42c5-95ef-f8d714cfe642.png"
+        },
+        {
             "title": "以军离开“内察里姆”走廊沿海区域",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48891866.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251010/acc13d85-4b68-4a3e-8182-a83da6a98e44.jpg"
@@ -9,14 +14,14 @@
             "title": "交通运输部：对美船舶收取船舶特别港务费",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251010/48891741.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20251010/bac761ad-50d6-4586-ab0c-4c545d1e3895.png"
-        },
-        {
-            "title": "海军83舰编队抵达柬埔寨进行友好访问",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251010/48891339.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251010/e5a4ea60-bec7-4b9d-9063-5c6a5c5aa7e4.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "一批新国标落地 涉及家电、交通、养老服务等",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251010/48890683.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20251010/593e57c8-9349-4d10-ada1-fbf8055ae52f.png"
+        },
         {
             "title": "已触发海啸预警！菲律宾突发7.4级地震",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48890637.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251010/3729c97f-44fa-4d5f-aaff-6dd5cdda6a2e.jpg"
         },
         {
-            "title": "震撼上演！官方教你拍火车",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251010/48889788.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251010/51e91bc3-6005-4602-b097-f3db7f1dc013.jpg"
+            "title": "海军83舰编队抵达柬埔寨进行友好访问",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251010/48891339.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251010/e5a4ea60-bec7-4b9d-9063-5c6a5c5aa7e4.jpg"
         },
         {
             "title": "11.6亿元！第一批失能老人养老服务消费补贴已下达",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251010/48891312.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20251010/68056bb0-21d5-4034-8e1f-8df3d51cc6ff.png"
-        },
-        {
-            "title": "不是幻觉！新疆深山里 真建起了&quot;80层楼高&quot;的大坝",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251010/48891250.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251010/65ccdb00-524d-4fba-b925-cfeb2ef9a187.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "牛弹琴：日本大变局开始 中方回应中有一个词意味深长",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20251009/48884735.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "再创历史新高 现货黄金突破每盎司4000美元",
@@ -231,12 +237,6 @@
             {
                 "title": "全球首个、关键突破 国庆假期大国重器捷报频传",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251006/48880905.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "中国人研究月球土特产又有新成果",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251006/48880868.html?ayjr"
             }
         ]
     ]
