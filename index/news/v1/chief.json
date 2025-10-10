@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "菲律宾强震后发生多次余震 造成人员伤亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48891160.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/596x0/news/20251010/ce27af81-00a9-4fe1-b719-bb1ababc60dd.jpg"
+        },
+        {
             "title": "一批新国标落地 涉及家电、交通、养老服务等",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251010/48890683.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20251010/593e57c8-9349-4d10-ada1-fbf8055ae52f.png"
@@ -9,14 +14,14 @@
             "title": "已触发海啸预警！菲律宾突发7.4级地震",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48890637.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20251010/fc2c406a-61b6-4687-bbf9-9cfd49d7a847.png"
-        },
-        {
-            "title": "总理闪电辞职 组阁前景不明 法国政局再度陷入僵局",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48890275.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251010/4ed56ef1-ac16-4631-9361-89d975d3d582.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "震撼上演！官方教你拍火车",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251010/48889788.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251010/51e91bc3-6005-4602-b097-f3db7f1dc013.jpg"
+        },
         {
             "title": "美特使称哈马斯“被迫接受”特朗普主导的和平协议",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48889708.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/560x0/news/20251010/70062709-8cd0-4e5e-9b99-1aa8054acd3d.jpg"
         },
         {
-            "title": "美参议院再次否决民主党版本临时拨款法案",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48889190.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251010/d953cee8-f992-4ce9-9bff-a29ab4838152.jpg"
+            "title": "总理闪电辞职 组阁前景不明 法国政局再度陷入僵局",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48890275.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251010/4ed56ef1-ac16-4631-9361-89d975d3d582.jpg"
         },
         {
             "title": "中方就坚持国际法治加强全球治理提出六点主张",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48890214.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251010/9ad5c9d0-9de3-45a3-8c09-16f4cff7f014.jpg"
-        },
-        {
-            "title": "以总理办公室：停火后以军仍控制加沙53%地区",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48890175.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/564x0/news/20251010/524ba9b2-92b3-478d-bf41-a375e1cfeb2b.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "假期尾声返程客流明显增长 各地多举措保障出行",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251008/48883496.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "为泄私愤竟甘当“内鬼” 身陷法网 追悔莫及",
@@ -231,12 +237,6 @@
             {
                 "title": "关于“20点计划” 哈马斯回应了什么？一文解读",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251005/48879942.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "风暴&quot;艾米&quot;袭击英国和爱尔兰致交通中断 多地断电",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251005/48879920.html?ayjr"
             }
         ]
     ]
