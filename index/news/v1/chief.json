@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "以军离开“内察里姆”走廊沿海区域",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48891866.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251010/acc13d85-4b68-4a3e-8182-a83da6a98e44.jpg"
+        },
+        {
             "title": "交通运输部：对美船舶收取船舶特别港务费",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251010/48891741.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20251010/bac761ad-50d6-4586-ab0c-4c545d1e3895.png"
@@ -9,14 +14,14 @@
             "title": "海军83舰编队抵达柬埔寨进行友好访问",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251010/48891339.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251010/e5a4ea60-bec7-4b9d-9063-5c6a5c5aa7e4.jpg"
-        },
-        {
-            "title": "11.6亿元！第一批失能老人养老服务消费补贴已下达",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251010/48891312.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20251010/68056bb0-21d5-4034-8e1f-8df3d51cc6ff.png"
         }
     ],
     "midImg": [
+        {
+            "title": "已触发海啸预警！菲律宾突发7.4级地震",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48890637.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20251010/fc2c406a-61b6-4687-bbf9-9cfd49d7a847.png"
+        },
         {
             "title": "总理闪电辞职 组阁前景不明 法国政局再度陷入僵局",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48890275.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251010/51e91bc3-6005-4602-b097-f3db7f1dc013.jpg"
         },
         {
-            "title": "美特使称哈马斯“被迫接受”特朗普主导的和平协议",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48889708.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251010/d0754ccf-ee53-4bbd-9817-b8dc19eb782d.jpg"
+            "title": "11.6亿元！第一批失能老人养老服务消费补贴已下达",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251010/48891312.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20251010/68056bb0-21d5-4034-8e1f-8df3d51cc6ff.png"
         },
         {
             "title": "不是幻觉！新疆深山里 真建起了&quot;80层楼高&quot;的大坝",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251010/48891250.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251010/65ccdb00-524d-4fba-b925-cfeb2ef9a187.png"
-        },
-        {
-            "title": "菲律宾强震后发生多次余震 造成人员伤亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48891160.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/596x0/news/20251010/ce27af81-00a9-4fe1-b719-bb1ababc60dd.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "再创历史新高 现货黄金突破每盎司4000美元",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251008/48884081.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "第二日谈判结束 哈马斯拒绝以分阶段撤军",
@@ -231,12 +237,6 @@
             {
                 "title": "中国人研究月球土特产又有新成果",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251006/48880868.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "团圆馍、中秋墨 探寻千年文化传承密码",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251006/48880856.html?ayjr"
             }
         ]
     ]
