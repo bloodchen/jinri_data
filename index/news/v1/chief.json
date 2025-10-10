@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "震撼上演！官方教你拍火车",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251010/48889788.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251010/51e91bc3-6005-4602-b097-f3db7f1dc013.jpg"
+        },
+        {
             "title": "美特使称哈马斯“被迫接受”特朗普主导的和平协议",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48889708.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251010/d0754ccf-ee53-4bbd-9817-b8dc19eb782d.jpg"
@@ -9,14 +14,14 @@
             "title": "国家安全部公布3名“台独水军”身份信息",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251010/48889269.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/303x0/news/20251010/eea9804b-9c81-45f1-9e69-b4777962a2a3.jpg"
-        },
-        {
-            "title": "以批准停火协议 哈马斯首度公开发声",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48889227.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251010/77801202-1e9f-40a1-a1b8-66c472b62ba4.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "以外长：以色列致力于停火协议 无意“重启战争”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48888995.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251010/fbbc5040-85d6-46c9-af17-19fb5751f98c.jpg"
+        },
         {
             "title": "商务部：将14家外国实体列入不可靠实体清单",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251009/48888316.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20251009/d9cda26f-e398-4c2a-b360-4978ec1cf740.png"
         },
         {
-            "title": "四川甘孜州新龙县发生5.4级地震 震源深度10千米",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251009/48887582.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251009/a1ccf71e-eba2-453c-858a-d91975f54022.jpg"
+            "title": "以批准停火协议 哈马斯首度公开发声",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48889227.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251010/77801202-1e9f-40a1-a1b8-66c472b62ba4.jpg"
         },
         {
             "title": "以色列政府批准加沙停火协议 以军将撤至新防线",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48889213.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251010/ff67ac4d-400d-43ef-ac1c-669fb99ebf2b.jpg"
-        },
-        {
-            "title": "以媒公布停火协议文本",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48889203.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/560x0/news/20251010/70062709-8cd0-4e5e-9b99-1aa8054acd3d.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "特朗普会见卡尼 再次暗示将吞并加拿大",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251008/48883353.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "普京：必须确保特别军事行动设定的所有目标都实现",
@@ -231,12 +237,6 @@
             {
                 "title": "不满谈判 以色列极右翼部长向内塔尼亚胡发难",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251005/48879409.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "最新研究发现土卫二或可支持生命存在",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251005/48879398.html?ayjr"
             }
         ]
     ]
