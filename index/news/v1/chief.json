@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "长相高萌，行动高能！“机器狼”战群技能大揭秘",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251011/48894611.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251011/09c9fbbe-ec49-4e95-8b32-29099aabf823.jpg"
+        },
+        {
             "title": "中国海军第48批护航编队解缆起航",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251011/48894528.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251011/aa9ae8cd-d47f-4b14-afdd-426157c1e134.jpg"
@@ -9,14 +14,14 @@
             "title": "有关住房保障、房地产调控 官方公布最新数据",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251011/48894474.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251011/c5dc1887-3436-43b5-90eb-da33ff70881e.jpg"
-        },
-        {
-            "title": "引力一号遥二运载火箭发射成功",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251011/48894004.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251011/8738c46d-949c-4794-9338-93a22de4f8bd.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "法庭文件显示美政府计划裁员逾4000人",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251011/48893073.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251011/8326a803-3aa6-4dc3-9abd-775603f4ede2.jpg"
+        },
         {
             "title": "加沙停火第一阶段协议生效 &quot;真停火&quot;还是&quot;休整期&quot;",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251011/48893025.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251011/8729a534-f727-4c9d-9a78-1756c4f9adf7.png"
         },
         {
-            "title": "“停摆”第十天 特朗普政府开始裁员",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251011/48892886.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251011/8b702bf0-dca7-4568-b95e-7bb9e3ebbaba.jpg"
+            "title": "引力一号遥二运载火箭发射成功",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251011/48894004.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251011/8738c46d-949c-4794-9338-93a22de4f8bd.jpg"
         },
         {
             "title": "国家医保局：严肃核查处置定点药店&quot;阴阳价格&quot;问题",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251011/48893868.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20251011/5da2de16-d1bf-4565-b1c4-0f867cc90bcc.png"
-        },
-        {
-            "title": "停火协议生效后 以色列与哈马斯准备释放对方人员",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251011/48893775.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251011/906a08da-903e-4835-a74c-f4d1d3307aa8.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "四川甘孜州新龙县发生5.4级地震 震源深度10千米",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251009/48887582.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "首批两家央企总部正式迁驻雄安新区",
@@ -231,12 +237,6 @@
             {
                 "title": "特朗普会见卡尼 再次暗示将吞并加拿大",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251008/48883353.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "普京：必须确保特别军事行动设定的所有目标都实现",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251008/48883342.html?ayjr"
             }
         ]
     ]
