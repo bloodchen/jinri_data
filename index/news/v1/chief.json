@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "悬赏征集线索！18名台湾军方违法核心骨干曝光",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251011/48893212.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251011/a75aec63-06f4-46a1-8b1f-5ee0c838f996.png"
+        },
+        {
             "title": "法庭文件显示美政府计划裁员逾4000人",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251011/48893073.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251011/8326a803-3aa6-4dc3-9abd-775603f4ede2.jpg"
@@ -9,14 +14,14 @@
             "title": "加沙停火第一阶段协议生效 &quot;真停火&quot;还是&quot;休整期&quot;",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251011/48893025.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251011/bdff6ec4-8d4a-4910-bccb-482fa661789b.jpg"
-        },
-        {
-            "title": "如何使用俄被冻结资产？欧盟财长会分歧严重",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251011/48893010.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251011/fdebfe1c-1521-4059-86ca-1f654e728bab.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "“停摆”第十天 特朗普政府开始裁员",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251011/48892886.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251011/8b702bf0-dca7-4568-b95e-7bb9e3ebbaba.jpg"
+        },
         {
             "title": "美国田纳西州一炸药厂发生爆炸 致多人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251011/48892868.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20251010/bac761ad-50d6-4586-ab0c-4c545d1e3895.png"
         },
         {
-            "title": "海军83舰编队抵达柬埔寨进行友好访问",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251010/48891339.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251010/e5a4ea60-bec7-4b9d-9063-5c6a5c5aa7e4.jpg"
+            "title": "如何使用俄被冻结资产？欧盟财长会分歧严重",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251011/48893010.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251011/fdebfe1c-1521-4059-86ca-1f654e728bab.jpg"
         },
         {
             "title": "博弈升级？北约考虑向“非法闯入”的俄飞机开火",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251011/48892999.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251011/0d6f8dc5-eaf0-41ff-bc4a-fe73f575cc64.jpg"
-        },
-        {
-            "title": "美国田纳西州一军用炸药厂爆炸 19人失踪恐遇难",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251011/48892980.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/563x0/news/20251011/d0ec7a6e-3e74-4437-a42f-76193ba648d6.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "“和平友谊－2025”联演中方参演部队出征",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251009/48885870.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "刺杀阿根廷时任副总统未遂 嫌疑人被判刑",
@@ -231,12 +237,6 @@
             {
                 "title": "中国助力非洲实现电力可持续发展",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251007/48882121.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "三千二百多家企业确认参展第八届进博会",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251007/48882109.html?ayjr"
             }
         ]
     ]
