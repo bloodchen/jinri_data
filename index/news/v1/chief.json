@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "每5辆车就有2个充电桩 我国建成全球最大充电网络",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251014/48901112.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251014/9ef96ad7-246c-41c2-a94a-e301d333ea0c.jpg"
+        },
+        {
             "title": "利剑出鞘 惩“独”在行动",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251013/48898017.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251013/ff0a4386-d47b-4c4b-a638-e9c819148ea9.jpg"
@@ -9,14 +14,14 @@
             "title": "时隔6个月 运载燃料物资的卡车首次进入加沙地带",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251013/48897994.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251013/d303c931-5545-4b62-86e0-4cd4b4f4c7fa.jpg"
-        },
-        {
-            "title": "2025年世界卫生峰会开幕 讨论推进多项议题",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251013/48897948.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251013/a9f997a6-7468-4491-a61e-0ce72666b56b.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "中国馆获大阪世博会大型自建馆展示金奖",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251013/48897735.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251013/bde8cfd9-bb96-48be-ab0f-289f47bfa234.jpg"
+        },
         {
             "title": "风暴席卷美国东海岸地区 多地或面临洪水威胁",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251013/48897714.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251013/6c4e22a8-6409-4d1d-9795-2f88dcfc7dc1.jpg"
         },
         {
-            "title": "美 95 岁老太拆轮椅活活打死 89 岁室友！血流满地，养老院完全没发现…",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20251013/48897408.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/toutiao/20251011/cca29ea6-d00c-4751-83f7-ca994e46ec7e.jpg"
+            "title": "2025年世界卫生峰会开幕 讨论推进多项议题",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251013/48897948.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251013/a9f997a6-7468-4491-a61e-0ce72666b56b.jpg"
         },
         {
             "title": "从遗址到银幕 731部队真相如何冲破沉默",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251013/48897913.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251013/e810e183-ec05-4d39-bc95-342cb36b5a72.jpg"
-        },
-        {
-            "title": "法国总理勒科尔尼复职后再次组阁",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251013/48897858.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251013/94064a74-e360-441f-8859-d6f3f6236c63.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "法庭文件显示美政府计划裁员逾4000人",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251011/48893073.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "加沙停火第一阶段协议生效 &quot;真停火&quot;还是&quot;休整期&quot;",
@@ -231,12 +237,6 @@
             {
                 "title": "以外长：以色列致力于停火协议 无意“重启战争”",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48888995.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "商务部：将14家外国实体列入不可靠实体清单",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251009/48888316.html?ayjr"
             }
         ]
     ]
