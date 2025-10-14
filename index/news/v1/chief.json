@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "加沙老人：满怀希望归家 眼前只剩瓦砾",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251014/48901342.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251014/039c88c5-fd29-4084-8d4d-e106ea994ebe.jpg"
+        },
+        {
             "title": "美“星舰”第11次试飞",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251014/48901271.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/609x0/news/20251014/3e4fd395-edd6-42d2-9a04-423517370885.jpg"
@@ -9,14 +14,14 @@
             "title": "水利部：今年秋汛超警河流多 洪水量级大",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251014/48901254.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251014/1a6e7863-21fc-46c6-85dd-ba70aa964783.jpg"
-        },
-        {
-            "title": "一起感受首艘国产大型邮轮京剧主题航次",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251014/48901234.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251014/c1591d3e-79da-4c4d-bc37-11ff432648f0.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "每5辆车就有2个充电桩 我国建成全球最大充电网络",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251014/48901112.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251014/9ef96ad7-246c-41c2-a94a-e301d333ea0c.jpg"
+        },
         {
             "title": "利剑出鞘 惩“独”在行动",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251013/48898017.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251013/94064a74-e360-441f-8859-d6f3f6236c63.jpg"
         },
         {
-            "title": "这个“和平峰会”能让“和平窗口”超过三天吗？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251013/48897846.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251013/d6b778d4-5fb7-4591-9c96-07a978fc0592.png"
+            "title": "一起感受首艘国产大型邮轮京剧主题航次",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251014/48901234.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251014/c1591d3e-79da-4c4d-bc37-11ff432648f0.jpg"
         },
         {
             "title": "从“跟跑”到“领跑” 他们讲述造船业“加速度”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251014/48901172.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251014/bf534630-0f21-42df-9c92-10cb970cdcc8.jpg"
-        },
-        {
-            "title": "我国成功发射试验三十一号卫星",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251014/48901159.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251014/9c48f183-3eb8-460a-ac42-e6e9697c58f3.gif"
         }
     ],
     "text": [
+        [
+            {
+                "title": "长相高萌，行动高能！“机器狼”战群技能大揭秘",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251011/48894611.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "中国海军第48批护航编队解缆起航",
@@ -231,12 +237,6 @@
             {
                 "title": "震撼上演！官方教你拍火车",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251010/48889788.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美特使称哈马斯“被迫接受”特朗普主导的和平协议",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251010/48889708.html?ayjr"
             }
         ]
     ]
