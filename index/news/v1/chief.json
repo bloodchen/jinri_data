@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "国考，今天开始报名",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251015/48905823.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20251015/a2887663-aaf4-4bb7-8ebe-fb45fe57d02f.png"
+        },
+        {
             "title": "中方：危害人类罪的定义应最大限度凝聚共识",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251015/48905754.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251015/be232b75-4406-43c8-9479-fcf4b0db9a98.png"
@@ -9,14 +14,14 @@
             "title": "重点聚焦智能驾驶等 车辆生产准入安全新规来了",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251015/48905662.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251015/e4e91f5d-62fc-4799-aa61-0566e683b8ec.jpg"
-        },
-        {
-            "title": "黄海海域海上实兵演练 所有船舶禁止驶入",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251015/48905420.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251015/54407101-c7ad-41e5-b2fd-d410fac7c4ee.png"
         }
     ],
     "midImg": [
+        {
+            "title": "航行警告！宁波象山沿海进行军事演练 禁止驶入",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251015/48905114.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251015/d9982eb6-1009-48ae-9336-86a1a0f07159.jpg"
+        },
         {
             "title": "加沙停火第二阶段协议谈判已启动 谈判难点是什么",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251015/48905096.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/587x0/toutiao/20251014/843167f8-a80e-46c2-b7eb-dc4265ffa4dd.jpg"
         },
         {
-            "title": "印度拉贾斯坦邦巴士起火已致至少19人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251015/48904693.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251015/b60e4ca2-ae26-4baf-8599-05a01ad1cae5.png"
+            "title": "黄海海域海上实兵演练 所有船舶禁止驶入",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251015/48905420.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251015/54407101-c7ad-41e5-b2fd-d410fac7c4ee.png"
         },
         {
             "title": "突破4100美元/盎司 国际金价为何再创新高？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251015/48905234.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251015/be88fabd-9a1b-47b8-abbe-6f35e369d1b9.png"
-        },
-        {
-            "title": "韩国前总统尹锡悦15日将出席内乱特检组传唤调查",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251015/48905193.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251015/6d1e7b14-4abf-478b-b59f-cb3cc9f32960.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "中国海警回应菲船侵闯铁线礁：依法管控、坚决驱离",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251012/48896652.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "田纳西州爆炸的背后：谁在监管美国军工危险品？",
@@ -231,12 +237,6 @@
             {
                 "title": "无人机、倚天战车 揭秘我国&quot;新质战斗力&quot;如何炼成",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251011/48892948.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "“停摆”第十天 特朗普政府开始裁员",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251011/48892886.html?ayjr"
             }
         ]
     ]
