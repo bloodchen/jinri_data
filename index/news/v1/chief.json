@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "我国成功发射卫星互联网低轨12组卫星",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251016/48910193.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251016/024c6a4f-b68e-4ce1-93fa-8d057f682dd9.jpg"
+        },
+        {
             "title": "豆子该卖给谁？美国对华及全球出口均下降苦了豆农",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251016/48909928.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251016/3f450afb-52ab-490a-b851-430500ef3368.png"
@@ -9,14 +14,14 @@
             "title": "北约举行一年一度“坚定正午”核演习",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251016/48909757.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251016/2184bff4-c1c0-495d-a95d-05b837467af6.jpg"
-        },
-        {
-            "title": "未雨绸缪的温暖",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251016/48909397.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251016/59ee2ee0-552d-4927-9553-f8f8e07974bb.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美联邦政府“停摆”第三周 多行业受冲击",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251016/48908670.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251016/d3ace628-6893-4dd1-a5f5-4854bd3bed4b.jpg"
+        },
         {
             "title": "普京批准俄罗斯与古巴军事合作协议",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251016/48908657.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251016/678416cc-b0c0-46ea-bf12-5a798cbf165d.jpg"
         },
         {
-            "title": "美以再次威胁哈马斯解除武装 各方恐将继续拉锯",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251016/48908509.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251016/7d7aa33a-af77-48d7-a6a0-7643094fe5a9.png"
+            "title": "未雨绸缪的温暖",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251016/48909397.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251016/59ee2ee0-552d-4927-9553-f8f8e07974bb.jpg"
         },
         {
             "title": "中国固态电池三大技术突破，续航有望翻倍跃升！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251016/48909011.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251016/0616ebf3-baa7-41e6-a528-551020558fef.jpg"
-        },
-        {
-            "title": "珍贵资料！61年前的今天中国第一颗原子弹爆炸成功",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251016/48908994.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/442x0/news/20251016/51cc0496-159f-40fe-9ddf-f4b686d497dc.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "从“跟跑”到“领跑” 他们讲述造船业“加速度”",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251014/48901172.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "我国成功发射试验三十一号卫星",
@@ -231,12 +237,6 @@
             {
                 "title": "新飞行学员高教机首飞奔向蓝天，这“推背感”绝了",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251012/48895981.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "伊朗外长透露拒绝美方要求原因",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251012/48895957.html?ayjr"
             }
         ]
     ]
