@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "未雨绸缪的温暖",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251016/48909397.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251016/59ee2ee0-552d-4927-9553-f8f8e07974bb.jpg"
+        },
+        {
             "title": "我国科学家破解固态电池充电关键难题",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251016/48909011.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251016/0616ebf3-baa7-41e6-a528-551020558fef.jpg"
@@ -9,14 +14,14 @@
             "title": "珍贵资料！61年前的今天中国第一颗原子弹爆炸成功",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251016/48908994.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/442x0/news/20251016/51cc0496-159f-40fe-9ddf-f4b686d497dc.jpg"
-        },
-        {
-            "title": "天津直博会今天开幕！有何看点？如何购票？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251016/48908689.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251016/3ecae24d-2f5a-401f-bf11-826a8b875857.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251016/48908619.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251016/03f19eca-c987-46fb-a5c5-ad41ed822736.png"
+        },
         {
             "title": "挡风玻璃破裂 美防长飞机在英国临时降落",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251016/48908569.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251015/357d853a-eb0c-4c92-97a1-437a2c68f087.jpg"
         },
         {
-            "title": "突破10000米 我国地球深部能源探索迈出关键一步",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251015/48907467.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251015/d67c3667-91d3-4443-b893-06daf9c51c36.jpg"
+            "title": "天津直博会今天开幕！有何看点？如何购票？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251016/48908689.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251016/3ecae24d-2f5a-401f-bf11-826a8b875857.jpg"
         },
         {
             "title": "美联邦政府“停摆”第三周 多行业受冲击",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251016/48908670.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251016/d3ace628-6893-4dd1-a5f5-4854bd3bed4b.jpg"
-        },
-        {
-            "title": "普京批准俄罗斯与古巴军事合作协议",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251016/48908657.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251016/6f65cf61-0476-417f-a97b-9bcb6ad26477.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "每5辆车就有2个充电桩 我国建成全球最大充电网络",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251014/48901112.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "利剑出鞘 惩“独”在行动",
@@ -231,12 +237,6 @@
             {
                 "title": "多个世界第一！为这些“中国名片”点赞",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251012/48895904.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "哈马斯高级官员称将于13日开始释放以方被扣押人员",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251012/48895882.html?ayjr"
             }
         ]
     ]
