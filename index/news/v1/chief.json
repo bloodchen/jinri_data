@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "关键时刻，经济第二大省两座城市被“点名”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251017/48914684.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251017/2810102a-ec3b-4571-9472-5515a85eeb1e.jpg"
+        },
+        {
             "title": "新版反不正当竞争法有何变化？一图读懂→",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251017/48914657.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251017/303eff01-1365-413c-bde0-c7b09e7fc8c0.jpg"
@@ -9,14 +14,14 @@
             "title": "外交部：中方坚决反对日方有关靖国神社的消极动向",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251017/48914641.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/563x0/news/20251017/7633d90c-002b-4aad-a532-5b92c2c5d8a4.png"
-        },
-        {
-            "title": "菲律宾发生6.0级地震 监控画面记录强震瞬间",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48913588.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/300x0/news/20251017/72dff21e-96ed-46aa-b50b-27f4286b4eb9.png"
         }
     ],
     "midImg": [
+        {
+            "title": "巴勒斯坦总理公布加沙地带重建五年计划",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48912559.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251017/fc1ae742-d02d-46fd-969a-4c38a16d8295.jpg"
+        },
         {
             "title": "机头像海豚！走近战术通用直升机直-20",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251017/48912516.html?ayjr",
@@ -43,22 +48,29 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251017/ba3cb201-b525-450b-8376-d434ac6635ff.jpg"
         },
         {
-            "title": "时长2.5小时 俄美总统时隔近两月再通话细节公布",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48912180.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251017/06bb2953-4b01-4314-897c-a85f25fee725.jpg"
+            "title": "菲律宾发生6.0级地震 监控画面记录强震瞬间",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48913588.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20251017/72dff21e-96ed-46aa-b50b-27f4286b4eb9.png"
         },
         {
             "title": "冷冷冷！我国自北向南将先后迎来“速冻式”降温",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251017/48913418.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251017/7038d1c0-b922-4eaa-879e-21abc66e1a34.jpg"
-        },
-        {
-            "title": "俄情报显示英乌图谋破坏“土耳其溪”管道",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48913300.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251017/e34978d8-af49-455e-a4bd-ff2cad545acf.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美方称美台芯片制造“五五分” 国台办回应",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251015/48906381.html?ayjr"
+            }
+        ],
+        [
+            {
+                "title": "国考，今天开始报名",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251015/48905823.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "中方：危害人类罪的定义应最大限度凝聚共识",
@@ -225,18 +237,6 @@
             {
                 "title": "从遗址到银幕 731部队真相如何冲破沉默",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251013/48897913.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "法国总理勒科尔尼复职后再次组阁",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251013/48897858.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "这个“和平峰会”能让“和平窗口”超过三天吗？",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251013/48897846.html?ayjr"
             }
         ]
     ]
