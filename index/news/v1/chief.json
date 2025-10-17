@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "冷冷冷！我国自北向南将先后迎来“速冻式”降温",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251017/48913418.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251017/7038d1c0-b922-4eaa-879e-21abc66e1a34.jpg"
+        },
+        {
             "title": "俄情报显示英乌图谋破坏“土耳其溪”管道",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48913300.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251017/e34978d8-af49-455e-a4bd-ff2cad545acf.jpg"
@@ -9,14 +14,14 @@
             "title": "全球首台中红外波段太阳磁场专用观测设备正式启用",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251017/48913228.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251017/caa0af1e-6176-4f53-aac6-632e37ba3ece.png"
-        },
-        {
-            "title": "巴勒斯坦总理公布加沙地带重建五年计划",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48912559.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251017/fc1ae742-d02d-46fd-969a-4c38a16d8295.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "泽连斯基访美谈“战斧”前一日 俄美总统再约会面",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48912235.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251017/52cb53f9-1cbb-444a-bc92-4ee2514c88cd.jpg"
+        },
         {
             "title": "美政府“停摆”已超半月 两党却还斗得火热",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48912209.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20251017/d596e74e-b9e4-4ba6-b3e4-477f45f0bbeb.png"
         },
         {
-            "title": "女子因诈骗被捕后7次因怀孕哺乳期取保 现丧失生育能力",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20251017/48912005.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/toutiao/20251016/073f9fd5-21ed-4aef-81ff-25b79bab041b.jpg"
+            "title": "巴勒斯坦总理公布加沙地带重建五年计划",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48912559.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251017/fc1ae742-d02d-46fd-969a-4c38a16d8295.jpg"
         },
         {
             "title": "机头像海豚！走近战术通用直升机直-20",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251017/48912516.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251017/9edae327-f3d4-46d0-beca-f66e0e965cac.png"
-        },
-        {
-            "title": "美国宣布对人道豁免入境移民征收1000美元",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48912262.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251017/e1d8c1f4-1d1b-4e7b-82ab-e8f194f8296d.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "突破4100美元/盎司 国际金价为何再创新高？",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251015/48905234.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "韩国前总统尹锡悦15日将出席内乱特检组传唤调查",
@@ -231,12 +237,6 @@
             {
                 "title": "特朗普：若俄乌冲突无法解决 可能会供乌“战斧”",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251013/48897699.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "发现1152颗脉冲星！中国天眼，断层式领先",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251013/48897683.html?ayjr"
             }
         ]
     ]
