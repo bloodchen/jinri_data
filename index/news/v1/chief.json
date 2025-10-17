@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "菲律宾发生6.0级地震 监控画面记录强震瞬间",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48913588.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20251017/72dff21e-96ed-46aa-b50b-27f4286b4eb9.png"
+        },
+        {
             "title": "冷冷冷！我国自北向南将先后迎来“速冻式”降温",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251017/48913418.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251017/7038d1c0-b922-4eaa-879e-21abc66e1a34.jpg"
@@ -9,14 +14,14 @@
             "title": "俄情报显示英乌图谋破坏“土耳其溪”管道",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48913300.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251017/e34978d8-af49-455e-a4bd-ff2cad545acf.jpg"
-        },
-        {
-            "title": "全球首台中红外波段太阳磁场专用观测设备正式启用",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251017/48913228.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251017/caa0af1e-6176-4f53-aac6-632e37ba3ece.png"
         }
     ],
     "midImg": [
+        {
+            "title": "以色列与哈马斯互指对方未遵守停火协议",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48912246.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251017/f68a94a7-ab5b-41a6-b53a-ae74676ff653.jpg"
+        },
         {
             "title": "泽连斯基访美谈“战斧”前一日 俄美总统再约会面",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48912235.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251017/6dcd40d4-2d1f-47c7-aa9a-c3bf93274a09.jpg"
         },
         {
-            "title": "这笔补贴别忘领！部分非应届毕业生也可享受",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251017/48912114.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20251017/d596e74e-b9e4-4ba6-b3e4-477f45f0bbeb.png"
+            "title": "全球首台中红外波段太阳磁场专用观测设备正式启用",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251017/48913228.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251017/caa0af1e-6176-4f53-aac6-632e37ba3ece.png"
         },
         {
             "title": "巴勒斯坦总理公布加沙地带重建五年计划",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48912559.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251017/fc1ae742-d02d-46fd-969a-4c38a16d8295.jpg"
-        },
-        {
-            "title": "机头像海豚！走近战术通用直升机直-20",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251017/48912516.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251017/9edae327-f3d4-46d0-beca-f66e0e965cac.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "黄海海域海上实兵演练 所有船舶禁止驶入",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251015/48905420.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "突破4100美元/盎司 国际金价为何再创新高？",
@@ -231,12 +237,6 @@
             {
                 "title": "风暴席卷美国东海岸地区 多地或面临洪水威胁",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251013/48897714.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "特朗普：若俄乌冲突无法解决 可能会供乌“战斧”",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251013/48897699.html?ayjr"
             }
         ]
     ]
