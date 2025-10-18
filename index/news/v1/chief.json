@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "应用场景再上新！我国智能网联汽车又有新突破",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251018/48915710.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251018/a6bf5b9c-e559-4cb2-b619-ab480073cadf.jpg"
+        },
+        {
             "title": "美联邦法院因政府“停摆”资金告罄",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251018/48915689.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/561x0/news/20251018/d42a18a4-2b88-4bf4-8771-adcc6e7ef7fb.png"
@@ -9,14 +14,14 @@
             "title": "消息人士称美乌总统闭门会谈气氛“紧张、尴尬”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251018/48915676.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251018/ad7b27f4-8df9-447d-94ae-fc2f689e1eeb.jpg"
-        },
-        {
-            "title": "联合国机构呼吁以色列尽快开放加沙所有边境口岸",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251018/48915664.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251018/3909754c-0475-4273-a7ff-18a217da50e7.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "特朗普称目前不打算供乌“战斧”导弹",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251018/48915453.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251018/487b9443-bf02-4fbe-8080-0518663ed4b7.jpg"
+        },
         {
             "title": "世界最大清洁能源走廊累计发电量突破4万亿千瓦时",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251018/48915442.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251018/abd9be85-9259-4e8e-b13e-f17c7731708e.png"
         },
         {
-            "title": "八个月内第三次访问白宫 泽连斯基与特朗普会晤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251018/48915348.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20251018/5b753a8f-4be8-4e3e-b6d2-cd8389930279.png"
+            "title": "联合国机构呼吁以色列尽快开放加沙所有边境口岸",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251018/48915664.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251018/3909754c-0475-4273-a7ff-18a217da50e7.jpg"
         },
         {
             "title": "8个月内三访白宫 泽连斯基与特朗普谈了什么？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251018/48915603.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251018/e8a05269-76db-425d-b62d-2d7270ab7d4a.jpg"
-        },
-        {
-            "title": "有间谍入住海景民宿偷拍军港！国家安全部披露",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251018/48915478.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251018/71060a88-c9bd-4388-af9d-4ae399584fd6.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "珍贵资料！61年前的今天中国第一颗原子弹爆炸成功",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251016/48908994.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "天津直博会今天开幕！有何看点？如何购票？",
@@ -231,12 +237,6 @@
             {
                 "title": "印度拉贾斯坦邦巴士起火已致至少19人死亡",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251015/48904693.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "欧洲多国频现不明无人机 欧盟加速布局反制系统",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251014/48902294.html?ayjr"
             }
         ]
     ]
