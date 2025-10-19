@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美国驻哥伦比亚大使馆外发生抗议 4名哥警察受伤",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251019/48916953.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251019/2a7c764a-0a4f-4fa3-b859-33f2bf7a5a26.jpg"
+        },
+        {
             "title": "哈马斯谴责以色列推迟开放拉法口岸",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251019/48916818.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251019/d9f890c0-e5f6-4989-900c-24187b16db67.jpg"
@@ -9,14 +14,14 @@
             "title": "国家安全机关破获美国国家安全局重大网络攻击案",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251019/48916728.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251019/c45534d5-1c69-4db1-9f8e-07315cc28a0e.jpg"
-        },
-        {
-            "title": "专治&quot;火力不足恐惧症&quot; 052D型驱逐舰的武器有多强",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251019/48916714.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251019/69c7f1ea-725c-4a56-a788-ecb208594ab7.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "这是中国人与航母弹射器的首次接触 揭秘&quot;891工程&quot;",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251019/48916661.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251019/a0167767-7463-4ff0-81d2-576db28f4218.jpg"
+        },
         {
             "title": "杨振宁曾隔空对话邓稼先：我懂你的“共同途”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251018/48916301.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251018/61cac141-d876-405f-ac2c-717f2ca4ed88.jpg"
         },
         {
-            "title": "特朗普称美军在加勒比海域袭击一艘“运毒潜艇”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251018/48916024.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/600x0/news/20251018/82d3476a-5fba-45e4-8b78-329a5709c848.jpg"
+            "title": "专治&quot;火力不足恐惧症&quot; 052D型驱逐舰的武器有多强",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251019/48916714.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251019/69c7f1ea-725c-4a56-a788-ecb208594ab7.jpg"
         },
         {
             "title": "特朗普称美军摧毁一艘“载有毒品”的大型潜艇",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251019/48916692.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251019/8e9ee1af-3f11-4cdc-afb1-93cf431e505a.jpg"
-        },
-        {
-            "title": "哈马斯称停火后不参与加沙地带治理相关安排",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251019/48916681.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251019/5831fdcc-9c24-4496-b372-bcc0acd1aee7.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "泽连斯基访美谈“战斧”前一日 俄美总统再约会面",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48912235.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美政府“停摆”已超半月 两党却还斗得火热",
@@ -231,12 +237,6 @@
             {
                 "title": "南非总统：停火协议无碍南非诉以色列种族灭绝",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251015/48906423.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美方称美台芯片制造“五五分” 国台办回应",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251015/48906381.html?ayjr"
             }
         ]
     ]
