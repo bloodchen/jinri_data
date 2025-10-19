@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "哈马斯谴责以色列推迟开放拉法口岸",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251019/48916818.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251019/d9f890c0-e5f6-4989-900c-24187b16db67.jpg"
+        },
+        {
             "title": "国家安全机关破获美国国家安全局重大网络攻击案",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251019/48916728.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251019/c45534d5-1c69-4db1-9f8e-07315cc28a0e.jpg"
@@ -9,14 +14,14 @@
             "title": "专治&quot;火力不足恐惧症&quot; 052D型驱逐舰的武器有多强",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251019/48916714.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251019/69c7f1ea-725c-4a56-a788-ecb208594ab7.jpg"
-        },
-        {
-            "title": "特朗普称美军摧毁一艘“载有毒品”的大型潜艇",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251019/48916692.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251019/8e9ee1af-3f11-4cdc-afb1-93cf431e505a.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "杨振宁曾隔空对话邓稼先：我懂你的“共同途”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251018/48916301.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251018/c6a3a033-7218-45e8-849b-28347aaa60f1.jpg"
+        },
         {
             "title": "曝光！这些企业涉嫌支持台军心战大队",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251018/48916116.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/600x0/news/20251018/82d3476a-5fba-45e4-8b78-329a5709c848.jpg"
         },
         {
-            "title": "直博会解码中国直升机技术演进之路",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251018/48915727.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251018/0716100c-2dca-4169-8faf-f47b1869cced.png"
+            "title": "特朗普称美军摧毁一艘“载有毒品”的大型潜艇",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251019/48916692.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251019/8e9ee1af-3f11-4cdc-afb1-93cf431e505a.jpg"
         },
         {
             "title": "哈马斯称停火后不参与加沙地带治理相关安排",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251019/48916681.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251019/5831fdcc-9c24-4496-b372-bcc0acd1aee7.jpg"
-        },
-        {
-            "title": "以色列总理办公室：拉法口岸将暂时不开放",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251019/48916671.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251019/2becdb65-2ca1-4bcf-a6ce-87975f414540.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美政府“停摆”已超半月 两党却还斗得火热",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48912209.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "时长2.5小时 俄美总统时隔近两月再通话细节公布",
@@ -231,12 +237,6 @@
             {
                 "title": "美方称美台芯片制造“五五分” 国台办回应",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251015/48906381.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "国考，今天开始报名",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251015/48905823.html?ayjr"
             }
         ]
     ]
