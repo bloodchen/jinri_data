@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "哈马斯驳斥美国:虚假指控 与以色列的宣传完全一致",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251019/48917556.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251019/1638acbc-374f-4ff2-8e6e-3fb22c96c306.png"
+        },
+        {
             "title": "一箭三星！力箭一号遥八运载火箭发射成功",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251019/48917401.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251019/53e3ca05-88b5-4160-b902-9d2bcb76f4b2.jpg"
@@ -9,14 +14,14 @@
             "title": "多家银行清理 “沉睡账户” ",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251019/48917370.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251019/c744dcd8-4332-48f8-8b6e-f1a25c877c4f.jpg"
-        },
-        {
-            "title": "韩国将调查64名遭柬埔寨遣返网络诈骗嫌疑人",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251019/48917167.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/607x0/news/20251019/c6a9e361-3620-439d-b6dc-5df5334c107f.png"
         }
     ],
     "midImg": [
+        {
+            "title": "巴基斯坦和阿富汗同意立即停火",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251019/48916972.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251019/74ec7fef-1f53-4956-8125-30a79091c2cd.jpg"
+        },
         {
             "title": "美国驻哥伦比亚大使馆外发生抗议 4名哥警察受伤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251019/48916953.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251019/8e9ee1af-3f11-4cdc-afb1-93cf431e505a.jpg"
         },
         {
-            "title": "哈马斯称停火后不参与加沙地带治理相关安排",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251019/48916681.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251019/5831fdcc-9c24-4496-b372-bcc0acd1aee7.jpg"
+            "title": "韩国将调查64名遭柬埔寨遣返网络诈骗嫌疑人",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251019/48917167.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/607x0/news/20251019/c6a9e361-3620-439d-b6dc-5df5334c107f.png"
         },
         {
             "title": "孟加拉国达卡国际机场货站火灾致机场航班暂停",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251019/48917157.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251019/5c3ab7cc-73a7-4692-985e-86cc4e5d3b47.jpg"
-        },
-        {
-            "title": "“直”击长空！解码“风雷”飞行表演队座驾直-10",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251019/48917115.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251019/36fa359c-8cc7-43c3-a361-946714d5f98d.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "菲律宾发生6.0级地震 监控画面记录强震瞬间",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48913588.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "冷冷冷！我国自北向南将先后迎来“速冻式”降温",
@@ -231,12 +237,6 @@
             {
                 "title": "挡风玻璃破裂 美防长飞机在英国临时降落",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251016/48908569.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "打击“贩毒船”后 美军在加勒比海举行实弹演习",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251016/48908530.html?ayjr"
             }
         ]
     ]
