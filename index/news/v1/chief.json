@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "中国“追光”这五年 创新动能磅礴迸发",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251021/48923066.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251021/31e86e2e-efad-4bf4-b0b3-cd224fddddd2.jpg"
+        },
+        {
             "title": "日本政府召开内阁会议 石破内阁集体辞职",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251021/48922955.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251021/692312ab-0535-4fc8-a3d4-be0cd8b05b9b.jpg"
@@ -9,14 +14,14 @@
             "title": "金价持续高位运行 全球消费者买金习惯发生改变",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251021/48922912.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/640x0/news/20251021/55d9f7cf-0b3b-429a-93c7-27548350ed64.jpg"
-        },
-        {
-            "title": "稻浪翻滚、瓜果飘香 神州大地好“丰”景",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251021/48922680.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251021/316070ef-c32f-4dde-baba-b152f5ebf719.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "特朗普专机着陆区视线范围内发现可疑“狩猎架”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251020/48918942.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/641x0/news/20251020/991b7621-22c2-4742-9910-934a3d077d5a.png"
+        },
         {
             "title": "多地冷如常年11月！“换季式”降温来了",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251020/48918925.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251020/afe449c3-b136-4584-aa35-8a6f8b13cb86.png"
         },
         {
-            "title": "一滴水可发六次电！中国水利“含金量”十足",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251020/48918754.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251020/4ec07e94-c6f6-450c-b1f6-f4283ce28921.png"
+            "title": "稻浪翻滚、瓜果飘香 神州大地好“丰”景",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251021/48922680.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251021/316070ef-c32f-4dde-baba-b152f5ebf719.jpg"
         },
         {
             "title": "月球水从哪里来？这一重要发现开辟新思路",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251021/48922648.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251021/10ec149d-a728-47ee-bb76-8d9bb1c0ae6f.jpg"
-        },
-        {
-            "title": "法国卢浮宫继续闭馆 司法部长承认安保存隐患",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251021/48922607.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251021/a9021df0-0582-4bb6-9bf3-955f90abde33.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "特朗普称美军在加勒比海域袭击一艘“运毒潜艇”",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251018/48916024.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "直博会解码中国直升机技术演进之路",
@@ -231,12 +237,6 @@
             {
                 "title": "泽连斯基访美谈“战斧”前一日 俄美总统再约会面",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48912235.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美政府“停摆”已超半月 两党却还斗得火热",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48912209.html?ayjr"
             }
         ]
     ]
