@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "日本政府召开内阁会议 石破内阁集体辞职",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251021/48922955.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251021/692312ab-0535-4fc8-a3d4-be0cd8b05b9b.jpg"
+        },
+        {
             "title": "金价持续高位运行 全球消费者买金习惯发生改变",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251021/48922912.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/640x0/news/20251021/55d9f7cf-0b3b-429a-93c7-27548350ed64.jpg"
@@ -9,14 +14,14 @@
             "title": "稻浪翻滚、瓜果飘香 神州大地好“丰”景",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251021/48922680.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251021/316070ef-c32f-4dde-baba-b152f5ebf719.jpg"
-        },
-        {
-            "title": "月球水从哪里来？这一重要发现开辟新思路",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251021/48922648.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251021/10ec149d-a728-47ee-bb76-8d9bb1c0ae6f.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "多地冷如常年11月！“换季式”降温来了",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251020/48918925.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251020/db8743c9-8db4-4dc2-bf89-48f9f00a494b.jpg"
+        },
         {
             "title": "差异化创新产品惊艳全球客商 这届广交会获开门红",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251020/48918851.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251020/4ec07e94-c6f6-450c-b1f6-f4283ce28921.png"
         },
         {
-            "title": "＂柴怼怼＂被逮捕：因＂打假＂走红后售假 有人消费近10万",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20251020/48918148.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/600x0/toutiao/20251019/5240da9d-ea06-4974-8531-5eec837377dd.jpg"
+            "title": "月球水从哪里来？这一重要发现开辟新思路",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251021/48922648.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251021/10ec149d-a728-47ee-bb76-8d9bb1c0ae6f.jpg"
         },
         {
             "title": "法国卢浮宫继续闭馆 司法部长承认安保存隐患",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251021/48922607.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251021/a9021df0-0582-4bb6-9bf3-955f90abde33.jpg"
-        },
-        {
-            "title": "装机规模连续15年世界第一 中国风电变“聪明”了",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251021/48922583.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251021/6845a556-7de9-4448-9422-4c411f471232.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "直博会解码中国直升机技术演进之路",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251018/48915727.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "应用场景再上新！我国智能网联汽车又有新突破",
@@ -231,12 +237,6 @@
             {
                 "title": "美政府“停摆”已超半月 两党却还斗得火热",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48912209.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "时长2.5小时 俄美总统时隔近两月再通话细节公布",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48912180.html?ayjr"
             }
         ]
     ]
