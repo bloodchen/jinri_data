@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "朱雀三号进入首飞准备阶段 可用于大型星座组网",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251021/48923436.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251021/548dec3b-41b1-46e4-8acb-66515d1a1bd4.jpg"
+        },
+        {
             "title": "中国“追光”这五年 创新动能磅礴迸发",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251021/48923066.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251021/31e86e2e-efad-4bf4-b0b3-cd224fddddd2.jpg"
@@ -9,14 +14,14 @@
             "title": "日本政府召开内阁会议 石破内阁集体辞职",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251021/48922955.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251021/692312ab-0535-4fc8-a3d4-be0cd8b05b9b.jpg"
-        },
-        {
-            "title": "金价持续高位运行 全球消费者买金习惯发生改变",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251021/48922912.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/640x0/news/20251021/55d9f7cf-0b3b-429a-93c7-27548350ed64.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "装机规模连续15年世界第一 中国风电变“聪明”了",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251021/48922583.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251021/6845a556-7de9-4448-9422-4c411f471232.jpg"
+        },
         {
             "title": "特朗普专机着陆区视线范围内发现可疑“狩猎架”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251020/48918942.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251020/2c49729a-a75b-4f48-97b5-984ea001277f.jpg"
         },
         {
-            "title": "全球首台、世界最大！上周末，大国工程捷报频传",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251020/48918776.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251020/afe449c3-b136-4584-aa35-8a6f8b13cb86.png"
+            "title": "金价持续高位运行 全球消费者买金习惯发生改变",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251021/48922912.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/640x0/news/20251021/55d9f7cf-0b3b-429a-93c7-27548350ed64.jpg"
         },
         {
             "title": "稻浪翻滚、瓜果飘香 神州大地好“丰”景",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251021/48922680.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251021/316070ef-c32f-4dde-baba-b152f5ebf719.jpg"
-        },
-        {
-            "title": "月球水从哪里来？这一重要发现开辟新思路",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251021/48922648.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251021/10ec149d-a728-47ee-bb76-8d9bb1c0ae6f.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "各有盘算 日本自民党与维新会结盟谈判最新进展",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251018/48916033.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "特朗普称美军在加勒比海域袭击一艘“运毒潜艇”",
@@ -231,12 +237,6 @@
             {
                 "title": "以色列与哈马斯互指对方未遵守停火协议",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48912246.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "泽连斯基访美谈“战斧”前一日 俄美总统再约会面",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251017/48912235.html?ayjr"
             }
         ]
     ]
