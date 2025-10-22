@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "事关稀土出口管制、安世半导体，商务部最新发声",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251022/48926095.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20251022/be66dcb2-e767-4fa4-bea5-00bd3fedd8db.png"
+        },
+        {
             "title": "国防部正告：立即停止侵权挑衅和煽宣炒作",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251022/48926045.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20251022/5bcd9bd5-8f09-4420-ad79-6daa0f441f4b.png"
@@ -9,14 +14,14 @@
             "title": "航行警告!今起渤海部分海域进行军事训练 禁止驶入",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251022/48926026.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251022/6939b635-14c4-4b64-963e-f55a04f67d2f.png"
-        },
-        {
-            "title": "先别感动，小心“热情”背后的间谍阴谋！",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251022/48926007.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251022/c304eb9c-1983-48cc-b2a3-a7e8559d9455.png"
         }
     ],
     "midImg": [
+        {
+            "title": "特朗普称尚未就与普京的会晤做出决定",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251022/48925368.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251022/7cc9f9b5-527e-4116-abb3-a644ebc3f1ee.jpg"
+        },
         {
             "title": "泽连斯基：乌克兰已准备好结束俄乌冲突",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251022/48925357.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/640x0/toutiao/20251021/9f51edef-daf3-48ff-965c-d13faaea074e.jpg"
         },
         {
-            "title": "古巴声援哥伦比亚 反对美国干涉拉美事务",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251021/48924350.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251021/f28bde9d-ae6b-4af9-bc6f-10ca1194f50f.jpg"
+            "title": "先别感动，小心“热情”背后的间谍阴谋！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251022/48926007.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251022/c304eb9c-1983-48cc-b2a3-a7e8559d9455.png"
         },
         {
             "title": "阿塞拜疆宣布不再限制运往亚美尼亚货物过境",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251022/48925988.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/600x0/news/20251022/9a1c327a-2f7c-4349-a05b-e3711fc4e305.jpg"
-        },
-        {
-            "title": "酒店海景房把“清晰看军港”当卖点泄密被查",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251022/48925394.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251022/144124b3-2b2b-455f-a92e-a9ae0867486a.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "韩国将调查64名遭柬埔寨遣返网络诈骗嫌疑人",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251019/48917167.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "孟加拉国达卡国际机场货站火灾致机场航班暂停",
@@ -231,12 +237,6 @@
             {
                 "title": "美国家核安全管理局千余名员工将被强制休假",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251018/48915429.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美关税压力下 南非汽车业加速新能源转型",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251018/48915387.html?ayjr"
             }
         ]
     ]
