@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "加沙地带&quot;黄线&quot;成&quot;死亡线&quot; 垃圾围城引发生存危机",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251023/48928959.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251023/2ead3e95-6234-455b-b8ce-99bc24541ab9.jpg"
+        },
+        {
             "title": "一艘偷渡船在突尼斯东部海域沉没 约40人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251023/48928858.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251023/b2f0744a-b6c9-4154-ab1f-90a0f067cd6e.jpg"
@@ -9,14 +14,14 @@
             "title": "在也门被扣押的12名联合国外籍雇员离开萨那",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251023/48928844.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/388x0/news/20251023/04e51fdd-d0fb-402e-8c45-6edf94ede4eb.png"
-        },
-        {
-            "title": "加拿大称对以总理&quot;入境即逮捕&quot; 以要求其改变立场",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251022/48927918.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/600x0/news/20251022/ff40a579-3ede-4d13-9031-81d4c02e55fc.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "雄安首颗自造卫星下线 破解算力能源动力难题",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251022/48927325.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251022/d3ae4ed9-0ac2-4df7-b0f8-390cbca2e12a.jpg"
+        },
         {
             "title": "国台办回应台湾要在美投资芯片",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251022/48927304.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251022/576acbcd-248c-465f-b2ac-5a8aa6c9ce17.jpg"
         },
         {
-            "title": "国台办：纪念台湾光复80周年大会将邀请台湾同胞",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251022/48926343.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20251022/4995cdfc-31a5-4320-bec0-d33942d4b50e.png"
+            "title": "加拿大称对以总理&quot;入境即逮捕&quot; 以要求其改变立场",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251022/48927918.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/600x0/news/20251022/ff40a579-3ede-4d13-9031-81d4c02e55fc.jpg"
         },
         {
             "title": "美联航客机巡航途中风挡破裂 或因撞上气象气球",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251022/48927880.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251022/6ddcaf95-7d8f-4cb5-8840-6d3a3eee62e7.png"
-        },
-        {
-            "title": "尼日利亚油罐车爆炸已致38人死亡 46人受伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251022/48927577.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251022/92a30e9d-296d-441c-81e5-831de43e9654.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "离谱！巴黎卢浮宫被盗，7分钟丢失9件珍宝",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251020/48919030.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "1.5万亿承诺后，硅谷白宫的关系变了多少？",
@@ -231,12 +237,6 @@
             {
                 "title": "杨振宁曾隔空对话邓稼先：我懂你的“共同途”",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251018/48916301.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "曝光！这些企业涉嫌支持台军心战大队",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251018/48916116.html?ayjr"
             }
         ]
     ]
