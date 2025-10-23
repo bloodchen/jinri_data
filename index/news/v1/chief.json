@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "一周内三位美高官访问以色列 白宫到底在担心什么",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251023/48930143.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251023/f8344ec4-3722-4129-ab41-d58de9b0ff7b.jpg"
+        },
+        {
             "title": "我国首艘自研大型出口双燃料客滚船",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251023/48929906.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251023/925bea41-3cfc-476d-8b99-14a0d04e54d7.jpg"
@@ -9,14 +14,14 @@
             "title": "火力全开！来看这场多火器实弹射击考核",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251023/48929879.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251023/39a3b0ab-cc01-41b3-9a0a-edda3fd94b77.jpg"
-        },
-        {
-            "title": "委内瑞拉总统称部署超5000枚防空导弹保护本土安全",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251023/48929816.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251023/287f7575-5a27-4a86-b356-91bd4f519d0d.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "“停摆”持续 美参议院第12次否决临时拨款法案",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251023/48928998.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251023/0f05bb62-7244-451c-b6e3-0aae4c378b35.jpg"
+        },
         {
             "title": "特朗普称取消与普京在布达佩斯的会面",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251023/48928983.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/388x0/news/20251023/04e51fdd-d0fb-402e-8c45-6edf94ede4eb.png"
         },
         {
-            "title": "加拿大称对以总理&quot;入境即逮捕&quot; 以要求其改变立场",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251022/48927918.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/600x0/news/20251022/ff40a579-3ede-4d13-9031-81d4c02e55fc.jpg"
+            "title": "委内瑞拉总统称部署超5000枚防空导弹保护本土安全",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251023/48929816.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251023/287f7575-5a27-4a86-b356-91bd4f519d0d.jpg"
         },
         {
             "title": "从宣布到取消 特朗普与普京会晤为何被&quot;急踩刹车&quot;",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251023/48929058.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251023/e44d2811-36d5-4a38-9ac9-13b41467281d.jpg"
-        },
-        {
-            "title": "政府&quot;停摆&quot;第22天 联邦雇员领救济 两党继续打嘴仗",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251023/48929037.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251023/e45f180f-cd5b-4ffd-acde-993957bdf8c6.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "欧洲应摒弃单极世界思维 给俄乌局势降温",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251021/48923845.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "朱雀三号进入首飞准备阶段 可用于大型星座组网",
@@ -231,12 +237,6 @@
             {
                 "title": "玉渊谭天丨美方为何攻击我国家授时中心？",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251019/48917061.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "巴基斯坦和阿富汗同意立即停火",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251019/48916972.html?ayjr"
             }
         ]
     ]
