@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "立陶宛称俄战机侵犯领空18秒 俄方否认",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251024/48932464.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/414x0/news/20251024/07664da8-a8a7-4194-9800-d76a58f0caec.jpg"
+        },
+        {
             "title": "美媒：跟中国打仗前48小时非常惨烈 美军急需学会挨揍",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20251024/48932354.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/toutiao/20251023/7d51097e-7419-4f78-8793-62fc55d3c266.jpg"
@@ -9,14 +14,14 @@
             "title": "外交部：中方始终坚定支持巴勒斯坦人民正义事业",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251023/48931451.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/563x0/news/20251023/3c91a27e-9952-4731-841d-d0f8e6081fff.png"
-        },
-        {
-            "title": "外交部：中方坚决反对美国对古巴封锁制裁",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251023/48931437.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20251023/1f9d23a4-bca6-48ec-9079-d3090ba96847.png"
         }
     ],
     "midImg": [
+        {
+            "title": "一周内三位美高官访问以色列 白宫到底在担心什么",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251023/48930143.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251023/f8344ec4-3722-4129-ab41-d58de9b0ff7b.jpg"
+        },
         {
             "title": "我国首艘自研大型出口双燃料客滚船",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251023/48929906.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251023/e45f180f-cd5b-4ffd-acde-993957bdf8c6.jpg"
         },
         {
-            "title": "今明两天北部湾部分海域实弹射击 禁止驶入",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251023/48929011.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251023/e86689c0-d00d-4f73-bffb-303aa3a488d2.jpg"
+            "title": "外交部：中方坚决反对美国对古巴封锁制裁",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251023/48931437.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20251023/1f9d23a4-bca6-48ec-9079-d3090ba96847.png"
         },
         {
             "title": "中美将于10月24日至27日在马来西亚举行经贸磋商",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251023/48931164.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20251023/a5694f0c-86d8-4f2c-b268-cef37857c9b4.png"
-        },
-        {
-            "title": "今夜南海海域有火箭残骸掉落 请远离相关区域",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251023/48930749.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251023/618f5635-393d-4cdf-a70e-b5fdf58d8651.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "加沙停火陷困局：协议自身存缺陷 美国斡旋难奏效",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251022/48925348.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "卢浮宫抢劫案造成经济损失达8800万欧元",
@@ -231,12 +237,6 @@
             {
                 "title": "10月上半月印度进口的俄罗斯石油量增加",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251019/48917568.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "哈马斯驳斥美国:虚假指控 与以色列的宣传完全一致",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251019/48917556.html?ayjr"
             }
         ]
     ]
