@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "建设生育友好型社会 推动老有所养、老有所为",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251024/48933805.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20251024/dfdae581-5bc6-4134-a224-97de6bb35b71.png"
+        },
+        {
             "title": "乌称有射程3000公里导弹 普京：回应将是压倒性的",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251024/48933593.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20251024/37ed4fe7-b151-4e2d-8acd-44c26cf64654.png"
@@ -9,14 +14,14 @@
             "title": "首艘、首颗、首飞！中国制造硬核实力再出圈",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251024/48933258.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251024/f4e2f849-c316-496f-8aa4-422af2ffeb48.jpg"
-        },
-        {
-            "title": "韩国政府公布梨泰院踩踏事件监察结果",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251024/48933219.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251024/d6a2d595-d7b5-4e62-85f4-67adbb92c23d.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美国务卿与以总理会面 强调重视巩固加沙停火协议",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251024/48932498.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251024/f34895fc-91bd-4b53-8dd2-c2d692403650.jpg"
+        },
         {
             "title": "普京：布达佩斯会晤更像是改期而非取消",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251024/48932475.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20251023/1f9d23a4-bca6-48ec-9079-d3090ba96847.png"
         },
         {
-            "title": "中美将于10月24日至27日在马来西亚举行经贸磋商",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251023/48931164.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20251023/a5694f0c-86d8-4f2c-b268-cef37857c9b4.png"
+            "title": "韩国政府公布梨泰院踩踏事件监察结果",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251024/48933219.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251024/d6a2d595-d7b5-4e62-85f4-67adbb92c23d.jpg"
         },
         {
             "title": "俄称打击乌能源设施 乌称袭击俄方炼油厂",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251024/48932571.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251024/6ab9897d-bf4e-4801-904c-a9456bc80339.png"
-        },
-        {
-            "title": "政府“停摆” 空管停薪 白宫宴会厅建造不停工",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251024/48932525.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251024/7eb85d5b-e3ba-44bb-b92e-749bee0bd475.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "事关稀土出口管制、安世半导体，商务部最新发声",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251022/48926095.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "国防部正告：立即停止侵权挑衅和煽宣炒作",
@@ -231,12 +237,6 @@
             {
                 "title": "微短剧能拯救好莱坞吗？",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251020/48918954.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "特朗普专机着陆区视线范围内发现可疑“狩猎架”",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251020/48918942.html?ayjr"
             }
         ]
     ]
