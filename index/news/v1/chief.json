@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "俄称打击乌能源设施 乌称袭击俄方炼油厂",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251024/48932571.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251024/6ab9897d-bf4e-4801-904c-a9456bc80339.png"
+        },
+        {
             "title": "政府“停摆” 空管停薪 白宫宴会厅建造不停工",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251024/48932525.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251024/7eb85d5b-e3ba-44bb-b92e-749bee0bd475.jpg"
@@ -9,14 +14,14 @@
             "title": "飞行追踪数据显示美B-1B轰炸机曾靠近委内瑞拉海岸",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251024/48932513.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251024/a87f5291-7704-44cf-869f-48a8acb116ee.png"
-        },
-        {
-            "title": "美国务卿与以总理会面 强调重视巩固加沙停火协议",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251024/48932498.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251024/f34895fc-91bd-4b53-8dd2-c2d692403650.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "外交部：中方始终坚定支持巴勒斯坦人民正义事业",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251023/48931451.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/563x0/news/20251023/3c91a27e-9952-4731-841d-d0f8e6081fff.png"
+        },
         {
             "title": "外交部：中方坚决反对美国对古巴封锁制裁",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251023/48931437.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251023/f8344ec4-3722-4129-ab41-d58de9b0ff7b.jpg"
         },
         {
-            "title": "我国首艘自研大型出口双燃料客滚船",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251023/48929906.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251023/925bea41-3cfc-476d-8b99-14a0d04e54d7.jpg"
+            "title": "美国务卿与以总理会面 强调重视巩固加沙停火协议",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251024/48932498.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251024/f34895fc-91bd-4b53-8dd2-c2d692403650.jpg"
         },
         {
             "title": "普京：布达佩斯会晤更像是改期而非取消",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251024/48932475.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251024/461022a7-0916-4e9e-af3e-99b092e36954.png"
-        },
-        {
-            "title": "立陶宛称俄战机侵犯领空18秒 俄方否认",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251024/48932464.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/414x0/news/20251024/07664da8-a8a7-4194-9800-d76a58f0caec.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "阿塞拜疆宣布不再限制运往亚美尼亚货物过境",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251022/48925988.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "酒店海景房把“清晰看军港”当卖点泄密被查",
@@ -231,12 +237,6 @@
             {
                 "title": "刷新两个“最”！神二十乘组“太空出差”渐入尾声",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251020/48918811.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "我国白银基本供需情况如何？一文解读",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251020/48918789.html?ayjr"
             }
         ]
     ]
