@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "被也门胡塞武装扣押联合国人员增至55人",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251025/48936156.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/600x0/news/20251025/85609cda-cea5-49e4-8baa-6fee17a55593.jpg"
+        },
+        {
             "title": "神舟二十一号已就位！船箭组合体转运大片来了",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251025/48935878.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251025/eca283c8-1c07-4cff-abc5-918310067776.jpg"
@@ -9,14 +14,14 @@
             "title": "欧洲多国领导人称将继续加大对俄制裁",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251025/48935862.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251025/59bc52f8-ed76-4b7b-ab07-634aeaf412e4.jpg"
-        },
-        {
-            "title": "为恢复与美贸易谈判 加拿大将暂停投放反关税广告",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251025/48935849.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251025/39912e1a-99ef-4c3c-8f43-b3c33d75fc0a.png"
         }
     ],
     "midImg": [
+        {
+            "title": "美军出动无人机监控加沙地带停火执行情况",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251025/48935788.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251025/513f9739-4743-4038-ace3-102cdf6c95e9.jpg"
+        },
         {
             "title": "以军在加沙地带中部发动无人机袭击 致2人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251025/48935777.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251024/98469514-d9cf-4e29-9ab3-57cbd8656896.jpg"
         },
         {
-            "title": "中美元首是否将会晤？外交部回应",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251024/48934916.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/564x0/news/20251024/0136b575-7bd6-435c-bde6-8377534dfe03.png"
+            "title": "为恢复与美贸易谈判 加拿大将暂停投放反关税广告",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251025/48935849.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251025/39912e1a-99ef-4c3c-8f43-b3c33d75fc0a.png"
         },
         {
             "title": "美政府史上第二长“停摆”持续 图解9大项负面影响",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251025/48935838.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251025/c0a99389-d94e-45ca-976f-62a3033476db.jpg"
-        },
-        {
-            "title": "财政部将在香港发行美元主权债券",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251025/48935825.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/566x0/news/20251025/ecf1eb0f-4dc8-4e3a-92ef-a4b2c650ed41.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "“停摆”持续 美参议院第12次否决临时拨款法案",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251023/48928998.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "特朗普称取消与普京在布达佩斯的会面",
@@ -231,12 +237,6 @@
             {
                 "title": "卢浮宫抢劫案造成经济损失达8800万欧元",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251022/48925336.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "哥伦比亚反政府武装否认使用船只贩毒",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251022/48925323.html?ayjr"
             }
         ]
     ]
