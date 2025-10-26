@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "特朗普即将访日 美驻日使馆附近发生持刀袭警事件",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251026/48937231.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251026/e5d032cd-c9eb-4e11-a248-f76e70e7a854.png"
+        },
+        {
             "title": "&quot;好房子&quot;与&quot;以旧换新&quot;成亮点，多地楼市热度回升",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251026/48937217.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251026/1021955c-d861-4df0-a9f8-7c45905d4728.jpg"
@@ -9,14 +14,14 @@
             "title": "创业者能享受哪些支持政策？权威解答来了",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251026/48937138.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251026/c191d3de-b9a2-450f-b513-06a005869002.jpg"
-        },
-        {
-            "title": "日本新型H3火箭7号机发射升空",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251026/48937107.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251026/efe17481-c763-4613-a637-22344dfc15ba.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "特朗普称“国际部队”不久将进驻加沙",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251026/48936981.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251026/90af4744-0b97-404e-b30e-ad4dcf280566.jpg"
+        },
         {
             "title": "美国总统特朗普启程访问亚洲三国",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251026/48936970.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251025/3af55e3b-fee3-4ed5-990f-fb1e4fcc64b2.gif"
         },
         {
-            "title": "珍贵画面！80年前台湾光复影像公布",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251025/48936303.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251025/098a1779-0189-494d-a38f-d1dd9df7d4a7.jpg"
+            "title": "日本新型H3火箭7号机发射升空",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251026/48937107.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251026/efe17481-c763-4613-a637-22344dfc15ba.jpg"
         },
         {
             "title": "信用评级下降 美政府“停摆”影响加剧",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251026/48937058.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251026/85194e08-5d4f-4bf2-b080-7ca2dbefff33.jpg"
-        },
-        {
-            "title": "直-10ME接令就是精准打击！",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251026/48937033.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251026/ba8f81ab-ae15-4089-aa31-c8e89643646e.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "普京：布达佩斯会晤更像是改期而非取消",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251024/48932475.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "立陶宛称俄战机侵犯领空18秒 俄方否认",
@@ -231,12 +237,6 @@
             {
                 "title": "国台办：&quot;台独&quot;是两岸祸害 助纣为虐必将付出代价",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251022/48926462.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "名人流量，“蹭”亦有道",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251022/48926383.html?ayjr"
             }
         ]
     ]
