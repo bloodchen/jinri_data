@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "日本新型H3火箭7号机发射升空",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251026/48937107.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251026/efe17481-c763-4613-a637-22344dfc15ba.jpg"
+        },
+        {
             "title": "信用评级下降 美政府“停摆”影响加剧",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251026/48937058.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251026/85194e08-5d4f-4bf2-b080-7ca2dbefff33.jpg"
@@ -9,14 +14,14 @@
             "title": "直-10ME接令就是精准打击！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251026/48937033.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251026/ba8f81ab-ae15-4089-aa31-c8e89643646e.jpg"
-        },
-        {
-            "title": "西方多国就乌克兰问题发表联合声明",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251026/48936990.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251026/d9df7246-1c10-48a4-a1fb-6490cf4e8a12.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "无人机挂载自杀式排爆小车精准完成任务 演练画面",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251025/48936619.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251025/78abf506-4fad-49db-ac38-7fa601260dcb.jpg"
+        },
         {
             "title": "绑架中国公民的3名嫌犯被南非警方击毙",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251025/48936374.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251025/eca283c8-1c07-4cff-abc5-918310067776.jpg"
         },
         {
-            "title": "欧洲多国领导人称将继续加大对俄制裁",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251025/48935862.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251025/59bc52f8-ed76-4b7b-ab07-634aeaf412e4.jpg"
+            "title": "西方多国就乌克兰问题发表联合声明",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251026/48936990.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251026/d9df7246-1c10-48a4-a1fb-6490cf4e8a12.jpg"
         },
         {
             "title": "特朗普称“国际部队”不久将进驻加沙",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251026/48936981.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251026/90af4744-0b97-404e-b30e-ad4dcf280566.jpg"
-        },
-        {
-            "title": "美国总统特朗普启程访问亚洲三国",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251026/48936970.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/380x0/news/20251026/77a59384-f727-4d30-89ce-8ae60ff63fbd.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "外交部：中方始终坚定支持巴勒斯坦人民正义事业",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251023/48931451.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "外交部：中方坚决反对美国对古巴封锁制裁",
@@ -231,12 +237,6 @@
             {
                 "title": "89年前的今天 他们走完了这样一条路……",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251022/48926203.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "以军再袭加沙 目击者称无任何预警“像发生地震”",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251022/48926162.html?ayjr"
             }
         ]
     ]
