@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "西方多国就乌克兰问题发表联合声明",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251026/48936990.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251026/d9df7246-1c10-48a4-a1fb-6490cf4e8a12.jpg"
+        },
+        {
             "title": "特朗普称“国际部队”不久将进驻加沙",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251026/48936981.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251026/90af4744-0b97-404e-b30e-ad4dcf280566.jpg"
@@ -9,14 +14,14 @@
             "title": "美国总统特朗普启程访问亚洲三国",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251026/48936970.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/380x0/news/20251026/77a59384-f727-4d30-89ce-8ae60ff63fbd.png"
-        },
-        {
-            "title": "矛与盾的对抗 反无人机新技术不断涌现",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251025/48936640.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251025/60c6586f-c453-4512-a4aa-d17c29ed1489.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "珍贵画面！80年前台湾光复影像公布",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251025/48936303.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251025/098a1779-0189-494d-a38f-d1dd9df7d4a7.jpg"
+        },
         {
             "title": "被也门胡塞武装扣押联合国人员增至55人",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251025/48936156.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251025/c0a99389-d94e-45ca-976f-62a3033476db.jpg"
         },
         {
-            "title": "财政部将在香港发行美元主权债券",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251025/48935825.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/566x0/news/20251025/ecf1eb0f-4dc8-4e3a-92ef-a4b2c650ed41.png"
+            "title": "矛与盾的对抗 反无人机新技术不断涌现",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251025/48936640.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251025/60c6586f-c453-4512-a4aa-d17c29ed1489.jpg"
         },
         {
             "title": "无人机挂载自杀式排爆小车精准完成任务 演练画面",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251025/48936619.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251025/78abf506-4fad-49db-ac38-7fa601260dcb.jpg"
-        },
-        {
-            "title": "绑架中国公民的3名嫌犯被南非警方击毙",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251025/48936374.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251025/996d9ac8-31ff-45df-a4e0-9e7bd15a6a69.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "今夜南海海域有火箭残骸掉落 请远离相关区域",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251023/48930749.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "四川盆地发现亿吨级新页岩油规模增储阵地",
@@ -231,12 +237,6 @@
             {
                 "title": "国防部正告：立即停止侵权挑衅和煽宣炒作",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251022/48926045.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "航行警告!今起渤海部分海域进行军事训练 禁止驶入",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251022/48926026.html?ayjr"
             }
         ]
     ]
