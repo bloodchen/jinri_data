@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "世界唯一！我国在北极密集海冰区进行连续载人深潜",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251027/48940995.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251027/f62e0041-63d0-4409-a7b1-e0080b8bc650.jpg"
+        },
+        {
             "title": "东帝汶加入，东盟26年首次扩员",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251027/48939120.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251027/6026cf50-6a36-454e-ba36-99d6b8ece320.jpg"
@@ -9,14 +14,14 @@
             "title": "纪念台湾光复80周年 共同推进祖国统一大业",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251027/48939101.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251027/700f7bd2-b2fa-4c6b-a183-11eb83f10b9b.jpg"
-        },
-        {
-            "title": "近80%为国内首发亮相 去航空大会看新款无人机",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251027/48939077.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251027/1f7851be-0c2e-4ae3-81cd-c7ebd2b9d995.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美政府“停摆”致空管人员短缺 数千架航班延误",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251027/48938941.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251027/c7055c54-80d0-407c-821b-c48d3c7f018d.jpg"
+        },
         {
             "title": "委内瑞拉谴责美军将在委附近海域举行军演",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251027/48938851.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251026/de1531ee-6719-482b-8c7d-d5100b3fb3c6.png"
         },
         {
-            "title": "国有资产最新“家底”公布",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251026/48937849.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20251026/f0c834e9-188f-46ca-a624-605bef59be39.png"
+            "title": "近80%为国内首发亮相 去航空大会看新款无人机",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251027/48939077.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251027/1f7851be-0c2e-4ae3-81cd-c7ebd2b9d995.jpg"
         },
         {
             "title": "以军在约旦河西岸打伤多名巴勒斯坦人",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251027/48939056.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251027/94f050df-5809-41dd-afcc-93a416da7a34.jpg"
-        },
-        {
-            "title": "向绿、向蓝、向太阳！中国能源转型速度领跑全球",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251027/48939001.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251027/6c00b8f7-48fb-4dae-89de-bdbb8dde992b.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美军出动无人机监控加沙地带停火执行情况",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251025/48935788.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "以军在加沙地带中部发动无人机袭击 致2人死亡",
@@ -231,12 +237,6 @@
             {
                 "title": "我国首艘自研大型出口双燃料客滚船",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251023/48929906.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "火力全开！来看这场多火器实弹射击考核",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251023/48929879.html?ayjr"
             }
         ]
     ]
