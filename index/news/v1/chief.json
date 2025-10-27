@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "委内瑞拉谴责美军将在委附近海域举行军演",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251027/48938851.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251027/cd642cd3-5e73-492e-b28b-50f6f78edcf5.jpg"
+        },
+        {
             "title": "打卡大国工程 这份旅游清单太硬核！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251027/48938812.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/621x0/news/20251027/2e8fec4c-bb5d-464e-93c2-d7dd27110d05.jpg"
@@ -9,14 +14,14 @@
             "title": "每条街道都清晰可见 看卫星视角下的中国台湾省",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251027/48938760.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251027/cfb3cccb-b745-4d3d-a880-6c859a021d2d.jpg"
-        },
-        {
-            "title": "贷款炒金的＂黄金赌徒＂后悔了：有人3天亏掉2个月工资",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20251027/48938508.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/toutiao/20251026/35b6e1d2-180d-44da-bec1-6e4fc6dd9086.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "航行警告！南海部分海域进行试验活动 禁止驶入",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251026/48937822.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20251026/df1c00df-0723-440a-89f7-85f4b3f602c5.png"
+        },
         {
             "title": "起点：东风航天城 目的地：酒泉 这条航天路通车啦",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251026/48937722.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251026/e5d032cd-c9eb-4e11-a248-f76e70e7a854.png"
         },
         {
-            "title": "&quot;好房子&quot;与&quot;以旧换新&quot;成亮点，多地楼市热度回升",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251026/48937217.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251026/1021955c-d861-4df0-a9f8-7c45905d4728.jpg"
+            "title": "贷款炒金的＂黄金赌徒＂后悔了：有人3天亏掉2个月工资",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20251027/48938508.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/toutiao/20251026/35b6e1d2-180d-44da-bec1-6e4fc6dd9086.jpg"
         },
         {
             "title": "哈尔滨冰雪大世界存冰启用准备工作开始",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251026/48937957.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251026/de1531ee-6719-482b-8c7d-d5100b3fb3c6.png"
-        },
-        {
-            "title": "国有资产最新“家底”公布",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251026/48937849.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20251026/f0c834e9-188f-46ca-a624-605bef59be39.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "订单飙升50%！商户直呼：赚钱的机会来了",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251024/48934346.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "日本首相高市早苗发表施政演说 将推进政治改革",
@@ -231,12 +237,6 @@
             {
                 "title": "美媒称美国允许乌对俄使用远程导弹 特朗普:假新闻",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251023/48928972.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "加沙地带&quot;黄线&quot;成&quot;死亡线&quot; 垃圾围城引发生存危机",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251023/48928959.html?ayjr"
             }
         ]
     ]
