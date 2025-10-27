@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "东帝汶加入，东盟26年首次扩员",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251027/48939120.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251027/6026cf50-6a36-454e-ba36-99d6b8ece320.jpg"
+        },
+        {
             "title": "纪念台湾光复80周年 共同推进祖国统一大业",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251027/48939101.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251027/700f7bd2-b2fa-4c6b-a183-11eb83f10b9b.jpg"
@@ -9,14 +14,14 @@
             "title": "近80%为国内首发亮相 去航空大会看新款无人机",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251027/48939077.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251027/1f7851be-0c2e-4ae3-81cd-c7ebd2b9d995.jpg"
-        },
-        {
-            "title": "以军在约旦河西岸打伤多名巴勒斯坦人",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251027/48939056.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251027/94f050df-5809-41dd-afcc-93a416da7a34.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "委内瑞拉谴责美军将在委附近海域举行军演",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251027/48938851.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251027/cd642cd3-5e73-492e-b28b-50f6f78edcf5.jpg"
+        },
         {
             "title": "打卡大国工程 这份旅游清单太硬核！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251027/48938812.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20251026/f0c834e9-188f-46ca-a624-605bef59be39.png"
         },
         {
-            "title": "普京：“海燕”核动力导弹完成关键试验",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251026/48937834.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251026/657e01e4-30e9-4792-a6e5-4d30be6b485f.jpg"
+            "title": "以军在约旦河西岸打伤多名巴勒斯坦人",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251027/48939056.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251027/94f050df-5809-41dd-afcc-93a416da7a34.jpg"
         },
         {
             "title": "向绿、向蓝、向太阳！中国能源转型速度领跑全球",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251027/48939001.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251027/6c00b8f7-48fb-4dae-89de-bdbb8dde992b.jpg"
-        },
-        {
-            "title": "巴西总统宣布将与美国就关税问题进行谈判",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251027/48938973.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251027/20a37cc0-ff0c-408a-915e-af9177c7f76f.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "以军在加沙地带中部发动无人机袭击 致2人死亡",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251025/48935777.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "为&quot;打击贩毒&quot; 美军调派&quot;福特&quot;号航母至加勒比海",
@@ -231,12 +237,6 @@
             {
                 "title": "火力全开！来看这场多火器实弹射击考核",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251023/48929879.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "委内瑞拉总统称部署超5000枚防空导弹保护本土安全",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251023/48929816.html?ayjr"
             }
         ]
     ]
