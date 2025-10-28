@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "艰难岁月里的中国奇迹 回顾第一颗原子弹爆炸瞬间",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251028/48942876.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251028/597241ac-aef1-4b6c-a7f1-7d44bb0df2df.jpg"
+        },
+        {
             "title": "“人造太阳”关键核心材料实现国产工业化制备",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251028/48942530.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251028/d6d0a663-7a5d-4511-bd0c-1ad2a719ef8c.jpg"
@@ -9,14 +14,14 @@
             "title": "发射倒计时！多系统守护神舟二十一号出征",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251028/48942494.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251028/0d894cf7-b78d-48fd-914e-91462558cf8c.jpg"
-        },
-        {
-            "title": "CR450动车组跑出中国创新“加速度”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251028/48942466.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251028/6e1a8730-ed6a-4ecc-a7bd-68a09b32ca16.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美联储，将有大消息！事关“降息”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251027/48941210.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251027/4d802fd5-77ec-4885-ad30-938db0b411ff.png"
+        },
         {
             "title": "世界唯一！我国在北极密集海冰区进行连续载人深潜",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251027/48940995.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251027/94f050df-5809-41dd-afcc-93a416da7a34.jpg"
         },
         {
-            "title": "向绿、向蓝、向太阳！中国能源转型速度领跑全球",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251027/48939001.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251027/6c00b8f7-48fb-4dae-89de-bdbb8dde992b.jpg"
+            "title": "CR450动车组跑出中国创新“加速度”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251028/48942466.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251028/6e1a8730-ed6a-4ecc-a7bd-68a09b32ca16.jpg"
         },
         {
             "title": "泽连斯基召开最高统帅部会议 聚焦远程打击能力",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251028/48942296.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251028/d462e8bc-ae3d-4b45-afe3-b698f51b524b.jpg"
-        },
-        {
-            "title": "特朗普称与巴西总统卢拉进行了“良好会晤”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251028/48942284.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251028/913efde2-5c41-46db-95d4-4b4526acb602.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "中美经贸磋商在马来西亚开始举行",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251025/48936282.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "被也门胡塞武装扣押联合国人员增至55人",
@@ -231,12 +237,6 @@
             {
                 "title": "立陶宛称俄战机侵犯领空18秒 俄方否认",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251024/48932464.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美媒：跟中国打仗前48小时非常惨烈 美军急需学会挨揍",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20251024/48932354.html?ayjr"
             }
         ]
     ]
