@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "匈牙利总理：俄美总统会晤必将在布达佩斯举行",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251028/48943096.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251028/cd9ee788-7491-4b40-af77-b4785494e1c6.jpg"
+        },
+        {
             "title": "玻利维亚发生巴士坠崖事故 致16死30伤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251028/48943005.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251028/47d60303-f085-4a88-8bec-bdcba961cd99.jpg"
@@ -9,14 +14,14 @@
             "title": "“奋斗者”号载人潜水器带着北极深海故事回来啦！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251028/48942939.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251028/2d38aecf-5c21-4346-9de9-9fefe9f8e32a.jpg"
-        },
-        {
-            "title": "艰难岁月里的中国奇迹 回顾第一颗原子弹爆炸瞬间",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251028/48942876.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251028/597241ac-aef1-4b6c-a7f1-7d44bb0df2df.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "泽连斯基召开最高统帅部会议 聚焦远程打击能力",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251028/48942296.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251028/d462e8bc-ae3d-4b45-afe3-b698f51b524b.jpg"
+        },
         {
             "title": "特朗普称与巴西总统卢拉进行了“良好会晤”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251028/48942284.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251027/6026cf50-6a36-454e-ba36-99d6b8ece320.jpg"
         },
         {
-            "title": "纪念台湾光复80周年 共同推进祖国统一大业",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251027/48939101.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251027/700f7bd2-b2fa-4c6b-a183-11eb83f10b9b.jpg"
+            "title": "艰难岁月里的中国奇迹 回顾第一颗原子弹爆炸瞬间",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251028/48942876.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251028/597241ac-aef1-4b6c-a7f1-7d44bb0df2df.jpg"
         },
         {
             "title": "“人造太阳”关键核心材料实现国产工业化制备",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251028/48942530.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251028/d6d0a663-7a5d-4511-bd0c-1ad2a719ef8c.jpg"
-        },
-        {
-            "title": "发射倒计时！多系统守护神舟二十一号出征",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251028/48942494.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251028/0d894cf7-b78d-48fd-914e-91462558cf8c.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "绑架中国公民的3名嫌犯被南非警方击毙",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251025/48936374.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "这些大国重器，是对他“踮起脚尖”的深情回应",
@@ -231,12 +237,6 @@
             {
                 "title": "飞行追踪数据显示美B-1B轰炸机曾靠近委内瑞拉海岸",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251024/48932513.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美国务卿与以总理会面 强调重视巩固加沙停火协议",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251024/48932498.html?ayjr"
             }
         ]
     ]
