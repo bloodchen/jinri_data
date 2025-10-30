@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "法国卢浮宫抢劫案2名嫌疑人将被正式起诉",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251030/48949316.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251030/e91c5895-883f-41fe-9352-f354b647e52e.jpg"
+        },
+        {
             "title": "加沙停火又生变数 冲突双方或有“两手准备”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251030/48949256.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251030/2814cfcd-052a-4a03-9abf-26df03ebfd56.jpg"
@@ -9,14 +14,14 @@
             "title": "苏丹快速支援部队宣布调查法希尔平民遇害事件",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251030/48949233.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251030/67f04ab2-3ed0-4765-a479-55efbbc02f1e.jpg"
-        },
-        {
-            "title": "美联储再降息 鲍威尔称政府&quot;停摆&quot;将影响经济活动",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251030/48949220.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251030/c2879a8f-c4a0-49f2-97c3-4399c0e05132.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美完成X-59静音超音速飞机首飞",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251029/48948101.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251029/08f488d3-9378-4d2a-b458-70d5c6158fb7.png"
+        },
         {
             "title": "俄称能击中俄境内目标的乌克兰无人机不足1%",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251029/48947386.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20251029/d8529c43-87e6-4822-a1a8-c29b98798d9e.png"
         },
         {
-            "title": "最幸福的是将来我80了，父母还在",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251029/48946742.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251029/07fa1e38-7565-41cd-a470-eba240513c85.jpg"
+            "title": "美联储再降息 鲍威尔称政府&quot;停摆&quot;将影响经济活动",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251030/48949220.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251030/c2879a8f-c4a0-49f2-97c3-4399c0e05132.jpg"
         },
         {
             "title": "美联储再次降息25个基点",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251030/48949207.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251030/31f05d09-c815-4d6d-8db2-3adb4d914187.jpg"
-        },
-        {
-            "title": "乌外长：乌克兰决定关闭驻古巴大使馆",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251030/48949194.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/640x0/news/20251030/4759429c-d451-47cf-b31f-a5493a37e05a.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "以军在约旦河西岸打伤多名巴勒斯坦人",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251027/48939056.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "向绿、向蓝、向太阳！中国能源转型速度领跑全球",
@@ -231,12 +237,6 @@
             {
                 "title": "珍贵画面！80年前台湾光复影像公布",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251025/48936303.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "中美经贸磋商在马来西亚开始举行",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251025/48936282.html?ayjr"
             }
         ]
     ]
