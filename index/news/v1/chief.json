@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "共绘金融创新发展新图景",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251031/48952879.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20251031/08999369-12c3-4fcb-bef5-e4ebc724b840.png"
+        },
+        {
             "title": "神舟二十一号航天员出差行囊大揭秘",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251031/48952810.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251031/50234eff-5e29-4cfe-b91c-d44040151e45.png"
@@ -9,14 +14,14 @@
             "title": "中国田协通知：进一步规范马拉松赛事相关工作",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251031/48952746.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20251031/90a32ac4-73c1-432e-85c7-7f38ab13bdf7.png"
-        },
-        {
-            "title": "短暂&quot;出差&quot;太空 &quot;小鼠航天员&quot;太空之旅如何度过？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251031/48952250.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251031/45a5af01-78fa-4c2b-9d2f-ad89f9ef46e9.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "青海西宁500号信箱,绝密地址藏着一代人的青春暗语",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251031/48952173.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251031/6fe890c3-0d48-48b2-9676-129e486b176f.jpg"
+        },
         {
             "title": "巴基斯坦和阿富汗同意继续停火 将于11月继续会谈",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251031/48952154.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251031/08545ae5-5d5e-4b91-9070-a174dae4c0f2.jpg"
         },
         {
-            "title": "巴西里约热内卢警匪激战：120多人死亡 总统卢拉发声",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20251031/48951902.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/toutiao/20251031/6f0b6a75-6638-42cb-b6ac-f2b05dfa15ac.jpg"
+            "title": "短暂&quot;出差&quot;太空 &quot;小鼠航天员&quot;太空之旅如何度过？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251031/48952250.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251031/45a5af01-78fa-4c2b-9d2f-ad89f9ef46e9.jpg"
         },
         {
             "title": "从“海燕”到“波塞冬” 俄密集官宣捷报有何考量",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251031/48952232.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251031/90fdae42-edea-4b8b-af52-929184709430.jpg"
-        },
-        {
-            "title": "央行为何研究实施支持个人修复信用的政策措施？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251031/48952219.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/600x0/news/20251031/1e506d4d-446d-4f3c-9b34-c2bab340d8d4.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "国内首个汽车芯片标准验证平台投入使用",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251029/48946207.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "新能源车险未来如何推进？这场论坛给出解答→",
@@ -231,12 +237,6 @@
             {
                 "title": "美政府“停摆”致空管人员短缺 数千架航班延误",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251027/48938941.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "委内瑞拉谴责美军将在委附近海域举行军演",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251027/48938851.html?ayjr"
             }
         ]
     ]
