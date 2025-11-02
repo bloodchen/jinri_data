@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美国哈佛大学医学院发生爆炸 警方公布嫌疑人图像",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251102/48956611.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251102/4e164b5a-0752-4929-8c24-eba4f14785ba.jpg"
+        },
+        {
             "title": "又一全球“爆款”！这一市场，“玩儿”大了",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251102/48956358.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251102/b431eda0-9029-4563-8db4-dd8af51af640.png"
@@ -9,14 +14,14 @@
             "title": "飓风“梅利莎”已致牙买加28人遇难",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251102/48956339.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251102/7bb8dd08-55fd-4f2b-8669-1da8caf1bd1a.jpg"
-        },
-        {
-            "title": "墨西哥北部一商店发生大火 已致22人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251102/48956330.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251102/fca8f7fa-dbd7-4039-8b6a-5ba1610df33e.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "全域感知、精准狙杀 “智能蜂群”出击！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251102/48956047.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/538x0/news/20251102/23026017-cca6-4872-bd99-89f118eba904.jpg"
+        },
         {
             "title": "俄外交部：向乌提供“战斧”导弹无助于解决冲突",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251102/48956033.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251101/0b30a3c6-2004-46b2-93c7-118c9fa36fac.jpg"
         },
         {
-            "title": "美国联邦调查局挫败一起潜在恐怖袭击",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251101/48955406.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251101/c5a9cd9c-48c8-4a81-b948-b452b6f9c388.png"
+            "title": "墨西哥北部一商店发生大火 已致22人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251102/48956330.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251102/fca8f7fa-dbd7-4039-8b6a-5ba1610df33e.jpg"
         },
         {
             "title": "英国火车持刀行凶事件致大量列车停运",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251102/48956203.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251102/a125d1ad-3c2c-4e85-9aef-f50968632780.png"
-        },
-        {
-            "title": "俄罗斯对乌克兰总理及财长等多名官员实施制裁",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251102/48956097.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/300x0/news/20251102/8dd9aeb7-13e5-4fd7-abe0-1aa093c082ab.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "政府“停摆”已30天 美众议院员工将无薪可领",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251031/48952120.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -231,12 +237,6 @@
             {
                 "title": "视频丨AG600完成首次野外环境汲水投水演练",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251029/48946275.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "中印两军举行边境西段第23轮将军级会谈",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251029/48946239.html?ayjr"
             }
         ]
     ]
