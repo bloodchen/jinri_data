@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "国土重光丨130年前，他们誓死保台，浩气长存！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251102/48956742.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251102/74fb2b3f-2293-493a-8c0b-6c6d18cf4907.jpg"
+        },
+        {
             "title": "佩斯科夫：暂不急于举行&quot;普特会&quot; 需精心准备细节",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251102/48956721.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251102/d2c7b828-c30a-4ca3-94dd-2f84b0075546.png"
@@ -9,14 +14,14 @@
             "title": "美国哈佛大学医学院发生爆炸 警方公布嫌疑人图像",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251102/48956611.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251102/4e164b5a-0752-4929-8c24-eba4f14785ba.jpg"
-        },
-        {
-            "title": "又一全球“爆款”！这一市场，“玩儿”大了",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251102/48956358.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251102/b431eda0-9029-4563-8db4-dd8af51af640.png"
         }
     ],
     "midImg": [
+        {
+            "title": "俄罗斯对乌克兰总理及财长等多名官员实施制裁",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251102/48956097.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20251102/8dd9aeb7-13e5-4fd7-abe0-1aa093c082ab.png"
+        },
         {
             "title": "还有3天追平最长纪录 美政府“停摆”仍在持续",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251102/48956087.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251102/b9e215d8-a50d-49f8-95f4-95f14dd8cb61.png"
         },
         {
-            "title": "跨度、难度、速度硬核破纪录！点赞中国桥",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251102/48955990.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/513x0/news/20251102/d8fc9b0e-1c23-4549-80b9-e98984cba60b.png"
+            "title": "又一全球“爆款”！这一市场，“玩儿”大了",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251102/48956358.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251102/b431eda0-9029-4563-8db4-dd8af51af640.png"
         },
         {
             "title": "飓风“梅利莎”已致牙买加28人遇难",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251102/48956339.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251102/7bb8dd08-55fd-4f2b-8669-1da8caf1bd1a.jpg"
-        },
-        {
-            "title": "墨西哥北部一商店发生大火 已致22人死亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251102/48956330.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251102/fca8f7fa-dbd7-4039-8b6a-5ba1610df33e.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "全球最大、全球首台！中国海上风电加速挺进深远海",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251031/48952144.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "以色列私营承包商通过拆毁加沙建筑大肆牟利",
@@ -231,12 +237,6 @@
             {
                 "title": "国台办:愿为和平统一创造空间 但决不承诺放弃武力",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251029/48946919.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "最幸福的是将来我80了，父母还在",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251029/48946742.html?ayjr"
             }
         ]
     ]
