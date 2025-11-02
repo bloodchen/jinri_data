@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "英国火车持刀行凶事件致大量列车停运",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251102/48956203.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251102/a125d1ad-3c2c-4e85-9aef-f50968632780.png"
+        },
+        {
             "title": "俄罗斯对乌克兰总理及财长等多名官员实施制裁",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251102/48956097.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20251102/8dd9aeb7-13e5-4fd7-abe0-1aa093c082ab.png"
@@ -9,14 +14,14 @@
             "title": "还有3天追平最长纪录 美政府“停摆”仍在持续",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251102/48956087.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251102/e1a3f3cb-6393-46c8-ba83-31bafd22abfa.jpg"
-        },
-        {
-            "title": "全域感知、精准狙杀 “智能蜂群”出击！",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251102/48956047.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/538x0/news/20251102/23026017-cca6-4872-bd99-89f118eba904.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "跨度、难度、速度硬核破纪录！点赞中国桥",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251102/48955990.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/513x0/news/20251102/d8fc9b0e-1c23-4549-80b9-e98984cba60b.png"
+        },
         {
             "title": "伊朗革命卫队海军在波斯湾查获24万升走私燃料",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251101/48955646.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/400x0/news/20251101/e1fa2588-9e16-4b74-98da-5072623895b4.jpg"
         },
         {
-            "title": "商务部回应安世半导体相关问题",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251101/48954919.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20251101/4f6eafeb-c5a5-427c-91a5-6f557ca5f253.png"
+            "title": "全域感知、精准狙杀 “智能蜂群”出击！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251102/48956047.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/538x0/news/20251102/23026017-cca6-4872-bd99-89f118eba904.jpg"
         },
         {
             "title": "俄外交部：向乌提供“战斧”导弹无助于解决冲突",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251102/48956033.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251102/b7e7800f-7071-4f6c-bf5f-d2241399ab51.jpg"
-        },
-        {
-            "title": "&quot;余额不足&quot; 美数百万人已无法领取食品援助福利金",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251102/48956020.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251102/1f2fcfdd-e627-4169-8fb4-6ebe4d8e0e38.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "卢浮宫抢劫案第三名嫌疑人被捕",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251030/48951045.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "几十克的“先行者”经过魔鬼训练只为太空入场券",
@@ -231,12 +237,6 @@
             {
                 "title": "朝鲜试射海对地战略巡航导弹",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251029/48946057.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "未来感十足！网友：这个车站“太科幻”！",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251029/48945862.html?ayjr"
             }
         ]
     ]
