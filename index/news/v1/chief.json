@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美州长称肯塔基坠机事故为“灾难性坠机”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251105/48965376.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251105/5207a090-13f2-453f-9d96-e9eb7700853f.jpg"
+        },
+        {
             "title": "美政府“停摆”时长破历史纪录 为啥两党还不急？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251105/48965325.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251105/2d0adf18-dad9-4018-bd0a-01eb3b9d83ef.jpg"
@@ -9,14 +14,14 @@
             "title": "菜园里，“种”出新生活",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251105/48965300.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251105/eacf0087-0f4f-4a22-8f5f-bd0be5848e4b.jpg"
-        },
-        {
-            "title": "“吉林一号”拍摄高清台湾影像 国台办回应",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251105/48964949.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20251105/2cd8f5f7-bd5b-4c89-ae09-464fc23aca89.png"
         }
     ],
     "midImg": [
+        {
+            "title": "我国开展银发医养行动 北京等十省份为重点省份",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251105/48964202.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251105/e29b6686-d456-4a2b-b0ef-aa69f710ce80.jpg"
+        },
         {
             "title": "美肯塔基州坠毁飞机为货运飞机 事故致多人受伤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251105/48964189.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251105/7a44c694-992e-404e-ac12-00fc8d82f890.jpg"
         },
         {
-            "title": "巴基斯坦最高法院爆炸事件已致12人受伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251105/48963928.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/300x0/news/20251105/3adfc994-5bf6-48b9-accb-59b89b43d6db.png"
+            "title": "“吉林一号”拍摄高清台湾影像 国台办回应",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251105/48964949.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20251105/2cd8f5f7-bd5b-4c89-ae09-464fc23aca89.png"
         },
         {
             "title": "涉及吴石、朱枫、陈宝仓、聂曦 国安解密一批档案",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251105/48964467.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251105/d9b49b5c-d621-4571-87c2-aa0b9508a7f1.jpg"
-        },
-        {
-            "title": "美肯塔基州坠机事故已致3人死亡 11人受伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251105/48964415.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20251105/fea6700b-4b85-4079-9c87-9d23ef88ee12.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "佩斯科夫：暂不急于举行&quot;普特会&quot; 需精心准备细节",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251102/48956721.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美国哈佛大学医学院发生爆炸 警方公布嫌疑人图像",
@@ -231,12 +237,6 @@
             {
                 "title": "电动汽车、插头插座等有新规",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251031/48953734.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "董军与美国国防部长会谈",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251031/48953666.html?ayjr"
             }
         ]
     ]
