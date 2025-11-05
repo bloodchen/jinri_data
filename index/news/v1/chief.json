@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "佩斯科夫：美方发射洲际弹道导弹前已告知俄方",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251106/48966573.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251106/f42eba71-4a3f-493a-92d5-ca7a8116e364.jpg"
+        },
+        {
             "title": "外交部回应美方涉华矛盾言论",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251105/48966032.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/563x0/news/20251105/b42b2057-0c65-426b-be04-20fdbb2f3610.png"
@@ -9,14 +14,14 @@
             "title": "普京：装备&quot;海燕&quot;和&quot;波塞冬&quot;可保数十年战略平衡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251105/48965862.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251105/e925a6d7-f8cd-4ae7-b66e-f3948b2489a9.jpg"
-        },
-        {
-            "title": "涉及吴石、朱枫、陈宝仓、聂曦 一批重要档案解密",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251105/48964467.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251105/d9b49b5c-d621-4571-87c2-aa0b9508a7f1.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "菜园里，“种”出新生活",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251105/48965300.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251105/eacf0087-0f4f-4a22-8f5f-bd0be5848e4b.jpg"
+        },
         {
             "title": "“吉林一号”拍摄高清台湾影像 国台办回应",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251105/48964949.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251105/4e8f0d7e-0d93-4239-8a4f-f85f2e34f7c5.png"
         },
         {
-            "title": "美政府“停摆”纪录即将刷新 两党相互指责不休",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251105/48964174.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251105/815dd92a-8d0e-4e94-9d0c-e35989bf5885.jpg"
+            "title": "涉及吴石、朱枫、陈宝仓、聂曦 一批重要档案解密",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251105/48964467.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251105/d9b49b5c-d621-4571-87c2-aa0b9508a7f1.jpg"
         },
         {
             "title": "匈牙利总理重申不支持乌克兰加入欧盟",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251105/48965682.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251105/00e109af-27e3-4dc9-a3d5-540533b96137.jpg"
-        },
-        {
-            "title": "美州长称肯塔基坠机事故为“灾难性坠机”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251105/48965376.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251105/5207a090-13f2-453f-9d96-e9eb7700853f.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "俄称在红军城打击被围困的乌军 乌称击退俄军进攻",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251103/48957596.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "高市早苗上台后 中国作出第一次强烈抗议",
@@ -231,12 +237,6 @@
             {
                 "title": "美法官裁定政府不得在“停摆”期间暂停食品援助",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251101/48954754.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "全程回顾神舟二十一号载人发射任务",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251101/48954742.html?ayjr"
             }
         ]
     ]
