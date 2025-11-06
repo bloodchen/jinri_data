@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "特朗普再次指责南非 并重申不会出席G20峰会",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251106/48968661.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251106/c67457ea-909b-4844-a348-b4009bbde08b.jpg"
+        },
+        {
             "title": "给年轻人走进胡同找个理由",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251106/48968200.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251106/087cb314-5e3a-404a-9c1b-c677bc614709.jpg"
@@ -9,14 +14,14 @@
             "title": "结婚还有机会“领钱” 甜蜜福利如何真正甜到实处?",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251106/48967973.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251106/e37fb69d-4724-469e-b374-cc9cbd1f3d2d.jpg"
-        },
-        {
-            "title": "美试射“民兵3”洲际弹道导弹引俄方关注",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251106/48967711.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251106/14ef4d50-0fe2-46c1-ab74-7c84ee8ad9cf.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "战机编队 昼夜鏖战 一组硬核训练大图来袭",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251106/48966953.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251106/d9b0e1e7-7418-4b5e-a7f1-34d2e029803e.png"
+        },
         {
             "title": "美货机坠毁细节披露:飞机起飞时左翼起火 引擎脱落",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251106/48966850.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251106/f42eba71-4a3f-493a-92d5-ca7a8116e364.jpg"
         },
         {
-            "title": "外交部回应美方涉华矛盾言论",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251105/48966032.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/563x0/news/20251105/b42b2057-0c65-426b-be04-20fdbb2f3610.png"
+            "title": "美试射“民兵3”洲际弹道导弹引俄方关注",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251106/48967711.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251106/14ef4d50-0fe2-46c1-ab74-7c84ee8ad9cf.jpg"
         },
         {
             "title": "事关美国关税合法性 美最高法院激辩总统权力边界",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251106/48967159.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251106/b9c0e406-d0c7-40d8-898e-e5dfbe873ef9.jpg"
-        },
-        {
-            "title": "我国航天器首次观测到星际天体！",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251106/48966994.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251106/b707f0a7-01cf-4162-ab9a-6bd1f8d0543f.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "中央气象台：较强冷空气将影响我国大部地区",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251104/48961198.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "亚投行宣布计划在香港设立办事处",
@@ -231,12 +237,6 @@
             {
                 "title": "伊朗革命卫队海军在波斯湾查获24万升走私燃料",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251101/48955646.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美国联邦调查局挫败一起潜在恐怖袭击",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251101/48955406.html?ayjr"
             }
         ]
     ]
