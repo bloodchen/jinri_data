@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "商务部再回应安世半导体问题",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251106/48969288.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20251106/b0b21187-71a0-4b9c-adea-1bd9b80312fc.png"
+        },
+        {
             "title": "外交部:斐济有关官员窜访台湾 中方已提出严正交涉",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251106/48969175.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251106/18ef364a-ae75-4097-a2b6-7802cf413579.png"
@@ -9,14 +14,14 @@
             "title": "中方敦促日方停止向“台独”势力发出错误信号",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251106/48969160.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20251106/1a12fcaa-19f4-493d-8002-290c61118789.png"
-        },
-        {
-            "title": "特朗普再次指责南非 并重申不会出席G20峰会",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251106/48968661.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251106/c67457ea-909b-4844-a348-b4009bbde08b.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "事关美国关税合法性 美最高法院激辩总统权力边界",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251106/48967159.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251106/b9c0e406-d0c7-40d8-898e-e5dfbe873ef9.jpg"
+        },
         {
             "title": "我国航天器首次观测到星际天体！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251106/48966994.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251106/9cb314a3-eff8-4200-9bf3-44e1d46caa82.jpg"
         },
         {
-            "title": "文印店处理机密文件埋泄密隐患 国安机关提醒",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251106/48966872.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251106/c2e60bf3-e845-4e8e-bcb2-40f2d0b8892f.jpg"
+            "title": "特朗普再次指责南非 并重申不会出席G20峰会",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251106/48968661.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251106/c67457ea-909b-4844-a348-b4009bbde08b.jpg"
         },
         {
             "title": "给年轻人走进胡同找个理由",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251106/48968200.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251106/087cb314-5e3a-404a-9c1b-c677bc614709.jpg"
-        },
-        {
-            "title": "结婚还有机会“领钱” 甜蜜福利如何真正甜到实处?",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251106/48967973.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251106/e37fb69d-4724-469e-b374-cc9cbd1f3d2d.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "秉持“两岸一家亲”，港台关注移民局跨境新政",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251104/48961260.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "境外间谍以兼职为名拉拢我青年学生",
@@ -231,12 +237,6 @@
             {
                 "title": "&quot;余额不足&quot; 美数百万人已无法领取食品援助福利金",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251102/48956020.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "可搭载&quot;波塞冬&quot;核动力无人潜航器 俄新核潜艇出坞",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251102/48956008.html?ayjr"
             }
         ]
     ]
