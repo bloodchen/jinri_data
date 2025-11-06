@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "瑞典议会通过议案 明年1月1日解禁铀矿开采",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251106/48966823.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251106/6447bd55-8c02-4444-8496-dfc81c6f3139.png"
+        },
+        {
             "title": "佩斯科夫：美方发射洲际弹道导弹前已告知俄方",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251106/48966573.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251106/f42eba71-4a3f-493a-92d5-ca7a8116e364.jpg"
@@ -9,14 +14,14 @@
             "title": "外交部回应美方涉华矛盾言论",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251105/48966032.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/563x0/news/20251105/b42b2057-0c65-426b-be04-20fdbb2f3610.png"
-        },
-        {
-            "title": "普京：装备&quot;海燕&quot;和&quot;波塞冬&quot;可保数十年战略平衡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251105/48965862.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251105/e925a6d7-f8cd-4ae7-b66e-f3948b2489a9.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美政府“停摆”时长破历史纪录 为啥两党还不急？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251105/48965325.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251105/2d0adf18-dad9-4018-bd0a-01eb3b9d83ef.jpg"
+        },
         {
             "title": "菜园里，“种”出新生活",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251105/48965300.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251105/e29b6686-d456-4a2b-b0ef-aa69f710ce80.jpg"
         },
         {
-            "title": "美肯塔基州坠毁飞机为货运飞机 事故致多人受伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251105/48964189.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251105/4e8f0d7e-0d93-4239-8a4f-f85f2e34f7c5.png"
+            "title": "普京：装备&quot;海燕&quot;和&quot;波塞冬&quot;可保数十年战略平衡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251105/48965862.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251105/e925a6d7-f8cd-4ae7-b66e-f3948b2489a9.jpg"
         },
         {
             "title": "涉及吴石、朱枫、陈宝仓、聂曦 一批重要档案解密",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251105/48964467.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251105/d9b49b5c-d621-4571-87c2-aa0b9508a7f1.jpg"
-        },
-        {
-            "title": "匈牙利总理重申不支持乌克兰加入欧盟",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251105/48965682.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251105/00e109af-27e3-4dc9-a3d5-540533b96137.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "土耳其与伊拉克签署水资源合作融资机制文件",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251103/48957637.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "俄称在红军城打击被围困的乌军 乌称击退俄军进攻",
@@ -231,12 +237,6 @@
             {
                 "title": "两天两艘，领航全球 中国船舶工业向“绿”而行",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251101/48954774.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美法官裁定政府不得在“停摆”期间暂停食品援助",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251101/48954754.html?ayjr"
             }
         ]
     ]
