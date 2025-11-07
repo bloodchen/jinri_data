@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "联合国专家将美国在加勒比地区袭击行为定性为谋杀",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251107/48970135.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251107/f37976da-1753-4be7-9f7b-b5e126d1b39a.jpg"
+        },
+        {
             "title": "秘鲁宣布墨西哥总统为“不受欢迎的人”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251107/48970103.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251107/9c08180c-dc6a-4123-9d68-c9639369c68a.jpg"
@@ -9,14 +14,14 @@
             "title": "英国国王签署诏书 正式剥夺安德鲁王子头衔",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251107/48970088.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251107/33c5aed0-94ab-4e16-aec9-89895a5ef57b.jpg"
-        },
-        {
-            "title": "普京公开重要情报：全国人民都该了解",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20251107/48969994.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/640x0/toutiao/20251107/7676566e-a865-4590-8b4d-1305de8f88ee.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "特朗普再次指责南非 并重申不会出席G20峰会",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251106/48968661.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251106/c67457ea-909b-4844-a348-b4009bbde08b.jpg"
+        },
         {
             "title": "给年轻人走进胡同找个理由",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251106/48968200.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251106/b707f0a7-01cf-4162-ab9a-6bd1f8d0543f.png"
         },
         {
-            "title": "台风“海鸥”已致菲律宾114人死亡 127人失踪",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251106/48966972.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251106/90febb7e-e0d1-4417-ac10-8a177b7f5bb0.jpg"
+            "title": "普京公开重要情报：全国人民都该了解",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20251107/48969994.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/640x0/toutiao/20251107/7676566e-a865-4590-8b4d-1305de8f88ee.jpg"
         },
         {
             "title": "商务部再回应安世半导体问题",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251106/48969288.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20251106/b0b21187-71a0-4b9c-adea-1bd9b80312fc.png"
-        },
-        {
-            "title": "外交部:斐济有关官员窜访台湾 中方已提出严正交涉",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251106/48969175.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251106/18ef364a-ae75-4097-a2b6-7802cf413579.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "财经观察：农民困境削弱莫迪对美贸易谈判筹码",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251104/48961373.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "“超级外交周”令韩国喜忧参半",
@@ -231,12 +237,6 @@
             {
                 "title": "俄罗斯对乌克兰总理及财长等多名官员实施制裁",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251102/48956097.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "还有3天追平最长纪录 美政府“停摆”仍在持续",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251102/48956087.html?ayjr"
             }
         ]
     ]
