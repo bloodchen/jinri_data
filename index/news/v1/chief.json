@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "国防部敦促菲方停止侵权挑衅和煽宣炒作",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251107/48972165.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251107/b58a92d1-4bcc-4b4a-87fd-2197bbdd80ed.jpg"
+        },
+        {
             "title": "玉渊谭天丨福建舰入列！一个视频读懂中国大布局",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251107/48972110.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251107/c8d72fcc-ebec-40c3-9b4d-961ddb49994d.jpg"
@@ -9,14 +14,14 @@
             "title": "美一军事基地在收到“可疑包裹”后有多人被送医",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251107/48971930.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/640x0/news/20251107/aeedb932-ed43-4707-9040-58e949b3cdc5.jpg"
-        },
-        {
-            "title": "福建舰入列！回顾国之重器的震撼时刻",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251107/48971607.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/459x0/news/20251107/cdd00b94-de63-4b94-802b-652f27db0527.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "当列车遇上深秋，画面绝美！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251107/48971079.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251107/4c1eb78a-e96b-4be1-9f23-8f6af3588399.jpg"
+        },
         {
             "title": "耿爽：那我也就不再含蓄了",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251107/48970914.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251107/f9434607-5999-4ffd-a871-d0108c87f0f5.jpg"
         },
         {
-            "title": "巴基斯坦和阿富汗边境再次发生交火",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251107/48970188.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20251107/9a0d76ff-adc4-43aa-9f33-35a26e992bf5.png"
+            "title": "福建舰入列！回顾国之重器的震撼时刻",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251107/48971607.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/459x0/news/20251107/cdd00b94-de63-4b94-802b-652f27db0527.jpg"
         },
         {
             "title": "福建舰，入列！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251107/48971584.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251107/2fedd1fe-db3f-427e-9611-dba4d2d51476.png"
-        },
-        {
-            "title": "马斯克万亿薪酬到手？背后是一场豪赌",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251107/48971551.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/622x0/news/20251107/e713a713-3ab5-4b95-826f-3bfab6478eb9.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "“吉林一号”拍摄高清台湾影像 国台办回应",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251105/48964949.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美肯塔基州坠机事故已致3人死亡 11人受伤",
@@ -231,12 +237,6 @@
             {
                 "title": "斩断田间窃密黑手！间谍在我国搜集农作物基因数据",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251103/48957772.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "印度发射该国迄今最重卫星",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251103/48957757.html?ayjr"
             }
         ]
     ]
