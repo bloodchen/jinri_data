@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "2025互联网蓝皮书发布：中国6G专利申请量全球第一",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251108/48973427.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251108/639f5027-561c-4afc-b1cb-277eca9a37d6.jpg"
+        },
+        {
             "title": "独家内部视角！福建舰上的“气泡”是什么？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251108/48973335.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251108/b0b99c90-0647-45b0-bccf-64d155ad03bd.png"
@@ -9,14 +14,14 @@
             "title": "台风“海鸥”已致菲律宾204人死亡 109人失踪",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251108/48973221.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251108/07508d84-9882-4f1a-84d0-78dff2ecb857.jpg"
-        },
-        {
-            "title": "波兰再次延长与白俄罗斯边境的庇护限制措施",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251108/48973067.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251108/5ece667f-0819-4caa-94ee-6935b2119254.png"
         }
     ],
     "midImg": [
+        {
+            "title": "创纪录政府“停摆”持续 美两党谈判陷入僵局",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251108/48972995.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251108/ab9fd62a-8153-4abe-92c0-9e2446ced1c6.jpg"
+        },
         {
             "title": "特朗普称希望继续在布达佩斯与普京会晤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251108/48972977.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251107/c8d72fcc-ebec-40c3-9b4d-961ddb49994d.jpg"
         },
         {
-            "title": "美一军事基地在收到“可疑包裹”后有多人被送医",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251107/48971930.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/640x0/news/20251107/aeedb932-ed43-4707-9040-58e949b3cdc5.jpg"
+            "title": "波兰再次延长与白俄罗斯边境的庇护限制措施",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251108/48973067.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251108/5ece667f-0819-4caa-94ee-6935b2119254.png"
         },
         {
             "title": "福建舰更多细节公布！一组动图带你全方位看清楚",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251108/48973049.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251108/9e354ab1-6871-47a2-b64e-1d535da36d05.jpg"
-        },
-        {
-            "title": "为什么飞行员的第一架飞机都是它？专家揭秘",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251108/48973027.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/491x0/news/20251108/c54dc67b-2ee3-48a9-b9e7-57a0d8f8ed6e.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美货机坠毁细节披露:飞机起飞时左翼起火 引擎脱落",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251106/48966850.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "俄核动力武器接连亮相 美再试射“民兵3”",
@@ -231,12 +237,6 @@
             {
                 "title": "机器人产量大增 前三季度我国实现“智”造升级",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251104/48961308.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "秋色宜人 带动文旅市场持续火热",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251104/48961289.html?ayjr"
             }
         ]
     ]
