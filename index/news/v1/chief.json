@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "土耳其总统支持巴基斯坦与阿富汗对话",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251109/48974422.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251109/da31dc9b-dc8f-4db7-8594-35a81a424d78.jpg"
+        },
+        {
             "title": "福建舰何时能形成实战能力？机何时满编上舰？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251108/48973938.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251108/463925b9-ec75-4672-b64b-bef9f04e1a9c.jpg"
@@ -9,14 +14,14 @@
             "title": "从大陆卫星拍到的台湾影像中，岛内看到了什么？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251108/48973680.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251108/45b2561f-ee5d-459f-8441-af3c0ce99dd6.png"
-        },
-        {
-            "title": "商务部回应安世半导体问题：同意荷方派员来华磋商",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251108/48973654.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20251108/35dc829b-78b7-482f-ae8c-09b44917b4f9.png"
         }
     ],
     "midImg": [
+        {
+            "title": "波兰再次延长与白俄罗斯边境的庇护限制措施",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251108/48973067.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251108/5ece667f-0819-4caa-94ee-6935b2119254.png"
+        },
         {
             "title": "福建舰更多细节公布！一组动图带你全方位看清楚",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251108/48973049.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251108/12baae17-1e4a-44a4-8ba7-6e86f482566e.jpg"
         },
         {
-            "title": "土耳其以“种族灭绝罪”向内塔尼亚胡发布拘捕令",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251108/48972966.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251108/0da09c47-67f2-4160-b66b-ce95de32958c.jpg"
+            "title": "商务部回应安世半导体问题：同意荷方派员来华磋商",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251108/48973654.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20251108/35dc829b-78b7-482f-ae8c-09b44917b4f9.png"
         },
         {
             "title": "2025互联网蓝皮书发布：中国6G专利申请量全球第一",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251108/48973427.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251108/639f5027-561c-4afc-b1cb-277eca9a37d6.jpg"
-        },
-        {
-            "title": "独家内部视角！福建舰上的“气泡”是什么？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251108/48973335.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251108/b0b99c90-0647-45b0-bccf-64d155ad03bd.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "事关美国关税合法性 美最高法院激辩总统权力边界",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251106/48967159.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "我国航天器首次观测到星际天体！",
@@ -231,12 +237,6 @@
             {
                 "title": "韩日企业在美出现“观望”迹象",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251104/48961409.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "联邦补贴退潮，美国“僵尸企业”数量激增",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251104/48961388.html?ayjr"
             }
         ]
     ]
