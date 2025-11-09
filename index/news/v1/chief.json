@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "我国最大页岩油生产基地累产超2000万吨",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251109/48974683.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251109/f3d30f37-f1b6-4c86-8cee-18167de47945.jpg"
+        },
+        {
             "title": "美国联邦航空局暂停所有麦道11型货机飞行",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251109/48974566.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251109/33f67c48-66c7-4612-be9d-98acf516f451.jpg"
@@ -9,14 +14,14 @@
             "title": "我国组合驾驶辅助技术水平已在国际领先",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251109/48974548.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251109/6b9b0913-481e-47fe-b4e1-bd8e7b65b0a6.jpg"
-        },
-        {
-            "title": "政府“停摆”39天 美国民众焦头烂额",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251109/48974502.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251109/5061fbf0-00a2-44aa-87b3-a311b3234564.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "土耳其总统支持巴基斯坦与阿富汗对话",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251109/48974422.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251109/da31dc9b-dc8f-4db7-8594-35a81a424d78.jpg"
+        },
         {
             "title": "福建舰何时能形成实战能力？机何时满编上舰？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251108/48973938.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251108/b0b99c90-0647-45b0-bccf-64d155ad03bd.png"
         },
         {
-            "title": "台风“海鸥”已致菲律宾204人死亡 109人失踪",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251108/48973221.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251108/07508d84-9882-4f1a-84d0-78dff2ecb857.jpg"
+            "title": "政府“停摆”39天 美国民众焦头烂额",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251109/48974502.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251109/5061fbf0-00a2-44aa-87b3-a311b3234564.jpg"
         },
         {
             "title": "退休人员为给孩子办留学签证主动给间谍送绝密",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251109/48974465.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251109/bb5dd477-45e5-45f5-aacd-4ba0d5f85f5a.jpg"
-        },
-        {
-            "title": "美国“元”公司被曝靠海量诈骗广告赚取巨额利润",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251109/48974447.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251109/49b30584-e342-48e2-9cfc-cc57dd8b850a.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "商务部再回应安世半导体问题",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251106/48969288.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "外交部:斐济有关官员窜访台湾 中方已提出严正交涉",
@@ -231,12 +237,6 @@
             {
                 "title": "大场面！机器狗无人机开路 实兵对抗演练画面公布",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251105/48964143.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "违规拍摄涉密文件多人被处分 国安机关最新提示",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251105/48964095.html?ayjr"
             }
         ]
     ]
