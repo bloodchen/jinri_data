@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "航母打击群抵达 美军最新部署→",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251112/48983773.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251112/2cc7bb66-82c9-4556-a940-220ecabd6a4f.jpg"
+        },
+        {
             "title": "福建舰入列引发岛内舆论高度关注，国台办回应",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251112/48983725.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20251112/70f00030-4843-427d-b427-84af2490969b.png"
@@ -9,14 +14,14 @@
             "title": "国台办回应日本首相鼓吹日本武力介入台海可能",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251112/48983610.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251112/0b70f536-e724-4ec3-ad6b-6ebeb1a78db8.jpg"
-        },
-        {
-            "title": "空运持续混乱 特朗普要求空管员“回来上班”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251112/48983254.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251112/c80254f4-098b-4ead-bd26-dc55b71d2d82.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "韩国法院对前国家情报院院长赵太庸签发逮捕令",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251112/48982688.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251112/1973fea9-63b3-41cb-a00f-b6eb584902b6.png"
+        },
         {
             "title": "警惕“过保”网络设备成境外间谍“帮凶”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251112/48982632.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251112/2046e7e2-f8f1-4dad-afe5-fdffe2a62a6f.jpg"
         },
         {
-            "title": "匈牙利总理：俄美元首会晤仍在日程中",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251112/48982270.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251112/68594fb7-d1cd-4cef-8081-ba3424659f95.png"
+            "title": "空运持续混乱 特朗普要求空管员“回来上班”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251112/48983254.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251112/c80254f4-098b-4ead-bd26-dc55b71d2d82.jpg"
         },
         {
             "title": "社保卡过期会影响领取失业保险金吗？怎么换卡？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251112/48983089.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251112/021d68ac-be7f-48ce-8e36-1ad6545a195a.jpg"
-        },
-        {
-            "title": "哥伦比亚总统下令暂停与美国安全机构交换情报信息",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251112/48982997.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251112/afe29a62-9479-4b52-9063-2d7203f24fb3.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "胡塞武装称打掉一隶属于美以沙三方的间谍网络",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251109/48974696.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "我国最大页岩油生产基地累产超2000万吨",
@@ -231,12 +237,6 @@
             {
                 "title": "马斯克万亿薪酬到手？背后是一场豪赌",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251107/48971551.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "最低4折！1300余趟动车组列车票价优惠力度加大",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251107/48971301.html?ayjr"
             }
         ]
     ]
