@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "中央网信办严打一批涉学术论文买卖违法违规账号",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251113/48986257.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/300x0/news/20251113/acc79b79-ac9e-4e3f-92e3-b5219c81c7aa.png"
+        },
+        {
             "title": "公安机关悬赏征集两名台湾网红违法犯罪线索",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251113/48986199.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251113/377ec864-4805-4ec7-8a72-b28ffd27e381.png"
@@ -9,14 +14,14 @@
             "title": "以军继续在约旦河西岸拆除巴勒斯坦人建筑",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251113/48985851.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251113/c025d729-71cd-4cf6-a27c-40ccad68be89.jpg"
-        },
-        {
-            "title": "法国财长：欧盟已就利用俄被冻结资产援乌达成共识",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251113/48985838.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251113/7a7e5109-0d71-4805-839b-225db6060b38.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "委内瑞拉军方称击落一架非法入境飞行器",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251113/48985785.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251113/692847ab-3591-483d-b858-40492450ce7f.png"
+        },
         {
             "title": "政府“停摆”持续 美国当天已取消890趟航班",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251113/48985772.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/640x0/news/20251112/b6798308-46d4-4274-a4bc-7688264bcf12.jpg"
         },
         {
-            "title": "文化之都里的生活诗篇",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251112/48984528.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251112/e4c705f1-e203-42de-8c78-68ac0df0802b.jpg"
+            "title": "法国财长：欧盟已就利用俄被冻结资产援乌达成共识",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251113/48985838.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251113/7a7e5109-0d71-4805-839b-225db6060b38.jpg"
         },
         {
             "title": "航母压境 盟友避嫌 美为打击委内瑞拉做准备",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251113/48985822.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251113/055643ed-1927-442d-835d-8a20bf01e8f2.jpg"
-        },
-        {
-            "title": "乌克兰曝战时腐败窝案 两名部长下台",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251113/48985808.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251113/88960de9-c60e-4f94-9b21-3a1facc46e66.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "独家揭秘开幕式四大“名场面”！",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251110/48976467.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "尹锡悦看守所内接收逾6.5亿韩元代管金惹争议",
@@ -231,12 +237,6 @@
             {
                 "title": "独家内部视角！福建舰上的“气泡”是什么？",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251108/48973335.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "台风“海鸥”已致菲律宾204人死亡 109人失踪",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251108/48973221.html?ayjr"
             }
         ]
     ]
