@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "扎哈罗娃警告北约：俄将全力回应任何攻击",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251115/48992085.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251115/d4b03462-3b1d-48dd-908b-e3e7314e1ab2.jpg"
+        },
+        {
             "title": "外交部三问日方近期军事安全动向",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251114/48991567.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251114/9b215292-4ecd-46d1-8d35-e6451e063223.jpg"
@@ -9,14 +14,14 @@
             "title": "国防部：日方若胆敢铤而走险必将碰得头破血流",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251114/48991364.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251114/26bb9ed6-a2b6-416f-9b7f-b20b08005cdf.png"
-        },
-        {
-            "title": "国台办：“台独”分子已日暮西山、穷途末路",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251114/48990812.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/300x0/news/20251114/439df3f3-a268-47c2-b430-4cc35e220d4b.png"
         }
     ],
     "midImg": [
+        {
+            "title": "委内瑞拉议会主席：美国&quot;缉毒&quot;真正目的是掠夺石油",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251114/48989310.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251114/5c7f9a42-2890-499d-b0c9-96c09305f89f.jpg"
+        },
         {
             "title": "美政府进入&quot;后停摆&quot;时期 经济民生&quot;坏账&quot;难修补",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251114/48989298.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251114/f3df3a91-b8b5-4db8-bf89-fcffacd5b88b.jpg"
         },
         {
-            "title": "国内首个千吨级超大型单体金矿床被探明",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251114/48989199.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251114/96620fe5-5bb9-4d44-9bfb-209d5cc11fe2.png"
+            "title": "国台办：“台独”分子已日暮西山、穷途末路",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251114/48990812.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20251114/439df3f3-a268-47c2-b430-4cc35e220d4b.png"
         },
         {
             "title": "在轨驻留203天 神二十乘组完成了哪些任务？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251114/48990404.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251114/5dd8785c-41f3-4b89-9a46-945e34eca77b.jpg"
-        },
-        {
-            "title": "海军四川舰开展首次航行试验",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251114/48989583.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251114/1a7aaae4-95b7-49e1-b88a-0cfe991a00b0.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "政府“停摆”持续 美国当天已取消890趟航班",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251113/48985772.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "马方确认马泰之间海域沉船事件死亡人数升至25人",
@@ -231,12 +237,6 @@
             {
                 "title": "停火已“满月” 加沙苦难如常 美以又有新动作",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251111/48979612.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "柬埔寨外交部否认在泰柬边境埋设新地雷",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251111/48979586.html?ayjr"
             }
         ]
     ]
