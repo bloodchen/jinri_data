@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "大科学装置“拉索”揭示宇宙线起源关键机制",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251116/48994328.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251116/cebf4786-60c0-4dc0-aa3c-e0fe8105ed41.png"
+        },
+        {
             "title": "日本前首相：高市早苗应坚持“无核三原则”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251116/48994245.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251116/b2220e35-c303-4998-8252-bb33a305ad12.jpg"
@@ -9,14 +14,14 @@
             "title": "教育部：建议中国公民谨慎规划赴日留学安排",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251116/48994140.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20251116/e73e1b2c-d854-4c36-ab5a-f2652b1ed3af.png"
-        },
-        {
-            "title": "中国海警舰艇编队11月16日在我钓鱼岛领海巡航",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251116/48993713.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20251116/c713f271-43e0-4ac7-8df0-743328e442d6.png"
         }
     ],
     "midImg": [
+        {
+            "title": "加拿大本拿比市就歧视华裔历史正式道歉",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251116/48993636.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251116/261a6ac6-55b8-4742-87b9-aae9657fdcb3.png"
+        },
         {
             "title": "黎巴嫩将就以色列越界“建墙”向联合国安理会申诉",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251116/48993627.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251115/0767b946-3b56-4021-974f-50fb116129a1.jpg"
         },
         {
-            "title": "浙江杭州湾跨海铁路大桥完成首段钢梁架设",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251115/48993045.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251115/07385c56-e4d3-417b-89ce-26bdaa8b7990.jpg"
+            "title": "中国海警舰艇编队11月16日在我钓鱼岛领海巡航",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251116/48993713.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20251116/c713f271-43e0-4ac7-8df0-743328e442d6.png"
         },
         {
             "title": "外骨骼机器人、智能拐杖 社区养老有多“潮”？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251116/48993680.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251116/d186541a-7361-49f1-8a72-fffe3bec6859.jpg"
-        },
-        {
-            "title": "月球科研重大突破！月壤中发现“铁锈”意味着什么",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251116/48993665.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251116/e125d8db-bfd3-4d59-98cd-0258858eef5c.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "俄军一苏-30战机训练飞行时坠毁 机组人员全部遇难",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251114/48989120.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "以色列定居者在约旦河西岸纵火焚烧清真寺",
@@ -231,12 +237,6 @@
             {
                 "title": "外交部：望澳方有关官员停止发表不负责任的言论",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251112/48984779.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "文化之都里的生活诗篇",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251112/48984528.html?ayjr"
             }
         ]
     ]
