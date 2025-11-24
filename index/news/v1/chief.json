@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美国“政府效率部”确认已提前解散",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251124/49016117.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251124/a468ec83-e9d4-4421-9b1d-52e4ff587c92.jpg"
+        },
+        {
             "title": "宁夏记录到丹顶鹤野外活动踪迹",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251124/49015722.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251124/aa75dbb9-0563-4676-9c84-f0a6b82f97c0.jpg"
@@ -9,14 +14,14 @@
             "title": "馕＋咖啡 解锁新疆冬季文旅新体验",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251124/49015614.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251124/c5588cf5-98a2-42a1-aab3-86808a4df699.jpg"
-        },
-        {
-            "title": "上周末 我国多领域迎来新突破！",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251124/49015593.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251124/d2ebd7ee-62b3-4a2f-8c2a-f383281364d8.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "加沙地带媒体办公室：停火以来以军违反协议497次",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251123/49014363.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251123/32909901-0ce9-4d07-b144-b260dfa10c1b.jpg"
+        },
         {
             "title": "美海军另起炉灶大力发展无人舰队 我们如何应对？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251123/49014260.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251123/698f5748-c2b5-4c95-bbde-9d625319adc9.png"
         },
         {
-            "title": "冬日平天湖上演水墨幻境 晨雾泛舟如行画中",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251123/49013810.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251123/263f7ef4-26ce-49d5-8253-50868bfa6ce2.jpg"
+            "title": "上周末 我国多领域迎来新突破！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251124/49015593.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251124/d2ebd7ee-62b3-4a2f-8c2a-f383281364d8.jpg"
         },
         {
             "title": "美乌罕见共同定调：日内瓦会谈“富有成效”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251124/49015512.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251124/f470e611-8e88-4fab-90c0-87f12b1c4d0c.jpg"
-        },
-        {
-            "title": "特朗普：俄乌＂28点计划＂并非最终方案",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20251124/49014926.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/toutiao/20251123/c38a993e-f308-429d-9b8f-25fcda8d424d.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "19面奖牌！香港运动员全运会成绩单出炉",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251121/49010016.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "全国医保影像云跨省调阅启动 患者告别“胶片袋”",
@@ -231,12 +237,6 @@
             {
                 "title": "美俄被曝闭门会谈敲定俄乌和平方案",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251120/49005532.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "伊朗外长：伊朗绝不接受“零浓缩铀”",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251120/49005507.html?ayjr"
             }
         ]
     ]
