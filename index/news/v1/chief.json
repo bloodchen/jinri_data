@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "中国智造“上新” 投资规模稳居全球第三",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251125/49018967.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251125/4c2d9554-7f10-48e1-bd07-2cbe5af1929c.jpg"
+        },
+        {
             "title": "特朗普签署行政令 启动人工智能“创世纪计划”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251125/49018585.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251125/e2e440fa-9d4c-4178-83a5-eb5c0bf06cde.jpg"
@@ -9,14 +14,14 @@
             "title": "我国启动聚变领域国际科学计划",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251124/49017279.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251124/26e2ad77-b18c-4475-999d-8b5cdc8d1486.jpg"
-        },
-        {
-            "title": "上任满月频挑衅 高市早苗暴露日本“危险转向”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251124/49017254.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251124/f6c0bd5d-9747-49ba-bc49-de63dcbda0f9.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "馕＋咖啡 解锁新疆冬季文旅新体验",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251124/49015614.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251124/c5588cf5-98a2-42a1-aab3-86808a4df699.jpg"
+        },
         {
             "title": "上周末 我国多领域迎来新突破！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251124/49015593.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251123/32909901-0ce9-4d07-b144-b260dfa10c1b.jpg"
         },
         {
-            "title": "美海军另起炉灶大力发展无人舰队 我们如何应对？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251123/49014260.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251123/6a8701cd-4efd-4bbf-b3fc-ff77c035fa63.jpg"
+            "title": "上任满月频挑衅 高市早苗暴露日本“危险转向”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251124/49017254.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251124/f6c0bd5d-9747-49ba-bc49-de63dcbda0f9.jpg"
         },
         {
             "title": "哥伦比亚总统称不支持入侵委内瑞拉",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251124/49016144.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/600x0/news/20251124/f16d43a3-9f4f-4ff4-bb07-fad63be1eddb.jpg"
-        },
-        {
-            "title": "美国“政府效率部”确认已提前解散",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251124/49016117.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251124/a468ec83-e9d4-4421-9b1d-52e4ff587c92.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "特朗普：27日是乌接受美和平计划最后期限",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251122/49011947.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "日本首次出口杀伤性武器，中方表态！",
@@ -231,12 +237,6 @@
             {
                 "title": "2025，他们在中国感受2052",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251120/49005756.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "点点微光汇星河",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251120/49005719.html?ayjr"
             }
         ]
     ]
