@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "世界遗产西夏陵向全国游客免首道门票",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251125/49019085.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251125/76db8bec-a5ad-4c30-98b0-e1bf53cebc98.jpg"
+        },
+        {
             "title": "中国智造“上新” 投资规模稳居全球第三",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251125/49018967.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251125/4c2d9554-7f10-48e1-bd07-2cbe5af1929c.jpg"
@@ -9,14 +14,14 @@
             "title": "特朗普签署行政令 启动人工智能“创世纪计划”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251125/49018585.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251125/e2e440fa-9d4c-4178-83a5-eb5c0bf06cde.jpg"
-        },
-        {
-            "title": "我国启动聚变领域国际科学计划",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251124/49017279.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251124/26e2ad77-b18c-4475-999d-8b5cdc8d1486.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "宁夏记录到丹顶鹤野外活动踪迹",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251124/49015722.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251124/aa75dbb9-0563-4676-9c84-f0a6b82f97c0.jpg"
+        },
         {
             "title": "馕＋咖啡 解锁新疆冬季文旅新体验",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251124/49015614.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20251123/2ce0a4f5-12e5-4a1f-9504-c7d1c921dfae.png"
         },
         {
-            "title": "加沙地带媒体办公室：停火以来以军违反协议497次",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251123/49014363.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251123/32909901-0ce9-4d07-b144-b260dfa10c1b.jpg"
+            "title": "我国启动聚变领域国际科学计划",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251124/49017279.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251124/26e2ad77-b18c-4475-999d-8b5cdc8d1486.jpg"
         },
         {
             "title": "上任满月频挑衅 高市早苗暴露日本“危险转向”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251124/49017254.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251124/f6c0bd5d-9747-49ba-bc49-de63dcbda0f9.jpg"
-        },
-        {
-            "title": "哥伦比亚总统称不支持入侵委内瑞拉",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251124/49016144.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/600x0/news/20251124/f16d43a3-9f4f-4ff4-bb07-fad63be1eddb.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "普京：已收到美提出解决俄乌冲突的计划 俄愿谈判",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251122/49011995.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "特朗普：27日是乌接受美和平计划最后期限",
@@ -231,12 +237,6 @@
             {
                 "title": "委内瑞拉一原油及化工处理厂发生爆炸 引发火灾",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251120/49005875.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "2025，他们在中国感受2052",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251120/49005756.html?ayjr"
             }
         ]
     ]
