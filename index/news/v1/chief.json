@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "香港大埔火灾已致55人遇难",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251127/49028017.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251127/8efaa159-98e8-4e8c-8a00-628fef842e0b.jpg"
+        },
+        {
             "title": "2025亚洲通用航空展今天开幕",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251127/49027791.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251127/9a6b2a55-faed-40c0-a596-26e74b9d8882.jpg"
@@ -9,14 +14,14 @@
             "title": "国内首个“零碳电力银行”如何工作？记者探访",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251127/49027743.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251127/402c29a4-a2ba-4a21-9f85-b55fe0f5f81e.jpg"
-        },
-        {
-            "title": "联合国机构警告刚果（金）南基伍省局势迅速恶化",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49027653.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251127/7fc81ef7-cc18-43ec-bdbe-8264ec956437.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "网传“3C认证全面失效” 刚买的充电宝还能用吗？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251127/49026284.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251127/6ac8e030-e70b-4b65-9039-5bb4c6a9e9fb.jpg"
+        },
         {
             "title": "拉美贫困率创历史新低 贫富差距问题仍严峻",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49026176.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251127/1c727b97-7fea-4f55-8d26-3a1e2761de1c.jpg"
         },
         {
-            "title": "两名美国军人在白宫附近遭枪击 白宫进入封锁状态",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49026060.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251127/6cbd094d-838e-4523-a4a1-3c2f4ea5d9c2.jpg"
+            "title": "联合国机构警告刚果（金）南基伍省局势迅速恶化",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49027653.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251127/7fc81ef7-cc18-43ec-bdbe-8264ec956437.jpg"
         },
         {
             "title": "商务部：将推进汽车流通消费改革试点",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251127/49027604.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20251127/489eefd2-c4db-4e82-896c-ab94fab5a9a2.png"
-        },
-        {
-            "title": "苏丹政府就启动全面政治进程提出5项要求",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49026919.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251127/cca8c2a1-5485-437f-80a2-dfc0ecad041d.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "扩张军力动作不断 日本有何企图？专家解读",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251125/49019307.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "澳大利亚媒体：在制造业领域 美国无法超越中国",
@@ -231,12 +237,6 @@
             {
                 "title": "破解照护失能难题 长护险&quot;小保费&quot;撬动&quot;大保障&quot;",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251123/49013518.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "胡塞武装控制区一法院以“间谍罪”判处18人死刑",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251123/49013499.html?ayjr"
             }
         ]
     ]
