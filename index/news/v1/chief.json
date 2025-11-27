@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "商务部：将推进汽车流通消费改革试点",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251127/49027604.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20251127/489eefd2-c4db-4e82-896c-ab94fab5a9a2.png"
+        },
+        {
             "title": "苏丹政府就启动全面政治进程提出5项要求",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49026919.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251127/cca8c2a1-5485-437f-80a2-dfc0ecad041d.jpg"
@@ -9,14 +14,14 @@
             "title": "俄副外长：俄方不会放弃立场或作出任何让步",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49026314.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251127/118706e5-64c9-4015-99d4-f0148f09ce9e.jpg"
-        },
-        {
-            "title": "网传“3C认证全面失效” 刚买的充电宝还能用吗？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251127/49026284.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251127/6ac8e030-e70b-4b65-9039-5bb4c6a9e9fb.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "大埔火灾已致40人遇难 警方以涉嫌误杀罪拘捕3人",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251127/49026111.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251127/39a58864-fae8-46da-82df-4337c19f253f.png"
+        },
         {
             "title": "白宫附近发生枪击 特朗普要求向华盛顿增派士兵",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49026095.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251126/54c02591-c669-4691-a5ae-70a38b8d5a2f.jpg"
         },
         {
-            "title": "美对韩产汽车及汽车零部件关税自本月1日起降至15%",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251126/49024745.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251126/f8818ac3-f8e7-4d9c-9bd5-63035d228bbd.jpg"
+            "title": "网传“3C认证全面失效” 刚买的充电宝还能用吗？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251127/49026284.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251127/6ac8e030-e70b-4b65-9039-5bb4c6a9e9fb.jpg"
         },
         {
             "title": "拉美贫困率创历史新低 贫富差距问题仍严峻",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49026176.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251127/b02dc41f-7ea0-4364-8317-55d6d122fe26.jpg"
-        },
-        {
-            "title": "“毒苗”当拔！ 警惕高市复刻危险历史剧本",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49026150.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/600x0/news/20251127/ea5f87f5-e49c-446f-ae27-37a03cf1b378.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "中国外长对高市早苗言论的表态 传递了什么信息？",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251125/49019154.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "世界遗产西夏陵向全国游客免首道门票",
@@ -231,12 +237,6 @@
             {
                 "title": "多家航空公司取消往返委内瑞拉航班",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251123/49013444.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "特朗普昔日盟友辞职 怒批两党政治闹剧&quot;令人作呕&quot;",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251122/49012969.html?ayjr"
             }
         ]
     ]
