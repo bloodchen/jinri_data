@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "拉美贫困率创历史新低 贫富差距问题仍严峻",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49026176.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251127/b02dc41f-7ea0-4364-8317-55d6d122fe26.jpg"
+        },
+        {
             "title": "“毒苗”当拔！ 警惕高市复刻危险历史剧本",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49026150.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/600x0/news/20251127/ea5f87f5-e49c-446f-ae27-37a03cf1b378.jpg"
@@ -9,14 +14,14 @@
             "title": "44人遇难 3人被捕 香港大埔火灾最新情况一文速览",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251127/49026128.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251127/877d33f8-cfdc-45c5-b7b7-12d1fe1d9433.jpg"
-        },
-        {
-            "title": "大埔火灾已致40人遇难 警方以涉嫌误杀罪拘捕3人",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251127/49026111.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251127/39a58864-fae8-46da-82df-4337c19f253f.png"
         }
     ],
     "midImg": [
+        {
+            "title": "石峁遗址人群来源是哪？古DNA研究破解谜题",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251127/49025968.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251127/955d63d4-4f69-448b-87fa-2e620bde3aab.png"
+        },
         {
             "title": "距离月球盖房更近一步！揭秘“月壤砖”如何制成",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251126/49024762.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251126/7b413d1b-817c-45cb-8e61-8264dd0808ee.jpg"
         },
         {
-            "title": "韩国检方要求判处前国务总理韩德洙15年监禁",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251126/49024450.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251126/5bbf163f-1b29-488e-84d7-0fd5901b4caa.jpg"
+            "title": "大埔火灾已致40人遇难 警方以涉嫌误杀罪拘捕3人",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251127/49026111.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251127/39a58864-fae8-46da-82df-4337c19f253f.png"
         },
         {
             "title": "白宫附近发生枪击 特朗普要求向华盛顿增派士兵",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49026095.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251127/1c727b97-7fea-4f55-8d26-3a1e2761de1c.jpg"
-        },
-        {
-            "title": "两名美国军人在白宫附近遭枪击 白宫进入封锁状态",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49026060.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251127/6cbd094d-838e-4523-a4a1-3c2f4ea5d9c2.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "我国启动聚变领域国际科学计划",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251124/49017279.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "上任满月频挑衅 高市早苗暴露日本“危险转向”",
@@ -231,12 +237,6 @@
             {
                 "title": "苏丹快速支援部队称“全面认真”回应促和努力",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251122/49012403.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "储蓄国债纳入个人养老金产品范围对个人有哪些影响",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251122/49012392.html?ayjr"
             }
         ]
     ]
