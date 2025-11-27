@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "苏丹政府就启动全面政治进程提出5项要求",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49026919.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251127/cca8c2a1-5485-437f-80a2-dfc0ecad041d.jpg"
+        },
+        {
             "title": "俄副外长：俄方不会放弃立场或作出任何让步",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49026314.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251127/118706e5-64c9-4015-99d4-f0148f09ce9e.jpg"
@@ -9,14 +14,14 @@
             "title": "网传“3C认证全面失效” 刚买的充电宝还能用吗？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251127/49026284.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251127/6ac8e030-e70b-4b65-9039-5bb4c6a9e9fb.jpg"
-        },
-        {
-            "title": "拉美贫困率创历史新低 贫富差距问题仍严峻",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49026176.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251127/b02dc41f-7ea0-4364-8317-55d6d122fe26.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "白宫附近发生枪击 特朗普要求向华盛顿增派士兵",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49026095.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251127/1c727b97-7fea-4f55-8d26-3a1e2761de1c.jpg"
+        },
         {
             "title": "两名美国军人在白宫附近遭枪击 白宫进入封锁状态",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49026060.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251126/f8818ac3-f8e7-4d9c-9bd5-63035d228bbd.jpg"
         },
         {
-            "title": "从“斤价”到“金价”的逆袭",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251126/49024618.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251126/ebd56c88-bd7d-4378-aa27-a17fead7bf47.jpg"
+            "title": "拉美贫困率创历史新低 贫富差距问题仍严峻",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49026176.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251127/b02dc41f-7ea0-4364-8317-55d6d122fe26.jpg"
         },
         {
             "title": "“毒苗”当拔！ 警惕高市复刻危险历史剧本",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49026150.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/600x0/news/20251127/ea5f87f5-e49c-446f-ae27-37a03cf1b378.jpg"
-        },
-        {
-            "title": "44人遇难 3人被捕 香港大埔火灾最新情况一文速览",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251127/49026128.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251127/877d33f8-cfdc-45c5-b7b7-12d1fe1d9433.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "世界遗产西夏陵向全国游客免首道门票",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251125/49019085.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "中国智造“上新” 投资规模稳居全球第三",
@@ -231,12 +237,6 @@
             {
                 "title": "特朗普昔日盟友辞职 怒批两党政治闹剧&quot;令人作呕&quot;",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251122/49012969.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "军情时间到丨实现祖国统一 解放军时刻准备着！",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251122/49012952.html?ayjr"
             }
         ]
     ]
