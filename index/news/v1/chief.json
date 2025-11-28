@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "秘鲁前总统卡斯蒂略因共谋叛乱罪获刑超11年",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251128/49029769.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251128/ad20687c-7220-4a3c-a31b-9713d4ca7f14.jpg"
+        },
+        {
             "title": "普京：与乌克兰现领导层谈判无实际意义",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251128/49029517.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251128/6c2b3d88-9360-4222-8496-c67cfc2f85d6.jpg"
@@ -9,14 +14,14 @@
             "title": "以军再袭约旦河西岸 巴方谴责以“吞并”企图",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251128/49029496.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251128/fb08eb72-9ab6-4923-8868-aa63c17beea4.jpg"
-        },
-        {
-            "title": "深入“核电心脏” 反应堆旁实测辐射量有多少",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251128/49029325.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20251128/559bf6e1-9a9d-49f5-8f83-ec6cf31d7ffa.png"
         }
     ],
     "midImg": [
+        {
+            "title": "香港大埔火灾已致55人遇难",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251127/49028017.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251127/8efaa159-98e8-4e8c-8a00-628fef842e0b.jpg"
+        },
         {
             "title": "2025亚洲通用航空展今天开幕",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251127/49027791.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251127/cca8c2a1-5485-437f-80a2-dfc0ecad041d.jpg"
         },
         {
-            "title": "俄副外长：俄方不会放弃立场或作出任何让步",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49026314.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251127/118706e5-64c9-4015-99d4-f0148f09ce9e.jpg"
+            "title": "深入“核电心脏” 反应堆旁实测辐射量有多少",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251128/49029325.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20251128/559bf6e1-9a9d-49f5-8f83-ec6cf31d7ffa.png"
         },
         {
             "title": "湖南一对情侣婚前一天去世 女方父母疑临时加5万彩礼",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20251128/49028997.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/519x0/toutiao/20251127/503a3191-ee69-4612-847a-ec1827d22693.jpg"
-        },
-        {
-            "title": "国家卫健委：12个综合试验区探索“三医”协同治理",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251127/49028315.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20251127/1fe5c2e1-d8c1-4c82-a8bd-d961b069eeb6.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "28变19 美乌和平计划更新 乌原则同意俄称没收到",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251126/49022574.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "苏丹军方称击退快速支援部队对一铁路枢纽的进攻",
@@ -231,12 +237,6 @@
             {
                 "title": "驻留刚果（金）东部地区中国公民应立即撤离",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251123/49014213.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "河北草原天路迎降雪 游客滑雪打卡乐享其中",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251123/49014153.html?ayjr"
             }
         ]
     ]
