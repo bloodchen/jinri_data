@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "精度高、弹种全、覆盖广 远程箱式火箭炮指哪打哪",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251128/49030376.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251128/fdb4445d-abf0-4f57-8e27-aa180bb5e413.jpg"
+        },
+        {
             "title": "首批、首次、首个！本周我国多领域交出硬核成绩单",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251128/49030255.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251128/5a8470a6-46f5-4adc-999a-ce5ecfb36c76.jpg"
@@ -9,14 +14,14 @@
             "title": "秘鲁前总统卡斯蒂略因共谋叛乱罪获刑超11年",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251128/49029769.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251128/ad20687c-7220-4a3c-a31b-9713d4ca7f14.jpg"
-        },
-        {
-            "title": "普京：与乌克兰现领导层谈判无实际意义",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251128/49029517.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251128/6c2b3d88-9360-4222-8496-c67cfc2f85d6.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "国家卫健委：12个综合试验区探索“三医”协同治理",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251127/49028315.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/300x0/news/20251127/1fe5c2e1-d8c1-4c82-a8bd-d961b069eeb6.png"
+        },
         {
             "title": "国防部：日方给自己招事惹事必将付出惨痛代价",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251127/49028162.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251127/7fc81ef7-cc18-43ec-bdbe-8264ec956437.jpg"
         },
         {
-            "title": "商务部：将推进汽车流通消费改革试点",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251127/49027604.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/300x0/news/20251127/489eefd2-c4db-4e82-896c-ab94fab5a9a2.png"
+            "title": "普京：与乌克兰现领导层谈判无实际意义",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251128/49029517.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251128/6c2b3d88-9360-4222-8496-c67cfc2f85d6.jpg"
         },
         {
             "title": "以军再袭约旦河西岸 巴方谴责以“吞并”企图",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251128/49029496.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251128/fb08eb72-9ab6-4923-8868-aa63c17beea4.jpg"
-        },
-        {
-            "title": "深入“核电心脏” 反应堆旁实测辐射量有多少",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251128/49029325.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20251128/559bf6e1-9a9d-49f5-8f83-ec6cf31d7ffa.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "马杜罗：委内瑞拉处于&quot;关乎国家存亡的决定性时刻&quot;",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251126/49022703.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "小心！你收藏的邮票可能是文化渗透的“软刀子”",
@@ -231,12 +237,6 @@
             {
                 "title": "加沙地带媒体办公室：停火以来以军违反协议497次",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251123/49014363.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美海军另起炉灶大力发展无人舰队 我们如何应对？",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251123/49014260.html?ayjr"
             }
         ]
     ]
