@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "离台湾仅110公里！日本部署中导意欲何为？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251129/49032722.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251129/058e71f2-eb1e-4816-abae-16c20a0e8714.jpg"
+        },
+        {
             "title": "德总统访问西班牙 为遭纳粹德国轰炸的遇难者哀悼",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251129/49032621.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251129/3c4b12ca-aae6-4489-994e-caa702d45aad.jpg"
@@ -9,14 +14,14 @@
             "title": "航行警告！南海部分海域实弹射击 禁止驶入",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251129/49032388.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251129/4cd42e27-a59c-4d19-905c-c79d5e2b0c03.jpg"
-        },
-        {
-            "title": "香港特区政府为大埔火灾遇难者举行悼念活动",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251129/49032078.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/360x0/news/20251129/81e9f519-5945-46cb-b512-ac6e12f8d9bd.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "黎真主党称将就高级指挥官遇袭报复以色列",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251129/49031949.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251129/355fe555-a523-4e0f-b9bc-19eceaa0b4cc.png"
+        },
         {
             "title": "德国科隆疏散居民 拆除2枚二战遗留炸弹",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251129/49031939.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251128/df6c399b-6b08-4739-9ae5-5dcc4e6256e3.jpg"
         },
         {
-            "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251128/49031035.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/600x0/news/20251128/7b472365-a04c-46af-ba6e-6c3b375a1614.jpg"
+            "title": "香港特区政府为大埔火灾遇难者举行悼念活动",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251129/49032078.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/360x0/news/20251129/81e9f519-5945-46cb-b512-ac6e12f8d9bd.jpg"
         },
         {
             "title": "国民警卫队员白宫附近遇袭身亡 特朗普:将严控移民",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251129/49032033.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251129/012bfeae-167b-4058-9c58-2751e8b9fccd.jpg"
-        },
-        {
-            "title": "填补全球空白！我国清洁发电技术领域实现重要突破",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251129/49032020.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251129/df7d3641-9533-4011-a4fa-e9f5f37d960e.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "“毒苗”当拔！ 警惕高市复刻危险历史剧本",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49026150.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "44人遇难 3人被捕 香港大埔火灾最新情况一文速览",
@@ -231,12 +237,6 @@
             {
                 "title": "泽连斯基拟于27日与特朗普会面 以达成和平协议",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251126/49022464.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "8岁智残女童随奶奶上坟走失5日 遗体在化粪池找到",
-                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20251126/49022220.html?ayjr"
             }
         ]
     ]
