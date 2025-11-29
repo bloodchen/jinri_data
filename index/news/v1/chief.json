@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "中国海警位中国黄岩岛领海及周边区域执法巡查",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251129/49032791.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251129/01fd856c-0949-481c-8f82-29f2524ed0c8.jpg"
+        },
+        {
             "title": "离台湾仅110公里！日本部署中导意欲何为？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251129/49032722.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251129/058e71f2-eb1e-4816-abae-16c20a0e8714.jpg"
@@ -9,14 +14,14 @@
             "title": "德总统访问西班牙 为遭纳粹德国轰炸的遇难者哀悼",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251129/49032621.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251129/3c4b12ca-aae6-4489-994e-caa702d45aad.jpg"
-        },
-        {
-            "title": "航行警告！南海部分海域实弹射击 禁止驶入",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251129/49032388.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251129/4cd42e27-a59c-4d19-905c-c79d5e2b0c03.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "从轰-6K到轰-6N “战神”所至战略威慑全域延伸",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251129/49031966.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251129/3598798b-6ac1-459f-9eae-75927945d0cf.jpg"
+        },
         {
             "title": "黎真主党称将就高级指挥官遇袭报复以色列",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251129/49031949.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/600x0/news/20251128/f38feace-4651-47af-b237-315dd733ca27.jpg"
         },
         {
-            "title": "世界首台660兆瓦超超临界循环流化床锅炉通过鉴定",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251128/49031058.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251128/df6c399b-6b08-4739-9ae5-5dcc4e6256e3.jpg"
+            "title": "航行警告！南海部分海域实弹射击 禁止驶入",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251129/49032388.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251129/4cd42e27-a59c-4d19-905c-c79d5e2b0c03.jpg"
         },
         {
             "title": "香港特区政府为大埔火灾遇难者举行悼念活动",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251129/49032078.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/360x0/news/20251129/81e9f519-5945-46cb-b512-ac6e12f8d9bd.jpg"
-        },
-        {
-            "title": "国民警卫队员白宫附近遇袭身亡 特朗普:将严控移民",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251129/49032033.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251129/012bfeae-167b-4058-9c58-2751e8b9fccd.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "拉美贫困率创历史新低 贫富差距问题仍严峻",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49026176.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "“毒苗”当拔！ 警惕高市复刻危险历史剧本",
@@ -231,12 +237,6 @@
             {
                 "title": "巴西最高法院审结博索纳罗政变案 将执行判决",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251126/49022481.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "泽连斯基拟于27日与特朗普会面 以达成和平协议",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251126/49022464.html?ayjr"
             }
         ]
     ]
