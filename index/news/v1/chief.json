@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "反腐部门介入！泽连斯基“最重要亲信”辞职",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251129/49032832.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251129/b1d7f288-9a9d-48c4-b6b7-e8f88ef9c14d.jpg"
+        },
+        {
             "title": "南部战区位中国黄岩岛领海及周边区域组织战备警巡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251129/49032804.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251129/45cd161e-2e2a-4f35-925d-ae6ce7575cb9.jpg"
@@ -9,14 +14,14 @@
             "title": "中国海警位中国黄岩岛领海及周边区域执法巡查",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251129/49032791.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251129/01fd856c-0949-481c-8f82-29f2524ed0c8.jpg"
-        },
-        {
-            "title": "离台湾仅110公里！日本部署中导意欲何为？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251129/49032722.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251129/058e71f2-eb1e-4816-abae-16c20a0e8714.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "国民警卫队员白宫附近遇袭身亡 特朗普:将严控移民",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251129/49032033.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251129/012bfeae-167b-4058-9c58-2751e8b9fccd.jpg"
+        },
         {
             "title": "填补全球空白！我国清洁发电技术领域实现重要突破",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251129/49032020.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/638x0/news/20251128/3d994207-a7ab-4e4f-94ab-f0d4474a634e.png"
         },
         {
-            "title": "外交部：所谓“旧金山和约”非法无效",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251128/49031467.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/565x0/news/20251128/880e2d94-6021-4720-b2fd-dd0c51d49ded.png"
+            "title": "离台湾仅110公里！日本部署中导意欲何为？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251129/49032722.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251129/058e71f2-eb1e-4816-abae-16c20a0e8714.jpg"
         },
         {
             "title": "德总统访问西班牙 为遭纳粹德国轰炸的遇难者哀悼",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251129/49032621.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251129/3c4b12ca-aae6-4489-994e-caa702d45aad.jpg"
-        },
-        {
-            "title": "航行警告！南海部分海域实弹射击 禁止驶入",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251129/49032388.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251129/4cd42e27-a59c-4d19-905c-c79d5e2b0c03.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "俄副外长：俄方不会放弃立场或作出任何让步",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251127/49026314.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "网传“3C认证全面失效” 刚买的充电宝还能用吗？",
@@ -231,12 +237,6 @@
             {
                 "title": "苏丹军方称击退快速支援部队对一铁路枢纽的进攻",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251126/49022540.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "特朗普：俄乌和平协议已“非常接近达成”",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251126/49022517.html?ayjr"
             }
         ]
     ]
