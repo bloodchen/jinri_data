@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "警告！南海部分水域有火箭残骸掉落 请远离",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251130/49033922.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20251130/f8578433-d52d-452f-bd03-fd03efc4f8f2.png"
+        },
+        {
             "title": "土耳其对黑海油轮袭击事件表示关切",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251130/49033750.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/625x0/news/20251130/250c1c0d-d46b-45a2-bd4f-cc04c84968d4.png"
@@ -9,14 +14,14 @@
             "title": "神舟二十一号乘组开展首次全系统压力应急演练",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251130/49033677.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251130/20f41eda-441c-4fb2-9170-281f9cfffaf5.jpg"
-        },
-        {
-            "title": "美战机在委海岸附近盘旋 委防长称&quot;战争即将来临&quot;",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251130/49033592.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251130/0c38f726-c051-4427-88ec-400ad840bbdf.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "美国发表关闭委领空言论 古巴外长强烈谴责",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251130/49033296.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251130/547216c9-ec5b-4bf6-aa92-39003a4e899e.jpg"
+        },
         {
             "title": "锻造“中国芯”！我国能源自主之路再添硬核底气",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251130/49033277.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251129/01fd856c-0949-481c-8f82-29f2524ed0c8.jpg"
         },
         {
-            "title": "离台湾仅110公里！日本部署中导意欲何为？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251129/49032722.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251129/058e71f2-eb1e-4816-abae-16c20a0e8714.jpg"
+            "title": "美战机在委海岸附近盘旋 委防长称&quot;战争即将来临&quot;",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251130/49033592.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251130/0c38f726-c051-4427-88ec-400ad840bbdf.jpg"
         },
         {
             "title": "12月起，这些新规将影响你我生活！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251130/49033568.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251130/423122d0-c63c-4501-bc69-972d8d7d7de7.png"
-        },
-        {
-            "title": "电动自行车新国标将全面落地 买车该注意什么？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251130/49033342.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251130/2f52c6d5-a232-415c-9b2d-20a454b7e100.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "湖南一对情侣婚前一天去世 女方父母疑临时加5万彩礼",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20251128/49028997.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "国家卫健委：12个综合试验区探索“三医”协同治理",
@@ -231,12 +237,6 @@
             {
                 "title": "国务院台办：&quot;台独&quot;分裂是台海和平稳定的最大威胁",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251126/49023744.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "发生“重大事故”后 日本暂时停飞一款大型无人机",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251126/49023722.html?ayjr"
             }
         ]
     ]
