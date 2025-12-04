@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美“长臂制裁” 塞尔维亚石油公司被迫买单",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251204/49045477.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251204/5731e1d8-da9f-4aa9-9b9d-5c441fc4c60b.jpg"
+        },
+        {
             "title": "美政府加强对H-1B签证申请人的审查",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251204/49045119.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251204/339d0a7d-290a-43c5-91da-904a53a42753.jpg"
@@ -9,14 +14,14 @@
             "title": "美与俄乌分头谈“和平计划” 却缺席北约外长会",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251204/49045095.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251204/cd23bf0f-db0e-4f02-9afe-7f0b929fb090.jpg"
-        },
-        {
-            "title": "特朗普：将很快对拉丁美洲贩毒行动展开&quot;地面打击&quot;",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251204/49045076.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251204/7449f9cd-4b3f-49ae-b94b-fd128c36eac9.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "哥伦比亚遭美军“法外处决”渔民家属发起申诉",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251204/49044991.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251204/8ae3219d-1aa2-4e9e-b092-9394b533b0c8.jpg"
+        },
         {
             "title": "多地宣布免费、半价 别错过这些错峰旅游福利",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251204/49044905.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/600x0/news/20251203/d22c745e-6571-4fe5-91a7-21897ca973da.jpg"
         },
         {
-            "title": "“这说明日本政府正在做一些不愿让民众知晓的事”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251203/49043741.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251203/1b908850-459c-4b27-bee0-3c217e9103a1.jpg"
+            "title": "特朗普：将很快对拉丁美洲贩毒行动展开&quot;地面打击&quot;",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251204/49045076.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251204/7449f9cd-4b3f-49ae-b94b-fd128c36eac9.jpg"
         },
         {
             "title": "美国防部内部调查“泄密门”：防长未泄密 不担责",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251204/49045050.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251204/70bda75a-0e57-44a6-b819-d6b15f4173ab.png"
-        },
-        {
-            "title": "三周误释12名囚犯 英司法大臣：人为失误难免",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251204/49045029.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251204/4f770306-80e4-40cc-8289-295ce766ec0b.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "以美领导人通话 特朗普邀请内塔尼亚胡访美",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251202/49038439.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "我国能源与动力领域连获重大突破",
@@ -231,12 +237,6 @@
             {
                 "title": "离台湾仅110公里！日本部署中导意欲何为？",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251129/49032722.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "德总统访问西班牙 为遭纳粹德国轰炸的遇难者哀悼",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251129/49032621.html?ayjr"
             }
         ]
     ]
