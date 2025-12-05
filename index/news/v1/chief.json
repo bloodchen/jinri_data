@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "德国政要相继表态 重申承担二战历史责任",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251205/49048956.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251205/2055cf95-5147-40ff-ad0e-50c71b7edb60.jpg"
+        },
+        {
             "title": "日本启动第17轮核污染水排海 本次排海量约7800吨",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251205/49048936.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251205/618aefd8-6db6-4584-bde3-0b6ea9e5dbed.jpg"
@@ -9,14 +14,14 @@
             "title": "涉嫌在&quot;国会山骚乱&quot;前夕放置炸弹 美国一男子被捕",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251205/49048499.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251205/c1ed56af-ea61-4bd4-b893-8b311c818e1f.png"
-        },
-        {
-            "title": "发现即摧毁！察打一体无人机实训画面公布",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251205/49048373.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251205/6e646f6e-957d-4324-b714-78e1f3b43611.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "科研新突破！中国科学家破解植物再生密码",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251205/49048125.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251205/bc5c205f-3050-40b8-9792-a662062d4950.png"
+        },
         {
             "title": "伊朗伊斯兰革命卫队海军在波斯湾等水域举行军演",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251205/49048108.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251204/c25c4e4d-b6ca-48f1-9bd0-0f4e773e4946.jpg"
         },
         {
-            "title": "商务部：如果日方一意孤行 中方将采取必要措施",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251204/49047227.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/300x0/news/20251204/d60ef4e4-1655-43b7-bda9-7693f59bf27f.png"
+            "title": "发现即摧毁！察打一体无人机实训画面公布",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251205/49048373.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251205/6e646f6e-957d-4324-b714-78e1f3b43611.jpg"
         },
         {
             "title": "首个、首台、首次！我国多领域实现科技突破",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251205/49048335.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/640x0/news/20251205/a4242930-eca7-4b32-bd99-74380ea72b90.jpg"
-        },
-        {
-            "title": "空军新“三剑客”亮相！专家详解攻击-11硬核实力",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251205/49048297.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251205/b3da1c00-f170-43f6-adce-74f5cc2477d6.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "特朗普“点名”日本：有些盟友长期剥削我们",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251203/49043413.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "朱雀三号重复使用运载火箭发射入轨",
@@ -231,12 +237,6 @@
             {
                 "title": "中国航天第一次应急发射的背后故事",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251201/49035796.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "内蒙古乌海半固态锂电池储能项目成功并网发电",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251201/49035600.html?ayjr"
             }
         ]
     ]
