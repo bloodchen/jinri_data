@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "航行警告！南海部分水域有火箭残骸掉落 禁止驶入",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251207/49052623.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251207/ca266ca3-09f8-4bfd-ba92-62c13cbea280.png"
+        },
+        {
             "title": "美乌结束3天会谈 主要讨论领土和安全保障问题",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251207/49052608.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251207/8dc0009a-5ed6-4ca5-a000-22949b1440ab.jpg"
@@ -9,14 +14,14 @@
             "title": "2025医保药品目录公布 新增药品114种",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251207/49052596.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251207/3ac23d7c-9cf3-4434-bcd8-b194abeb9ae9.jpg"
-        },
-        {
-            "title": "美军事动作搅动拉美局势 全美逾60城举行抗议活动",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251207/49052443.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251207/d25fdcc6-6c5f-4d78-a2df-891174ca3728.png"
         }
     ],
     "midImg": [
+        {
+            "title": "美国逾60城举行示威活动 抗议对委军事行动",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251207/49052283.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251207/7e643d6f-2264-40b3-8ca0-3fe464d5c578.png"
+        },
         {
             "title": "风电、大桥、航线 三项世界级成就见证中国实力！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251207/49052253.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251206/5cc44f35-6a44-47de-862c-8286cdd33a46.jpg"
         },
         {
-            "title": "日本近期危险举动频出 欲“松绑”武器出口",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251206/49051730.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251206/bd92004e-3b80-4dc4-a566-ba8e23834ed3.jpg"
+            "title": "美军事动作搅动拉美局势 全美逾60城举行抗议活动",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251207/49052443.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251207/d25fdcc6-6c5f-4d78-a2df-891174ca3728.png"
         },
         {
             "title": "轰-6甲在罗布泊上空投下我国第一枚氢弹",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251207/49052333.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251207/1e0a2c72-24ff-4f12-bfaf-b6dbf0189d19.jpg"
-        },
-        {
-            "title": "印度靛蓝航空取消数千架次航班 大量乘客滞留",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251207/49052314.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251207/055cb203-7e00-49cb-b48a-fbe27d082f14.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "委内瑞拉外长指责美国对委实施1042项制裁",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251205/49048166.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "科研新突破！中国科学家破解植物再生密码",
@@ -231,12 +237,6 @@
             {
                 "title": "以色列称将重开拉法口岸 但仅供巴民众离开加沙",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251203/49043863.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "秘鲁总统候选人驾车时遇袭 与枪手对射",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251203/49043821.html?ayjr"
             }
         ]
     ]
