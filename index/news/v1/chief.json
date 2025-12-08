@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美国家安全战略报告，19次提及中国",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251208/49054752.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251208/faaaed5e-c403-478b-826c-bcc31206d245.jpg"
+        },
+        {
             "title": "“雪假”带动冬季出游 机票预订量持续增长",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251208/49054455.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251208/a9cb1e2b-f3c4-4e01-be7f-57fd0d894b41.jpg"
@@ -9,14 +14,14 @@
             "title": "委内瑞拉副总统呼吁石油行业保持警惕",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251208/49054429.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/641x0/news/20251208/dc947b88-0ef8-4192-9018-11300c330521.jpg"
-        },
-        {
-            "title": "“玩”出来的新赛道！AI赋能中国玩具卖向全球",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251208/49054388.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251208/ae39a4dd-942f-46a7-b791-bafafff2dc47.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "日方军机滋扰中国海军训练 吴江浩大使提出严正交涉",
+            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20251208/49053817.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/toutiao/20251207/029cb79f-a902-4dd6-bdfd-487405251933.jpg"
+        },
         {
             "title": "日本电磁炮妄图击沉中国航母？军事专家解读",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251207/49053364.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251207/ebbbb441-99fc-4864-bdc3-9297f4ab3e7a.jpg"
         },
         {
-            "title": "辽宁舰航母编队正常训练遭日机滋扰 人民海军回应",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251207/49052996.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/300x0/news/20251207/85724e4a-d443-41ff-b11e-272cac3ab979.png"
+            "title": "“玩”出来的新赛道！AI赋能中国玩具卖向全球",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251208/49054388.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251208/ae39a4dd-942f-46a7-b791-bafafff2dc47.jpg"
         },
         {
             "title": "高市错误言论引众怒 日本前首相及民众再批驳",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251208/49054325.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251208/e7936816-e253-4e30-9e35-97db387e6bb7.jpg"
-        },
-        {
-            "title": "涉密文件伪装商业合同 警惕间谍用快递“暗度陈仓",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251208/49054283.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251208/a48b54c3-75fb-41a0-975f-faa74fb45f12.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "外交部：敦促美方认清台湾问题的高度敏感性",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251205/49050343.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "凛冬砺剑，燃动海疆练硬功",
@@ -231,12 +237,6 @@
             {
                 "title": "香港所有大型维修工程外墙棚网须三日内下架",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251204/49046306.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "日本自民党再被告发违规收取捐款",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251204/49046006.html?ayjr"
             }
         ]
     ]
