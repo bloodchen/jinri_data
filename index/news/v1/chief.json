@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "“玩”出来的新赛道！AI赋能中国玩具卖向全球",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251208/49054388.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251208/ae39a4dd-942f-46a7-b791-bafafff2dc47.jpg"
+        },
+        {
             "title": "高市错误言论引众怒 日本前首相及民众再批驳",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251208/49054325.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251208/e7936816-e253-4e30-9e35-97db387e6bb7.jpg"
@@ -9,14 +14,14 @@
             "title": "涉密文件伪装商业合同 警惕间谍用快递“暗度陈仓",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251208/49054283.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251208/a48b54c3-75fb-41a0-975f-faa74fb45f12.jpg"
-        },
-        {
-            "title": "约旦欧盟重申支持“两国方案”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251208/49054259.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251208/c63065a1-1be3-4d51-ae27-a6791f99aa1b.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "印度西部夜店火灾事故中没有中国公民伤亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251207/49053202.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251207/d9f60c06-13a7-46c3-99b1-a38dceecfb50.jpg"
+        },
         {
             "title": "新版医保药品目录公布！自明年1月1日起执行",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251207/49053031.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/562x0/news/20251207/5315633c-2c67-4891-8999-b597af70b72c.png"
         },
         {
-            "title": "航行警告！南海部分水域有火箭残骸掉落 禁止驶入",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251207/49052623.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251207/ca266ca3-09f8-4bfd-ba92-62c13cbea280.png"
+            "title": "约旦欧盟重申支持“两国方案”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251208/49054259.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251208/c63065a1-1be3-4d51-ae27-a6791f99aa1b.jpg"
         },
         {
             "title": "日方军机滋扰中国海军训练 吴江浩大使提出严正交涉",
             "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20251208/49053817.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/toutiao/20251207/029cb79f-a902-4dd6-bdfd-487405251933.jpg"
-        },
-        {
-            "title": "日本电磁炮妄图击沉中国航母？军事专家解读",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251207/49053364.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251207/a282a448-f578-40f5-b99a-a05100dd8a2d.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "国防部：日方若执迷不悟 必犯众怒",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251205/49050107.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美军3架坠海“超级大黄蜂”，都没找到",
@@ -231,12 +237,6 @@
             {
                 "title": "战火暂停 生活重启 加沙废墟上举行集体婚礼",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251204/49045834.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "“一票直达”三国！全球最长单程民航航线今天通航",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251204/49045763.html?ayjr"
             }
         ]
     ]
