@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "我国首个燃机发电无人智控系统成功投运",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251209/49059615.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251209/9b79ee70-1d4a-41bf-bfb3-19ef7f96df1f.jpg"
+        },
+        {
             "title": "日本误导国际社会、加速西南军事化部署有何用意？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251209/49058782.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251209/d0509b5e-4b40-4792-a0e6-89e75d5f586e.jpg"
@@ -9,14 +14,14 @@
             "title": "湖南嘉禾：冬日晨曦美如画",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251209/49058728.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251209/7f28fc5c-b957-46ff-92e3-f1f60df2fd22.jpg"
-        },
-        {
-            "title": "美国将为受关税政策影响农民提供120亿美元救助",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251209/49058008.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251209/052ed833-43b7-4f51-b7b4-1609c29df66d.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "为何前11个月外贸走得稳？三大关键词解读",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251209/49057928.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251209/bee5ad23-d535-4593-9e22-377015867a24.jpg"
+        },
         {
             "title": "日本因强震暂停核污染水排海",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251209/49057884.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251208/f5d4d854-0ece-44cf-939a-4c274d818ecc.png"
         },
         {
-            "title": "韩国总统府本月将迁回青瓦台",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251208/49055039.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251208/7a880111-2965-409a-8ed8-15f3736fee7c.jpg"
+            "title": "美国将为受关税政策影响农民提供120亿美元救助",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251209/49058008.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251209/052ed833-43b7-4f51-b7b4-1609c29df66d.jpg"
         },
         {
             "title": "乌总统称“和平计划”即将完成修改 强调领土完整",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251209/49057984.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251209/5db3b5f4-3323-4daa-9a6f-7b4c5c5f88e2.jpg"
-        },
-        {
-            "title": "中国空间站将迎来“商业化货运”时代",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251209/49057965.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251209/587ecbd8-c3a0-4835-83b2-96309dc22b9f.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "日本将防卫重点转向西南意欲何为？",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251206/49051753.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "日本欲部署中程导弹 专家：解放军应对方法特别多",
@@ -231,12 +237,6 @@
             {
                 "title": "首个、首台、首次！我国多领域实现科技突破",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251205/49048335.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "空军新“三剑客”亮相！专家详解攻击-11硬核实力",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251205/49048297.html?ayjr"
             }
         ]
     ]
