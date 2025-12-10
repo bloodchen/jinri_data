@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "泰国防部称泰柬冲突致40万人撤离",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251210/49062170.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251210/84ce5cde-e03b-4292-b41f-c0fd376c7e53.png"
+        },
+        {
             "title": "马斯克喊话“废除欧盟” 华盛顿顺势对欧开火",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251210/49062147.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251210/52e25845-e8d1-46db-b12d-f92cf77a160a.jpg"
@@ -9,14 +14,14 @@
             "title": "国台办回应韩国电子入境卡将台湾列为中国台湾",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251210/49061835.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/300x0/news/20251210/63616260-2f71-4c27-83fe-558d1dad7e23.png"
-        },
-        {
-            "title": "国台办:正告赖清德及民进党当局 &quot;台独&quot;意味着战争",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251210/49061816.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20251210/debc73c6-b4f9-478f-b17e-df4a8e2afcdb.png"
         }
     ],
     "midImg": [
+        {
+            "title": "&quot;海洋地质六号&quot;发现了哪些深海宝藏？独家画面公布",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251210/49061142.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251210/8411261e-9abe-4ec0-b054-611580848262.jpg"
+        },
         {
             "title": "更多细节公布！神舟二十一号乘组首次出舱任务回顾",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251210/49061050.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251210/04fef351-404d-4a59-98f2-0af5178929c6.jpg"
         },
         {
-            "title": "委内瑞拉称准备退出国际刑事法院",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251210/49060932.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251210/1cd7cd9b-8d3a-49a8-97ef-8bee06320985.jpg"
+            "title": "国台办:正告赖清德及民进党当局 &quot;台独&quot;意味着战争",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251210/49061816.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20251210/debc73c6-b4f9-478f-b17e-df4a8e2afcdb.png"
         },
         {
             "title": "国台办回应赖清德当局出卖台积电：无耻至极",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251210/49061657.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251210/96fab1d4-496e-4132-9b92-8bbc03efaea3.jpg"
-        },
-        {
-            "title": "民进党当局封禁小红书 国台办:民进党已成&quot;民禁挡&quot;",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251210/49061585.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/562x0/news/20251210/4008c020-d7cb-4df1-ad7c-bae9a00cfb60.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "日方军机滋扰中国海军训练 吴江浩大使提出严正交涉",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20251208/49053817.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "日本电磁炮妄图击沉中国航母？军事专家解读",
@@ -231,12 +237,6 @@
             {
                 "title": "与“死神”掰手腕20秒 他飞出了歼-10的6项纪录",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251206/49050800.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "蝉联全球第一！中国汽车重塑全球价值链",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251206/49050779.html?ayjr"
             }
         ]
     ]
