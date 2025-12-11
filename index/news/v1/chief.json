@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "日本防卫省：日美在日本海上空举行联合训练",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251211/49066688.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20251211/d6f05e6d-9a43-4f72-b3ce-479bd6d27155.png"
+        },
+        {
             "title": "外交部：日方没必要大惊小怪、对号入座",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251211/49066672.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/639x0/news/20251211/2c591552-3eed-4376-ba90-c514441bcacd.jpg"
@@ -9,14 +14,14 @@
             "title": "外交部：希望墨方及早纠正有关错误做法",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251211/49066614.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/300x0/news/20251211/07c042d7-9256-46f3-9a8f-04b3905181cf.png"
-        },
-        {
-            "title": "商务部：望荷方采取实际行动 推动解决半导体问题",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251211/49066587.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/300x0/news/20251211/5b788a66-1c29-48bc-9484-4a461e9c8848.png"
         }
     ],
     "midImg": [
+        {
+            "title": "荷兰政府说该国遭受恐怖袭击风险较高",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251211/49065488.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251211/09356e39-4d7b-45f2-a9df-fda766e1e281.png"
+        },
         {
             "title": "美公布在委内瑞拉附近扣押油轮行动画面",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251211/49065407.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/562x0/news/20251211/199ebb94-693c-4505-9e27-fc4240bdbce0.png"
         },
         {
-            "title": "美联储降息25个基点 特朗普：幅度可以更大",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251211/49065163.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/600x0/news/20251211/cf76ef96-c868-4210-9a8a-907ffffc841c.jpg"
+            "title": "商务部：望荷方采取实际行动 推动解决半导体问题",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251211/49066587.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20251211/5b788a66-1c29-48bc-9484-4a461e9c8848.png"
         },
         {
             "title": "马斯克：若重来 不会领导“政府效率部”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251211/49066548.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251211/fc3018e5-094c-4b6f-bd45-a88028a58c6b.jpg"
-        },
-        {
-            "title": "日本一客机单发失效 紧急降落函馆机场",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251211/49066241.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251211/7c4d1cc9-78ff-42fb-a403-363c711e2059.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "委内瑞拉称准备退出国际刑事法院",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251210/49060932.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "泽连斯基称乌克兰正与美、欧磋商三项关键文件",
@@ -231,12 +237,6 @@
             {
                 "title": "日方军机滋扰中国海军训练 吴江浩大使提出严正交涉",
                 "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20251208/49053817.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "日本电磁炮妄图击沉中国航母？军事专家解读",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251207/49053364.html?ayjr"
             }
         ]
     ]
