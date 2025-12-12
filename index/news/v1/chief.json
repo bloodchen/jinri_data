@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "中印举行新一轮外交部官员磋商",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251212/49068968.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/600x0/news/20251212/d9a222f5-96a2-493a-a049-cf57500d60c6.jpg"
+        },
+        {
             "title": "日本本州东岸远海附近发生6.7级左右地震",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251212/49068770.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251212/8e0135dc-327e-480c-8dfc-85b7692a3aeb.jpg"
@@ -9,14 +14,14 @@
             "title": "我国成功发射卫星互联网低轨16组卫星",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251212/49068696.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251212/78dfd21a-1d3a-42ac-aeda-d98b4ea9f617.jpg"
-        },
-        {
-            "title": "泽连斯基：乌俄应按对等原则在顿涅茨克撤军",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251212/49068610.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/640x0/news/20251212/d70dfb82-4f33-442f-8a4b-140a80536891.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "特朗普称美对委行动“很快将从海上延伸至陆地”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251212/49067981.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251212/12385cf9-90ff-4b97-bb2b-77654666cb10.jpg"
+        },
         {
             "title": "警惕科技展会上的窃密黑手 国家安全机关提示",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251212/49067916.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251212/8e3908ea-09d9-403d-882c-f4c1ef7ba8d6.png"
         },
         {
-            "title": "泰柬边境局势紧张 泰国边境加强安全管控",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251212/49067763.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251212/7e9ee1ac-a57d-4d8c-b956-38e3e32baff5.jpg"
+            "title": "泽连斯基：乌俄应按对等原则在顿涅茨克撤军",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251212/49068610.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/640x0/news/20251212/d70dfb82-4f33-442f-8a4b-140a80536891.jpg"
         },
         {
             "title": "划重点！2026年房地产政策有四个“新变化”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251212/49068557.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251212/7c4b3f8f-0304-4d42-9042-7d6152e7b297.jpg"
-        },
-        {
-            "title": "成功首飞！&quot;巨无霸&quot;无人机&quot;九天&quot;有哪些硬核本领",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251212/49068139.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251212/d8ec999d-7cc9-485f-87f2-91896ceeda61.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美国11月预算赤字为1730亿美元",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251211/49064521.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美联储宣布降息25个基点",
@@ -231,12 +237,6 @@
             {
                 "title": "湖南嘉禾：冬日晨曦美如画",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251209/49058728.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美国将为受关税政策影响农民提供120亿美元救助",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251209/49058008.html?ayjr"
             }
         ]
     ]
