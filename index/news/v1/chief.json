@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "澳大利亚邦迪海滩枪击事件已致12人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251214/49073785.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251214/a47d054a-78e9-4660-a5c3-24f614129048.jpg"
+        },
+        {
             "title": "南极考察队完成中山站卸货 两船驶离卸货作业点",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251214/49073610.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251214/410b5b3b-6482-41b5-9ce4-d580a40cfcac.jpg"
@@ -9,14 +14,14 @@
             "title": "未经俄方同意处置俄主权资产 回应来了",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251214/49073494.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251214/69b43fb5-1fc6-45f8-bc21-fec26338664b.jpg"
-        },
-        {
-            "title": "菲律宾在南海接连上演“侵权秀”，暴露了哪些算计",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251214/49073347.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251214/81ed3e24-ce77-4a35-a10d-f02e1ee5aa4c.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "南海有火箭残骸掉落 禁止驶入！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251214/49073157.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251214/e3f88bff-0ebd-4c16-9251-640bae105fe6.png"
+        },
         {
             "title": "会晤后，美方宣布将解除制裁",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251214/49072727.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251214/752433b4-e7e3-4d63-aa93-c89f7b654db3.jpg"
         },
         {
-            "title": "美布朗大学枪击案已致2死8重伤 枪手仍未被捕",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251214/49072500.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251214/7743bc3c-6249-4ffd-89ee-9ef4b7d2cc84.png"
+            "title": "菲律宾在南海接连上演“侵权秀”，暴露了哪些算计",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251214/49073347.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251214/81ed3e24-ce77-4a35-a10d-f02e1ee5aa4c.jpg"
         },
         {
             "title": "建在南极冰盖上的航站楼 探秘我国中山冰雪机场",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251214/49073328.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251214/4f66e64c-1a76-414e-98a3-0a2d97176346.png"
-        },
-        {
-            "title": "这座闻名全国的火车站，又给旅客发“福利”！",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251214/49073279.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251214/352b16fd-1e64-4359-9e4f-a8961f1cbc10.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "巴勒斯坦总统访问意大利 重申“两国方案”重要性",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251213/49070762.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "土耳其呼吁俄乌保障黑海航行安全 以避免局势升级",
@@ -231,12 +237,6 @@
             {
                 "title": "泽连斯基：若获安全保障 愿支持在战时举行大选",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251212/49067650.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "泽连斯基：乌领土问题应由乌人民决定",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251212/49067631.html?ayjr"
             }
         ]
     ]
