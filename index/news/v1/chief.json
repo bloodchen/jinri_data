@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "联合国维和部队在苏丹遭无人机袭击 已致6死8伤",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251214/49072551.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/646x0/news/20251214/56c7b21d-8dfd-4900-8f8b-99c127ba0274.png"
+        },
+        {
             "title": "日本资深媒体人：南京大屠杀的真相不容否认",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251214/49072534.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251214/752433b4-e7e3-4d63-aa93-c89f7b654db3.jpg"
@@ -9,14 +14,14 @@
             "title": "美布朗大学枪击案已致2死8重伤 枪手仍未被捕",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251214/49072500.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251214/7743bc3c-6249-4ffd-89ee-9ef4b7d2cc84.png"
-        },
-        {
-            "title": "泰柬新一轮边境冲突持续一周 数十万人逃离家园",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251214/49072491.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251214/2c63c300-19a8-4f95-b996-ba7770790668.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "以军称打死哈马斯高级指挥官 哈马斯斥其破坏停火",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251214/49072449.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251214/7d4f2d40-49cb-4329-adb1-0561b649441e.jpg"
+        },
         {
             "title": "扎哈罗娃：欧盟冻结俄罗斯资产的行为完全非法",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251214/49072438.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251213/d87e78cf-0836-49cb-8c95-be5747875188.jpg"
         },
         {
-            "title": "美国20州起诉特朗普政府征收高额H-1B签证费",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251213/49071853.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251213/6d466d21-26cb-4941-9da1-2cf54cb17e8d.jpg"
+            "title": "泰柬新一轮边境冲突持续一周 数十万人逃离家园",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251214/49072491.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251214/2c63c300-19a8-4f95-b996-ba7770790668.jpg"
         },
         {
             "title": "美国布朗大学称再次接到枪声报告 已致多人死伤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251214/49072479.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251214/e7e8912c-0a52-4648-87c9-fb6deed0f94f.jpg"
-        },
-        {
-            "title": "土耳其总统：黑海不应成为俄乌之间的“对抗区域”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251214/49072470.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251214/4467162a-f639-40af-a471-4d5e2e95138c.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "柬内政部称柬泰冲突致27万名平民流离失所",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251212/49069364.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "中国最北端卫星数据接收站正式投入运行",
@@ -231,12 +237,6 @@
             {
                 "title": "荷兰政府说该国遭受恐怖袭击风险较高",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251211/49065488.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美公布在委内瑞拉附近扣押油轮行动画面",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251211/49065407.html?ayjr"
             }
         ]
     ]
