@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "我国首个深水油田二次开发项目投产 有哪些硬实力",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251214/49072572.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251214/d561ab7f-f7d2-461b-9351-91a6e9a6fe97.jpg"
+        },
+        {
             "title": "联合国维和部队在苏丹遭无人机袭击 已致6死8伤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251214/49072551.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/646x0/news/20251214/56c7b21d-8dfd-4900-8f8b-99c127ba0274.png"
@@ -9,14 +14,14 @@
             "title": "日本资深媒体人：南京大屠杀的真相不容否认",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251214/49072534.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251214/752433b4-e7e3-4d63-aa93-c89f7b654db3.jpg"
-        },
-        {
-            "title": "美布朗大学枪击案已致2死8重伤 枪手仍未被捕",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251214/49072500.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251214/7743bc3c-6249-4ffd-89ee-9ef4b7d2cc84.png"
         }
     ],
     "midImg": [
+        {
+            "title": "美叙部队在叙利亚中部遭袭 三名美方人员死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251214/49072460.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/561x0/news/20251214/b8e44d93-b168-4143-8a32-82d60662dc10.png"
+        },
         {
             "title": "以军称打死哈马斯高级指挥官 哈马斯斥其破坏停火",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251214/49072449.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251213/be58ae88-4598-455b-acd8-8705922b1989.jpg"
         },
         {
-            "title": "印尼苏门答腊岛山体滑坡灾害遇难人数已超千人",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251213/49071863.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251213/d87e78cf-0836-49cb-8c95-be5747875188.jpg"
+            "title": "美布朗大学枪击案已致2死8重伤 枪手仍未被捕",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251214/49072500.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251214/7743bc3c-6249-4ffd-89ee-9ef4b7d2cc84.png"
         },
         {
             "title": "泰柬新一轮边境冲突持续一周 数十万人逃离家园",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251214/49072491.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251214/2c63c300-19a8-4f95-b996-ba7770790668.jpg"
-        },
-        {
-            "title": "美国布朗大学称再次接到枪声报告 已致多人死伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251214/49072479.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251214/e7e8912c-0a52-4648-87c9-fb6deed0f94f.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "印度南部公交车坠崖 已造成9人死亡",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251212/49069415.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "柬内政部称柬泰冲突致27万名平民流离失所",
@@ -231,12 +237,6 @@
             {
                 "title": "印尼塞梅鲁火山发生喷发 火山灰柱高1100米",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251211/49066228.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "荷兰政府说该国遭受恐怖袭击风险较高",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251211/49065488.html?ayjr"
             }
         ]
     ]
