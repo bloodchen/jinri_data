@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "空客中国总装第800架A320系列飞机今日交付",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251217/49082823.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251217/06184d69-64f1-42f9-863f-201c22f94782.jpg"
+        },
+        {
             "title": "离岛免税政策升级，封关对到海南&quot;买买买&quot;有影响吗",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251217/49082786.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251217/efb73e4e-43f8-4b85-8dee-2038238a6224.jpg"
@@ -9,14 +14,14 @@
             "title": "美媒妄言解放军“攻台”三个步骤！国台办回应",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251217/49082735.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20251217/263e7859-4359-44e0-81f6-768a74968c36.png"
-        },
-        {
-            "title": "突破多项关键技术 山东舰已形成完整作战能力",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251217/49082693.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251217/72bc9677-64e8-4f76-8383-c7eb9a849928.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "国台办：“台独”是绝路 外人靠不住 统一挡不住",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251217/49082132.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20251217/eceba678-88bd-4881-b307-18adc6dd7057.png"
+        },
         {
             "title": "台当局辩称&quot;封禁&quot;小红书无关两岸政策 国台办回应",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251217/49082113.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251217/1627486c-89ba-4a2b-acae-daee952f29b7.jpg"
         },
         {
-            "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251217/49081398.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251217/61490bf2-e5e3-4282-9645-ed1816f6237a.png"
+            "title": "突破多项关键技术 山东舰已形成完整作战能力",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251217/49082693.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251217/72bc9677-64e8-4f76-8383-c7eb9a849928.jpg"
         },
         {
             "title": "创我国航母事业多个&quot;首次&quot; 回顾山东舰&quot;高光&quot;时刻",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251217/49082647.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251217/88bb0b50-9165-4390-8c96-ccaa585f3696.jpg"
-        },
-        {
-            "title": "日本10年期国债收益率创2007年6月以来新高",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251217/49082617.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251217/1e137ba6-03ac-4d88-8044-e0ebe0ffa68f.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "老年艾滋感染人数持续上升 村医染病老两口一度拒治疗",
+                "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20251215/49074135.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "泽连斯基：俄乌&quot;和平计划&quot;可以包含妥协但必须公正",
@@ -231,12 +237,6 @@
             {
                 "title": "侵华日军暴行再添铁证!新一批731部队罪行档案公布",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251213/49071712.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美官员称加沙国际稳定部队最快下月部署",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251213/49071697.html?ayjr"
             }
         ]
     ]
