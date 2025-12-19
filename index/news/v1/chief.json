@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "跨州作案 枪杀校友 布朗大学枪击案疑团待解",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251219/49091030.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251219/c07e1dfc-0f7c-4c2b-bad9-bf105add028c.png"
+        },
+        {
             "title": "雷达数据显示美军战机在委内瑞拉首都附近空域活动",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251219/49090939.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/600x0/news/20251219/bb65144f-a05f-48fe-bc01-c6083fd2c5db.jpg"
@@ -9,14 +14,14 @@
             "title": "福建舰电磁弹射含金量还在提升！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251219/49090219.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251219/3fa0c841-687c-4cb8-996b-6e1c3ce9c422.jpg"
-        },
-        {
-            "title": "美警方确认布朗大学枪击案嫌犯已自杀身亡",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251219/49090108.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251219/e64f726b-e4e9-47d2-b8e8-6c689f80dd5e.png"
         }
     ],
     "midImg": [
+        {
+            "title": "数十年来阿塞拜疆首次向亚美尼亚出口石油产品",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251219/49089414.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251219/c03345ac-d505-4c46-8904-5ffb87f578e3.png"
+        },
         {
             "title": "发现危害国家安全的行为，立即打这个电话！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251219/49088622.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251219/dc085aa0-aa90-49a2-a42d-432a05b09c76.jpg"
         },
         {
-            "title": "新赛道&quot;领跑&quot;！这些国产硬核科技绘就未来产业图景",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251219/49088457.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251219/e3519545-8218-4be8-8d63-d63b4a803882.jpg"
+            "title": "美警方确认布朗大学枪击案嫌犯已自杀身亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251219/49090108.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251219/e64f726b-e4e9-47d2-b8e8-6c689f80dd5e.png"
         },
         {
             "title": "美军称对2艘“贩毒船”发动打击 致5人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251219/49090063.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251219/11ea7c6c-00ef-480d-a80b-303dfbf35517.png"
-        },
-        {
-            "title": "航行警告！南海海域军事训练 禁止驶入",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251219/49089597.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251219/edaf0a53-b66b-4304-8641-2551ed8c0dec.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "意大利总理重申不会向乌克兰派兵",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251218/49084188.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美法院允许国民警卫队暂时驻留在华盛顿特区",
@@ -231,12 +237,6 @@
             {
                 "title": "委内瑞拉终止与特多之间全部天然气合作项目",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251216/49078137.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "泽连斯基：美方并未要求乌克兰做出领土让步",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251216/49078125.html?ayjr"
             }
         ]
     ]
