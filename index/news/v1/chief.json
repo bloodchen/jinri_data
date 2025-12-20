@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "朋友圈越来越大 中国军队展现和平担当",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251220/49093748.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251220/fa1d4fc5-5d5a-46f9-a511-9fb9ef75b846.jpg"
+        },
+        {
             "title": "日本鸣门海峡附近一船只倾覆 事故原因仍在调查",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251220/49093737.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20251220/cf04aa7d-cf89-4ceb-9ef3-d672fa3aace6.png"
@@ -9,14 +14,14 @@
             "title": "考古新发现！出土实物带你解密这位楚王的日常",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251220/49093724.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251220/eb447bd3-83dc-4c6c-a51a-55dd3f07b58e.jpg"
-        },
-        {
-            "title": "美国遭拘押移民死亡人数达20年来最多",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251220/49093711.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251220/84fb2bff-c09f-43d6-807d-4729d4a634b4.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "特朗普称不排除对委内瑞拉动武可能",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251220/49093496.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20251220/24870880-4014-4106-a5a6-dbb42cf36562.png"
+        },
         {
             "title": "以色列暗杀伊朗核专家细节曝光",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251220/49093421.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251220/d6300a84-cc52-4995-8179-f73c769469a0.png"
         },
         {
-            "title": "柬国防部称泰国炸毁柬一民用桥梁 泰方暂无回应",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251220/49092919.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251220/990ac004-8e99-400d-9567-e649b33e2b23.jpg"
+            "title": "美国遭拘押移民死亡人数达20年来最多",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251220/49093711.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251220/84fb2bff-c09f-43d6-807d-4729d4a634b4.jpg"
         },
         {
             "title": "爱泼斯坦案新文件公布 克林顿被“大量提及”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251220/49093701.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251220/79f848ad-06cb-4ce2-ba59-5eb9e0a4be98.jpg"
-        },
-        {
-            "title": "伊朗处决一名为以色列工作的间谍",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251220/49093686.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251220/bebe1372-a890-4577-9b11-10143b1f786d.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "特朗普签署行政命令 重申2028年登月目标",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251219/49088469.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "新赛道&quot;领跑&quot;！这些国产硬核科技绘就未来产业图景",
@@ -231,12 +237,6 @@
             {
                 "title": "欧盟委员会主席：欧洲必须对自身安全负责",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251218/49084203.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "意大利总理重申不会向乌克兰派兵",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251218/49084188.html?ayjr"
             }
         ]
     ]
