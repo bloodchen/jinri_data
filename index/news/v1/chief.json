@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "特朗普称不排除对委内瑞拉动武可能",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251220/49093496.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20251220/24870880-4014-4106-a5a6-dbb42cf36562.png"
+        },
+        {
             "title": "以色列暗杀伊朗核专家细节曝光",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251220/49093421.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251220/2d3e0593-a8a9-4896-9c29-688b57bcf485.png"
@@ -9,14 +14,14 @@
             "title": "印尼苏门答腊岛洪灾和山体滑坡已致1071人死亡",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251220/49093412.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251220/fc550152-a191-499e-8f03-c7e1eaad2d12.jpg"
-        },
-        {
-            "title": "水电气三表计量出新规！解决你关心的计费问题",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251220/49093329.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251220/883cd21c-256c-4aa3-ba14-e40e2a7b855c.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "普京回应俄乌冲突等热点议题，信息量大！",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251220/49092874.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251220/6b7b0a82-68de-490f-a24e-af737ccd408e.jpg"
+        },
         {
             "title": "韩国前总统尹锡悦首次出席&quot;金建希特检组&quot;传唤调查",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251220/49092821.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251220/9b656fcb-59f6-4102-891e-f05ffd7c16ef.jpg"
         },
         {
-            "title": "俄总理签署决定 允许俄国防部终止多项双边协议",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251220/49092525.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251220/3a46ebcd-0016-451b-97fe-c955da4fa083.jpg"
+            "title": "水电气三表计量出新规！解决你关心的计费问题",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251220/49093329.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251220/883cd21c-256c-4aa3-ba14-e40e2a7b855c.jpg"
         },
         {
             "title": "使用超100枚制导导弹 美军公布在叙打击行动详情",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251220/49093062.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251220/ec43c0c0-1e7a-4a4b-8228-2b5923622292.jpg"
-        },
-        {
-            "title": "湖北舰编队开展多课目实战化训练",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251220/49092951.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251220/d6300a84-cc52-4995-8179-f73c769469a0.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "日本计划在冲绳部署雷达 外交部回应",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251218/49087098.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "福建舰新动向，引发岛内关注！",
@@ -231,12 +237,6 @@
             {
                 "title": "美媒妄言解放军“攻台”三个步骤！国台办回应",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251217/49082735.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "突破多项关键技术 山东舰已形成完整作战能力",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251217/49082693.html?ayjr"
             }
         ]
     ]
