@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "湖北舰编队开展多课目实战化训练",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251220/49092951.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251220/d6300a84-cc52-4995-8179-f73c769469a0.png"
+        },
+        {
             "title": "柬国防部称泰国炸毁柬一民用桥梁 泰方暂无回应",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251220/49092919.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251220/990ac004-8e99-400d-9567-e649b33e2b23.jpg"
@@ -9,14 +14,14 @@
             "title": "普京回应俄乌冲突等热点议题，信息量大！",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251220/49092874.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251220/6b7b0a82-68de-490f-a24e-af737ccd408e.jpg"
-        },
-        {
-            "title": "韩国前总统尹锡悦首次出席&quot;金建希特检组&quot;传唤调查",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251220/49092821.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251220/7695bd97-2bca-4334-886c-da06fac456ce.png"
         }
     ],
     "midImg": [
+        {
+            "title": "乌官员称与美欧谈判结束 就进一步措施&quot;达成共识&quot;",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251220/49092536.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251220/9b656fcb-59f6-4102-891e-f05ffd7c16ef.jpg"
+        },
         {
             "title": "俄总理签署决定 允许俄国防部终止多项双边协议",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251220/49092525.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251220/41221b0a-fec6-4a33-8125-8048efca5162.jpg"
         },
         {
-            "title": "外交部回应美对台军售：势必推高中美冲突对抗风险",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251219/49091776.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/563x0/news/20251219/9986f066-a708-4f9a-aae1-6f622b02cdbf.png"
+            "title": "韩国前总统尹锡悦首次出席&quot;金建希特检组&quot;传唤调查",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251220/49092821.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251220/7695bd97-2bca-4334-886c-da06fac456ce.png"
         },
         {
             "title": "明确依法竞争边界 涉反垄断执法新规发布",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251220/49092702.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251220/fcecc470-1704-4d4b-bd38-4e476cf66f35.jpg"
-        },
-        {
-            "title": "特朗普称美军正对叙利亚境内“伊斯兰国”进行打击",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251220/49092558.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251220/6e6fa36a-4c52-4c4f-a747-62f16072f351.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "柬埔寨内政部：柬泰冲突已致18名柬平民死亡",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251218/49086507.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "苏丹人道灾难被评价为2025年“最被忽视的危机”",
@@ -231,12 +237,6 @@
             {
                 "title": "国台办：“台独”是绝路 外人靠不住 统一挡不住",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251217/49082132.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "台当局辩称&quot;封禁&quot;小红书无关两岸政策 国台办回应",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251217/49082113.html?ayjr"
             }
         ]
     ]
