@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "特朗普称美军对尼日利亚“伊斯兰国”目标发动打击",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251226/49110314.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251226/47745da2-b60d-4d20-bf42-517d92cbba83.jpg"
+        },
+        {
             "title": "金正恩视察重要军工企业",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251226/49110267.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251226/39d56f5d-08b7-41c7-8346-7a9c2a6ce834.jpg"
@@ -9,14 +14,14 @@
             "title": "对等反制 尼日尔对美国公民停发签证",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251226/49110242.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251226/9249e062-2f29-4afb-a548-470f32d0229a.jpg"
-        },
-        {
-            "title": "墨西哥发生大客车坠谷事故 致10死32伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251226/49110230.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251226/1ebbae77-75de-433e-9234-7fde4d2ab768.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "埃塞俄比亚西部暴力事件已致47人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251226/49110113.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/639x0/news/20251226/180a9fe3-8cf6-401d-8074-affa24b38fea.png"
+        },
         {
             "title": "泽连斯基与美特使通话 推进俄乌和平计划磋商",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251226/49110098.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20251225/0bed741b-bdae-41a6-8f5b-115e0edd2891.png"
         },
         {
-            "title": "我国创造超导电动磁悬浮推进世界纪录！",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251225/49108514.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251225/32d91fa7-997d-4294-ad21-a046108ca846.jpg"
+            "title": "墨西哥发生大客车坠谷事故 致10死32伤",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251226/49110230.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251226/1ebbae77-75de-433e-9234-7fde4d2ab768.jpg"
         },
         {
             "title": "我国三大深海载人潜水器2025年突破不断",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251226/49110213.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20251226/5f1dd073-c007-408b-8089-0eee6bb40c5e.jpg"
-        },
-        {
-            "title": "瑞典袭击事件致1死2伤 嫌疑人被当场击毙",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251226/49110191.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/300x0/news/20251226/b6a1aa50-ab63-4e64-97bc-b7b344bc3db5.png"
         }
     ],
     "text": [
+        [
+            {
+                "title": "公安机关悬赏追捕两名台湾籍犯罪嫌疑人",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251224/49103838.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "觊觎格陵兰岛 美国野心背后有多重考量",
@@ -231,12 +237,6 @@
             {
                 "title": "从多领域成就 感受中国经济活力",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251222/49096266.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "尼日利亚尼日尔州130名被绑架学生获救",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251222/49096246.html?ayjr"
             }
         ]
     ]
