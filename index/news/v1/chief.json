@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "外交部发言人就柬泰签署停火联合声明答记者问",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251228/49114629.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/300x0/news/20251228/e1e8adc9-1b89-43e5-841d-4b0bbeab295c.png"
+        },
+        {
             "title": "创历史新高 塔里木油田年发绿电突破20亿度",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251228/49114600.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251228/43958556-1ee8-433b-8f1d-094684ad7c32.jpg"
@@ -9,14 +14,14 @@
             "title": "2025之苏丹：加剧的冲突、撕裂的国家与静默的灾难",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251228/49114588.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251228/8fc48ea9-7eeb-4c65-9b89-552dc364d25c.jpg"
-        },
-        {
-            "title": "看似&quot;宝藏网友&quot;实则&quot;窃密黑手&quot; 国安发布最新提醒",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251228/49114567.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251228/1e799bf0-ae0f-4210-9801-a1ec53460851.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "涉及中期选举 美总统特朗普透露核心议题",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251228/49114507.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251228/afd7e9e9-afd7-4bcd-ac8d-c57d60b95257.png"
+        },
         {
             "title": "普京:若乌方不愿和平解决问题 俄将以军事手段解决",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251228/49114498.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/300x0/news/20251227/06da5407-80a9-43a6-857e-159bf6ef43fa.png"
         },
         {
-            "title": "日本前首相石破茂再批“日本拥核”言论",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251227/49113805.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251227/c1973139-eb0f-4f9b-a87a-17ebc80eaacc.jpg"
+            "title": "看似&quot;宝藏网友&quot;实则&quot;窃密黑手&quot; 国安发布最新提醒",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251228/49114567.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251228/1e799bf0-ae0f-4210-9801-a1ec53460851.jpg"
         },
         {
             "title": "一份计划两个版本 乌总统再赴美谈“和平协议”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251228/49114546.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/630x0/news/20251228/a4439920-95ca-4d2c-b3ff-708fe0ddbd3f.jpg"
-        },
-        {
-            "title": "遇难的利比亚军方领导人遗体被运送回国",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251228/49114529.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/600x0/news/20251228/5aab4fdb-b3f2-46ea-82d9-524ffbf234b0.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "特朗普称美军对尼日利亚“伊斯兰国”目标发动打击",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251226/49110314.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "金正恩视察重要军工企业",
@@ -231,12 +237,6 @@
             {
                 "title": "也门胡塞武装签署搜寻并移交遗体相关协议",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251225/49106487.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "泰国执政党自豪泰党提名2名总理候选人",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251225/49106461.html?ayjr"
             }
         ]
     ]
