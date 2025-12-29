@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "叙利亚央行发行新货币 与现行货币兑换比为1比100",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251229/49116855.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251229/feda7941-9f74-408d-bb00-d1b1c6655535.jpg"
+        },
+        {
             "title": "深中通道西人工岛今起正式文旅运营",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251229/49116789.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251229/fc484581-e187-41f3-b41b-8b558f202205.jpg"
@@ -9,14 +14,14 @@
             "title": "阿盟：以色列承认索马里兰无效且非法",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251229/49116775.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251229/c9bf77e7-0630-402e-99ea-e5dcf372ce15.jpg"
-        },
-        {
-            "title": "特朗普称俄乌“接近达成协议” 不排除三方会晤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251229/49116761.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251229/62676110-486a-40c9-abb1-6698567989fa.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "以色列承认索马里兰 索马里政府谴责其侵犯主权",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251228/49115765.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251228/50a67c74-67fd-40a3-aef1-823b232cb180.jpg"
+        },
         {
             "title": "财政部：2026年继续实施更加积极的财政政策",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251228/49115733.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20251228/43958556-1ee8-433b-8f1d-094684ad7c32.jpg"
         },
         {
-            "title": "2025之苏丹：加剧的冲突、撕裂的国家与静默的灾难",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251228/49114588.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20251228/8fc48ea9-7eeb-4c65-9b89-552dc364d25c.jpg"
+            "title": "特朗普称俄乌“接近达成协议” 不排除三方会晤",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251229/49116761.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251229/62676110-486a-40c9-abb1-6698567989fa.jpg"
         },
         {
             "title": "我国首个年注碳百万吨油田在新疆诞生",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251229/49116749.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20251229/2330b424-f497-414f-8914-5494f2938a3c.jpg"
-        },
-        {
-            "title": "美媒一定程度上承认了“斩杀线”存在",
-            "url": "https://toutiao.china.com/s_ayjr/xw/toutiao1/13000098/20251229/49116476.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/toutiao/20251228/f0c68c4a-d80a-46ce-9284-2c044bdadcf9.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "索马里举行近60年来首次地方议会直选",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251226/49112187.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "美对台军售破纪录 赖清德处处挑动战争神经",
@@ -231,12 +237,6 @@
             {
                 "title": "公安部通报打击金融领域“黑灰产”集群成效",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251225/49107448.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "全面测评！首批汽车智能底盘实测研究报告发布",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251225/49106941.html?ayjr"
             }
         ]
     ]
