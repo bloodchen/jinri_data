@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "2025年中国武器装备的“硬核”时刻",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251231/49125573.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20251231/6f7787f5-c58d-4504-a86f-dc6991065084.png"
+        },
+        {
             "title": "秘鲁南部火车相撞事故致4名中国游客受伤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251231/49125473.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20251231/3f13e561-9b88-4f0a-9ab2-7adac8abca01.png"
@@ -9,14 +14,14 @@
             "title": "演习引发岛内强烈震撼 国台办回应",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251231/49125002.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/300x0/news/20251231/215ddb1a-bce0-463b-9f9d-87dcd3171783.png"
-        },
-        {
-            "title": "国台办： 阻限两岸交流的罪魁祸首是民进党当局",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251231/49124656.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/300x0/news/20251231/458b39a0-a239-4f7a-a7a3-c24be87252f3.png"
         }
     ],
     "midImg": [
+        {
+            "title": "马里决定对美国公民采取对等入境限制措施",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251231/49123786.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251231/14a7f08f-abbb-4ef8-944f-c0f682349472.jpg"
+        },
         {
             "title": "也门宣布全境进入紧急状态",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251231/49123766.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20251231/d97c3d5a-e439-4aeb-a080-a901e88a89a1.png"
         },
         {
-            "title": "德国西部一银行遭窃 损失达数千万欧元",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251231/49123614.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20251231/d6766bcc-f37a-4fc6-ace5-3c96eb409926.png"
+            "title": "国台办： 阻限两岸交流的罪魁祸首是民进党当局",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251231/49124656.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/300x0/news/20251231/458b39a0-a239-4f7a-a7a3-c24be87252f3.png"
         },
         {
             "title": "俄罗斯外交部：反对任何形式“台独”分裂行径",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251231/49124242.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/600x0/news/20251231/01c50fee-26ea-409a-85b9-bed323461946.jpg"
-        },
-        {
-            "title": "我国成功发射实践二十九号卫星",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20251231/49124169.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20251231/056d5a59-34a5-4350-8563-8f8e647a60ca.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "泰柬停火生效后首日 双方通报最新局势",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251228/49115930.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "以色列承认索马里兰 索马里政府谴责其侵犯主权",
@@ -231,12 +237,6 @@
             {
                 "title": "美肯塔基州货机坠毁事故死亡人数升至15人",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251227/49113095.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "日本民众举行集会 反对重启柏崎刈羽核电站",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20251227/49113062.html?ayjr"
             }
         ]
     ]
