@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "黄金、白银又疯了？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260302/49282435.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20260302/7b257fa4-2a04-4654-a8ae-ab80294a6e18.jpg"
+        },
+        {
             "title": "跟随外卖小哥见证一杯咖啡里的活力中国",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260302/49282375.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20260302/ba05d427-bf7d-4f64-94f2-467d4771139e.jpg"
@@ -9,14 +14,14 @@
             "title": "光阴的故事丨从历史走向未来 百年广州站的变迁",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260302/49282320.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20260302/42bc4604-7db7-48f0-8612-59ac4b4cb0c2.jpg"
-        },
-        {
-            "title": "稻田变身“无人农场” 看AI“最强大脑”如何种地",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260302/49282217.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20260302/523efbe4-c5cd-439b-902e-2dfd141c11c8.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "伊朗临时领导委员会已召开第二次正式会议",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260302/49282142.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20260302/38fedf51-3f91-4de3-9c5d-4880c4963cd2.jpg"
+        },
         {
             "title": "上周，我国科技发展再添新成果",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260302/49282122.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20260301/0e76c720-f113-467d-a4b2-a2fd4f5db7c6.jpg"
         },
         {
-            "title": "八问八答：美以为何联合袭击伊朗？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260301/49280509.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20260301/46be34c4-4769-4ea7-b1f7-a8cf4d11f8d4.png"
+            "title": "稻田变身“无人农场” 看AI“最强大脑”如何种地",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260302/49282217.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20260302/523efbe4-c5cd-439b-902e-2dfd141c11c8.jpg"
         },
         {
             "title": "沉浸式花灯游变身文旅消费新热点",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260302/49282194.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20260302/e4b4627a-9db0-4de5-b793-342bc9af58aa.jpg"
-        },
-        {
-            "title": "“非洲之傲”豪华列车在纳米比亚脱轨致2死4伤",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260302/49282178.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/622x0/news/20260302/1f496fdd-ded1-43f6-b548-10e1e9d6d515.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "莫迪力挺以色列引巨大争议，遭印度反对党抨击",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260228/49277440.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "牵连格陵兰岛危机，丹麦宣布提前选举",
@@ -231,12 +237,6 @@
             {
                 "title": "春节假期中老铁路跨境游客同比增长超四成",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260226/49269936.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "突破90亿！2026中国电影票房暂列全球第一",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260226/49269908.html?ayjr"
             }
         ]
     ]
