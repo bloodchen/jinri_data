@@ -18,6 +18,16 @@
     ],
     "midImg": [
         {
+            "title": "美元指数9日下跌",
+            "url": "https://toutiao.china.com/s_ayjr/aou/cj/13004011/20260410/49401735.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20260410/ba034b8c-8a0a-4621-9acf-7ed64efca390.jpg"
+        },
+        {
+            "title": "美股三大指数集体收涨 纳指、标普500指数录得七连涨",
+            "url": "https://toutiao.china.com/s_ayjr/aou/cj/13004011/20260410/49401736.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20260410/1d57fbaa-6989-405a-b98c-d60c7249c48e.jpg"
+        },
+        {
             "title": "002475，投中百亿估值机器人独角兽",
             "url": "https://toutiao.china.com/s_ayjr/aou/cj/13004011/20260410/49401717.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20260410/a0abf6d6-ace4-4416-b7cb-7ec9380fa0ee.jpg"
@@ -38,16 +48,6 @@
             "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20260410/8b9982d9-c991-4192-b708-bd12c2632844.jpg"
         },
         {
-            "title": "以色列总理称不会在黎巴嫩停火",
-            "url": "https://toutiao.china.com/s_ayjr/aou/cj/13004011/20260410/49401721.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/toutiao/20260410/6190f59b-db1b-4824-b00a-df664fa3932f.jpg"
-        },
-        {
-            "title": "优衣库“小伙伴”今日申购，另有3只新股上市丨打新早知道",
-            "url": "https://toutiao.china.com/s_ayjr/aou/cj/13004011/20260410/49401722.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/360x0/toutiao/20260410/3c751ce5-6acd-4766-b76d-1814144244cb.jpg"
-        },
-        {
             "title": "通策医疗12倍高溢价关联收购遭质疑",
             "url": "https://toutiao.china.com/s_ayjr/aou/cj/13004011/20260410/49401731.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/360x0/toutiao/20260410/21d2514b-bb53-42de-89ea-7a6c8bf1303d.jpg"
@@ -59,6 +59,18 @@
         }
     ],
     "text": [
+        [
+            {
+                "title": "伊朗说伊美谈判将于10日在伊斯兰堡开始",
+                "url": "https://toutiao.china.com/s_ayjr/aou/cj/13004011/20260408/49393681.html?ayjr"
+            }
+        ],
+        [
+            {
+                "title": "现货白银向上触及74美元",
+                "url": "https://toutiao.china.com/s_ayjr/aou/cj/13004011/20260408/49393682.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "市场重燃通过外交途径结束中东冲突的希望 美油低开2%、美股期指高开1%",
@@ -225,18 +237,6 @@
             {
                 "title": "亚马逊据悉与美国邮政服务局达成协议 预计将使该零售商每年通过美国邮政服务局寄送超过10亿件包裹",
                 "url": "https://toutiao.china.com/s_ayjr/aou/cj/13004011/20260407/49389755.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "特朗普再发威胁：7日20时是“最后期限”；我国钠离子电池取得重大突破；苹果首款折叠屏手机已在试产丨每经早参",
-                "url": "https://toutiao.china.com/s_ayjr/aou/cj/13004011/20260407/49389736.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "美股收盘：标普纳指连涨四天 存储概念走强 希捷收新高",
-                "url": "https://toutiao.china.com/s_ayjr/aou/cj/13004011/20260407/49389737.html?ayjr"
             }
         ]
     ]
