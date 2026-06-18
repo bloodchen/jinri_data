@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "2026夏季达沃斯新闻发布会在京举行",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260618/49555863.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20260618/9aa54698-abd7-4c06-808c-a65a649d5c65.jpg"
+        },
+        {
             "title": "我国首笔输电权市场化交易达成",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260618/49555811.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20260618/dcc99430-10da-4b1f-9cf5-b30b2b06301e.jpg"
@@ -9,14 +14,14 @@
             "title": "正式文本公布！特朗普签了美伊谅解备忘录",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260618/49555785.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/600x0/news/20260618/2b05b7ec-3ab3-4955-92a1-95b53ea0e727.jpg"
-        },
-        {
-            "title": "美联储今年连续第四次宣布维持利率不变",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260618/49555747.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/600x0/news/20260618/c7ee3d35-7cea-48c3-bc03-64b115d01110.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "国产之“光”爆单 AI算力拉动光通信景气上行",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260618/49555617.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/617x0/news/20260618/64888d0b-3917-4917-b70a-5bb7b6210962.jpg"
+        },
         {
             "title": "英格兰4-2战胜克罗地亚取开门红",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260618/49555600.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20260617/0104528e-1411-4a8a-9a50-ec226c81ceaa.jpg"
         },
         {
-            "title": "大理洱海生态廊道是条什么“道”？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260617/49553784.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20260617/c66be581-ed40-42bd-9caf-f0c99d7df139.jpg"
+            "title": "美联储今年连续第四次宣布维持利率不变",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260618/49555747.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/600x0/news/20260618/c7ee3d35-7cea-48c3-bc03-64b115d01110.jpg"
         },
         {
             "title": "留白给生态，美好绘雄安",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260618/49555684.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/600x0/news/20260618/10a3f893-ba27-4a78-8fe7-b7e84e800513.jpg"
-        },
-        {
-            "title": "合肥新站高新区：龙舟竞渡迎端午",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260618/49555665.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20260618/434c9e47-c1fe-47ee-8d72-42f916a4dbe4.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "“疏美近欧” 加拿大谋求外交战略再平衡",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260615/49548387.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "福建宁德核电5号机组穹顶完成吊装",
@@ -231,12 +237,6 @@
             {
                 "title": "新认定27家！北京科技型企业孵化器达133家",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260614/49546479.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "伊朗官员：如达成谅解 霍尔木兹海峡将恢复通行",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260614/49546459.html?ayjr"
             }
         ]
     ]
