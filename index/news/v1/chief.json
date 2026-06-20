@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "大渡河金川水电站全容量投产发电",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260620/49559038.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20260620/40ac7831-34a3-4a47-837d-64418b4d22c6.jpg"
+        },
+        {
             "title": "“阳光也能挣钱” 探索闽宁“绿电小镇”转型密码",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260620/49558970.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20260620/b02e6c51-7fba-4a65-b0ce-943f5dfe9acf.jpg"
@@ -9,14 +14,14 @@
             "title": "组图：公益慢火车串起京冀城乡烟火气",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260620/49558955.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20260620/227ee7c4-e531-4df2-b283-34f31361661e.jpg"
-        },
-        {
-            "title": "数万亿元，为何投向这“六张网”？",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260620/49558943.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20260620/bf2a2767-d7bf-4110-929f-88294b567ba4.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "俄罗斯央行下调基准利率至14.25%",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260620/49558897.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20260620/40f34b6c-8a25-4bf5-a323-848d6db16ea5.jpg"
+        },
         {
             "title": "三名中国裁判将亮相世界杯同场比赛",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260620/49558888.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20260620/03b9bac4-57aa-4d25-90a5-b262c9ba23db.jpg"
         },
         {
-            "title": "离心力上升，存在感下降——七国集团峰会透视",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260619/49558158.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20260619/435c80b0-c386-4b33-87f0-399e49dc55fc.jpg"
+            "title": "数万亿元，为何投向这“六张网”？",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260620/49558943.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20260620/bf2a2767-d7bf-4110-929f-88294b567ba4.jpg"
         },
         {
             "title": "三秦“智”造，车轮奔腾",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260620/49558930.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20260620/baf13f4d-1404-4669-84b0-b368e320b127.jpg"
-        },
-        {
-            "title": "本周，我国多领域创新成果亮眼",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260620/49558918.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20260620/490386f1-9c25-4271-b9a3-50b19f03c68e.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "第七届跨国公司领导人青岛峰会闭幕",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260618/49555570.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "法国央行下调2026年经济增长预期至0.5%",
@@ -231,12 +237,6 @@
             {
                 "title": "西宁至成都铁路四川段“四电”工程启动",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260616/49550013.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "5月份电商物流总业务量同比增长超20%",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260616/49549981.html?ayjr"
             }
         ]
     ]
