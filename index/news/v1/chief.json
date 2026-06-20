@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美国新“空军一号”专机亮相",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260620/49559538.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20260620/055b667a-8717-4fd5-97ab-22155c0b63c2.jpg"
+        },
+        {
             "title": "贵州铜仁：锦江之上龙舟竞速",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260620/49559413.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20260620/9f5fbc6c-f1d5-4c79-ba66-8a1d1cb34c54.jpg"
@@ -9,14 +14,14 @@
             "title": "雪域追风！2026年迪庆·香格里拉赛马会开幕",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260620/49559392.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20260620/e254b352-fc85-4ba6-b396-94ad5ede44f6.jpg"
-        },
-        {
-            "title": "《三餐四季》广西篇：八桂风味，烟火双城",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260620/49559063.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/596x0/news/20260620/517a1cb9-fb8e-42bd-9003-bbb1309bcbf4.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "组图：公益慢火车串起京冀城乡烟火气",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260620/49558955.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20260620/227ee7c4-e531-4df2-b283-34f31361661e.jpg"
+        },
         {
             "title": "数万亿元，为何投向这“六张网”？",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260620/49558943.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20260620/40f34b6c-8a25-4bf5-a323-848d6db16ea5.jpg"
         },
         {
-            "title": "三名中国裁判将亮相世界杯同场比赛",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260620/49558888.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20260620/9446dd08-1d58-499c-a2ae-dd0b2e86a3fa.jpg"
+            "title": "《三餐四季》广西篇：八桂风味，烟火双城",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260620/49559063.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/596x0/news/20260620/517a1cb9-fb8e-42bd-9003-bbb1309bcbf4.jpg"
         },
         {
             "title": "我国单机容量最大的高原山地风电项目并网",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260620/49559051.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20260620/afcd43e2-c7de-4b7b-a5ac-051076644162.jpg"
-        },
-        {
-            "title": "大渡河金川水电站全容量投产发电",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260620/49559038.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20260620/40ac7831-34a3-4a47-837d-64418b4d22c6.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "合肥新站高新区：龙舟竞渡迎端午",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260618/49555665.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "支柱松动，美国经济霸权还能维持多久",
@@ -231,12 +237,6 @@
             {
                 "title": "各地举行多彩活动迎端午",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260616/49550216.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "中国不需要、也不可能复制SpaceX",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260616/49550177.html?ayjr"
             }
         ]
     ]
