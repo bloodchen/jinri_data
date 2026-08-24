@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "贵州施秉：漂流戏水 尽享清凉",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260824/49693934.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20260824/94612b4d-5d8e-4f97-aea3-e3bb15d9c716.jpg"
+        },
+        {
             "title": "江西崇义：小桨板“划”出新业态",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260824/49693919.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20260824/029ed0b2-e30c-4323-ad4e-04a39be53079.jpg"
@@ -9,14 +14,14 @@
             "title": "全球媒体聚焦｜传统美加关系“已经终结”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260824/49693888.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20260824/ff22ca5c-14c0-4ce1-839f-28cdbe0ea3b2.jpg"
-        },
-        {
-            "title": "从“归零”到成功回收 朱雀三号八个月的逆袭之路",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260824/49693875.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20260824/e34f72e9-3b52-4bb2-87fa-4cf1e729b3f5.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "瑞士东部一建筑火灾致4人死亡",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260824/49693783.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20260824/ef06a566-c208-443d-b7e4-0f0d96035518.jpg"
+        },
         {
             "title": "这支团队破解光伏数据采集时延难题",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260824/49693770.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20260823/7a6c5960-193d-4b69-9d67-34fba3949b5a.png"
         },
         {
-            "title": "中法共创沉浸式展览 观众感受故宫之美",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260823/49692704.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20260823/4624df36-ae1e-4779-9c1a-ca3ceb48c17a.jpg"
+            "title": "从“归零”到成功回收 朱雀三号八个月的逆袭之路",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260824/49693875.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20260824/e34f72e9-3b52-4bb2-87fa-4cf1e729b3f5.jpg"
         },
         {
             "title": "上海楼市“沪八条”施行 新政组合拳激活消费需求",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260824/49693852.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20260824/fa67e2d5-8206-41dc-8414-98d0102f927c.jpg"
-        },
-        {
-            "title": "印度进口俄罗斯原油创新高",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260824/49693816.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20260824/b0b3059f-3459-4aa7-89dc-891892b91844.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美军中央司令部：“华盛顿”号航母已部署至中东",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260821/49689686.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "水利部：全国23条河流仍维持超警",
@@ -231,12 +237,6 @@
             {
                 "title": "我们的“十五五”｜未来五年，大好河山添新绿",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260819/49684541.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "超3000件展品亮相 2026世界机器人大会今日开幕",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260819/49684466.html?ayjr"
             }
         ]
     ]
