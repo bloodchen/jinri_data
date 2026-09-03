@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "乌克兰安全局与乌国防部情报总局在基辅发生交火",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260903/49716593.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20260903/ffed7832-7c23-4256-9e53-cc91a401acdf.png"
+        },
+        {
             "title": "印度想引资10万亿，日企为何不敢“重仓”",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260903/49716579.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20260903/da33b5c2-3523-4fcf-acbb-b23a602cb624.jpg"
@@ -9,14 +14,14 @@
             "title": "加拿大为何因法语硬刚美国",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260903/49716564.html?ayjr",
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20260903/6b970d35-3ae6-4bd0-961d-6e5a19f6a51b.jpg"
-        },
-        {
-            "title": "斯塔默卸任英国首相后又辞去议员职务",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260903/49716551.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20260903/b222d3dd-a9f3-4dfc-a1d1-fead8a293156.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "受台风“沙德尔”影响 华东华南强降雨持续",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260903/49716289.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20260903/8c97780f-b627-413b-a300-be2b8fb99974.jpg"
+        },
         {
             "title": "新学期，新变化——各地多措并举护航学生成长",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260903/49716275.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20260902/fa24d7f3-19bd-4c7c-84df-af8797769da4.jpg"
         },
         {
-            "title": "“与赫格塞思不和”，美国陆军部长辞职",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260902/49714055.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20260902/7a74d304-86ca-482d-ac4b-dfd140fee4e6.jpg"
+            "title": "斯塔默卸任英国首相后又辞去议员职务",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260903/49716551.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20260903/b222d3dd-a9f3-4dfc-a1d1-fead8a293156.jpg"
         },
         {
             "title": "泽连斯基对俄领空安全发出威胁，普京回应",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260903/49716541.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20260903/1b25fab9-a9f6-453b-bde3-ff6ecb084faa.jpg"
-        },
-        {
-            "title": "我国科研团队首次实现高光谱相机实时解析",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20260903/49716364.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20260903/458ef59a-c60a-4acd-86b8-60540bad9f9b.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "美国发射罗曼空间望远镜",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260831/49709436.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "10年期日本国债收益率再达新高",
@@ -231,12 +237,6 @@
             {
                 "title": "两国对立情绪发酵，美将安大略湖改名，加拿大回击",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260829/49706774.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "“世纪运河”开通在即，江海联运如何改变东盟",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20260829/49706765.html?ayjr"
             }
         ]
     ]
