@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "美国中期选举将于11月3日举行",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261027/49820094.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20261027/42b9ed67-7e50-427b-a6c4-3817e072f3de.jpg"
+        },
+        {
             "title": "伊朗总统会见沙土巴三国高级官员",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261027/49819998.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20261027/f0da9602-a0cf-40fc-8e12-547bb441a78d.jpg"
@@ -9,14 +14,14 @@
             "title": "中国中亚农业合作持续深化结硕果",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261027/49819974.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20261027/1943013a-8f0e-424b-8d7e-9e59935ad383.jpg"
-        },
-        {
-            "title": "约旦袭击叙南部致7死3伤 叙关闭边境口岸",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261027/49819962.html?ayjr",
-            "img": "https://img0.utuku.imgcdc.com/650x0/news/20261027/315c72ba-cb4f-4104-8349-0c0a92aa8758.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "全国多所财经高校布局“AI+财经”",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261026/49818411.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20261026/d2c4d71f-f289-465a-97c6-0bd5f341ea18.jpg"
+        },
         {
             "title": "全长48.22公里 广东河紫高速今日开工",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261026/49818352.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20261026/2df398c0-a111-4c7a-84c5-7eb0c073ce96.jpg"
         },
         {
-            "title": "让荣耀不再沉默 揭秘在台隐蔽战线英烈往事",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261026/49816914.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20261026/db3b67ae-1e4d-4999-a95d-1a3d9f260413.jpg"
+            "title": "约旦袭击叙南部致7死3伤 叙关闭边境口岸",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261027/49819962.html?ayjr",
+            "img": "https://img0.utuku.imgcdc.com/650x0/news/20261027/315c72ba-cb4f-4104-8349-0c0a92aa8758.jpg"
         },
         {
             "title": "消费新增长点持续涌现",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261027/49819873.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/400x0/news/20261027/a39b12fd-2ebe-429a-b81c-1099519ddf10.jpg"
-        },
-        {
-            "title": "土地里“长”出文化之美（文艺赋美乡村）",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261027/49819845.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/400x0/news/20261027/8412205f-3f10-4216-ac84-f23bbe3d0653.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "泽连斯基称安全保障是乌方谈判“核心要素”",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261024/49814745.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动",
@@ -231,12 +237,6 @@
             {
                 "title": "联合国环境署：全球减排有成效但力度仍不足",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261022/49809319.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "营收直接翻倍”！广交会客商“扫货”华强北",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261022/49808891.html?ayjr"
             }
         ]
     ]
