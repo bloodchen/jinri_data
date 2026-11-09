@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "特朗普被曝要求内塔尼亚胡推进加沙和平计划",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261109/49853964.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20261109/8ebba46a-14b8-408a-9d70-8174a050cce6.jpg"
+        },
+        {
             "title": "权力格局再次改写 美国党争会否愈演愈烈",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261109/49853843.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20261109/6a1e19a7-76e9-47bf-9cae-32ca5dd1c8dd.jpg"
@@ -9,14 +14,14 @@
             "title": "重大突破！我国新一代光刻机模型亮相",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261109/49853466.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20261109/e04c5d4e-fb3f-4c56-bbbd-f3d0143aeaa6.jpg"
-        },
-        {
-            "title": "“应急使命·2026”重特大森林火灾扑救演习举行",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261109/49853418.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20261109/8e7398c2-4470-4b67-bf83-99f8a3214748.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "寒潮+大风预警持续 部分地区降温超10℃",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261109/49851873.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20261109/41d23a08-de1d-47cb-9f4b-564bc1858e5a.jpg"
+        },
         {
             "title": "潮玩双向奔赴 在进博会读懂中国、走向世界",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261109/49851843.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/590x0/news/20261109/d88353de-4052-4def-803a-876208d12a3c.jpg"
         },
         {
-            "title": "中外媒体走进平陆运河感受工程硬核实力",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261109/49851621.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20261109/5f0a9284-e3ed-45a0-9f8e-adb5bbf7f488.jpg"
+            "title": "“应急使命·2026”重特大森林火灾扑救演习举行",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261109/49853418.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20261109/8e7398c2-4470-4b67-bf83-99f8a3214748.jpg"
         },
         {
             "title": "江西泰和：采收沙糖桔",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261109/49852126.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20261109/460a7d8d-58c6-45ea-bdc2-f771e5af4774.jpg"
-        },
-        {
-            "title": "河北滦平：雪落金山岭 长城披银装",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261109/49852100.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20261109/dfdd978e-7ed2-42e1-a06d-c3db8c9f07da.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "世行：最不发达国家外债成本创下近40年来新高",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261106/49847825.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "伊拉克因军事行动临时调整部分民航航线",
@@ -231,12 +237,6 @@
             {
                 "title": "前三季度我国服务进出口总额同比增长8.5%",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261105/49841022.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "AIMS望远镜首次观测到太阳耀斑下的磁场变化",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261105/49841004.html?ayjr"
             }
         ]
     ]
