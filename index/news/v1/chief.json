@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "重大突破！我国新一代光刻机模型亮相",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261109/49853466.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20261109/e04c5d4e-fb3f-4c56-bbbd-f3d0143aeaa6.jpg"
+        },
+        {
             "title": "“应急使命·2026”重特大森林火灾扑救演习举行",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261109/49853418.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20261109/8e7398c2-4470-4b67-bf83-99f8a3214748.jpg"
@@ -9,14 +14,14 @@
             "title": "江西泰和：采收沙糖桔",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261109/49852126.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20261109/460a7d8d-58c6-45ea-bdc2-f771e5af4774.jpg"
-        },
-        {
-            "title": "河北滦平：雪落金山岭 长城披银装",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261109/49852100.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20261109/dfdd978e-7ed2-42e1-a06d-c3db8c9f07da.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "打蚊子、陪聊天、认小鸟 中国AI消费品海外走俏",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261109/49851796.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20261109/763df38b-e4f5-4fe5-811c-34a12f220ea0.jpg"
+        },
         {
             "title": "扎波罗热核电站恢复外部供电",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261109/49851734.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20261108/dac04485-5117-412d-9c5e-c9495ee837ed.png"
         },
         {
-            "title": "西渝高铁北碚天府嘉陵江特大桥顺利合龙",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261108/49851218.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20261108/2d76772d-4ea2-4dfd-9759-9a788c326a3c.png"
+            "title": "河北滦平：雪落金山岭 长城披银装",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261109/49852100.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20261109/dfdd978e-7ed2-42e1-a06d-c3db8c9f07da.jpg"
         },
         {
             "title": "埃及列车脱轨事故已致7死112伤",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261109/49852052.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/550x0/news/20261109/dc4c1fec-b48c-4893-9994-ac3185724a0e.jpg"
-        },
-        {
-            "title": "寒潮+大风预警持续 部分地区降温超10℃",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261109/49851873.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/650x0/news/20261109/41d23a08-de1d-47cb-9f4b-564bc1858e5a.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "巴拉圭总统培尼亚宣布辞职",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261106/49847807.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "山东荣成：鲍鱼南下“越冬”",
@@ -231,12 +237,6 @@
             {
                 "title": "“稳+进”！前9个月我国服务贸易运行态势良好",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261105/49840916.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "联合国新选出5名国际法院法官",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261104/49839189.html?ayjr"
             }
         ]
     ]
