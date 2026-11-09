@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "埃及列车脱轨事故已致7死112伤",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261109/49852052.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/550x0/news/20261109/dc4c1fec-b48c-4893-9994-ac3185724a0e.jpg"
+        },
+        {
             "title": "寒潮+大风预警持续 部分地区降温超10℃",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261109/49851873.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20261109/41d23a08-de1d-47cb-9f4b-564bc1858e5a.jpg"
@@ -9,14 +14,14 @@
             "title": "潮玩双向奔赴 在进博会读懂中国、走向世界",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261109/49851843.html?ayjr",
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20261109/9ff99d4d-0bd8-4b75-8d70-b2b1846e5455.jpg"
-        },
-        {
-            "title": "打蚊子、陪聊天、认小鸟 中国AI消费品海外走俏",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261109/49851796.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20261109/763df38b-e4f5-4fe5-811c-34a12f220ea0.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "中外媒体走进平陆运河感受工程硬核实力",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261109/49851621.html?ayjr",
+            "img": "https://img3.utuku.imgcdc.com/650x0/news/20261109/5f0a9284-e3ed-45a0-9f8e-adb5bbf7f488.jpg"
+        },
         {
             "title": "一场特别的“相聚” 两艘国产大型邮轮在沪同框",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261108/49851230.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img0.utuku.imgcdc.com/650x0/news/20261108/91b92432-066e-44ff-b70c-95afb91d946c.jpg"
         },
         {
-            "title": "美军称在阿曼湾使一艘商船丧失航行能力",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261108/49850678.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20261108/f7001ff6-fac0-4702-9660-906023e03ee4.png"
+            "title": "打蚊子、陪聊天、认小鸟 中国AI消费品海外走俏",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261109/49851796.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20261109/763df38b-e4f5-4fe5-811c-34a12f220ea0.jpg"
         },
         {
             "title": "扎波罗热核电站恢复外部供电",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261109/49851734.html?ayjr",
             "img": "https://img2.utuku.imgcdc.com/650x0/news/20261109/a4dc7117-259f-4301-9396-fe1c7c0647cd.jpg"
-        },
-        {
-            "title": "“中国气候外交新篇章将深远影响全球气候行动”",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261109/49851695.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20261109/f9a5f4bb-35ed-4231-97c3-cccc5de0495d.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "三天20多起波及11国 谁在制造这场空中恐慌",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261106/49846052.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "第二艘国产大型邮轮“爱达·花城号”正式交付",
@@ -231,12 +237,6 @@
             {
                 "title": "美失事公务机坠毁前或开始解体 调查聚焦天气",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261104/49838255.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "韩国调查总统和高官护照信息泄露事件",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261104/49838240.html?ayjr"
             }
         ]
     ]
