@@ -1,6 +1,11 @@
 {
     "focus": [
         {
+            "title": "“雪龙”号穿越赤道进入南半球",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261110/49856292.html?ayjr",
+            "img": "https://img2.utuku.imgcdc.com/650x0/news/20261110/bfd301e9-abba-4ec8-93e9-0911b1c56618.jpg"
+        },
+        {
             "title": "伊朗说美取消制裁和停止战争是谈判前提",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261110/49855688.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20261110/192b884a-a3a0-4df2-942c-b43eae0d7956.jpg"
@@ -9,14 +14,14 @@
             "title": "伊朗说美国“铁门”计划必将失败",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261110/49855675.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20261110/1224e0f7-d9c3-4814-8804-ea0c188ff3f5.jpg"
-        },
-        {
-            "title": "林中的响箭 前途的灯火",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261110/49855345.html?ayjr",
-            "img": "https://img1.utuku.imgcdc.com/400x0/news/20261110/2627ae2d-4116-45c1-9b5b-130c517cf22f.jpg"
         }
     ],
     "midImg": [
+        {
+            "title": "“应急使命·2026”重特大森林火灾扑救演习举行",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261109/49853418.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/650x0/news/20261109/8e7398c2-4470-4b67-bf83-99f8a3214748.jpg"
+        },
         {
             "title": "江西泰和：采收沙糖桔",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261109/49852126.html?ayjr",
@@ -43,22 +48,23 @@
             "img": "https://img3.utuku.imgcdc.com/650x0/news/20261109/9ff99d4d-0bd8-4b75-8d70-b2b1846e5455.jpg"
         },
         {
-            "title": "打蚊子、陪聊天、认小鸟 中国AI消费品海外走俏",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261109/49851796.html?ayjr",
-            "img": "https://img2.utuku.imgcdc.com/650x0/news/20261109/763df38b-e4f5-4fe5-811c-34a12f220ea0.jpg"
+            "title": "林中的响箭 前途的灯火",
+            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261110/49855345.html?ayjr",
+            "img": "https://img1.utuku.imgcdc.com/400x0/news/20261110/2627ae2d-4116-45c1-9b5b-130c517cf22f.jpg"
         },
         {
             "title": "特朗普被曝要求内塔尼亚胡推进加沙和平计划",
             "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261109/49853964.html?ayjr",
             "img": "https://img1.utuku.imgcdc.com/650x0/news/20261109/8ebba46a-14b8-408a-9d70-8174a050cce6.jpg"
-        },
-        {
-            "title": "权力格局再次改写 美国党争会否愈演愈烈",
-            "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261109/49853843.html?ayjr",
-            "img": "https://img3.utuku.imgcdc.com/650x0/news/20261109/6a1e19a7-76e9-47bf-9cae-32ca5dd1c8dd.jpg"
         }
     ],
     "text": [
+        [
+            {
+                "title": "超220亿元，核电站新“副业”开张！",
+                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong/13000120/20261107/49849138.html?ayjr"
+            }
+        ],
         [
             {
                 "title": "“一梯一案”让居民“电梯梦”照进现实",
@@ -231,12 +237,6 @@
             {
                 "title": "西班牙持续干旱“降水量最高城市”面临水资源危机",
                 "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261105/49843635.html?ayjr"
-            }
-        ],
-        [
-            {
-                "title": "国际油价4日大幅下跌",
-                "url": "https://toutiao.china.com/s_ayjr/shsy/gundong3/13000181/20261105/49843606.html?ayjr"
             }
         ]
     ]
